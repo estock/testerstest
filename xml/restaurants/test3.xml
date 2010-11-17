@@ -1,0 +1,40 @@
+<root>
+<restaurant><name>68 (CLOSED)</name>
+<menuxml>68 (CLOSED).xml</menuxml>
+<streataddress>68 Greenpoint Ave</streataddress>
+<crosstreat>(Btwn West &amp;amp; Franklin St)</crosstreat>
+<local>Brooklyn</local>
+<region>NY</region>
+<phone>(718) 389-6868</phone>
+<latitude>40.729569</latitude>
+<longitude>-73.95824</longitude>
+<cuisines>American (New)</cuisines>
+<price>$$</price>
+<features>Accepts Credit Cards, Take Out, Private Parties</features>
+<deliveryamount>
+</deliveryamount>
+<deliveryarea>
+</deliveryarea>
+<hours> Dinner,  Daily: 5pm-12am,  Brunch,  Sat-Sun: 11am-4pm, </hours>
+<website>http://www.68restaurant.com</website>
+<meals>Dinner, Brunch</meals>
+</restaurant>
+<restaurant><name>68 Golden Sushi</name>
+<menuxml>68 Golden Sushi.xml</menuxml>
+<streataddress>1968 86th St</streataddress>
+<crosstreat>(At Bay 23rd St)</crosstreat>
+<local>Brooklyn</local>
+<region>NY</region>
+<phone>(718) 996-2118</phone>
+<latitude>40.604695</latitude>
+<longitude>-73.9989949</longitude>
+<cuisines>Chinese</cuisines>
+<price>$$</price>
+<features>Lunch Special</features>
+<deliveryamount></deliveryamount>
+<deliveryarea></deliveryarea>
+<hours> Mon-Fri: 8am-10:30pm,  Sat-Sun: 8am-11pm,</hours>
+<website></website>
+<meals>Breakfast, Lunch, Dinner</meals>
+</restaurant>
+</root>

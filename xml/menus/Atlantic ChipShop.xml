@@ -1,0 +1,97 @@
+<root>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 12.00" descript="" itemname="Battered Cod &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 12.75" descript="" itemname="Battered Haddock &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 12.75" descript="" itemname="Battered Plaice &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 11.00" descript="" itemname="Fish Sandwich &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 12.00" descript="chicken fingers, coleslaw &amp; honey mustard dressing" itemname="Chicken Finger Sandwich"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 9.50" descript="" itemname="Haggis Supper"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 9.50" descript="" itemname="Battered Myers Jumbo Sausage &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 10.75" descript="" itemname="Chicken Fingers &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 14.50" descript="" itemname="Battered Shrimp &amp;amp; Scallops &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 11.00" descript="" itemname="Steak &amp;amp; Kidney Pie &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 11.00" descript="" itemname="Steak &amp;amp; Onion Pie &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 11.00" descript="" itemname="Chicken &amp;amp; Mushroom Pie &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 8.50" descript="" itemname="Cheddar Cheese &amp;amp; Onion Croquette &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 10.50" descript="with parsley sauce &amp; chips" itemname="Cod &amp;amp; Salmon Fishcakes"></menu_item>
+<menu_item type="default" category="Fish &amp;amp; Chip Menu" price=" 10.75" descript="" itemname="Chicken Curry &amp;amp; Chips Or Mash"></menu_item>
+<menu_item type="default" category="English Menu" price=" 6.50" descript="" itemname="Seafood Chowder"></menu_item>
+<menu_item type="default" category="English Menu" price=" 5.50" descript="" itemname="Baked Beans On Toast"></menu_item>
+<menu_item type="default" category="English Menu" price=" 5.50" descript="" itemname="Scotch Eggs"></menu_item>
+<menu_item type="default" category="English Menu" price=" 6.50" descript="with tartare sauce" itemname="Fish Fingers"></menu_item>
+<menu_item type="default" category="English Menu" price=" 11.00" descript="" itemname="Bangers &amp;amp; Mash"></menu_item>
+<menu_item type="default" category="English Menu" price=" 9.50" descript="with stilton or cheddar cheese" itemname="Ploughman's Lunch"></menu_item>
+<menu_item type="default" category="English Menu" price=" 5.00" descript="" itemname="Green Salad"></menu_item>
+<menu_item type="default" category="English Menu" price=" 6.00" descript="mixed greens with tomato, peppers &amp; onion" itemname="House Salad"></menu_item>
+<menu_item type="default" category="English Menu" price=" 6.00" descript="side" itemname="Stilton Granny Smith &amp;amp; Walnut Salad"></menu_item>
+<menu_item type="default" category="English Menu" price=" 9.50" descript="" itemname="main"></menu_item>
+<menu_item type="default" category="English Menu" price=" 12.00" descript="with honey mustard dressing &amp; coleslaw" itemname="Baked Fried Chicken Finger Salad"></menu_item>
+<menu_item type="default" category="English Menu" price=" 9.50" descript="" itemname="Scotch Egg Salad"></menu_item>
+<menu_item type="default" category="English Menu" price=" 9.50" descript="" itemname="Macaroni Cheese"></menu_item>
+<menu_item type="default" category="English Menu" price=" 9.50" descript="with mash &amp; peas" itemname="Cauliflower Cheese"></menu_item>
+<menu_item type="default" category="English Menu" price=" 11.50" descript="mac cheese with myers sausage &amp; peas" itemname="Grannies Mac"></menu_item>
+<menu_item type="default" category="English Menu" price=" 12.00" descript="ground beef with onions &amp; carrots baked with macaroni cheese" itemname="Meaty Mac"></menu_item>
+<menu_item type="default" category="English Menu" price=" 10.00" descript="mixed vegetables baked with macaroni cheese" itemname="Vegetable Mac"></menu_item>
+<menu_item type="default" category="English Menu" price=" 12.00" descript="wild mushrooms baked with macaroni cheese" itemname="Wild Mushroom Mac"></menu_item>
+<menu_item type="default" category="English Menu" price=" 14.00" descript="with mashed potato" itemname="Lamb &amp;amp; Vegetable Stew"></menu_item>
+<menu_item type="default" category="English Menu" price=" 14.00" descript="with mashed potato" itemname="Beef, Vegetable &amp;amp; Old Speckled Hen Stew"></menu_item>
+<menu_item type="default" category="English Menu" price=" 12.00" descript="" itemname="Sausage, Beans &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="English Menu" price=" 5.50" descript="" itemname="Welsh Rarebit"></menu_item>
+<menu_item type="default" category="English Menu" price=" 9.00" descript="" itemname="with salad"></menu_item>
+<menu_item type="default" category="Shepherds" price=" 12.00" descript="" itemname="Beef Shepherds Pie"></menu_item>
+<menu_item type="default" category="Shepherds" price=" 12.00" descript="" itemname="Wild Mushroom Shepherds Pie"></menu_item>
+<menu_item type="default" category="Shepherds" price=" 10.00" descript="" itemname="Vegetable Shepherds Pie"></menu_item>
+<menu_item type="default" category="Brunch Special" price=" 10.00" descript="" itemname="Full English Breakfast"></menu_item>
+<menu_item type="default" category="Brunch Special" price=" 10.00" descript="" itemname="Veggie Full English"></menu_item>
+<menu_item type="default" category="Brunch Special" price=" 13.50" descript="above with a bucks fizz or house bloody mary &amp; coffee" itemname="Hangover Special"></menu_item>
+<menu_item type="default" category="Sides" price=" 3.00" descript="" itemname="Mashed Potato"></menu_item>
+<menu_item type="default" category="Sides" price=" 3.50" descript="" itemname="Caramelized Onion Mashed Potato"></menu_item>
+<menu_item type="default" category="Sides" price=" 5.00" descript="sounds weird but its bloody lovely" itemname="Fried Macaroni"></menu_item>
+<menu_item type="default" category="Sides" price=" 3.50" descript="" itemname="Heinz Baked Beans"></menu_item>
+<menu_item type="default" category="Sides" price=" 5.50" descript="" itemname="Macaroni Cheese"></menu_item>
+<menu_item type="default" category="Sides" price=" 5.50" descript="" itemname="Cauliflower Cheese"></menu_item>
+<menu_item type="default" category="Sides" price=" 2.50" descript="" itemname="Peas &amp;amp; Carrots"></menu_item>
+<menu_item type="default" category="Sides" price=" 3.50" descript="" itemname="Mushy Peas"></menu_item>
+<menu_item type="default" category="Sides" price=" 2.50" descript="" itemname="Garden Peas"></menu_item>
+<menu_item type="default" category="Sides" price=" 1.50" descript="" itemname="Pickled Onion"></menu_item>
+<menu_item type="default" category="Sides" price=" 1.50" descript="" itemname="Gravy"></menu_item>
+<menu_item type="default" category="Sides" price=" 2.00" descript="" itemname="Curry Sauce"></menu_item>
+<menu_item type="default" category="Sides" price=" 3.50" descript="" itemname="Chips"></menu_item>
+<menu_item type="default" category="Sides" price=" 4.50" descript="" itemname="Chip Butty"></menu_item>
+<menu_item type="default" category="Sides" price=" 1.50" descript="" itemname="Bread &amp;amp; Butter"></menu_item>
+<menu_item type="default" category="Sides" price=" 2.50" descript="" itemname="Coleslaw"></menu_item>
+<menu_item type="default" category="Sides" price=" 2.50" descript="" itemname="Potato Salad"></menu_item>
+<menu_item type="default" category="Sides" price=" 6.50" descript="" itemname="Haggis"></menu_item>
+<menu_item type="default" category="Sides" price=" 4.50" descript="served straight up (brit style - no bun)" itemname="Deep Fried Burger"></menu_item>
+<menu_item type="default" category="Kids" price=" 6.00" descript="" itemname="Fish &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Kids" price=" 6.00" descript="" itemname="Fish Fingers &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Kids" price=" 7.00" descript="" itemname="Plaice &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Kids" price=" 7.00" descript="" itemname="Fried Shrimp &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Kids" price=" 6.00" descript="" itemname="Banger &amp;amp; Mash"></menu_item>
+<menu_item type="default" category="Kids" price=" 6.00" descript="" itemname="Fishcake &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Kids" price=" 6.00" descript="" itemname="Any Macaroni Cheese Dish"></menu_item>
+<menu_item type="default" category="Kids" price=" 6.00" descript="" itemname="Any Shepherds Pie"></menu_item>
+<menu_item type="default" category="Kids" price=" 6.00" descript="" itemname="Chicken Fingers &amp;amp; Chips"></menu_item>
+<menu_item type="default" category="Desserts" price=" 5.00" descript="with custard" itemname="Apple &amp;amp; Blackberry Crumble"></menu_item>
+<menu_item type="default" category="Desserts" price=" 5.00" descript="with custard" itemname="Rhubarb Crumble"></menu_item>
+<menu_item type="default" category="Desserts" price=" 5.00" descript="with cream" itemname="4 Berry Stew"></menu_item>
+<menu_item type="default" category="Desserts" price=" 5.00" descript="" itemname="English Port Trifle"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.50" descript="" itemname="Rice Pudding"></menu_item>
+<menu_item type="default" category="Desserts" price=" 5.50" descript="" itemname="Plum Fruit Pudding, Deep Fried Or Steamed"></menu_item>
+<menu_item type="default" category="Desserts" price=" 5.00" descript="with custard" itemname="Treacle Pudding"></menu_item>
+<menu_item type="default" category="Desserts" price=" " descript="" itemname="Twice Fried Cherry Pie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 5.00" descript="with custard" itemname="Spotted Dick"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.50" descript="" itemname="Deep Fried Banana Chocolate Sauce"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Mars Bar"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Bounty"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Twinkies"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Twix"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Snickers"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Reeces Peanut Butter"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Coke"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Diet Coke"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Sprite"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Ginger Beer"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Fizzy Ribena"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Lilt"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="English Lemonade"></menu_item>
+</root>

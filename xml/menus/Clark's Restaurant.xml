@@ -1,0 +1,165 @@
+<root>
+<menu_item type="Breakfast Special" category="Pancakes" price=" 5.95" descript="" itemname="Stack Of Pancakes"><extra type="add" price=" 7.95" descript="with ham, bacon, sausage, blueberries, strawberries, bananas, walnuts, chocolate chips or two eggs"></extra>
+</menu_item>
+<menu_item type="Breakfast Special" category="Egg Any Style" price=" 4.60" descript="white, rye, whole wheat, sourdough or multi-grain" itemname="With Homefries And Toast"></menu_item>
+<menu_item type="Breakfast Special" category="Egg Any Style" price=" 6.95" descript="" itemname="Ham, Bacon, Or Sausage"></menu_item>
+<menu_item type="Breakfast Special" category="Egg Any Style" price=" 7.95" descript="" itemname="Turkey Bacon, Canadian Bacon Corned Beef Hash Or Pastrami"></menu_item>
+<menu_item type="Breakfast Special" category="Belgian Waffles" price=" 5.95" descript="" itemname="Belgian Waffle"><extra type="add" price=" 7.95" descript="with ham, bacon, sausage, strawberries, bananas, walnuts, chocolate chips or two eggs"></extra>
+</menu_item>
+<menu_item type="Breakfast Special" category="Egg Sandwiches" price=" 5.00" descript="with bacon, ham or sausage" itemname="Fried Or Scrambled Egg On Roll Or Toast"><extra type="add" price=" .75" descript="with cheese or extra egg additional"></extra>
+<extra type="add" price=" 1.00" descript="bagel, bialy or english muffin additional"></extra>
+</menu_item>
+<menu_item type="Breakfast Special" category="Hot Or Cold Cereal" price=" 4.75" descript="" itemname="Either Oatmeal Or Choose From A Selection Of Cold Generals"><extra type="add" price=" 5.75" descript="with bananas, strawberries or walnuts"></extra>
+</menu_item>
+<menu_item type="Breakfast Special" category="Challah French Toast" price=" 5.95" descript="" itemname="French Toast"><extra type="add" price=" 7.95" descript="with ham bacon, sausage, strawberries, bananas, walnuts, or two eggs"></extra>
+</menu_item>
+<menu_item type="Breakfast Special" category="Little Breakfast" price=" 5.95" descript="" itemname="Two Pancakes, And One Eggs Any Style"><extra type="add" price=" 7.95" descript="with ham bacon or sausage"></extra>
+</menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" .75" descript="" itemname="All Egg Platters Can Be Made Using Egg Whites (3 Eggs)"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" .60" descript="" itemname="Herbal Tea Or Hot Chocolate Instead Of Coffee"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 1.25" descript="" itemname="Cheese On Platters"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 1.25" descript="" itemname="Each Additional Ingredient For Omelettes"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 1.95" descript="" itemname="Each Additional Meat Ingredient For Omelettes"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 2.25" descript="" itemname="Avocado Or Feta In Omelettes"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 1.00" descript="except big breakfast" itemname="Turkey Bacon Instead Of Bacon"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" .75" descript="" itemname="Lettuce And Tomato Instead Of Homefries"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 2.50" descript="" itemname="Vegetable Instead Of Homefries"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 2.25" descript="" itemname="Banana In Pancakes"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 2.25" descript="" itemname="Choc, Chips, Walnuts, Blueberries Or Strawberries In Pancakes"></menu_item>
+<menu_item type="Breakfast Special" category="Additional" price=" 1.00" descript="" itemname="Strawberries, Walnuts, Banana Or Fruit In Carrots"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="fresh tuna salad, romaine lettuce, sliced egg and american cheese" itemname="Tuna"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="fresh turkey, swiss cheese, honey mustard and tomatoes" itemname="Turkey"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="grilled salmon, eggplant, and feta cheese" itemname="Mediterranean"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="hot roast beef, fried onions, cheddar cheese and mayonnaise" itemname="Roast Beef"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="grilled chicken, romaine lettuce, pesto sauce and mozzarella cheese" itemname="Pesto Chicken"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="grilled chicken, romaine lettuce, caesar dressing and mozzarella cheese" itemname="Chicken Caesar"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="grilled chicken, eggplant, sun-dried tomatoes and melted mozzarella" itemname="Melizana Chicken"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="fresh chopped egg salad with crisp bacon, romaine lettuce and american cheese" itemname="Egg Salad"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="thin lean pastrami with melted swiss cheese and sauerkraut" itemname="Reuben"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="grilled chicken, fresh tomatoes, onions, cucumbers, romaine lettuce and tzatziki sauce" itemname="Grecian"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="grilled chicken, hass avocado, lettuce, red onions and grilled potatoes" itemname="Avocado Chicken"></menu_item>
+<menu_item type="Lunch Specials" category="Wraps $9.95" price=" " descript="grilled chicken with hass avocado, bacon, lettuce and tomato" itemname="Avocado And Bacon"></menu_item>
+<menu_item type="Lunch Specials" category="Stuffed Baked Potatoes $8.95" price=" " descript="fresh broccoli, bacon and cheddar" itemname="American"></menu_item>
+<menu_item type="Lunch Specials" category="Stuffed Baked Potatoes $8.95" price=" " descript="sausage, mozzarella and onion" itemname="Italian"></menu_item>
+<menu_item type="Lunch Specials" category="Stuffed Baked Potatoes $8.95" price=" " descript="grilled eggplant, feta cheese sundried tomatoes" itemname="Greek"></menu_item>
+<menu_item type="Lunch Specials" category="Stuffed Baked Potatoes $8.95" price=" " descript="homemade meatloaf, fresh mushrooms and american cheese" itemname="Meatloaf"></menu_item>
+<menu_item type="Lunch Specials" category="Stuffed Baked Potatoes $8.95" price=" " descript="fresh sauteed mushrooms, onions and cheddar" itemname="Mushroom"></menu_item>
+<menu_item type="Lunch Specials" category="Salad And Others $9.95" price=" " descript="baby spinach, bacon, baked croutons, fresh mushrooms and egg" itemname="Fresh Baby Spinach Salad"></menu_item>
+<menu_item type="Lunch Specials" category="Salad And Others $9.95" price=" " descript="romaine lettuce and baked croutons tossed in our caesar dressing" itemname="Caesar Salad"></menu_item>
+<menu_item type="Lunch Specials" category="Salad And Others $9.95" price=" " descript="baby greens, anchovies, feta cheese, olives, tomatoes, cucumbers and onions" itemname="Greek Salad"></menu_item>
+<menu_item type="Lunch Specials" category="Salad And Others $9.95" price=" " descript="served with bacon and applesauce" itemname="Potato Pancakes"></menu_item>
+<menu_item type="Lunch Specials" category="Old Favorites $10.95" price=" " descript="in a tomato gravy with potato pancake and apple sauce" itemname="Homemade Yankee Pot Roast"></menu_item>
+<menu_item type="Lunch Specials" category="Old Favorites $10.95" price=" " descript="fresh mushrooms with homemade mashed potatoes smothered in gravy" itemname="Homemade Meatloaf"></menu_item>
+<menu_item type="Lunch Specials" category="Old Favorites $10.95" price=" " descript="lettuce, tomatoes and french fries" itemname="Fried Fish &amp;amp; Chips"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 7.50" descript="" itemname="Fresh Turkey"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 7.50" descript="" itemname="Homemade Pot Roast"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 7.50" descript="" itemname="Pastrami"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 7.50" descript="" itemname="Fresh Roast Beef"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 7.50" descript="" itemname="Corned Beef"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 6.50" descript="" itemname="Meatloaf"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 6.50" descript="" itemname="Salami"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 6.50" descript="" itemname="Ham"></menu_item>
+<menu_item type="Sandwiches" category="Meat" price=" 5.25" descript="" itemname="BLT"></menu_item>
+<menu_item type="Sandwiches" category="Salads" price=" 5.50" descript="" itemname="Fresh Chicken Salad"></menu_item>
+<menu_item type="Sandwiches" category="Salads" price=" 5.50" descript="" itemname="Fresh Tuna Salad"></menu_item>
+<menu_item type="Sandwiches" category="Salads" price=" 3.95" descript="" itemname="Fresh Egg Salad"></menu_item>
+<menu_item type="Sandwiches" category="Fish $5.95" price=" " descript="" itemname="Individual Tuna"></menu_item>
+<menu_item type="Sandwiches" category="Fish $5.95" price=" " descript="" itemname="Individual Sardine"></menu_item>
+<menu_item type="Sandwiches" category="Fish $5.95" price=" " descript="" itemname="Fried Filet Of Sole"></menu_item>
+<menu_item type="Sandwiches" category="Egg" price=" 3.50" descript="" itemname="Bacon Or Ham And Egg"></menu_item>
+<menu_item type="Sandwiches" category="Egg" price=" 3.95" descript="" itemname="Sausage And Egg"></menu_item>
+<menu_item type="Sandwiches" category="Egg" price=" 4.95" descript="" itemname="Pastrami And Egg"></menu_item>
+<menu_item type="Sandwiches" category="Egg" price=" 3.50" descript="" itemname="Western Egg"></menu_item>
+<menu_item type="Sandwiches" category="Egg" price=" 2.25" descript="" itemname="Fried Or Scrambled"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="fresh tuna salad, romaine lettuce, sliced egg and american cheese" itemname="Tuna"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="fresh turkey, swiss cheese, honey mustard and tomatoes" itemname="Turkey"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="grilled salmon, eggplant, and feta cheese" itemname="Mediterranean"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="hot roast beef, fried onions, cheddar cheese and mayonnaise" itemname="Roast Beef"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="grilled chicken, romaine lettuce, pesto sauce and mozzarella cheese" itemname="Pesto Chicken"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="grilled chicken, romaine lettuce, caesar dressing and mozzarella cheese" itemname="Chicken Caesar"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="grilled chicken, eggplant, sun-dried tomatoes and melted mozzarella" itemname="Melizana Chicken"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="fresh chopped egg salad with crisp bacon, romaine lettuce and american cheese" itemname="Egg Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="thin lean pastrami with melted swiss cheese and sauerkraut" itemname="Reuben"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="grilled chicken, fresh tomatoes, onions, cucumbers, romaine lettuce and tzatziki sauce" itemname="Grecian"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="grilled chicken, hass avocado, lettuce, red onions and grilled potatoes" itemname="Avocado Chicken"></menu_item>
+<menu_item type="Breakfast Special" category="Wraps $9.95" price=" " descript="grilled chicken with hass avocado, bacon, lettuce and tomato" itemname="Avocado And Bacon"></menu_item>
+<menu_item type="Breakfast Special" category="Stuffed Baked Potatoes $8.95" price=" " descript="fresh broccoli, bacon and cheddar" itemname="American"></menu_item>
+<menu_item type="Breakfast Special" category="Stuffed Baked Potatoes $8.95" price=" " descript="sausage, mozzarella and onion" itemname="Italian"></menu_item>
+<menu_item type="Breakfast Special" category="Stuffed Baked Potatoes $8.95" price=" " descript="grilled eggplant, feta cheese sundried tomatoes" itemname="Greek"></menu_item>
+<menu_item type="Breakfast Special" category="Stuffed Baked Potatoes $8.95" price=" " descript="homemade meatloaf, fresh mushrooms and american cheese" itemname="Meatloaf"></menu_item>
+<menu_item type="Breakfast Special" category="Stuffed Baked Potatoes $8.95" price=" " descript="fresh sauteed mushrooms, onions and cheddar" itemname="Mushroom"></menu_item>
+<menu_item type="Breakfast Special" category="Salad And Others $9.95" price=" " descript="baby spinach, bacon, baked croutons, fresh mushrooms and egg" itemname="Fresh Baby Spinach Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salad And Others $9.95" price=" " descript="romaine lettuce and baked croutons tossed in our caesar dressing" itemname="Caesar Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salad And Others $9.95" price=" " descript="baby greens, anchovies, feta cheese, olives, tomatoes, cucumbers and onions" itemname="Greek Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salad And Others $9.95" price=" " descript="served with bacon and applesauce" itemname="Potato Pancakes"></menu_item>
+<menu_item type="Breakfast Special" category="Old Favorites $10.95" price=" " descript="in a tomato gravy with potato pancake and apple sauce" itemname="Homemade Yankee Pot Roast"></menu_item>
+<menu_item type="Breakfast Special" category="Old Favorites $10.95" price=" " descript="fresh mushrooms with homemade mashed potatoes smothered in gravy" itemname="Homemade Meatloaf"></menu_item>
+<menu_item type="Breakfast Special" category="Old Favorites $10.95" price=" " descript="lettuce, tomatoes and french fries" itemname="Fried Fish &amp;amp; Chips"></menu_item>
+<menu_item type="Breakfast Special" category="Burgers" price=" 7.95" descript="" itemname="Hamburger Or Turkey Burger"></menu_item>
+<menu_item type="Breakfast Special" category="Burgers" price=" 8.45" descript="with lettuce and tomato" itemname="Vegetable Burger"></menu_item>
+<menu_item type="Breakfast Special" category="Burgers" price=" 9.95" descript="on a toasted english muffin with bacon and fried onions" itemname="Campus Burger"></menu_item>
+<menu_item type="Breakfast Special" category="Burgers" price=" 9.25" descript="burger in a grilled cheese on sourdough with fried onions" itemname="Patty Melt"></menu_item>
+<menu_item type="Breakfast Special" category="Burgers" price=" 9.95" descript="burger with lettuce, tomato avocado and red onion" itemname="California Burger"></menu_item>
+<menu_item type="Breakfast Special" category="Burgers" price=" 9.95" descript="burger with chile and egg" itemname="Texas Burger"></menu_item>
+<menu_item type="Breakfast Special" category="Grilled Chicken" price=" 6.50" descript="" itemname="Grilled Chicken Sandwich Lettuce And Tomato On A Bun"></menu_item>
+<menu_item type="Breakfast Special" category="Grilled Chicken" price=" 9.50" descript="" itemname="Grilled Chicken Deluxe French Fries, Lettuce And Tomato"></menu_item>
+<menu_item type="Breakfast Special" category="Grilled Chicken" price=" 8.95" descript="with french fries" itemname="Fried Chicken Fingers"></menu_item>
+<menu_item type="Breakfast Special" category="Grilled Chicken" price=" 10.95" descript="avocado and red onion, lettuce tomato and french fries" itemname="California"></menu_item>
+<menu_item type="Breakfast Special" category="Grilled Chicken" price=" 10.50" descript="bacon, lettuce, tomato and french fries" itemname="Grilled Chicken BLT"></menu_item>
+<menu_item type="Breakfast Special" category="Grilled Chicken" price=" 10.50" descript="chicken parmigiana on a garlic roll with french fries" itemname="The Godfather"></menu_item>
+<menu_item type="Breakfast Special" category="Grilled Chicken" price=" 10.95" descript="bacon, cheese, french fries, lettuce and tomato" itemname="Grilled Chicken Ala Jimmy"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 9.25" descript="served on a pita with onions, peppers, cucumbers, tomatoes and tzatziki sauce served with french fries" itemname="Gyro"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 10.45" descript="grilled chicken on a pita served with greek salad, french fries and tzatziki sauce" itemname="Grecian Chicken"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 10.45" descript="grilled chicken on a pita with onions, peppers, cucumbers, tomatoes and tzatziki sauce served with french fries" itemname="Chicken Souvlaki"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 9.25" descript="spinach, feta cheese, onions and tomatoes on a pita, topped with mozzarella cheese with french fries" itemname="Greek Pizza"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 6.95" descript="tuna salad topped with american cheese on a toasted bagel" itemname="Tuna Melt"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 9.95" descript="served with french fries, lettuce and tomato" itemname="Deluxe"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 10.45" descript="thinly sliced steak, grilled with onions, peppers and cheese on a roll served with french fries coleslaw and pickles" itemname="Philly Cheese Steak"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 10.45" descript="pastrami or corned beef on rye with sauerkraut and swiss served with potato salad or french fries" itemname="Reuben"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 10.45" descript="fried fillet of sole served with lettuce, tomatoes and french fries" itemname="Fish And Chips"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 8.25" descript="served with crisp bacon and applesauce" itemname="Homemade Potato Pancakes"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 6.25" descript="bacon, lettuce and tomato with avocado on toast" itemname="Clark's BLT"></menu_item>
+<menu_item type="Breakfast Special" category="default" price=" 11.95" descript="sliced skirt steak with fried onions and avocado served with french fries" itemname="Sliced Steak Sandwich"></menu_item>
+<menu_item type="Breakfast Special" category="Triple Deckers" price=" 10.25" descript="bacon, lettuce and tomato" itemname="Fresh Turkey"></menu_item>
+<menu_item type="Breakfast Special" category="Triple Deckers" price=" 10.25" descript="hard boiled egg, lettuce and tomato" itemname="Tunafish Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Triple Deckers" price=" 10.25" descript="bacon, lettuce and tomato" itemname="Chicken Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Triple Deckers" price=" 10.25" descript="lettuce and tomato" itemname="Ham And Swiss"></menu_item>
+<menu_item type="Breakfast Special" category="Triple Deckers" price=" 10.25" descript="bacon, lettuce and tomato" itemname="Egg Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Triple Deckers" price=" 10.25" descript="swiss, lettuce and tomato" itemname="Roast Beef"></menu_item>
+<menu_item type="Breakfast Special" category="Triple Deckers" price=" 11.25" descript="bacon, lettuce and tomato" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 7.50" descript="" itemname="Fresh Turkey"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 7.50" descript="" itemname="Homemade Pot Roast"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 7.50" descript="" itemname="Pastrami"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 7.50" descript="" itemname="Fresh Roast Beef"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 7.50" descript="" itemname="Corned Beef"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 6.50" descript="" itemname="Meatloaf"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 6.50" descript="" itemname="Salami"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 6.50" descript="" itemname="Ham"></menu_item>
+<menu_item type="Breakfast Special" category="Meat" price=" 5.25" descript="" itemname="BLT"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 5.50" descript="" itemname="Fresh Chicken Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 5.50" descript="" itemname="Fresh Tuna Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 3.95" descript="" itemname="Fresh Egg Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Fish $5.95" price=" " descript="" itemname="Individual Tuna"></menu_item>
+<menu_item type="Breakfast Special" category="Fish $5.95" price=" " descript="" itemname="Individual Sardine"></menu_item>
+<menu_item type="Breakfast Special" category="Fish $5.95" price=" " descript="" itemname="Fried Filet Of Sole"></menu_item>
+<menu_item type="Breakfast Special" category="Egg" price=" 3.50" descript="" itemname="Bacon Or Ham And Egg"></menu_item>
+<menu_item type="Breakfast Special" category="Egg" price=" 3.95" descript="" itemname="Sausage And Egg"></menu_item>
+<menu_item type="Breakfast Special" category="Egg" price=" 4.95" descript="" itemname="Pastrami And Egg"></menu_item>
+<menu_item type="Breakfast Special" category="Egg" price=" 3.50" descript="" itemname="Western Egg"></menu_item>
+<menu_item type="Breakfast Special" category="Egg" price=" 2.25" descript="" itemname="Fried Or Scrambled"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 7.45" descript="tossed baby greens, tomatoes, cucumbers, peppers and onions" itemname="Garden Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 7.45" descript="seasoned romaine lettuce with garlic croutons" itemname="Caesar Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 7.45" descript="tossed baby greens" itemname="Mesclun Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 8.75" descript="fresh baby spinach leaves, bacon, fresh mushrooms, egg and garlic croutons" itemname="Fresh Baby Spinach Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 8.75" descript="fresh fruit salad, jell-o and low-fat cottage cheese" itemname="California Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 8.95" descript="feta cheese, baby greens, cucumbers, tomatoes, anchovies, olives and stuffed grape leaves" itemname="Greek Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 9.95" descript="baby greens topped with walnuts and crumpled feta cheese" itemname="Mesclun Salad With Walnuts And Feta"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 9.95" descript="fresh quartered tomatoes, cucumbers, thin red onions, feta cheese, fresh parsley, anchovies and olives tossed in a balsamic vinaigrette dressing (no lettuce)" itemname="Classic Greek Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 9.95" descript="tossed greens topped with sliced hass avocado, and fresh orange slices" itemname="Citrus Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 9.95" descript="tossed greens topped with sliced hass avocado and grilled potato slices" itemname="Avocado Potato Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 9.95" descript="tossed fresh greens, anchovies, hard boiled egg, tuna and olives" itemname="Nicoise Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 9.97" descript="tossed fresh greens topped with walnuts, hass avocado and fresh oranges" itemname="Walnut Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 12.95" descript="romaine lettuce, garlic croutons, grated parmesan and smoked salmon tossed in our own caesar dressing" itemname="Smoked Salmon Caesar Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 12.95" descript="grilled chicken, bacon, hard boiled egg and hass avocado over tossed greens" itemname="Cobb Salad"></menu_item>
+<menu_item type="Breakfast Special" category="Salads" price=" 12.95" descript="grilled sliced skirt steak, hass avocado, and grilled potatoes slices over tossed greens served with our homemade caesar dressing" itemname="Sliced Steak Salad"></menu_item>
+</root>

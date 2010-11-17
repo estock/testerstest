@@ -1,0 +1,155 @@
+<root>
+<menu_item type="default" category="Aperitivos" price=" 8.95" descript="casino clams" itemname="Almejas Casino (6)"></menu_item>
+<menu_item type="default" category="Aperitivos" price=" 8.95" descript="stuffed clams" itemname="Almejas Rellenas (6)"></menu_item>
+<menu_item type="default" category="Aperitivos" price=" 7.95" descript="clams cocktail" itemname="Coctel De Almejas (6)"></menu_item>
+<menu_item type="default" category="Aperitivos" price=" 8.95" descript="shrimp cocktail" itemname="Coctel De Camarones"></menu_item>
+<menu_item type="default" category="Sopas" price=" 5.00" descript="chicken (daily)" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Sopas" price=" 5.95" descript="beef tripe (daily)" itemname="Mondongo"></menu_item>
+<menu_item type="default" category="Sopas" price=" 5.95" descript="spanish soup (mon, wed, fri, &amp; sunday)" itemname="Sancocho"></menu_item>
+<menu_item type="default" category="Sopas" price=" 5.95" descript="cow feet soup" itemname="Cocido De Res"></menu_item>
+<menu_item type="default" category="Sopas" price=" 7.95" descript="seafood (friday, saturday &amp; sunday)" itemname="Marinara"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 3.00" descript="lettuce and tomato" itemname="Lechuga Y Tomate"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 3.50" descript="avocado, lettuce and tomato" itemname="Aguacate, Lechuga Y Tomate"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 3.50" descript="mixed" itemname="Mixta"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 3.00" descript="potato" itemname="Papa"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 14.95" descript="octopus" itemname="Pulpo"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 14.95" descript="shrimp" itemname="Camarones"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 29.95" descript="lobster" itemname="Langosta"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 29.95" descript="seafood" itemname="Mariscos"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.00" descript="cuban" itemname="Cubano"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 4.00" descript="roast pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.00" descript="steak" itemname="Bistec"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.00" descript="breaded steak" itemname="Bistec Empanizado"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 3.00" descript="ham and cheese" itemname="Jamon Y Queso"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 4.00" descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.00" descript="chicken parmigiana" itemname="Pollo A La Parmesana"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="shrimp parmigiana" itemname="Camarones A La Parmesana"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.00" descript="club sandwich" itemname="Club Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.00" descript="turkey" itemname="Pavo"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 4.00" descript="tuna fish" itemname="Atun"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 1.75" descript="egg sandwich" itemname="Sandwich De Huevo"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 2.00" descript="2 eggs sandwich" itemname="Sandwich De 2 Huevos"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 3.00" descript="2 eggs sandwich with bacon or ham" itemname="Sandwich De 2 Huevos Con Tocineta O Jamon"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 2.25" descript="b. l. t" itemname="Tocineta, Lechuga Y Tomate (B.L.T)"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 3.00" descript="western sandwich" itemname="Sandwich Estilo Oeste"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 2.00" descript="grilled swiss or american cheese sandwich" itemname="Sandwich De Queso Suizo Americano"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 3.00" descript="grilled cheese sandwich with bacon" itemname="Tostada Con Queso Y Tocineta"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 3.00" descript="2 eggs any style with home fries or french fries and coffee or juice" itemname="Dos Huevos Cualquier Estilo Con Papas De La Casa O Papitas Fritas Y Cafe O Jugo"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 3.50" descript="" itemname="with bacon or ham or sausage"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 3.00" descript="3 french toast" itemname="3 Tostadas Francesas"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 3.50" descript="" itemname="with bacon or ham or sausage"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 3.00" descript="3 pancakes" itemname="3 Pancakes"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 3.50" descript="" itemname="with bacon or ham or sausage"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 4.95" descript="fried salami" itemname="Salami Frito"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 4.95" descript="fried spanish sausage" itemname="Longaniza Frita"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 4.95" descript="fried cheese" itemname="Queso Frito"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 4.95" descript="codfish with egg" itemname="Bacalao Con Huevo"></menu_item>
+<menu_item type="default" category="Especial De Desayuno" price=" 4.95" descript="codfish stew" itemname="Bacalao Guisado"></menu_item>
+<menu_item type="default" category="Especialidades Italianas" price=" 14.95" descript="shrimp parmigiana with linguini" itemname="Camarones A La Parmigiana Con Linguini"></menu_item>
+<menu_item type="default" category="Especialidades Italianas" price="(2) 33.95" descript="seafood served over linguini" itemname="Mariscos Servidos Sobre Linguini"></menu_item>
+<menu_item type="default" category="Especialidades Italianas" price=" 8.95" descript="chicken parmigiana" itemname="Pollo A La Parmigiana"></menu_item>
+<menu_item type="default" category="Especialidades Italianas" price=" 8.95" descript="linguini in red or white clam sauce" itemname="Linguini Con Almejas En Salsa Roja O Blanca"></menu_item>
+<menu_item type="default" category="Especialidades Italianas" price=" 8.95" descript="spaghetti in red or white clam sauce" itemname="Espaguetis Con Almejas En Salsa Roja O Blanca"></menu_item>
+<menu_item type="default" category="Especialidades Italianas" price=" 14.95" descript="tallarines with shrimp" itemname="Tallarines Con Camarones"></menu_item>
+<menu_item type="default" category="Especialidades Italianas" price=" 7.95" descript="liver steak italian style" itemname="Bistec De Higado Estilo Italiano"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price="(2) 39.95" descript="seafood paella" itemname="Paella Marinera"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price=" 24.95" descript="lobster with rice" itemname="Arroz Con Langosta"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price=" 14.95" descript="shrimp with rice" itemname="Arroz Con Camarones"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price=" 12.95" descript="squid with rice" itemname="Arroz Con Calamares"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price=" 6.95" descript="chicken with rice" itemname="Arroz Con Pollo"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price=" 6.95" descript="spanish sausage with rice" itemname="Arroz Con Chorizo"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price=" 24.95" descript="lobster soupy rice" itemname="Asopado De Langosta"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price=" 14.95" descript="shrimp soupy rice" itemname="Asopado De Camarones"></menu_item>
+<menu_item type="default" category="Arroces Y Asopados" price=" 6.95" descript="chicken soupy rice" itemname="Asopado De Pollo"></menu_item>
+<menu_item type="default" category="Pollo" price=" 9.00" descript="chicken breast with onions" itemname="Bistec De Pollo Encebollado"></menu_item>
+<menu_item type="default" category="Pollo" price=" 7.00" descript="1/2 baked chicken" itemname="1/2 Pollo Al Horno"></menu_item>
+<menu_item type="default" category="Pollo" price=" 7.95" descript="1/2 fried chicken" itemname="1/2 Pollo Frito"></menu_item>
+<menu_item type="default" category="Pollo" price=" 9.00" descript="grilled chicken breast" itemname="Pechuga De Pollo A La Parrilla"></menu_item>
+<menu_item type="default" category="Pollo" price=" 7.95" descript="fried chicken chunks" itemname="Chicharrones De Pollo"></menu_item>
+<menu_item type="default" category="Pollo" price=" 8.95" descript="boneless fried chicken chunks" itemname="Chicharrones De Pollo Sin Hueso"></menu_item>
+<menu_item type="default" category="Pollo" price=" 9.00" descript="sauteed fillet chicken" itemname="Filetillo De Pollo"></menu_item>
+<menu_item type="default" category="Pollo" price=" 9.00" descript="lemon chicken" itemname="Pollo Al Limon"></menu_item>
+<menu_item type="default" category="Pollo" price=" 10.95" descript="chicken fajitas" itemname="Fajitas De Pollo"></menu_item>
+<menu_item type="default" category="Mariscos" price="(2) 39.95" descript="seafood combination in sauce" itemname="Mariscada En Salsa"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 29.95" descript="seafood soup (made to order)" itemname="Sopa De Mariscos A La Orden"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 29.95" descript="lobster in hot sauce" itemname="Langosta Enchilada"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 29.95" descript="grilled tail lobster" itemname="Cola De Langosta A La Parrilla"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="sea conch stew" itemname="Lambi Guisado (carrucho)"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="authentic crab meat" itemname="Legitima Masa De Cangrejo"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="shrimp in garlic sauce" itemname="Camarones Al Ajillo"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="breaded shrimp" itemname="Camarones Empanizados"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="shrimp in hot sauce" itemname="Camarones Enchilados"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="broiled shrimp" itemname="Camarones A La Plancha"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="fillet red snapper" itemname="Filete De Pargo Rojo"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="fried or baked red snapper" itemname="Pargo Rojo Frito O Al Horno"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 8.95" descript="fried or baked king fish" itemname="Carite Frito O Al Horno"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="baked fillet or sole" itemname="Filete De Pescado Al Horno"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="baked fillet salmon" itemname="Filete De Salmon Al Horno"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="fillet of sole good lady" itemname="Filete Of Sole A La Buena Mujer"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 8.95" descript="baked white snapper" itemname="Mero Al Horno"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 8.95" descript="fried white snapper" itemname="Mero Frito"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 8.95" descript="white snapper in sauce" itemname="Mero En Salsa"></menu_item>
+<menu_item type="default" category="Mariscos" price=" 14.95" descript="baked white snapper with shrimp and vegetables" itemname="Mero Al Horno Con Camarones Y Vegetales"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 14.95" descript="sirloin steak" itemname="Bistec Sirloin"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 14.95" descript="t - bone steak" itemname="Bistec T-Bone"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 23.95" descript="surf and turf steak, lobster &amp; shrimp" itemname="Bistec Mar Y Tierra"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 7.95" descript="pepper steak" itemname="Bistec Salteado"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 7.95" descript="special club steak with onions" itemname="Bistec De Palomilla Encebollado"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 7.95" descript="fried beef" itemname="Carne De Res Frita"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 7.95" descript="breaded steak" itemname="Bistec Empanizado"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 7.95" descript="liver steak" itemname="Bistec De Higado"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price="(2) 7.95" descript="fried pork chops" itemname="Chuletas Fritas"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price="(2) 7.95" descript="roast pork chops" itemname="Chuletas Al Horno"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 7.95" descript="fried pork" itemname="Carne De Cerdo Frita"></menu_item>
+<menu_item type="default" category="Carnes Seleccionadas" price=" 8.95" descript="beef fajitas" itemname="Fajitas De Res"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="1/4 rotisserie chicken" itemname="1/4 Pollo Al Horno"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="chicken stew" itemname="Pollo Guisado"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="spaghetti with chicken (monday to friday)" itemname="Espaguetis Con Pollo"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="beef steak in sauce" itemname="Bistec En Salsa"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="beef stew" itemname="Carne De Res Guisada"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="oxtail stew" itemname="Rabito Guisado"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="pork spare ribs (tuesday, thursday &amp; saturday)" itemname="Costilla De Cerdo Al Horno"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="roast pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="pig feet stew" itemname="Patitas De Cerdo Guisadas"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price="reg 8.95" descript="fried king fish" itemname="Mero Blanco Frito"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price="reg 7.95" descript="codfish stew (wednesday &amp; friday)" itemname="Bacalao Guisado"></menu_item>
+<menu_item type="default" category="Especiales Diarios" price=" 7.00" descript="goat stew" itemname="Chivo Guisado"></menu_item>
+<menu_item type="default" category="Ordenes Extras" price=" 3.00" descript="rice and beans" itemname="Arroz Y Habichuelas"></menu_item>
+<menu_item type="default" category="Ordenes Extras" price=" 2.00" descript="fried green plantains" itemname="Tostones"></menu_item>
+<menu_item type="default" category="Ordenes Extras" price=" 2.00" descript="fried yellow plantains" itemname="Maduros"></menu_item>
+<menu_item type="default" category="Ordenes Extras" price=" 2.00" descript="french fries" itemname="Papas Fritas"></menu_item>
+<menu_item type="default" category="Ordenes Extras" price=" 3.00" descript="mashed potato" itemname="Pure De Papa"></menu_item>
+<menu_item type="default" category="Ordenes Extras" price=" 3.00" descript="vegetables" itemname="Vegetables"></menu_item>
+<menu_item type="default" category="Mofongo" price=" 5.00" descript="mashed green plantains with pork skin" itemname="Mofongo De Chicharron"></menu_item>
+<menu_item type="default" category="Mofongo" price=" 5.00" descript="mashed green plantains with cheese" itemname="Mofongo De Queso"></menu_item>
+<menu_item type="default" category="Mofongo" price=" 5.00" descript="mashed green plantains with chicken" itemname="Mofongo De Pollo"></menu_item>
+<menu_item type="default" category="Mofongo" price=" 14.95" descript="mashed green plantains with shrimp" itemname="Mofongo De Camarones"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Harvey's"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Lancer"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Mateus"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Alize"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Bolla Soave"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Cinzano"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Concha Y Toro"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Caney Marques De Riscal"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Moet"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Sangria"></menu_item>
+<menu_item type="default" category="Wines" price=" " descript="" itemname="Pina Colada"></menu_item>
+<menu_item type="default" category="Beers" price=" " descript="" itemname="Corona"></menu_item>
+<menu_item type="default" category="Beers" price=" " descript="" itemname="Beck's"></menu_item>
+<menu_item type="default" category="Beers" price=" " descript="" itemname="Budweiser"></menu_item>
+<menu_item type="default" category="Beers" price=" " descript="" itemname="Heineken"></menu_item>
+<menu_item type="default" category="Beers" price=" " descript="" itemname="Presidente"></menu_item>
+<menu_item type="default" category="Menu Para Ninos" price=" 5.95" descript="boneless chicken nuggets with french fries" itemname="Pechuguitas De Pollo Con Papas Fritas"></menu_item>
+<menu_item type="default" category="Menu Para Ninos" price=" 4.50" descript="grilled cheese sandwich with french fries" itemname="Sandwich De Queso Con Papas Fritas"></menu_item>
+<menu_item type="default" category="Menu Para Ninos" price=" 3.95" descript="cheeseburger with french fries" itemname="Hamburguesa Con Queso Y Papitas Fritas"></menu_item>
+<menu_item type="default" category="Menu Para Ninos" price=" 3.95" descript="hamburger deluxe" itemname="Hamburger Deluxe"></menu_item>
+<menu_item type="default" category="Batidos Y Jugos Naturales" price=" 4.00" descript="oatmeal, orange and milk juice" itemname="Avena, Naranja Leche"></menu_item>
+<menu_item type="default" category="Batidos Y Jugos Naturales" price=" 3.00" descript="papaya" itemname="Papaya"></menu_item>
+<menu_item type="default" category="Batidos Y Jugos Naturales" price=" 3.00" descript="sour sop" itemname="Guanabana"></menu_item>
+<menu_item type="default" category="Batidos Y Jugos Naturales" price=" 3.00" descript="banana" itemname="Guineo"></menu_item>
+<menu_item type="default" category="Batidos Y Jugos Naturales" price=" 3.00" descript="natural orange juice" itemname="Jugo De Naranja Natural"></menu_item>
+<menu_item type="default" category="Batidos Y Jugos Naturales" price=" 3.00" descript="natural carrot juice" itemname="Jugo De Zanahoria Natural"></menu_item>
+<menu_item type="default" category="Batidos Y Jugos Naturales" price=" 3.00" descript="mixed orange juice and milk" itemname="Morir Sonando"></menu_item>
+<menu_item type="default" category="Batidos Y Jugos Naturales" price=" 3.00" descript="mamey" itemname="Mamey"></menu_item>
+</root>

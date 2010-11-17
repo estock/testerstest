@@ -1,0 +1,246 @@
+<root>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L1. Chicken W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L2. Chicken W,chow Mein"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L3. Chicken W.lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L4. Chicken Egg Foo Young"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L5. Chciken W.cashew Nuts"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L6. Chicken W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L7. Sweet &amp;amp; Sour Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L8. Mo Goo Gai Pan"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L9. Sesame Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L10. Chicken W.garlic Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L11. Curry Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L12. Hunan or Szechuan Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken $5.25" price=" " descript="" itemname="L13. Genral Tso;s Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.25" descript="" itemname="L14. Roast Pork W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.25" descript="" itemname="L15. Roast Pork Chow Mein"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.25" descript="" itemname="L16. Roast Pork Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.25" descript="" itemname="L17. Roast Pork Egg Foo Young"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.25" descript="" itemname="L18. Roast Pork W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.50" descript="" itemname="L19. Boneless Spare Ribs"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.50" descript="" itemname="L20. Bar-b-q Spare Ribs"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.25" descript="" itemname="L22. Roast Pork W.garlic Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" 5.25" descript="" itemname="L23. Rib Tip W.garlic Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Beef $5.25" price=" " descript="" itemname="L24. Beef W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Beef $5.25" price=" " descript="" itemname="L25. Beef W.lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Beef $5.25" price=" " descript="" itemname="L26. Beef W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Beef $5.25" price=" " descript="" itemname="L27. Beef W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Beef $5.25" price=" " descript="" itemname="L28. Pepper Steak W.onion"></menu_item>
+<menu_item type="Lunch Special" category="Beef $5.25" price=" " descript="" itemname="L30. Beef W.garlic Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Beef $5.25" price=" " descript="" itemname="L31. Hot &amp;amp; Spicy Beef*"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L32. Shrimp W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L33. Shrimp Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L34. Shrimp Chow Mein"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L35. Shrimp W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L36. Shrimp W.lobster Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L37. Shrimp W.pepper &amp;amp; Tomato"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L38. Kung Po Shrimp*"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L39. Shrimp W.garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L40. Hot &amp;amp; Spicy Shrimp*"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L41. Curry Shrimp*"></menu_item>
+<menu_item type="Lunch Special" category="Shrimp $5.50" price=" " descript="" itemname="L42. Hunan or Szechuan Shrimp*"></menu_item>
+<menu_item type="Lunch Special" category="Vegetable $5.00" price=" " descript="" itemname="L43. Bean Curd W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Vegetable $5.00" price=" " descript="" itemname="L44. Vegetable Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Vegetable $5.00" price=" " descript="" itemname="L45. Vegetable Chow Mein"></menu_item>
+<menu_item type="Lunch Special" category="Vegetable $5.00" price=" " descript="" itemname="L46. Mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Vegetable $5.00" price=" " descript="" itemname="L47. Broccoli W.garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Vegetable $5.00" price=" " descript="" itemname="L48. Eggplant W.garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Vegetable $5.00" price=" " descript="" itemname="L49. General Tso's Bean*"></menu_item>
+<menu_item type="Lunch Special" category="Vegetable $5.00" price=" " descript="" itemname="L50. Triple Jade Green Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="1. Chicken Teriyaki"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="2. Sesame Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="3. Salt &amp;amp; Pepper Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="4. Beef W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="5. Vegetable Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="6. B.B.Q Rib Tip"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="7. General Tso's Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="8. Chciken Broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="9. Chicken Wings"></menu_item>
+<menu_item type="Lunch Special" category="Daily Special Only $4.50" price=" " descript="" itemname="10. Crispy Chicken W.garlic Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.25 4.75 5.50" descript="" itemname="S1. Freid Chicken Wings 4"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.75 5.25 6.00" descript="" itemname="S2. Freid Half Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.75 5.25 6.00" descript="" itemname="S3. Fried Chicken Nuggets 10"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.75 5.25 6.00" descript="" itemname="S4. Freid Pork Chop 2"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.75 5.25 6.00" descript="" itemname="S5. Fried Baby Shrimp 15"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.75 5.25 6.00" descript="" itemname="S6. Freid Whiting Fish 2"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.75 5.25 6.00" descript="" itemname="S7. Fried Crab Meat Stick 5"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.75 5.25 6.00" descript="" itemname="S8. Fried Scallop 10"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.95 5.50 6.25" descript="" itemname="S9. Spare Ribs Tips"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.75 5.25 6.00" descript="" itemname="S10. Fried Boneless Chicken 2"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 5.25 5.75 6.50" descript="" itemname="S11. Fried Jumbo Shrimp 5"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price="   4.50" descript="1 fish, 5 baby shrimp, 3 scallops, 2 crab sticks" itemname="S12. Fried Seafood combination"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.25 4.75 5.50" descript="" itemname="S13. Fried Chicken Gizzard"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 6.00 6.50 7.50" descript="" itemname="S14. Boneless Spare Ribs"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 6.25 6.75 7.75" descript="" itemname="S15. B.B.Q Spare Ribs"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 5.25 5.25 6.00" descript="" itemname="S16. B.B.Q Chicken Wings"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 5.00 5.50 6.50" descript="" itemname="S17. Crispy Chicken with Garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 5.00 5.50 6.50" descript="" itemname="S18. Crispy Chickwn with Garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Fried Specialties" price=" 4.95 5.25 6.00" descript="" itemname="S19. Fried Chicken Finger"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C1. Chicken or Shrimp Chow Mein"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C2. Roast Pork W.chinese Veg"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C3. Chicken or Pork Egg Foo Young"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C4. Shrimp Egg Foo Young"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.50" descript="" itemname="C5. Pepper Steak W.onion"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C6. Sweet &amp;amp; Sour Pork or Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C7. Moo Goo Gai Pan"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C8. Bar-b-q Sapre Ribs"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C9. Roast Pork W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C10. Shrimp W.chinese Veg"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C11. Roast Pork or Chicken Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.50" descript="" itemname="C12. Beef W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C13. Shrimp W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C14. Chicken W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.50" descript="" itemname="C15. Beef W.chinese Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C16. Shrim W.lobster Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C17. Shrimp or Beef Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C18. Boneless Spare Ribs"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C19. Chicken W.garlic Suce*"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.50" descript="" itemname="C20. Beef W.garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C21. General Tso's Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.50" descript="" itemname="C22. Orange Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.50" descript="" itemname="C23. Curry Beef*"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.50" descript="" itemname="C24. General Tso's Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.50" descript="" itemname="C25. Sesame Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C26. Shrimp W.garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C27. Shrimp W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C28. Chicken W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.25" descript="" itemname="C29. Chicken W.cashew Nuts"></menu_item>
+<menu_item type="Lunch Special" category="Combination Dinner" price=" 6.75" descript="" itemname="C30. Hunan Duck*"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 1.00" descript="" itemname="1. Pork Egg Roll 1"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 1.25" descript="" itemname="2. Shrimp Roll 1"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 1.75" descript="" itemname="3. Vegetable Spring Roll 2"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 2.75" descript="" itemname="4. Fried Wonton 10"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 4.25" descript="pork or vegetable 8" itemname="5. Fried or Steamed Dumpling"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 4.25" descript="" itemname="6. Fried or Steamed Shrimp Dumpling 6"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price="lg 2.25" descript="" itemname="7. French Fries"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 1.25" descript="" itemname="8. Green Plantain or Yellow Plantain"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 2.50" descript="" itemname="9. Shrimp Toast 4"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 2.95" descript="" itemname="10. Wonton W.hot Szechuan Sauce8*"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 3.50" descript="" itemname="11. Cold Noodles W.sesame Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 3.75" descript="" itemname="12. Crab Rangoon 10"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 1.75" descript="" itemname="13. Scallion Pancake"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 2.50" descript="" itemname="14. Chicken Teriyaki 3"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price=" 2.50" descript="" itemname="15. Bar-b-q Spare Ribs 3"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price="l 9.25" descript="" itemname="16. Boneless Spare Ribs"></menu_item>
+<menu_item type="Lunch Special" category="Appetizers" price="(5) 2.50" descript="" itemname="17. Cheese Stick"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 2.25" descript="" itemname="18. Wonton Soup"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 2.25" descript="" itemname="19. Egg Drop Soup"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 3.25" descript="" itemname="20. Wonton Egg Drop Soup"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 3.25" descript="" itemname="21. Hot &amp;amp; Sour Soup*"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 2.75" descript="" itemname="22. Vegetables Noodles Soup"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 3.25" descript="w.rice or noodle soup" itemname="23. Roast Pork or Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 3.50" descript="w.rice or noodle soup" itemname="24. Beef or Baby Shrimp"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 2.75" descript="" itemname="25. Vegetable Bean Curd Soup"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 4.50" descript="" itemname="26. House Special Soup"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 5.50" descript="" itemname="27. Seafood Soup"></menu_item>
+<menu_item type="Lunch Special" category="Soup" price=" 3.50" descript="" itemname="28. Chicken Corn Soup"></menu_item>
+<menu_item type="Lunch Special" category="Fried Rice" price=" 3.75" descript="" itemname="29. Plain Fried Rice"></menu_item>
+<menu_item type="Lunch Special" category="Fried Rice" price=" 5.75" descript="" itemname="30. Vegetable Fried Rice"></menu_item>
+<menu_item type="Lunch Special" category="Fried Rice" price=" 6.50" descript="" itemname="31. Roast Pork or Chicken Fried Rice"></menu_item>
+<menu_item type="Lunch Special" category="Fried Rice" price=" 6.95" descript="" itemname="32. Beef or Baby Shrimp Freid Rice"></menu_item>
+<menu_item type="Lunch Special" category="Fried Rice" price=" 6.50" descript="" itemname="33. Crab Meat Fried Rice"></menu_item>
+<menu_item type="Lunch Special" category="Fried Rice" price=" 8.50" descript="" itemname="34. House Special Fried Rice"></menu_item>
+<menu_item type="Lunch Special" category="Fried Rice" price=" 8.50" descript="" itemname="35. Yang Chow Fried Rice"></menu_item>
+<menu_item type="Lunch Special" category="Chow Fun or Mei Fun" price=" 6.00" descript="" itemname="36. Veg. Chow Frun or Mei Fun"></menu_item>
+<menu_item type="Lunch Special" category="Chow Fun or Mei Fun" price=" 6.95" descript="" itemname="37. Roast Pork or Chicken Chow Fun or Mei Fun"></menu_item>
+<menu_item type="Lunch Special" category="Chow Fun or Mei Fun" price=" 7.50" descript="" itemname="38. Beef or Shrimp Chow Fun or Mei Fun"></menu_item>
+<menu_item type="Lunch Special" category="Chow Fun or Mei Fun" price=" 8.50" descript="" itemname="39. Singapore Chow Mei Fun*"></menu_item>
+<menu_item type="Lunch Special" category="Chow Fun or Mei Fun" price=" 8.50" descript="" itemname="40. House Special Chow Fun or Mei Fun"></menu_item>
+<menu_item type="Lunch Special" category="Lo Mein" price=" 6.00" descript="" itemname="41. Vegetable Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Lo Mein" price=" 6.95" descript="" itemname="42. Roast Pork or Chicken Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Lo Mein" price=" 7.50" descript="" itemname="43. Beef or Shrimp Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Lo Mein" price=" 8.50" descript="" itemname="44. House Special Lo Mein"></menu_item>
+<menu_item type="Lunch Special" category="Egg Foo Young" price=" 5.25" descript="" itemname="45. Chicken or Roast Pork Egg Foo Young"></menu_item>
+<menu_item type="Lunch Special" category="Egg Foo Young" price=" 5.75" descript="" itemname="46. Beef or Shrimp Egg Foo Young"></menu_item>
+<menu_item type="Lunch Special" category="Egg Foo Young" price=" 6.25" descript="" itemname="47. House Special Egg Foo Young"></menu_item>
+<menu_item type="Lunch Special" category="Egg Foo Young" price=" 4.75" descript="" itemname="48. Vegetale Egg Foo Young"></menu_item>
+<menu_item type="Lunch Special" category="Chow Mei or Chop Suey" price=" 6.50" descript="" itemname="49. Veg. Chow Mein or Chop Suey"></menu_item>
+<menu_item type="Lunch Special" category="Chow Mei or Chop Suey" price=" 8.50" descript="" itemname="50. Roast Pork or Chicken Chow Mein or Chop Suey"></menu_item>
+<menu_item type="Lunch Special" category="Chow Mei or Chop Suey" price=" 8.95" descript="" itemname="51. Beef or Shrimp Chow Mein or Chop Suey"></menu_item>
+<menu_item type="Lunch Special" category="Chow Mei or Chop Suey" price=" 9.75" descript="" itemname="52. House Special Chow Mein or Chop Suey"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="53. Roast Pork W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="54. Roast Pork W.mushrooms"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="56. Roast Pork W.snow Peas"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="57. Roast Pork W.chinese Veg"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="58. Roast Pork W.black Bean Sc"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="59. Shredded Pork In Garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="60. Spicy Double Cooked Pork*"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="61. Roast Pork W.string Bean"></menu_item>
+<menu_item type="Lunch Special" category="Pork" price=" " descript="" itemname="62. Scallion Pork"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="63. Chicken W.snow Peas"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="64. Chicken W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="chicken mushrooms" itemname="65. Moo Goo Gai Pan"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="66. Chicken W.mix Vegetable"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="67. Chicken W.cashew Nuts"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="68. Spicy Chicken W.peanuts*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="69. Chicken In Garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="70. Curry Chicken W.onion*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="71. Hot &amp;amp; Spicy Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="72. Hunan Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="73. Chicken W.black Bean Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="74. Szechuan Chicken*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="75. Sweet &amp;amp; Sour Chicken"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="76. Shredded Chicken In Garlic Sc*"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="77. Chicken W.string Bean"></menu_item>
+<menu_item type="Lunch Special" category="Chicken" price=" " descript="" itemname="78. Chicken W.eggplant In Garlic Sc*"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="79. Beef W.snow Peas"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="80. Beef W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="81. Beef W.mixed Vegetable"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="82. Shredded Beef In Garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="83. Beef W.onion In Curry Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="84. Beef W.mushroom"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="85. Beef W.scallion"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="86. Pepper Steak W.onion"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="87. Hot &amp;amp; Spicy Beef*"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="88. Hunan Beef*"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="89. Szechuan Beef*"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="90. Beef W.black Bean Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="91. Beef W.string Bean"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="92. Beef W.eggplant"></menu_item>
+<menu_item type="Lunch Special" category="Beef" price=" " descript="" itemname="93. Mongolian Beef*"></menu_item>
+<menu_item type="Lunch Special" category="Moo Shu" price=" 6.50" descript="" itemname="94. Moo Shu Vegetable"></menu_item>
+<menu_item type="Lunch Special" category="Moo Shu" price=" 7.50" descript="" itemname="95. Moo Shu Chicken or Pork"></menu_item>
+<menu_item type="Lunch Special" category="Moo Shu" price=" 7.75" descript="" itemname="96. Moo Shu Shrimp or Beef"></menu_item>
+<menu_item type="Lunch Special" category="Duck" price=" " descript="" itemname="97. Duck W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Duck" price=" " descript="" itemname="98. Hunan Duck*"></menu_item>
+<menu_item type="Lunch Special" category="Duck" price=" " descript="" itemname="99. Pineapple Duck"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="100. Shrimp W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="101. Shrimp W.lobster Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="102. Shrimp W.mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="103. Shrimp W.cashew Nuts"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="104. Shrimp W.black Bean Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="105. Shrimp W.chinese Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="106. Shrimp W.string Bean or Snow Peas"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="107. Shrimp W.pepper &amp;amp; Tomato"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="108. Scallop W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="109. Curry Shrimp*"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="110. Shrimp W.garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="111. Hunan or Szechuan Shrimp*"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="112. Kung Pao Shrimp*"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="113. Shrimp W.eggplant In Garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Seafood" price=" " descript="" itemname="114. Scallops W.garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="115. Stir Fried Mix Vegetable"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="116. Bean Sprouts W.snow Pea"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="117. Plain Broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="118. Broccoli Garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="119. Szechuan Spicy Bean Curd W.pork*"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="120. Home Style Bean Curd*"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="121. Bean Curd In Garlic Sauce*"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="122. Stir Fried String Bean"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="123. Bean Curd W.broccoli *"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="124. Crispy General Tso's Bean Curd*"></menu_item>
+<menu_item type="Lunch Special" category="Vegtable &amp;amp; Bean Curd" price=" " descript="" itemname="125. Eggplant W.garlic Sauce"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 6.50" descript="" itemname="H1. Steam Brocoli &amp;amp; Bean Curd"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 6.50" descript="" itemname="H2. Steam Bean Curd &amp;amp; mixed Veg"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 6.50" descript="" itemname="H3. Steam mixed Vegetables"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 6.50" descript="" itemname="H4. Steam String Bean &amp;amp; Snow Peas"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 8.50" descript="" itemname="H5. Steam Chicken W.broccoli"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 8.50" descript="" itemname="H6. Steam Chicken W.mixed Veg"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 8.50" descript="" itemname="H7. Steam Chicken W.string Beans"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 9.25" descript="" itemname="H8. Steam Shrimp W.snow Peas"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 8.50" descript="" itemname="H9. Steam Chicken W.tomato"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 9.25" descript="" itemname="H10. Steam Shrimp W.broccoli &amp;amp; Bean Curd"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 9.25" descript="" itemname="H11. Steam Beef or Shrimp W.mixed Veg"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 6.50" descript="" itemname="H12. Steam Snow Pea W.waterchestnut"></menu_item>
+<menu_item type="Lunch Special" category="Health Food Section" price=" 6.75" descript="" itemname="H13. Steam Green Jade Vegetable"></menu_item>
+</root>

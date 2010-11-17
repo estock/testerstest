@@ -1,0 +1,23 @@
+<root>
+<menu_item type="default" category="Sweet Organic" price=" 5.00" descript="butter, sugar, lemon" itemname="1. Solar (Original Or Golden)"></menu_item>
+<menu_item type="default" category="Sweet Organic" price=" 6.00" descript="strawberry, dark chocolate or nutella" itemname="2. Eyepop (Golden)"></menu_item>
+<menu_item type="default" category="Sweet Organic" price=" 7.00" descript="mango, kiwi, pineapple, caramel or chocolate" itemname="3. DJ Mix (Golden)"></menu_item>
+<menu_item type="default" category="Sweet Organic" price=" 7.00" descript="apple or pear, walnuts, honey" itemname="4. Applepod (Golden)"></menu_item>
+<menu_item type="default" category="Sweet Organic" price=" 8.00" descript="strawberry, banana, nutella, whipped cream" itemname="5. Hula Hoop (Golden)"></menu_item>
+<menu_item type="default" category="Savory Organic" price=" 9.00" descript="ham or turkey, swiss cheese, egg, veggie spread" itemname="6. Morning Oգrêpe (Buckwheat)"></menu_item>
+<menu_item type="default" category="Savory Organic" price=" 9.00" descript="chicken, mushrooms, ratatouille, onion, swiss cheese" itemname="7. Architectural Digest (Whole Wheat)"></menu_item>
+<menu_item type="default" category="Savory Organic" price=" 8.00" descript="egg, tomatoes, greens, cheese, ratatouille" itemname="8. Green Desk (Whole Wheat)"></menu_item>
+<menu_item type="default" category="Savory Organic" price=" 9.00" descript="turkey, sun dried tomatoes, goat cheese, cilantro" itemname="9. Munch (Original)"></menu_item>
+<menu_item type="default" category="Savory Organic" price=" 10.00" descript="smoked salmon, cream cheese, spinach, capers" itemname="10. J Hook (Buckwheat)"></menu_item>
+<menu_item type="default" category="Savory Organic" price=" 7.00" descript="feta, spinach, fresh tomatoes, pumpkin seeds" itemname="11. Yoga Sun (Buckwheat)"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price=" " descript="buckwheat, whole wheat or original" itemname="Savory Flour"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price=" " descript="onion, capers, mushrooms, tomatoes fresh, mozzarella, swiss or feta cheese, spinach" itemname="Savory Fillings"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price="add .50" descript="" itemname="ratatouille or egg"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price="add 1.00" descript="" itemname="chicken, smoked turkey, ham, tomatoes sun dried or goat cheese"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price="add 2.00" descript="" itemname="salmon"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price=" " descript="golden or original" itemname="Sweet Flour"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price=" " descript="nutella, caramel, honey, chocolate dark/white, pumpkin seeds, strawberry, banana" itemname="Sweet Fillings"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price="add .50" descript="" itemname="add walnuts, kiwi, blueberry or mango"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price="add 1.00" descript="" itemname="pecans"></menu_item>
+<menu_item type="default" category="Design Your Own Crêpe $6" price="scoop 1.50" descript="" itemname="ice cream"></menu_item>
+</root>

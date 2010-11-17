@@ -1,0 +1,4970 @@
+<root>
+<restaurant>
+
+<name>
+/eks/
+</name>
+<menuxml>
+/eks/.xml
+</menuxml>
+<streataddress>
+488 Driggs Ave
+</streataddress>
+<crosstreat>
+(Btwn N 9th &amp;amp; N 10th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-1706
+</phone>
+<latitude>
+40.7185417
+</latitude>
+<longitude>
+-73.9548439
+</longitude>
+<cuisines>
+Desserts &amp;amp; Bakeries
+</cuisines>
+<price>
+$
+</price>
+<features>
+Accepts Credit Cards
+</features>
+<deliveryamount>
+</deliveryamount>
+<deliveryarea>
+</deliveryarea>
+<hours>
+ Mon-Sat: 12pm-12am,  Sun: 12pm-11pm,
+</hours>
+<website>
+</website>
+<meals>
+Lunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+1 or 8
+</name>
+<menuxml>
+1 or 8.xml
+</menuxml>
+<streataddress>
+66 S 2nd St
+</streataddress>
+<crosstreat>
+(At Wythe Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-2152
+</phone>
+<latitude>
+40.714167
+</latitude>
+<longitude>
+-73.965486
+</longitude>
+<cuisines>
+Japanese, Sushi
+</cuisines>
+<price>
+$$$$
+</price>
+<features>
+Open Late, Tasting Menu, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun, Tue-Thu: 6pm-12am,  Fri-Sat: 6pm-1am,
+</hours>
+<website>
+http://www.oneoreightbk.com
+</website>
+<meals>
+Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+68
+</name>
+<menuxml>
+68.xml
+</menuxml>
+<streataddress>
+68 Greenpoint Ave
+</streataddress>
+<crosstreat>
+(Btwn West &amp;amp; Franklin St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 389-6868
+</phone>
+<latitude>
+40.729569
+</latitude>
+<longitude>
+-73.95824
+</longitude>
+<cuisines>
+American (New)
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Dinner,  Daily: 5pm-12am,  Brunch,  Sat-Sun: 11am-4pm, 
+</hours>
+<website>
+http://www.68restaurant.com
+</website>
+<meals>
+Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+A-Roma Bakery
+</name>
+<menuxml>
+A-Roma Bakery.xml
+</menuxml>
+<streataddress>
+475 Grand St
+</streataddress>
+<crosstreat>
+(Btwn Hooper &amp;amp; Keap St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 388-8182
+</phone>
+<latitude>
+40.711206
+</latitude>
+<longitude>
+-73.951898
+</longitude>
+<cuisines>
+Desserts &amp;amp; Bakeries, Sandwiches, Coffeehouses
+</cuisines>
+<price>
+$
+</price>
+<features>
+Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri: 7am-9pm,  Sat-Sun: 8am-8pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Acapulco
+</name>
+<menuxml>
+Acapulco.xml
+</menuxml>
+<streataddress>
+1116 Manhattan Ave
+</streataddress>
+<crosstreat>
+(At Clay St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 349-8429
+</phone>
+<latitude>
+40.7367009
+</latitude>
+<longitude>
+-73.954987
+</longitude>
+<cuisines>
+Mexican, Sandwiches
+</cuisines>
+<price>
+$$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri: 7am-10pm,  Sat-Sun: 9am-10pm,
+</hours>
+<website>
+http://www.acapulcodeliandrestaurant.com
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Acqua Santa
+</name>
+<menuxml>
+Acqua Santa.xml
+</menuxml>
+<streataddress>
+556 Driggs Ave
+</streataddress>
+<crosstreat>
+(Btwn N 6th &amp;amp; N 7th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-9695
+</phone>
+<latitude>
+40.717071
+</latitude>
+<longitude>
+-73.956756
+</longitude>
+<cuisines>
+Italian
+</cuisines>
+<price>
+$$$$
+</price>
+<features>
+Outdoor Dining, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Lunch/Dinner,  Mon-Thu: 12pm-11pm,  Fri: 12pm-12am,  Brunch/Dinner,  Sat: 11am-12am,  Sun: 11am-11pm,
+</hours>
+<website>
+http://www.acquasanta.com
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+<price>
+$$$$
+</price>
+<features>
+Delivery, Online Ordering, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun: 1pm-11pm,  Mon-Thu: 2:30pm-11:30pm,  Fri-Sat: 1pm-12am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Amarin Cafe
+</name>
+<menuxml>
+Amarin Cafe.xml
+</menuxml>
+<streataddress>
+617 Manhattan Ave
+</streataddress>
+<crosstreat>
+(Btwn Nassau &amp;amp; Driggs St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 349-2788
+</phone>
+<latitude>
+40.723446
+</latitude>
+<longitude>
+-73.950885
+</longitude>
+<cuisines>
+Thai
+</cuisines>
+<price>
+$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Thu: 11am-10:30pm,  Fri-Sat: 11am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+<price>
+$$$
+</price>
+<features>
+Trendy, Delivery, Online Ordering, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Sat: 12pm-11pm,  Sun: 12pm-10pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Anella
+</name>
+<menuxml>
+Anella.xml
+</menuxml>
+<streataddress>
+222 Franklin St
+</streataddress>
+<crosstreat>
+(Btwn Green &amp;amp; Huron St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 389-8100
+</phone>
+<latitude>
+40.733224
+</latitude>
+<longitude>
+-73.957841
+</longitude>
+<cuisines>
+Italian, Mediterranean
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Outdoor Dining
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Dinner,  Tue-Thu, Sun: 5:30pm-10pm,  Fri-Sat: 5:30pm-11pm,  Brunch,  Sat-Sun: 10am-4pm,
+</hours>
+<website>
+http://www.anellabrooklyn.com
+</website>
+<meals>
+Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Anna Maria Pizza
+</name>
+<menuxml>
+Anna Maria Pizza.xml
+</menuxml>
+<streataddress>
+179 Bedford Ave
+</streataddress>
+<crosstreat>
+(At N 7th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-4550
+</phone>
+<latitude>
+40.717874
+</latitude>
+<longitude>
+-73.957345
+</longitude>
+<cuisines>
+Pizza, Italian
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, People Watching, Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Open Late,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Antek
+</name>
+<menuxml>
+Antek.xml
+</menuxml>
+<streataddress>
+105 Norman Ave
+</streataddress>
+<crosstreat>
+(At Leonard St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 389-6859
+</phone>
+<latitude>
+40.725823
+</latitude>
+<longitude>
+-73.951126
+</longitude>
+<cuisines>
+Polish, Eastern European
+</cuisines>
+<price>
+$$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Sat: 11:30am-9pm,  Sun: 11:30am-8pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Antojitos Mexicanos
+</name>
+<menuxml>
+Antojitos Mexicanos.xml
+</menuxml>
+<streataddress>
+107 Graham Ave
+</streataddress>
+<crosstreat>
+(Btwn Boerum &amp;amp; McKibben St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-9076
+</phone>
+<latitude>
+40.705376
+</latitude>
+<longitude>
+-73.943221
+</longitude>
+<cuisines>
+Mexican
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 10am-8pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Anytime
+</name>
+<menuxml>
+Anytime.xml
+</menuxml>
+<streataddress>
+Meeker Ave
+</streataddress>
+<crosstreat>
+(At Skillman Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-7272
+</phone>
+<latitude>
+40.7167258
+</latitude>
+<longitude>
+-73.949349
+</longitude>
+<cuisines>
+Eclectic &amp;amp; International, American (New)
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+12.00
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;East River to Morgan &amp;amp; Newton Creek to Division/Broadway/Flushing&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Daily: 4pm-5am, 
+</hours>
+<website>
+http://www.anytimeny.com
+</website>
+<meals>
+Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Arepa Arepa
+</name>
+<menuxml>
+Arepa Arepa.xml
+</menuxml>
+<streataddress>
+160 Havemeyer St
+</streataddress>
+<crosstreat>
+(At S 2nd St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 388-5797
+</phone>
+<latitude>
+40.711456
+</latitude>
+<longitude>
+-73.957834
+</longitude>
+<cuisines>
+Venezuelan, South American
+</cuisines>
+<price>
+$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 11am-11pm, 
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+<price>
+$$$$
+</price>
+<features>
+Outdoor Dining, Prix Fixe, Delivery, Online Reservations, Wheelchair Friendly
+</features>
+<deliveryamount>
+15.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Lunch,  Mon-Fri: 12pm-3:30pm,  Dinner,  Daily: 6pm-11pm,  Brunch,  Sat-Sun: 11am-4pm,  Delivery Daily: 6pm-11pm,
+</hours>
+<website>
+http://www.auroraristorante.com
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Baba
+</name>
+<menuxml>
+Baba.xml
+</menuxml>
+<streataddress>
+502 Lorimer St
+</streataddress>
+<crosstreat>
+(At Powers St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(347) 227-7133
+</phone>
+<latitude>
+40.712017
+</latitude>
+<longitude>
+-73.948791
+</longitude>
+<cuisines>
+American (New), Mediterranean, Tapas/Small Plates
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Tue-Sun: 10am-10pm, 
+</hours>
+<website>
+http://www.bababrooklyn.com
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+<price>
+$$$
+</price>
+<features>
+Open Late, Outdoor Dining, Delivery, Online Reservations, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 12pm-12am,  Fri-Sat: 12pm-1am,
+</hours>
+<website>
+http://www.baciabbracciny.com
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bagelsmith
+</name>
+<menuxml>
+Bagelsmith.xml
+</menuxml>
+<streataddress>
+189 Bedford Ave
+</streataddress>
+<crosstreat>
+(Btwn N 6th &amp;amp; N 7th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-7414
+</phone>
+<latitude>
+40.717462
+</latitude>
+<longitude>
+-73.957738
+</longitude>
+<cuisines>
+Bagels, Delis
+</cuisines>
+<price>
+$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bahia Restaurant &amp;amp; Cafe
+</name>
+<menuxml>
+Bahia Restaurant &amp;amp; Cafe.xml
+</menuxml>
+<streataddress>
+690 Grand St
+</streataddress>
+<crosstreat>
+(Btwn Manhattan &amp;amp; Graham Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-9592
+</phone>
+<latitude>
+40.7115184
+</latitude>
+<longitude>
+-73.9450093
+</longitude>
+<cuisines>
+Central American, Latin American
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 11:30am-10pm,  Fri &amp;amp; Sat: 11:30am-11pm,
+</hours>
+<website>
+http://www.bahia-restaurant.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Baker's Dozen Bagels
+</name>
+<menuxml>
+Baker's Dozen Bagels.xml
+</menuxml>
+<streataddress>
+788 Manhattan Ave
+</streataddress>
+<crosstreat>
+(Btwn Calyer St &amp;amp; Meserole Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 349-2222
+</phone>
+<latitude>
+40.727595
+</latitude>
+<longitude>
+-73.952651
+</longitude>
+<cuisines>
+Bagels, Delis
+</cuisines>
+<price>
+$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Sat: 6am-8pm,  Sun: 6am-6pm,  Delivery Hours,  Mon-Fri: 10am-3pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bakeri
+</name>
+<menuxml>
+Bakeri.xml
+</menuxml>
+<streataddress>
+150 Wythe Ave
+</streataddress>
+<crosstreat>
+(At N 8th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 388-8037
+</phone>
+<latitude>
+40.720052
+</latitude>
+<longitude>
+-73.960112
+</longitude>
+<cuisines>
+Coffeehouses, Desserts &amp;amp; Bakeries, Sandwiches
+</cuisines>
+<price>
+$$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+
+</hours>
+<website>
+http://www.bakeribrooklyn.com
+</website>
+<meals>
+Lunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bamonte's
+</name>
+<menuxml>
+Bamonte's.xml
+</menuxml>
+<streataddress>
+32 Withers St
+</streataddress>
+<crosstreat>
+(Btwn Union Ave &amp;amp; Lorimer St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-8831
+</phone>
+<latitude>
+40.716265
+</latitude>
+<longitude>
+-73.951146
+</longitude>
+<cuisines>
+Italian
+</cuisines>
+<price>
+$$$$
+</price>
+<features>
+Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon, Wed-Sun: 12pm-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+<price>
+$$
+</price>
+<features>
+Online Ordering
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 12pm-10pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Banh Mi 172
+</name>
+<menuxml>
+Banh Mi 172.xml
+</menuxml>
+<streataddress>
+172 Bedford Ave
+</streataddress>
+<crosstreat>
+(Btwn N 7th &amp;amp; N 8th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-0028
+</phone>
+<latitude>
+40.718234
+</latitude>
+<longitude>
+-73.957657
+</longitude>
+<cuisines>
+Vietnamese, Sandwiches
+</cuisines>
+<price>
+$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bar Celona
+</name>
+<menuxml>
+Bar Celona.xml
+</menuxml>
+<streataddress>
+104 S 4th St
+</streataddress>
+<crosstreat>
+(At Berry St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 237-7828
+</phone>
+<latitude>
+40.7121226
+</latitude>
+<longitude>
+-73.9636132
+</longitude>
+<cuisines>
+Spanish, Tapas/Small Plates
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Open Late, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun: 12pm-5pm,  Tue-Thu: 6pm-12am,  Fri-Sat: 6pm-2am,
+</hours>
+<website>
+http://www.barcelonaloungenyc.com
+</website>
+<meals>
+Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bar Matchless
+</name>
+<menuxml>
+Bar Matchless.xml
+</menuxml>
+<streataddress>
+557 Manhattan Ave
+</streataddress>
+<crosstreat>
+(At Driggs Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 383-5333
+</phone>
+<latitude>
+40.7222018
+</latitude>
+<longitude>
+-73.9499012
+</longitude>
+<cuisines>
+Bar Food
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Happy Hour
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 6pm-4am,
+</hours>
+<website>
+http://www.barmatchless.com
+</website>
+<meals>
+Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Barberry
+</name>
+<menuxml>
+Barberry.xml
+</menuxml>
+<streataddress>
+152 Metropolitan Ave
+</streataddress>
+<crosstreat>
+(At Berry St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-3027
+</phone>
+<latitude>
+40.715863
+</latitude>
+<longitude>
+-73.962168
+</longitude>
+<cuisines>
+Mediterranean, American (New)
+</cuisines>
+<price>
+$$$$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun, Tue-Thu: 5pm-11pm,  Fri-Sat: 5pm-12am,  Brunch,  Sat-Sun: 12pm-3pm,
+</hours>
+<website>
+http://www.barberryny.com
+</website>
+<meals>
+Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Barosa
+</name>
+<menuxml>
+Barosa.xml
+</menuxml>
+<streataddress>
+312 Graham Ave
+</streataddress>
+<crosstreat>
+(At Devoe St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-8135
+</phone>
+<latitude>
+40.7132637
+</latitude>
+<longitude>
+-73.9441544
+</longitude>
+<cuisines>
+Italian, Pizza
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Kid-friendly, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Fri-Sat: 12pm-11pm,  Sun, Tue-Thu: 12pm-10pm,
+</hours>
+<website>
+http://www.barosas.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Barzola
+</name>
+<menuxml>
+Barzola.xml
+</menuxml>
+<streataddress>
+197 Meserole St
+</streataddress>
+<crosstreat>
+(Btwn Humboldt St &amp;amp; Bushwick Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 381-4343
+</phone>
+<latitude>
+40.708497
+</latitude>
+<longitude>
+-73.940909
+</longitude>
+<cuisines>
+Latin American
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+15.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Tue: 9am-6pm,  Wed-Thu: 9am-8pm,  Fri-Sun: 9am-11pm,
+</hours>
+<website>
+http://www.cafebarzola.com
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Beco
+</name>
+<menuxml>
+Beco.xml
+</menuxml>
+<streataddress>
+45 Richardson St
+</streataddress>
+<crosstreat>
+(Btwn Union Ave &amp;amp; Lorimer St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-1645
+</phone>
+<latitude>
+40.7182824
+</latitude>
+<longitude>
+-73.950402
+</longitude>
+<cuisines>
+Brazilian, Sandwiches
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Open Late, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Tue-Thu: 5:30pm-12am,  Fri: 3pm-1am,  Sat: 10am-1am,  Sun: 10am-11pm,  Brunch,  Sat-Sun: 10am-4pm,
+</hours>
+<website>
+http://www.becobar.com
+</website>
+<meals>
+Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+BEP
+</name>
+<menuxml>
+BEP.xml
+</menuxml>
+<streataddress>
+346 Bedford Ave
+</streataddress>
+<crosstreat>
+(At S 3rd St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-7067
+</phone>
+<latitude>
+40.7124985
+</latitude>
+<longitude>
+-73.9625956
+</longitude>
+<cuisines>
+Vietnamese
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Kid-friendly, Delivery, Wheelchair Friendly
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;Grand, Kent, South Williamsburg&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Mon: 12pm-10pm,  Thu: 6pm-10pm,  Fri: 6pm-10pm,
+</hours>
+<website>
+http://www.beprestaurant.blogspot.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Berry Park
+</name>
+<menuxml>
+Berry Park.xml
+</menuxml>
+<streataddress>
+4 Berry St
+</streataddress>
+<crosstreat>
+(At N 14th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 782-2829
+</phone>
+<latitude>
+40.7223951
+</latitude>
+<longitude>
+-73.9549817
+</longitude>
+<cuisines>
+Bar Food, Other
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Outdoor Dining, Live Entertainment, Bar Scene, Wheelchair Friendly
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Thu: 5pm-2am,  Fri: 4pm-4am,  Sat: 12pm-4am,  Sun: 12pm-2am,
+</hours>
+<website>
+http://www.berryparkbk.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Big Apple Coffee Shop
+</name>
+<menuxml>
+Big Apple Coffee Shop.xml
+</menuxml>
+<streataddress>
+712 Broadway
+</streataddress>
+<crosstreat>
+(At Thornton St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-3371
+</phone>
+<latitude>
+40.701137
+</latitude>
+<longitude>
+-73.943236
+</longitude>
+<cuisines>
+Diners &amp;amp; Coffee Shops, Sandwiches
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Black Rabbit
+</name>
+<menuxml>
+Black Rabbit.xml
+</menuxml>
+<streataddress>
+91 Greenpoint Ave
+</streataddress>
+<crosstreat>
+(Btwn Franklin St &amp;amp; Manhattan Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 349-1595
+</phone>
+<latitude>
+40.730212
+</latitude>
+<longitude>
+-73.956611
+</longitude>
+<cuisines>
+Bar Food, American (Traditional)
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Open Late, Fireplace, Live Entertainment, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Wed: 4pm-2am,  Thu-Fri: 4pm-4am,  Sat: 1pm-4am,  Sun: 1pm-2am,
+</hours>
+<website>
+http://www.blackrabbitbar.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Blackbird Parlour
+</name>
+<menuxml>
+Blackbird Parlour.xml
+</menuxml>
+<streataddress>
+197 Bedford Ave
+</streataddress>
+<crosstreat>
+(At N 6th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-2707
+</phone>
+<latitude>
+40.717222
+</latitude>
+<longitude>
+-73.957995
+</longitude>
+<cuisines>
+Eclectic &amp;amp; International, Sandwiches
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Kid-friendly, Open Late, People Watching, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Day Menu:,  Mon-Fri: 8am-8pm,  Sat-Sun: 8pm-10pm,  Night Menu:,  Daily: 8pm-Closing,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bliss
+</name>
+<menuxml>
+Bliss.xml
+</menuxml>
+<streataddress>
+191 Bedford Ave
+</streataddress>
+<crosstreat>
+(Btwn N 6th &amp;amp; N 7th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-2547
+</phone>
+<latitude>
+40.717402
+</latitude>
+<longitude>
+-73.957804
+</longitude>
+<cuisines>
+Vegetarian, Health Food
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Cheap Eats, Romantic, Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;Williamsburg, Southside, Lorimer, Graham and Greenpoint&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Mon-Fri: 8:30am-11pm,  Sat-Sun: 9:30am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Boneshakers
+</name>
+<menuxml>
+Boneshakers.xml
+</menuxml>
+<streataddress>
+134 Kingsland Ave
+</streataddress>
+<crosstreat>
+(At Beadel St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 963-0656
+</phone>
+<latitude>
+40.721058
+</latitude>
+<longitude>
+-73.9406039
+</longitude>
+<cuisines>
+Sandwiches, Vegetarian, Vegan
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri: 7am-10pm,  Sat-Sun: 9am-9pm,
+</hours>
+<website>
+http://www.brooklynboneshakers.com
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Boulevard
+</name>
+<menuxml>
+Boulevard.xml
+</menuxml>
+<streataddress>
+253 Bushwick Ave
+</streataddress>
+<crosstreat>
+(Btwn Montrose &amp;amp; Johnson Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 381-2442
+</phone>
+<latitude>
+40.707243
+</latitude>
+<longitude>
+-73.939492
+</longitude>
+<cuisines>
+Sandwiches
+</cuisines>
+<price>
+$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri: 7:30am-8:30pm,  Sat-Sun: 9:30am-8:30pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bozu
+</name>
+<menuxml>
+Bozu.xml
+</menuxml>
+<streataddress>
+296 Grand St
+</streataddress>
+<crosstreat>
+(Btwn Havemeyer &amp;amp; Roebling St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-7770
+</phone>
+<latitude>
+40.71278
+</latitude>
+<longitude>
+-73.957551
+</longitude>
+<cuisines>
+Japanese, Tapas/Small Plates
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Outdoor Dining, Romantic, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 6pm-12am,  Fri-Sat: 6pm-1am,
+</hours>
+<website>
+http://www.oibozu.com
+</website>
+<meals>
+Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Bridge Urban Winery &amp;amp; Tasting Room
+</name>
+<menuxml>
+Bridge Urban Winery &amp;amp; Tasting Room.xml
+</menuxml>
+<streataddress>
+20 Broadway
+</streataddress>
+<crosstreat>
+(Btwn Kent Ave &amp;amp; Dunham Pl)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-2800
+</phone>
+<latitude>
+40.7107495
+</latitude>
+<longitude>
+-73.968047
+</longitude>
+<cuisines>
+Italian, Tapas/Small Plates, Wine Bar
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Tasting Menu, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri: 6am-12am,  Sat-Sun: 4pm-12am (Kitchen Opens At 6 Pm),
+</hours>
+<website>
+http://www.bridgevineyards.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Brooklyn Bowl
+</name>
+<menuxml>
+Brooklyn Bowl.xml
+</menuxml>
+<streataddress>
+61 Wythe Ave
+</streataddress>
+<crosstreat>
+(Btwn N 11th &amp;amp; N 12th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 963-3369
+</phone>
+<latitude>
+40.721876
+</latitude>
+<longitude>
+-73.957676
+</longitude>
+<cuisines>
+American (Traditional), Bar Food
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Open Late, Happy Hour, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Tue-Sun: 6pm-2am,  Fri-Sat: 6pm-4am,
+</hours>
+<website>
+http://www.brooklynbowl.com
+</website>
+<meals>
+Dinner
+</meals>
+<price>
+$$
+</price>
+<features>
+Open Late, Outdoor Dining, Bar Scene
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Sat: 9am-3am,  Sun: 10am-3am,  Brunch,  Sat-Sun: 11am-3:30pm,
+</hours>
+<website>
+http://www.brooklynfireproof.com
+</website>
+<meals>
+Breakfast, Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Brooklyn Label
+</name>
+<menuxml>
+Brooklyn Label.xml
+</menuxml>
+<streataddress>
+180 Franklin St
+</streataddress>
+<crosstreat>
+(At Java St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 389-2806
+</phone>
+<latitude>
+40.731679
+</latitude>
+<longitude>
+-73.957519
+</longitude>
+<cuisines>
+Sandwiches, Coffeehouses, Salads
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri: 7am-5pm,  Sat-Sun: 9am-5pm,  Delivery: 11am-5pm, 
+</hours>
+<website>
+http://www.brooklynlabel.com
+</website>
+<meals>
+Breakfast, Lunch, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Brooklyn Standard Deli
+</name>
+<menuxml>
+Brooklyn Standard Deli.xml
+</menuxml>
+<streataddress>
+188 Nassau Ave
+</streataddress>
+<crosstreat>
+(At Humboldt St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 472-2150
+</phone>
+<latitude>
+40.725432
+</latitude>
+<longitude>
+-73.945773
+</longitude>
+<cuisines>
+Delis, Bagels, Sandwiches, Vegetarian, Vegan
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 7am-11pm,
+</hours>
+<website>
+http://www.brooklynstandarddeli.com
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+<price>
+$
+</price>
+<features>
+Delivery, Online Ordering, Accepts Credit Cards
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;Hewes St to N 12th St&lt;/span&gt; &lt;span&gt;River to Manhattan Ave&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Daily: 11am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+<price>
+$$
+</price>
+<features>
+Open Late, Delivery, Online Ordering, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri: 7am-1am,  Sat-Sun: 7am-3am,
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cafe Argentino
+</name>
+<menuxml>
+Cafe Argentino.xml
+</menuxml>
+<streataddress>
+499 Grand St
+</streataddress>
+<crosstreat>
+(At Union Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 782-9477
+</phone>
+<latitude>
+40.710957
+</latitude>
+<longitude>
+-73.951116
+</longitude>
+<cuisines>
+Argentinean
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+
+</hours>
+<website>
+http://www.cafeargentinony.com
+</website>
+<meals>
+Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cafe Grumpy
+</name>
+<menuxml>
+Cafe Grumpy.xml
+</menuxml>
+<streataddress>
+193 Meserole Ave
+</streataddress>
+<crosstreat>
+(At Diamond St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 349-7623
+</phone>
+<latitude>
+40.728632
+</latitude>
+<longitude>
+-73.948731
+</longitude>
+<cuisines>
+Coffeehouses
+</cuisines>
+<price>
+$
+</price>
+<features>
+WiFi
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri:7am-7pm,  Sat: 9am-7pm,  Sun: 9am-6pm,
+</hours>
+<website>
+http://www.cafegrumpy.com
+</website>
+<meals>
+
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cafe Los Arcos
+</name>
+<menuxml>
+Cafe Los Arcos.xml
+</menuxml>
+<streataddress>
+225A Bushwick Ave
+</streataddress>
+<crosstreat>
+(Btwn Johnson &amp;amp; Montrose Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 381-2550
+</phone>
+<latitude>
+40.7081261
+</latitude>
+<longitude>
+-73.9398913
+</longitude>
+<cuisines>
+Mexican
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 11am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cafe Nyasol
+</name>
+<menuxml>
+Cafe Nyasol.xml
+</menuxml>
+<streataddress>
+173 Montrose Ave
+</streataddress>
+<crosstreat>
+(Btwn Graham Ave &amp;amp; Humboldt St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-1612
+</phone>
+<latitude>
+40.707651
+</latitude>
+<longitude>
+-73.942249
+</longitude>
+<cuisines>
+Coffeehouses, Sandwiches
+</cuisines>
+<price>
+$$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Wed: 8am-6pm,  Thu-Fri: 8am-11pm,  Sat: 9am-11pm,  Sun: 9am-6pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cafe W
+</name>
+<menuxml>
+Cafe W.xml
+</menuxml>
+<streataddress>
+45 Lee Ave
+</streataddress>
+<crosstreat>
+(At Wilson St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 302-3548
+</phone>
+<latitude>
+40.706447
+</latitude>
+<longitude>
+-73.960415
+</longitude>
+<cuisines>
+American (Traditional), Eclectic &amp;amp; International, Kosher
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 7am-6pm,  Fri: 7am-1pm,
+</hours>
+<website>
+http://www.cafeworder.com
+</website>
+<meals>
+Breakfast, Lunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cafecito Bogota
+</name>
+<menuxml>
+Cafecito Bogota.xml
+</menuxml>
+<streataddress>
+1015 Manhattan Ave
+</streataddress>
+<crosstreat>
+(At Green St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 569-0077
+</phone>
+<latitude>
+40.7336316
+</latitude>
+<longitude>
+-73.9548465
+</longitude>
+<cuisines>
+South American
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Cheap Eats, Open Late, Delivery
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;Ash St To Nassau Ave. West St. To McGuiness Blvd.&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Mon-Fri: 7am-11pm,  Sat-Sun: 9am-12am,  Brunch,  Sat-Sun: 10am-4pm,
+</hours>
+<website>
+http://www.cafecitobogota.com
+</website>
+<meals>
+Breakfast, Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Caracas Arepa Bar
+</name>
+<menuxml>
+Caracas Arepa Bar.xml
+</menuxml>
+<streataddress>
+291 Grand St
+</streataddress>
+<crosstreat>
+(Btwn Roebling &amp;amp; Havemeyer St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-6050
+</phone>
+<latitude>
+40.713201
+</latitude>
+<longitude>
+-73.957399
+</longitude>
+<cuisines>
+South American, Venezuelan
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;Kent Ave To N 12th&lt;/span&gt; &lt;span&gt;Marcy Ave To Broadway&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Mon-Fri: 12pm-11pm,  Sat-Sun: 11am-11pm,
+</hours>
+<website>
+http://www.caracasarepabar.com
+</website>
+<meals>
+Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Carino
+</name>
+<menuxml>
+Carino.xml
+</menuxml>
+<streataddress>
+82 S 4th St
+</streataddress>
+<crosstreat>
+(Btwn Berry and Wythe St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-8282
+</phone>
+<latitude>
+40.712534
+</latitude>
+<longitude>
+-73.964709
+</longitude>
+<cuisines>
+Mexican
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 11am-11pm,  Fri-Sat: 11am-12am,
+</hours>
+<website>
+http://www.carinonyc.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Carmine's II Pizzeria
+</name>
+<menuxml>
+Carmine's II Pizzeria.xml
+</menuxml>
+<streataddress>
+436 Union Ave
+</streataddress>
+<crosstreat>
+(Btwn Metropolitan Ave &amp;amp; Devoe St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-8770
+</phone>
+<latitude>
+40.713442
+</latitude>
+<longitude>
+-73.951288
+</longitude>
+<cuisines>
+Pizza, Italian
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Outdoor Dining
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+
+</hours>
+<website>
+http://www.carminespizzeria.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Carmine's Pizzeria
+</name>
+<menuxml>
+Carmine's Pizzeria.xml
+</menuxml>
+<streataddress>
+358 Graham Ave
+</streataddress>
+<crosstreat>
+(At Conselyea St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 782-9659
+</phone>
+<latitude>
+40.714964
+</latitude>
+<longitude>
+-73.944142
+</longitude>
+<cuisines>
+Pizza, Italian
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 11:30am-10pm,
+</hours>
+<website>
+http://www.carminespizzeria.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Carmines
+</name>
+<menuxml>
+Carmines.xml
+</menuxml>
+<streataddress>
+93 Norman Avenue
+</streataddress>
+<crosstreat>
+(Btwn Leonard St &amp;amp; Manhattan Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 383-0417
+</phone>
+<latitude>
+40.7255032
+</latitude>
+<longitude>
+-73.951546
+</longitude>
+<cuisines>
+Italian, Pizza
+</cuisines>
+<price>
+$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 10am-12am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Casanova
+</name>
+<menuxml>
+Casanova.xml
+</menuxml>
+<streataddress>
+338 McGuinness Blvd
+</streataddress>
+<crosstreat>
+(At Green St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 389-0992
+</phone>
+<latitude>
+40.734117
+</latitude>
+<longitude>
+-73.9519849
+</longitude>
+<cuisines>
+Italian, Pizza
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Cheap Eats, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Sat: 11am-11pm,  Sun: 1pm-11:30pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Chai Home Kitchen
+</name>
+<menuxml>
+Chai Home Kitchen.xml
+</menuxml>
+<streataddress>
+124 N 6th St
+</streataddress>
+<crosstreat>
+(At Berry St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-5889
+</phone>
+<latitude>
+40.717891
+</latitude>
+<longitude>
+-73.959601
+</longitude>
+<cuisines>
+Thai
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon: 4pm-12am,  Tue-Sun: 12pm-12am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cheers
+</name>
+<menuxml>
+Cheers.xml
+</menuxml>
+<streataddress>
+612 Metropolitan Ave
+</streataddress>
+<crosstreat>
+(Btwn Lorimer &amp;amp; Leonard St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-4311
+</phone>
+<latitude>
+40.713865
+</latitude>
+<longitude>
+-73.948609
+</longitude>
+<cuisines>
+Thai
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Outdoor Dining, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Thu: 11:30am-11pm,  Fri-Sat: 11:30am-11:30pm,  Sun: 1pm-11pm,
+</hours>
+<website>
+http://www.cheersthairestaurant.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cheminee Fireplace Bistro
+</name>
+<menuxml>
+Cheminee Fireplace Bistro.xml
+</menuxml>
+<streataddress>
+216 Norman Ave
+</streataddress>
+<crosstreat>
+(At Russell St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 383-5091
+</phone>
+<latitude>
+40.7274497
+</latitude>
+<longitude>
+-73.9449718
+</longitude>
+<cuisines>
+French, Bistro
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Open Late, Live Entertainment, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+15.00
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;Greenpoint&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Mon-Thu: 11am-12am,  Fri: 11am-2am,  Sun: 12pm-12am,
+</hours>
+<website>
+http://www.fireplaceny.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Chimu
+</name>
+<menuxml>
+Chimu.xml
+</menuxml>
+<streataddress>
+482 Union Ave
+</streataddress>
+<crosstreat>
+(Between Skillman &amp;amp; Conselyea St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 349-1208
+</phone>
+<latitude>
+40.714884
+</latitude>
+<longitude>
+-73.951444
+</longitude>
+<cuisines>
+Peruvian, South American, Nuevo Latino
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Sun: 10am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+China Express
+</name>
+<menuxml>
+China Express.xml
+</menuxml>
+<streataddress>
+192 Union Ave
+</streataddress>
+<crosstreat>
+(Btwn Montrose Ave &amp;amp; Rutledge St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-7919
+</phone>
+<latitude>
+40.7054639
+</latitude>
+<longitude>
+-73.9502343
+</longitude>
+<cuisines>
+Chinese
+</cuisines>
+<price>
+$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+6.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Thu: 11am-11pm,  Fri-Sat: 11am-12am,  Sun: 12pm-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Chinese Musician Restaurant
+</name>
+<menuxml>
+Chinese Musician Restaurant.xml
+</menuxml>
+<streataddress>
+151 Greenpoint Ave
+</streataddress>
+<crosstreat>
+(At Manhattan Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 383-2413
+</phone>
+<latitude>
+40.730464
+</latitude>
+<longitude>
+-73.953733
+</longitude>
+<cuisines>
+Chinese
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 11:30am-11pm,
+</hours>
+<website>
+http://www.food11222.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Christina's
+</name>
+<menuxml>
+Christina's.xml
+</menuxml>
+<streataddress>
+853 Manhattan Ave
+</streataddress>
+<crosstreat>
+(Btwn Milton St &amp;amp; Noble St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 383-4382
+</phone>
+<latitude>
+40.729085
+</latitude>
+<longitude>
+-73.954054
+</longitude>
+<cuisines>
+Polish, Eastern European, Diners &amp;amp; Coffee Shops
+</cuisines>
+<price>
+$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 8am-8pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+CinaMoon Restaurant
+</name>
+<menuxml>
+CinaMoon Restaurant.xml
+</menuxml>
+<streataddress>
+664 Manhattan Ave
+</streataddress>
+<crosstreat>
+(Btwn Bedford &amp;amp; Norman Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 383-1393
+</phone>
+<latitude>
+40.724725
+</latitude>
+<longitude>
+-73.951023
+</longitude>
+<cuisines>
+Polish, Eastern European
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;Greenpoint/Wiliamsburg&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Sun-Fri: 12pm-9pm,  Sat: 12pm-10pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+City Super Buffet
+</name>
+<menuxml>
+City Super Buffet.xml
+</menuxml>
+<streataddress>
+687 Flushing Ave
+</streataddress>
+<crosstreat>
+(Btwn Tompkins &amp;amp; Throop Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 388-0983
+</phone>
+<latitude>
+40.7005849
+</latitude>
+<longitude>
+-73.9452869
+</longitude>
+<cuisines>
+Chinese, Italian, Mexican
+</cuisines>
+<price>
+$
+</price>
+<features>
+Kid-friendly, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 11am-11pm,  Fri-Sat: 11am-12am,
+</hours>
+<website>
+http://www.citysuperbuffet.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Coco 66
+</name>
+<menuxml>
+Coco 66.xml
+</menuxml>
+<streataddress>
+66 Greenpoint Ave
+</streataddress>
+<crosstreat>
+(Btwn West &amp;amp; Franklin St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 389-7392
+</phone>
+<latitude>
+40.7295609
+</latitude>
+<longitude>
+-73.958326
+</longitude>
+<cuisines>
+Bar Food, American (Traditional)
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Happy Hour, Bar Scene, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 4pm-4am,  Happy Hour:,  Daily: 4pm-8pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Dinner
+</meals>
+<price>
+$$$$
+</price>
+<features>
+Prix Fixe, Delivery, Online Reservations, Accepts Credit Cards
+</features>
+<deliveryamount>
+25.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Sun: 11am-10pm,
+</hours>
+<website>
+http://www.conoandsons.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cozumel
+</name>
+<menuxml>
+Cozumel.xml
+</menuxml>
+<streataddress>
+369 Broadway
+</streataddress>
+<crosstreat>
+(Btwn Hooper &amp;amp; Keap St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(347) 987-4117
+</phone>
+<latitude>
+40.707649
+</latitude>
+<longitude>
+-73.954919
+</longitude>
+<cuisines>
+Mexican
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+&lt;span&gt;Kent to Graham Ave;&lt;/span&gt; &lt;span&gt;Flushing Ave to N 7th St&lt;/span&gt;
+</deliveryarea>
+<hours>
+ Mon-Thu: 11am-11:30pm,  Fri-Sat: 11am-12am,  Sun: 11am-11pm,
+</hours>
+<website>
+http://www.cozumelrestaurantny.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cozzi Pizza
+</name>
+<menuxml>
+Cozzi Pizza.xml
+</menuxml>
+<streataddress>
+584 Broadway
+</streataddress>
+<crosstreat>
+(Btwn Walton &amp;amp; Lorimer St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 963-4848
+</phone>
+<latitude>
+40.703694
+</latitude>
+<longitude>
+-73.94757
+</longitude>
+<cuisines>
+Pizza, Italian
+</cuisines>
+<price>
+$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Thu: 10am-10pm,  Fri-Sat: 10am-11pm,  Sun: 11am-9pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Cupcakeland
+</name>
+<menuxml>
+Cupcakeland.xml
+</menuxml>
+<streataddress>
+390 Metropolitan Ave
+</streataddress>
+<crosstreat>
+(Btwn Havemeyer &amp;amp; N 5th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 388-5260
+</phone>
+<latitude>
+40.713803
+</latitude>
+<longitude>
+-73.955267
+</longitude>
+<cuisines>
+Desserts &amp;amp; Bakeries
+</cuisines>
+<price>
+$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Tue-Sat: 12pm-8pm,  Sun: 12pm-7pm,
+</hours>
+<website>
+http://www.thecupcakeland.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Curioso
+</name>
+<menuxml>
+Curioso.xml
+</menuxml>
+<streataddress>
+227 Roebling St
+</streataddress>
+<crosstreat>
+(Btwn 2nd &amp;amp; 3rd St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 388-2133
+</phone>
+<latitude>
+40.7116287
+</latitude>
+<longitude>
+-73.9593777
+</longitude>
+<cuisines>
+Italian, Pizza
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Group Dining, Open Late, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 11am-11pm,  Fri-Sat: 11am-2am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Curry Heaven
+</name>
+<menuxml>
+Curry Heaven.xml
+</menuxml>
+<streataddress>
+513 Grand St
+</streataddress>
+<crosstreat>
+(Btwn Union Ave &amp;amp; Lorimer St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 388-3021
+</phone>
+<latitude>
+40.711219
+</latitude>
+<longitude>
+-73.950649
+</longitude>
+<cuisines>
+Indian
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Wed: 1pm-1am,  Thu-Sun: 12pm-2am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+D.O.C. Wine Bar
+</name>
+<menuxml>
+D.O.C. Wine Bar.xml
+</menuxml>
+<streataddress>
+83 N 7th St
+</streataddress>
+<crosstreat>
+(At Wythe Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 963-1925
+</phone>
+<latitude>
+40.71978
+</latitude>
+<longitude>
+-73.960341
+</longitude>
+<cuisines>
+Italian, Tapas/Small Plates, Sandwiches, Wine Bar
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Group Dining, Outdoor Dining, Bar Scene
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Thu: 6pm-12am,  Fri-Sat: 6pm-1am,
+</hours>
+<website>
+
+</website>
+<meals>
+Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Damis
+</name>
+<menuxml>
+Damis.xml
+</menuxml>
+<streataddress>
+931 Manhattan Ave
+</streataddress>
+<crosstreat>
+(Btwn Kent &amp;amp; Java St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 349-7501
+</phone>
+<latitude>
+40.731187
+</latitude>
+<longitude>
+-73.954705
+</longitude>
+<cuisines>
+Polish, Eastern European
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Kid-friendly, Delivery
+</features>
+<deliveryamount>
+25.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Thu: 12pm-9pm,  Fri: 12pm-10pm,  Sat: 12pm-11pm,  Sun: 12pm-9pm,
+</hours>
+<website>
+http://www.damisrestaurant.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Danny's Pizzeria
+</name>
+<menuxml>
+Danny's Pizzeria.xml
+</menuxml>
+<streataddress>
+241 Bushwick Ave
+</streataddress>
+<crosstreat>
+(At Montrose Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 381-1669
+</phone>
+<latitude>
+40.7076868
+</latitude>
+<longitude>
+-73.9398197
+</longitude>
+<cuisines>
+Pizza, Italian
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 10am-11pm,  Fri-Sat: 10am-12pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Danny's Pizzeria II
+</name>
+<menuxml>
+Danny's Pizzeria II.xml
+</menuxml>
+<streataddress>
+176 Graham Ave
+</streataddress>
+<crosstreat>
+(Btwn Meserole St &amp;amp; Montrose Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 302-0226
+</phone>
+<latitude>
+40.707762
+</latitude>
+<longitude>
+-73.942936
+</longitude>
+<cuisines>
+Pizza, Italian
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+15.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 10am-11pm,  Fri-Sat: 10am-11pm,
+</hours>
+<website>
+http://www.dannyspizzeria.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Dante's (CLOSED)
+</name>
+<menuxml>
+Dante's (CLOSED).xml
+</menuxml>
+<streataddress>
+153 Roebling St
+</streataddress>
+<crosstreat>
+(Btwn Metropolitan &amp;amp; Hope St)
+</crosstreat>
+<local>
+New York
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 599-1945
+</phone>
+<latitude>
+40.7140223
+</latitude>
+<longitude>
+-73.957859
+</longitude>
+<cuisines>
+American (New), American (Traditional)
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Online Ordering
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Tue-Fri: 4pm-11pm,  Sat: 11am-11pm,  Sun: 11am-9pm,
+</hours>
+<website>
+http://www.dantesonehope.com
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+<price>
+$$$$$
+</price>
+<features>
+Prix Fixe, Online Reservations, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Tue-Thu: 5pm-10pm,  Fri-Sat: 5pm-10:30pm,  Sun: 5pm-10pm,
+</hours>
+<website>
+http://www.deesteakhouse.com
+</website>
+<meals>
+Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Desy's Clam Bar
+</name>
+<menuxml>
+Desy's Clam Bar.xml
+</menuxml>
+<streataddress>
+562 Grand St
+</streataddress>
+<crosstreat>
+(At Lorimer St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(347) 599-0267
+</phone>
+<latitude>
+40.7111075
+</latitude>
+<longitude>
+-73.9493412
+</longitude>
+<cuisines>
+Seafood, Italian
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Open Late, Raw Bar, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 11am-12:30am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Diner
+</name>
+<menuxml>
+Diner.xml
+</menuxml>
+<streataddress>
+85 Broadway
+</streataddress>
+<crosstreat>
+(At Berry St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 486-3077
+</phone>
+<latitude>
+40.710559
+</latitude>
+<longitude>
+-73.96572
+</longitude>
+<cuisines>
+Diners &amp;amp; Coffee Shops
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 11am-2am,  Lunch,  Mon-Fri: 11am-5pm,  Dinner,  Sun-Thu: 6pm-12am,  Fri-Sat: 6pm-1am,  Brunch,  Sat-Sun: 11am-4pm,
+</hours>
+<website>
+http://www.dinernyc.com
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Divine Follie
+</name>
+<menuxml>
+Divine Follie.xml
+</menuxml>
+<streataddress>
+929 Manhattan Ave
+</streataddress>
+<crosstreat>
+(At Kent St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 389-6770
+</phone>
+<latitude>
+40.7311364
+</latitude>
+<longitude>
+-73.9544363
+</longitude>
+<cuisines>
+Italian
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 12pm-10pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Dokebi Bar &amp;amp; Grill
+</name>
+<menuxml>
+Dokebi Bar &amp;amp; Grill.xml
+</menuxml>
+<streataddress>
+199 Grand St
+</streataddress>
+<crosstreat>
+(Btwn Bedford St &amp;amp; Driggs Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 782-1424
+</phone>
+<latitude>
+40.714298
+</latitude>
+<longitude>
+-73.960193
+</longitude>
+<cuisines>
+Korean, Barbecue
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+15.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 12pm-12am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Don Pancho
+</name>
+<menuxml>
+Don Pancho.xml
+</menuxml>
+<streataddress>
+492 Grand St
+</streataddress>
+<crosstreat>
+(At Borinquen Pl)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 782-1696
+</phone>
+<latitude>
+40.7109423
+</latitude>
+<longitude>
+-73.9510822
+</longitude>
+<cuisines>
+Mexican
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 11am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Doner Turkish Food
+</name>
+<menuxml>
+Doner Turkish Food.xml
+</menuxml>
+<streataddress>
+189 Bedford Ave
+</streataddress>
+<crosstreat>
+(Btwn N 6th &amp;amp; N 7th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-7900
+</phone>
+<latitude>
+40.717462
+</latitude>
+<longitude>
+-73.957738
+</longitude>
+<cuisines>
+Turkish
+</cuisines>
+<price>
+$
+</price>
+<features>
+Cheap Eats, Open Late, Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Wed: 11:30am-11pm,  Thu-Sun: 11:30am-12am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+<price>
+$$
+</price>
+<features>
+Delivery, Online Ordering
+</features>
+<deliveryamount>
+10.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Delivery Hours,  Daily: 6pm-10pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Dram Bar
+</name>
+<menuxml>
+Dram Bar.xml
+</menuxml>
+<streataddress>
+177 S 4th St
+</streataddress>
+<crosstreat>
+(Btwn Driggs Ave &amp;amp; S 5th Pl)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 486-3726
+</phone>
+<latitude>
+40.711335
+</latitude>
+<longitude>
+-73.960768
+</longitude>
+<cuisines>
+Bar Food
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Bar Scene
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 4pm-Closing,
+</hours>
+<website>
+http://www.drambar.com
+</website>
+<meals>
+Dinner
+</meals>
+<price>
+$$$$$
+</price>
+<features>
+Outdoor Dining, Online Reservations, Wheelchair Friendly, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mid Day,  Sat: 3pm-6pm,  Sun: 3:30pm-5:30pm,  Dinner,  Mon-Thu: 6pm-11pm,  Fri-Sat: 6pm-12am,  Sun: 5:30pm-10:30pm,  Brunch,  Sat: 11am-3pm,  Sun: 11am-3:30pm, 
+</hours>
+<website>
+http://www.dresslernyc.com
+</website>
+<meals>
+Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Driggs Pizza
+</name>
+<menuxml>
+Driggs Pizza.xml
+</menuxml>
+<streataddress>
+558 Driggs Ave
+</streataddress>
+<crosstreat>
+(Btwn N 6th &amp;amp; N 7th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 782-4826
+</phone>
+<latitude>
+40.717018
+</latitude>
+<longitude>
+-73.956814
+</longitude>
+<cuisines>
+Pizza, Italian
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Wed: 11am-9:30pm,  Thu-Sat: 10:30am-10:30pm,
+</hours>
+<website>
+http://www.driggspizza.com
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+<price>
+$$$
+</price>
+<features>
+Outdoor Dining, Online Reservations, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Lunch,  Mon-Fri: 11am-3pm,  Dinner,  Mon-Thu: 6pm-11pm,  Fri-Sat: 6pm-12am,  Sun: 6pm-11pm,  Brunch,  Sat: 11am-3pm,  Sun: 11am-3:30pm,  Mid-Day,  Sat: 3pm-6pm,  Sun: 3:30pm-6pm,
+</hours>
+<website>
+http://www.dumontrestaurant.com
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+DuMont Burger
+</name>
+<menuxml>
+DuMont Burger.xml
+</menuxml>
+<streataddress>
+314 Bedford Ave
+</streataddress>
+<crosstreat>
+(Btwn S 1st &amp;amp; S 2nd St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-6128
+</phone>
+<latitude>
+40.7136319
+</latitude>
+<longitude>
+-73.9618768
+</longitude>
+<cuisines>
+Burgers, Sandwiches
+</cuisines>
+<price>
+$$
+</price>
+<features>
+Open Late, Outdoor Dining, Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Kitchen,  Daily: 11am-2am,  Delivery,  Sun-Thu: 11am-12am,  Sat-Sun: 11am-1am,  Brunch,  Sat-Sun: 11am-4pm,
+</hours>
+<website>
+http://www.dumontburger.com
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+East Met West
+</name>
+<menuxml>
+East Met West.xml
+</menuxml>
+<streataddress>
+752 Metropolitan Ave
+</streataddress>
+<crosstreat>
+(At Graham Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-7777
+</phone>
+<latitude>
+40.71439
+</latitude>
+<longitude>
+-73.943865
+</longitude>
+<cuisines>
+Chinese, Japanese, Asian
+</cuisines>
+<price>
+$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+6.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Thu: 11am-11pm,  Fri-Sat: 11am-11pm,  Sun: 11:30am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+Egg
+</name>
+<menuxml>
+Egg.xml
+</menuxml>
+<streataddress>
+135 N 5th St
+</streataddress>
+<crosstreat>
+(At Bedford Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 302-5151
+</phone>
+<latitude>
+40.716916
+</latitude>
+<longitude>
+-73.959217
+</longitude>
+<cuisines>
+American (Traditional), Southern &amp;amp; Soul
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Cheap Eats
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Tue: 7am-3pm,  Wed-Fri: 7am-10pm,  Sat-Sun: 9am-10pm,
+</hours>
+<website>
+http://www.pigandegg.com
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+El Almacen
+</name>
+<menuxml>
+El Almacen.xml
+</menuxml>
+<streataddress>
+557 Driggs Ave
+</streataddress>
+<crosstreat>
+(At N 7th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 218-7284
+</phone>
+<latitude>
+40.716771
+</latitude>
+<longitude>
+-73.9563919
+</longitude>
+<cuisines>
+Argentinean, Mexican, South American
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Outdoor Dining, Romantic, Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Sun-Thu: 5pm-12am,  Fri-Sat: 5pm-1am,  Brunch,  Sat-Sun: 12pm-4pm, 
+</hours>
+<website>
+
+</website>
+<meals>
+Dinner, Brunch
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+El Beit
+</name>
+<menuxml>
+El Beit.xml
+</menuxml>
+<streataddress>
+158 Bedford Ave
+</streataddress>
+<crosstreat>
+(Btwn N 8th &amp;amp; N 9th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 302-1810
+</phone>
+<latitude>
+40.718694
+</latitude>
+<longitude>
+-73.9571
+</longitude>
+<cuisines>
+Coffeehouses
+</cuisines>
+<price>
+$
+</price>
+<features>
+Accepts Credit Cards
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Mon-Fri: 7am-11pm,  Sat-Sun: 8am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+El Loco Burrito
+</name>
+<menuxml>
+El Loco Burrito.xml
+</menuxml>
+<streataddress>
+345 Graham Ave
+</streataddress>
+<crosstreat>
+(At Metropolitan Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 388-8215
+</phone>
+<latitude>
+40.7148013
+</latitude>
+<longitude>
+-73.9444505
+</longitude>
+<cuisines>
+Mexican
+</cuisines>
+<price>
+$
+</price>
+<features>
+Delivery, Accepts Credit Cards
+</features>
+<deliveryamount>
+7.00
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+El Moderno
+</name>
+<menuxml>
+El Moderno.xml
+</menuxml>
+<streataddress>
+519 Metropolitan Ave
+</streataddress>
+<crosstreat>
+(At Union Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 384-6429
+</phone>
+<latitude>
+40.7140839
+</latitude>
+<longitude>
+-73.9514483
+</longitude>
+<cuisines>
+Mexican
+</cuisines>
+<price>
+$$
+</price>
+<features>
+
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 12pm-12am,
+</hours>
+<website>
+
+</website>
+<meals>
+Lunch, Dinner
+</meals>
+</restaurant>
+<restaurant>
+
+<name>
+El Rey II
+</name>
+<menuxml>
+El Rey II.xml
+</menuxml>
+<streataddress>
+457 Bushwick Ave
+</streataddress>
+<crosstreat>
+(At Flushing Ave)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(718) 418-3210
+</phone>
+<latitude>
+40.701797
+</latitude>
+<longitude>
+-73.936719
+</longitude>
+<cuisines>
+Latin American
+</cuisines>
+<price>
+$$$
+</price>
+<features>
+Delivery
+</features>
+<deliveryamount>
+
+</deliveryamount>
+<deliveryarea>
+
+</deliveryarea>
+<hours>
+ Daily: 7:30am-11pm,
+</hours>
+<website>
+
+</website>
+<meals>
+Breakfast, Lunch, Dinner
+</meals>
+</restaurant>
+</root>

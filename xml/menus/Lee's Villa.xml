@@ -1,0 +1,212 @@
+<root>
+<menu_item type="default" category="Appetizers" price=" 4.95" descript="" itemname="Fried Or Steamed Dumplings (8)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.10" descript="" itemname="Egg Roll (1)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.10" descript="" itemname="Vegetable Roll (1)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.65" descript="" itemname="Honey Bar-B-Q Spare Ribs (5)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.75" descript="" itemname="Honey Bar-B-Q Spare Ribs"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.65" descript="" itemname="Honey Roast Pork"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.65" descript="" itemname="Roast Duck"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.25" descript="" itemname="Fried Chicken Wings (6)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.95" descript="" itemname="French Fries"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.95" descript="ripe" itemname="Fried Banana"></menu_item>
+<menu_item type="default" category="Soup" price=" 5.75" descript="with bean curd soup" itemname="Seafood"></menu_item>
+<menu_item type="default" category="Soup" price=" 3.85" descript="" itemname="Special Chinese Soup"></menu_item>
+<menu_item type="default" category="Soup" price=" 3.35" descript="" itemname="Mixed Vegetables Soup"></menu_item>
+<menu_item type="default" category="Soup" price=" 2.25" descript="" itemname="Hot &amp;amp; Sour Soup *"></menu_item>
+<menu_item type="default" category="Soup" price=" 2.25" descript="" itemname="Chicken Corn Soup"></menu_item>
+<menu_item type="default" category="Soup" price=" 1.90" descript="" itemname="Wonton Soup"></menu_item>
+<menu_item type="default" category="Soup" price=" 1.90" descript="" itemname="Chicken Noodle Soup"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 5.75" descript="" itemname="Roast Pork Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 5.75" descript="" itemname="Chicken Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 6.25" descript="" itemname="Shrimp Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 6.25" descript="" itemname="Beef Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 5.75" descript="" itemname="Vegetable Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 5.75" descript="" itemname="Ham Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 6.25" descript="" itemname="House Special Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 6.25" descript="" itemname="Young Chow Fried Rice"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 6.45" descript="" itemname="Chicken Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 6.45" descript="" itemname="Roast Pork Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 7.45" descript="" itemname="Shrimp Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 6.95" descript="" itemname="Beef Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 7.45" descript="" itemname="House Special Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 6.25" descript="" itemname="Vegetable Lo Mein"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 6.50" descript="" itemname="Roast Pork Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 6.50" descript="" itemname="Chicken Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 7.45" descript="" itemname="Shrimp Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 7.00" descript="" itemname="Beef Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 6.25" descript="" itemname="Vegetable Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 6.50" descript="" itemname="Ham Egg Foo Young"></menu_item>
+<menu_item type="default" category="Chow Mein" price=" 6.50" descript="" itemname="Chicken Chow Mein"></menu_item>
+<menu_item type="default" category="Chow Mein" price=" 6.50" descript="" itemname="Roast Pork Chow Mein"></menu_item>
+<menu_item type="default" category="Chow Mein" price=" 7.45" descript="" itemname="Shrimp Chow Mein"></menu_item>
+<menu_item type="default" category="Chow Mein" price=" 6.75" descript="" itemname="Beef Chow Mein"></menu_item>
+<menu_item type="default" category="Chow Mein" price=" 7.45" descript="" itemname="House Special Chow Mein"></menu_item>
+<menu_item type="default" category="Chow Mein" price=" 6.00" descript="" itemname="Vegetable Chow Mein"></menu_item>
+<menu_item type="default" category="Seafood" price=" " descript="" itemname="Live Lobster Cantonese Style"></menu_item>
+<menu_item type="default" category="Seafood" price=" 9.00" descript="with lobster sauce" itemname="Crab Meat Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.75" descript="with lobster sauce" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="" itemname="with broccoli"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="" itemname="with chinese vegetable"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="with curry sauce" itemname="Shrimp *"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="with oyster sauce" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="" itemname="with black bean sauce"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="" itemname="with bean sprouts"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="" itemname="with bean curd"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="with deviled sauce" itemname="Shrimp *"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="with tomato sauce" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="" itemname="Shrimp In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="with snow pea pods" itemname="Shrimp *"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.00" descript="with season bean" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 9.00" descript="with hot pepper sauce" itemname="Squid *"></menu_item>
+<menu_item type="default" category="Seafood" price=" 9.00" descript="with superior sauce" itemname="Jumbo Shrimp *"></menu_item>
+<menu_item type="default" category="Seafood" price=" 9.00" descript="with butter &amp; g.s" itemname="Sauteed Shrimp"></menu_item>
+<menu_item type="default" category="Beef" price=" 8.00" descript="with orange flavor" itemname="Beef *"></menu_item>
+<menu_item type="default" category="Beef" price=" 8.00" descript="" itemname="Sesame Beef *"></menu_item>
+<menu_item type="default" category="Beef" price=" 8.00" descript="with hot pepper sauce" itemname="Beef *"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="Shredded Beef In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Beef" price=" 8.00" descript="with mushrooms &amp; snow pea pods" itemname="Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="Green Pepper Steak"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="with broccoli" itemname="Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="with chinese vegetable"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="with snow pea pods"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="with season bean"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="with bean sprouts"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="with bean curd"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="with curry sauce" itemname="Beef *"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="with oyster sauce" itemname="Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="with black bean sauce"></menu_item>
+<menu_item type="default" category="Beef" price=" 8.35" descript="" itemname="Filet Steak Chinese Style"></menu_item>
+<menu_item type="default" category="Beef" price=" 8.35" descript="with hot special sauce" itemname="Crispy Steak *"></menu_item>
+<menu_item type="default" category="Beef" price=" 7.75" descript="" itemname="Beef Hunan Style *"></menu_item>
+<menu_item type="default" category="Beef" price=" 8.00" descript="with beef" itemname="Triple Nuts"></menu_item>
+<menu_item type="default" category="Beef" price=" 8.00" descript="with 4 pancakes" itemname="Moo Shu Beef"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="with 4 pancakes" itemname="Moo Shu Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="with orange flavor" itemname="Chicken *"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="" itemname="with sesame peking style"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="" itemname="General Tso's Chicken *"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="" itemname="Moo Goo Gai Pan"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="with broccoli" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="" itemname="with chinese vegetable"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="" itemname="snow pea pods"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="" itemname="with season bean"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="" itemname="with bean sprouts"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="" itemname="with bean curd"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="with curry sauce" itemname="Chicken *"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="with oyster sauce" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.00" descript="" itemname="with black bean sauce"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="with cashew nuts" itemname="Diced Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.25" descript="" itemname="with almonds"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="" itemname="Kung Pao Chicken Ding *"></menu_item>
+<menu_item type="default" category="Chicken" price=" 8.00" descript="" itemname="Chicken &amp;amp; Shrimp In Peking Sauce *"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="with chicken" itemname="Triple Nuts"></menu_item>
+<menu_item type="default" category="Chicken" price=" 7.45" descript="" itemname="Chicken Hunan Style *"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="" itemname="Pork Chop Peking Style"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="with chili and spiced sauce" itemname="Pork Chop *"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="with black bean sauce" itemname="Spare Ribs"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.45" descript="with 4 pancakes" itemname="Moo Shu Pork"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="with oyster sauce" itemname="Roast Pork"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="" itemname="with black bean sauce"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="" itemname="with bean sprouts"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="" itemname="with bean curd"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="" itemname="with broccoli"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="" itemname="with chinese vegetable"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="" itemname="with snow pea pods"></menu_item>
+<menu_item type="default" category="Roast Pork" price=" 7.00" descript="" itemname="with season bean"></menu_item>
+<menu_item type="default" category="Vegetables" price=" 5.85" descript="" itemname="Diced Bean Curd Szechuan Style *"></menu_item>
+<menu_item type="default" category="Vegetables" price=" 5.85" descript="" itemname="Sauteed Mixed Vegetables"></menu_item>
+<menu_item type="default" category="Vegetables" price=" 5.85" descript="" itemname="Broccoli In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Vegetables" price=" 6.25" descript="with 4 pancakes" itemname="Moo Shu Vegetable"></menu_item>
+<menu_item type="default" category="Vegetables" price=" 5.85" descript="with oyster sauce" itemname="Sauteed Broccoli"></menu_item>
+<menu_item type="default" category="Vegetables" price=" 6.25" descript="with mushrooms" itemname="Bean Curd"></menu_item>
+<menu_item type="default" category="Vegetables" price=" 6.45" descript="with garlic sauce" itemname="Eggplant *"></menu_item>
+<menu_item type="default" category="Vegetables" price=" 6.45" descript="with garlic sauce" itemname="Season Bean *"></menu_item>
+<menu_item type="default" category="Sweet &amp;amp; Sour $6.75" price=" " descript="" itemname="Sweet &amp;amp; Sour Chicken"></menu_item>
+<menu_item type="default" category="Sweet &amp;amp; Sour $6.75" price=" " descript="" itemname="Sweet &amp;amp; Sour Pork"></menu_item>
+<menu_item type="default" category="Sweet &amp;amp; Sour $6.75" price=" " descript="" itemname="Lemon Chicken"></menu_item>
+<menu_item type="default" category="Sweet &amp;amp; Sour $6.75" price=" " descript="" itemname="Pineapple Chicken"></menu_item>
+<menu_item type="default" category="Sweet &amp;amp; Sour $6.75" price=" " descript="" itemname="Orange Chicken"></menu_item>
+<menu_item type="default" category="Pork Chop &amp;amp; Fried" price=" 7.00" descript="" itemname="Pork Chops (2)"></menu_item>
+<menu_item type="default" category="Pork Chop &amp;amp; Fried" price=" 6.45" descript="" itemname="Fried Jumbo Shrimp (5)"></menu_item>
+<menu_item type="default" category="Pork Chop &amp;amp; Fried" price=" 5.60" descript="" itemname="Fried Chicken (1/2)"></menu_item>
+<menu_item type="default" category="Pork Chop &amp;amp; Fried" price=" 5.60" descript="" itemname="Fried Chicken Bits"></menu_item>
+<menu_item type="default" category="Pork Chop &amp;amp; Fried" price=" 7.30" descript="" itemname="Fried Sliced Fish"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 6.45" descript="" itemname="No.1. Chicken Chow Mein"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 7.00" descript="" itemname="No.2. Shrimp Chow Mein"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 6.75" descript="" itemname="No.3. Pepper Steak"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 6.45" descript="" itemname="No.4. Barbecued Spare Ribs"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 7.00" descript="with lobster sauce" itemname="No.5. Shrimp"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 6.75" descript="" itemname="No.6. Spicy Chicken *"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 6.25" descript="" itemname="No.7. Fried Shrimp"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 6.75" descript="" itemname="No.8. Sweet &amp;amp; Sour Pork"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 7.00" descript="" itemname="No.9. Baby Shrimp In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 6.75" descript="" itemname="No.10. Roast Pork Egg Foo Young"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 7.00" descript="" itemname="No.11. Fried Pork Chop (2)"></menu_item>
+<menu_item type="default" category="Special Combination" price=" 6.00" descript="" itemname="No.12. Fried Chicken Bits"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.30" descript="with pork fried rice" itemname="Roast Duck"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.30" descript="with pork fried rice" itemname="Roast Pork"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.85" descript="with pork fried rice" itemname="Roast Duck And Roast Pork"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with chinese vegetable with pork fried rice" itemname="Seafood"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with broccoli with pork fried rice" itemname="Baby Shrimp"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="" itemname="with chinese vegetable with pork fried rice"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="" itemname="with string bean with pork fried rice"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="" itemname="with bean curd with pork fried rice"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with lobster sauce with pork fried rice" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.20" descript="with pineapple sauce with pork fried rice" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.20" descript="" itemname="with orange sauce with pork fried rice"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.20" descript="" itemname="with lemon sauce with pork fried rice"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 5.60" descript="with plantain and salad" itemname="Fried Chicken Bits"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 7.50" descript="with yellow rice and bean" itemname="Ox Tail Stew"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 5.60" descript="with yellow rice and bean" itemname="1/2 Chicken"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 5.70" descript="with pork fried rice" itemname="Bar B Spare Tips"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 5.35" descript="with pork fried rice and salad" itemname="4 Fried Chicken Wings"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 5.60" descript="with plantains and salad" itemname="1/2 Chicken"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with broccoli with pork fried rice" itemname="Beef"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.20" descript="with broccoli with pork fried rice" itemname="Chicken Or Pork"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with string beans with pork fried rice" itemname="Beef"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.20" descript="with string beans with pork fried rice" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with chinese vegetables with pork fried rice" itemname="Beef"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.20" descript="with chinese vegetable with pork fried rice" itemname="Chicken Or Pork"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with bean curd with pork fried rice" itemname="Beef"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with bean curd with pork fried rice" itemname="Chicken Or Pork"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.20" descript="with pork fried rice" itemname="Pork Chop Salt Or Peking Style"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.20" descript="with pork fried rice" itemname="Spare Ribs In Black Sauce"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.10" descript="with shrimp fried rice and salad" itemname="Fried Jumbo Shrimp"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 7.30" descript="with pork fried rice" itemname="Fried Fish"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 7.30" descript="with pork fried rice" itemname="Fish In Black Bean Sauce"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 7.30" descript="with pork fried rice" itemname="Fish In Lemon Sauce"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 7.30" descript="with pork fried rice" itemname="Fish In Tomato Sauce"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with pork fried rice" itemname="Baby Shrimp And Cashew Nuts"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with triple nuts with pork fried rice" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.30" descript="" itemname="with almond and cashew nuts with pork fried rice"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="with broad noodle with beef dry style" itemname="Chow Fun"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.30" descript="" itemname="with broad noodle with chicken dry style"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.60" descript="" itemname="Chow Fun Wet Style Beef"></menu_item>
+<menu_item type="default" category="Special Suggestions" price=" 6.30" descript="" itemname="Chow Fun Wet Style Chicken Or Roast Pork"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.30" descript="with pork fried rice" itemname="Chicken In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.30" descript="with hot pepper sauce with pork fried rice" itemname="Kung Pao Chicken *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.30" descript="with hunan style with pork fried rice" itemname="Chicken *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.30" descript="with pork fried rice" itemname="Diced Bean Curd Szechuan Style *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with pork fried rice" itemname="Shredded Beef In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.30" descript="with pork fried rice" itemname="Shredded Pork In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with hot pepper sauce with pork fried rice" itemname="Beef *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with pork fried rice" itemname="Szechuan Beef *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with hunan style with pork fried rice" itemname="Beef *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with pork fried rice" itemname="Chicken &amp;amp; Shrimp In Peking Sauce *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with pork fried rice" itemname="Baby Shrimp In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with hot pepper sauce with pork fried rice" itemname="Baby Shrimp *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.85" descript="with orange flavor with pork fried rice" itemname="Beef *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.70" descript="with orange flavor with pork fried rice" itemname="Chicken *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.70" descript="with pork fried rice" itemname="General Tso's Chicken *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.70" descript="with sesame and peking sauce with pork fried rice" itemname="Chicken *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.85" descript="with sesame and peking sauce with pork fried rice" itemname="Beef *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="" itemname="Singapore Rice Noodles *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.30" descript="with curry sauce with pork fried rice" itemname="Chicken *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.85" descript="with pork fried rice" itemname="Triple Crown Hunan Style *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with pork fried rice" itemname="Double Crown Hunan Style *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.10" descript="with yellow rice and bean" itemname="1/2 Chicken In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 7.30" descript="with pork fried rice" itemname="Fish In Garlic Sauce *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with pork fried rice" itemname="Baby Shrimp In Superior Sauce *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with pork fried rice" itemname="Beef Eggplant *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.30" descript="with pork fried rice" itemname="Chicken Eggplant *"></menu_item>
+<menu_item type="default" category="Hot &amp;amp; Spicy Dishes" price=" 6.60" descript="with pork fried rice" itemname="Baby Shrimp Eggplant *"></menu_item>
+</root>

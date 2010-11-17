@@ -1,0 +1,25 @@
+<root>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 2.25" descript="" itemname="Espresso"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 2.75" descript="" itemname="Macchiato"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 3.25" descript="" itemname="Cortado"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 3.25" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 4.00" descript="" itemname="Latte"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 4.50" descript="" itemname="Mocha"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 2.50" descript="" itemname="Americano"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price="(1.5 for here) 2.00" descript="" itemname="French Press"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" " descript="market price" itemname="Clover"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 4.00" descript="wicked or classic" itemname="Hot Chocolate"></menu_item>
+<menu_item type="default" category="Coffee &amp;amp; Espresso Bar" price=" 5.00" descript="" itemname="Soy, Half &amp;amp; Half Or Organic Milk"></menu_item>
+<menu_item type="default" category="Green Teas" price=" 2.50" descript="" itemname="Jasmine Green"></menu_item>
+<menu_item type="default" category="Green Teas" price=" 3.50" descript="" itemname="Emerald Spring"></menu_item>
+<menu_item type="default" category="Black Teas" price=" 2.50" descript="" itemname="English Breakfast"></menu_item>
+<menu_item type="default" category="Black Teas" price=" 2.50" descript="" itemname="Earl Grey"></menu_item>
+<menu_item type="default" category="Black Teas" price=" 3.50" descript="" itemname="Assam"></menu_item>
+<menu_item type="default" category="Herbal Teas $2.50" price=" " descript="" itemname="Peppermint"></menu_item>
+<menu_item type="default" category="Herbal Teas $2.50" price=" " descript="" itemname="Blue Crane"></menu_item>
+<menu_item type="default" category="Herbal Teas $2.50" price=" " descript="" itemname="Blend 333"></menu_item>
+<menu_item type="default" category="Herbal Teas $2.50" price=" " descript="" itemname="Chamomile"></menu_item>
+<menu_item type="default" category="Cold Drinks" price=" " descript="market price + $1" itemname="Iced Clover"></menu_item>
+<menu_item type="default" category="Cold Drinks" price=" 4.50" descript="" itemname="Iced Latte"></menu_item>
+<menu_item type="default" category="Cold Drinks" price=" 5.00" descript="" itemname="Iced Mocha"></menu_item>
+</root>

@@ -1,0 +1,41 @@
+<root>
+<menu_item type="To Go Menu" category="Soup $5" price="" descript="traditional french onion soup w/ gruyere cheese" itemname="French Onion">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Soup $5" price="" descript="" itemname="Soup Of The Day">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Sandwiches &amp;amp; Burgers" price="8.00" descript="toasted ham &amp;amp; melted gruyere cheese sandwich" itemname="Croque Monsieur">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Sandwiches &amp;amp; Burgers" price="9.00" descript="served with homemade french fries" itemname="Open Face Cordon Blue">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Sandwiches &amp;amp; Burgers" price="10.00" descript="grilled rib eye steak set on a fresh baked bun, drizzled with arugula mayo and horseradish sauce, then topped with melted gruyere cheese and finished with crispy onion rings" itemname="Rib Eye Steak Sandwich">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Sandwiches &amp;amp; Burgers" price="8.00" descript="" itemname="Jumbo Lamb/Beef Hamburger">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Side Order" price="11.00" descript="" itemname="Steamed Vegetable Platter">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Side Order" price="4.00" descript="" itemname="Mashed Potatoes">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Side Order" price="4.00" descript="" itemname="Homemade French Fries">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Side Order" price="4.00" descript="" itemname="Sautéed Spinach">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Side Order" price="4.00" descript="" itemname="French Green Beans">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Side Order" price="6.00" descript="" itemname="Assorted Wild Mushrooms">
+
+</menu_item>
+<menu_item type="To Go Menu" category="Side Order" price="4.00" descript="" itemname="Sauteed Bok Choy W/Garlic">
+
+</menu_item>
+</root>

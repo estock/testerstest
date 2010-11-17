@@ -1,0 +1,104 @@
+<root>
+<menu_item type="default" category="International Wraps" price=" 3.75" descript="sliced chicken breast romain lettuce, tomatoes" itemname="Caesar Chicken Wrap"></menu_item>
+<menu_item type="default" category="International Wraps" price=" 3.50" descript="" itemname="Veggie Wrap all Grilled Vegetables"></menu_item>
+<menu_item type="default" category="International Wraps" price=" 3.75" descript="grilled chicken, peppers, lettuce, tomatoes, ranch dressing" itemname="California Wrap"></menu_item>
+<menu_item type="default" category="International Wraps" price=" 3.75" descript="grilled chicken, vegetables" itemname="Grilled Chicken Wrap"></menu_item>
+<menu_item type="default" category="Insalate - Salads" price=" 6.00" descript="with grilled chicken" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="Insalate - Salads" price=" 3.75" descript="lettuce, tomatoe, cucumber olives, peppers" itemname="House Salad"></menu_item>
+<menu_item type="default" category="Insalate - Salads" price=" 6.00" descript="" itemname="Cold Antipasto"></menu_item>
+<menu_item type="default" category="Insalate - Salads" price=" 3.50" descript="" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="Insalate - Salads" price=" 5.00" descript="" itemname="Chicken Cutlet Salad"></menu_item>
+<menu_item type="default" category="Insalate - Salads" price=" 5.50" descript="" itemname="Grilled Chicken Salad"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.00" descript="each, (for 5)" itemname="Zeppolis"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.00" descript="each, (for 5)" itemname="Garlic Knots"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.50" descript="" itemname="Garlic Bread"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.50" descript="" itemname="Jamaican Beef Patties"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 2.25" descript="" itemname="with cheese"></menu_item>
+<menu_item type="default" category="Appetizers" price=" .75" descript="extra" itemname="Cheese"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 2.50" descript="(6 pcs)" itemname="Mozzarella Sticks"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 5.75" descript="with mushroom sauce" itemname="Spaghetti"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 5.75" descript="" itemname="with meatballs sauce, cheese"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 6.25" descript="" itemname="with chicken broccoli"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 7.00" descript="" itemname="Spaghetti Primavera"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 7.00" descript="with shrimp &amp; broccoli" itemname="Spaghetti"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 5.50" descript="" itemname="Chicken Parmesan, Chicken, Sauce, Cheese"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 7.00" descript="" itemname="Chicken Marsala"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 7.00" descript="chicken breast dipped in egg sauteed in white wine sauce" itemname="Chicken Francese"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 7.00" descript="sauteed in tomato sauce pieces, onions, red wine &amp; mushrooms" itemname="Chicken Cacciatore"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 5.50" descript="sliced eggplant topped with tomato sauce &amp; mozzarella cheese" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 5.50" descript="ziti, sauce, mozzarella cheese" itemname="Baked Ziti"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 6.00" descript="" itemname="Spaghetti Sausage &amp;amp; Peppers"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 6.00" descript="large shaped noodle with cream &amp; grated parmigiana cheese sauce" itemname="Fettuccine Alfredo"></menu_item>
+<menu_item type="default" category="Pastas - Your Choice" price=" 5.75" descript="italian sausage, sauce mozzarella cheese" itemname="Sausage Parmigiana"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 3.50" descript="" itemname="Spinach Roll"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 3.50" descript="" itemname="Broccoli Roll"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 3.50" descript="" itemname="Eggplant Roll"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 4.50" descript="" itemname="Vegetable Roll"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 3.50" descript="" itemname="Pepperoni Roll"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 4.00" descript="" itemname="Sausage &amp;amp; Peppers"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 3.50" descript="" itemname="Meatball Roll"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 4.00" descript="" itemname="Chicken Roll"></menu_item>
+<menu_item type="default" category="Rolls &amp;amp; Calzones" price=" 3.50" descript="or with any topping" itemname="Cheese Calzone"></menu_item>
+<menu_item type="default" category="Italian Heros" price=" 5.00" descript="" itemname="Chicken Cutlet Parmigiana"></menu_item>
+<menu_item type="default" category="Italian Heros" price=" 4.50" descript="" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="default" category="Italian Heros" price=" 4.50" descript="" itemname="Meatball Parmigiana"></menu_item>
+<menu_item type="default" category="Italian Heros" price=" 4.75" descript="" itemname="Sausage &amp;amp; Peppers"></menu_item>
+<menu_item type="default" category="Italian Heros" price=" 6.00" descript="" itemname="Shrimp Parmigiana"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 10.50" descript="" itemname="Regular Pie"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 14.00" descript="" itemname="Sicilian"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 12.50" descript="" itemname="Pepperoni"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 12.50" descript="" itemname="Broccoli"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 12.50" descript="" itemname="Mushroom"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 12.50" descript="" itemname="Sausage"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 15.00" descript="" itemname="Grandma"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 13.50" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 12.50" descript="" itemname="Spinach"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 13.50" descript="" itemname="Hawaiian"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 12.50" descript="" itemname="Meatball"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 12.50" descript="" itemname="White"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 14.50" descript="" itemname="Vegetable"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 13.50" descript="" itemname="Baked Ziti"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 12.50" descript="" itemname="Fresh Tomato"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 13.50" descript="" itemname="Extra Cheese"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 14.50" descript="" itemname="Chicken Broccoli"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 13.50" descript="" itemname="Sausage &amp;amp; Pepperoni"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 14.50" descript="" itemname="Chicken &amp;amp; Mushroom"></menu_item>
+<menu_item type="default" category="Regular Pizza Pies" price=" 15.50" descript="" itemname="Bella Supreme Pie"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.75" descript="" itemname="Meatball"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.75" descript="" itemname="Eggplant"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 3.00" descript="" itemname="Grandma"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 1.95" descript="" itemname="Reg - Slice"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.25" descript="" itemname="Sicilian Slice"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.75" descript="" itemname="Broccoli &amp;amp; Mushroom"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.75" descript="" itemname="Sausage &amp;amp; Pepperoni"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.85" descript="" itemname="Chicken &amp;amp; Mushroom"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.85" descript="" itemname="Chicken &amp;amp; Broccoli"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.75" descript="" itemname="Hawaiian"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.25" descript="" itemname="Sausage"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.25" descript="" itemname="Mushroom"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.25" descript="" itemname="White"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.50" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 3.00" descript="" itemname="Supreme"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.25" descript="" itemname="Spinach"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.25" descript="" itemname="Broccoli"></menu_item>
+<menu_item type="default" category="Pizza Slices" price=" 2.25" descript="" itemname="Pepperoni"></menu_item>
+<menu_item type="default" category="Pan Pizza Elegante" price=" 15.50" descript="with sausage peppers &amp; onions" itemname="Pan Pizza"></menu_item>
+<menu_item type="default" category="Pan Pizza Elegante" price=" 15.50" descript="" itemname="spinach or broccoli"></menu_item>
+<menu_item type="default" category="Pan Pizza Elegante" price=" 15.50" descript="" itemname="with any two toppings"></menu_item>
+<menu_item type="default" category="Pan Pizza Elegante" price=" 16.50" descript="" itemname="with any three toppings"></menu_item>
+<menu_item type="default" category="Pan Pizza Elegante" price=" 16.00" descript="specially seasoned with ricotta &amp; mozzarella cheese" itemname="Pizza Bacon"></menu_item>
+<menu_item type="default" category="Pizza Specialties" price=" 21.00" descript="with vegetables" itemname="Stuffed Pizza"></menu_item>
+<menu_item type="default" category="Pizza Specialties" price=" 20.00" descript="" itemname="with eggplant"></menu_item>
+<menu_item type="default" category="Pizza Specialties" price=" 20.00" descript="" itemname="with spinach"></menu_item>
+<menu_item type="default" category="Pizza Specialties" price=" 21.00" descript="" itemname="with chicken &amp;amp; tomato"></menu_item>
+<menu_item type="default" category="Pizza Specialties" price=" 22.00" descript="" itemname="with shrimps"></menu_item>
+<menu_item type="default" category="Pizza Specialties" price=" 20.00" descript="" itemname="with chopped meat"></menu_item>
+<menu_item type="default" category="Pizza Specialties" price=" 20.00" descript="" itemname="with baked ziti"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.25" descript="" itemname="Snapple"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Can Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.25" descript="" itemname="Bottle Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Water"></menu_item>
+<menu_item type="default" category="Cafe - Coffee" price=" 1.00" descript="" itemname="Coffee"></menu_item>
+<menu_item type="default" category="Cafe - Coffee" price=" 1.00" descript="" itemname="Tea"></menu_item>
+<menu_item type="default" category="Cafe - Coffee" price=" 1.25" descript="" itemname="Hot Chocolate"></menu_item>
+</root>

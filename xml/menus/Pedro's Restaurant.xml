@@ -1,0 +1,82 @@
+<root>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 2.00" descript="queso, pollo, res, chorizo, cheese, chicken, beef" itemname="Empanada"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 2.50" descript="queso, pollo, res, pina, cheese, chicken, pineapple" itemname="Tamales"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 3.00" descript="fried yuca" itemname="Yuca Frita"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 2.50" descript="fried plantains maduros, sweet, tostones, salty" itemname="Platano Frito"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 3.00" descript="queso o carne de res cheese, or beef" itemname="Platano Relleno - Stuffed Plantains"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 3.00" descript="with crema y queso" itemname="Platano"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" " descript="" itemname="Sweet Potato"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 4.00" descript="salsa" itemname="Nachos - Chips"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 6.00" descript="" itemname="guacamole"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 5.00" descript="" itemname="queso"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" " descript="habichuelas, queso, pico de gallo y crema blanca, beans, cheese, pico da gallo and sour cream" itemname="Super Nachos"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 10.00" descript="res, pollo, cerdo, beef, chicken, pork" itemname="Con Carne - With Meat"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 10.00" descript="" itemname="Avocado Without Meat"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 2.00" descript="" itemname="Papas Fritas - French Fries Solas Plain"></menu_item>
+<menu_item type="default" category="Aperitivo - Appetizers" price=" 3.00" descript="" itemname="Queso - Cheese"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="carnitas, lechuga, pico de gallo, crema y aguacate, meats, lettuce and avocado" itemname="Tortas De Carnitas"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="jamon, queso, lechuga, tomate, mayonesa y aguacate, ham, cheese, lettuce tomato, and avocado" itemname="Sandwich Mexicano"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="pemil, pepinillo, queso y jamon, pork, pickles, cheese, and ham" itemname="Cubano"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="jamon, queso, mayonesa, ensalada, ham, cheese, mayonnaise, salad" itemname="Sincronizadas"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="beef sandwich" itemname="Sandwich De Bistec"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="chicken sandwich" itemname="Sandwich De Pollo"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.00" descript="chicken sandwich" itemname="Torta De Milanesa"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="tomate, cebolla y chile" itemname="Huevos A La Mexicana"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="arroz, habichuelas with salsa roja" itemname="Huevos Rancheros"></menu_item>
+<menu_item type="default" category="Tacos $2.50" price=" " descript="lechuga, pico de gallo, salsa blanca" itemname="Lettuce, Pico De Gallo, Sour Cream"></menu_item>
+<menu_item type="default" category="Tacos $2.50" price=" " descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Tacos $2.50" price=" " descript="mexican sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Tacos $2.50" price=" " descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Tacos $2.50" price=" " descript="pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Tacos $2.50" price=" " descript="" itemname="Bacalao"></menu_item>
+<menu_item type="default" category="Tacos $2.50" price=" " descript="veggie" itemname="Vegetariano"></menu_item>
+<menu_item type="default" category="Tacos Dorados $8" price=" " descript="" itemname="Lechuga, Pico De Gallo, Guacamole"></menu_item>
+<menu_item type="default" category="Tacos Dorados $8" price=" " descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Tacos Dorados $8" price=" " descript="mexican sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Tacos Dorados $8" price=" " descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Tacos Dorados $8" price=" " descript="pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Tacos Dorados $8" price=" " descript="" itemname="Bacalao"></menu_item>
+<menu_item type="default" category="Tacos Dorados $8" price=" " descript="veggie" itemname="Vegetariano"></menu_item>
+<menu_item type="default" category="Tostadas $4" price=" " descript="lettuce, pico de gallo, sour cream" itemname="Lechuga, Pico De Gallo, Salsa Blanca"></menu_item>
+<menu_item type="default" category="Tostadas $4" price=" " descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Tostadas $4" price=" " descript="mexican sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Tostadas $4" price=" " descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Tostadas $4" price=" " descript="pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Tostadas $4" price=" " descript="" itemname="Bacalao"></menu_item>
+<menu_item type="default" category="Tostadas $4" price=" " descript="veggie" itemname="Vegetariano"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 7.00" descript="cheese" itemname="Queso"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 8.00" descript="beef - chicken" itemname="Res"></menu_item>
+<menu_item type="default" category="Burritos" price=" 10.00" descript="" itemname="Pedro"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.00" descript="veggie" itemname="Vegetariano"></menu_item>
+<menu_item type="default" category="Burritos" price=" 8.00" descript="arroz, habichuelas, pico de gallo, queso, rice, beans, pico de gallo, cheese" itemname="Res - Beef, Chicken, Chorizo, Pork"></menu_item>
+<menu_item type="default" category="Flautas $8" price=" " descript="" itemname="Lechuga, Pico De Gallo"></menu_item>
+<menu_item type="default" category="Flautas $8" price=" " descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Flautas $8" price=" " descript="mexican sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Flautas $8" price=" " descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Flautas $8" price=" " descript="pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Flautas $8" price=" " descript="" itemname="Bacalao"></menu_item>
+<menu_item type="default" category="Chimichangas" price=" 8.00" descript="" itemname="Lechuga, Pico De Gallo"></menu_item>
+<menu_item type="default" category="Chimichangas" price=" 8.00" descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Chimichangas" price=" 8.00" descript="mexican sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Chimichangas" price=" 8.00" descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Chimichangas" price=" 8.00" descript="pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Chimichangas" price=" 8.00" descript="" itemname="Bacalao"></menu_item>
+<menu_item type="default" category="Chimichangas" price=" 11.00" descript="with rice and beans" itemname="Vegetariano - Veggie"></menu_item>
+<menu_item type="default" category="Enchiladas $8" price=" " descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Enchiladas $8" price=" " descript="" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Enchiladas $8" price=" " descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Enchiladas $8" price=" " descript="pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Spanish Food" price=" 7.00" descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Spanish Food" price=" 7.00" descript="cod fish" itemname="Bacalao"></menu_item>
+<menu_item type="default" category="Spanish Food" price=" 8.00" descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Spanish Food" price=" 8.00" descript="pork" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Spanish Food" price=" 9.00" descript="chicken breast with onions" itemname="Pechuga Encebollado"></menu_item>
+<menu_item type="default" category="Spanish Food" price=" 8.00" descript="breaded chicken breast" itemname="Pechuga Empanizada"></menu_item>
+<menu_item type="default" category="Spanish Food" price=" 8.00" descript="pepper steak" itemname="Bistec Con Pimentos"></menu_item>
+<menu_item type="default" category="Daily Specials" price=" " descript="bistec, pemil, pollo y frito, arroz (b,a), habichuelas (n,r), bacalao, robo (steak, pork, chicken with fried plantains, rice (w,y), beans (b,r), cod fish, rabo)" itemname="Lunes- Monday"></menu_item>
+<menu_item type="default" category="Daily Specials" price=" " descript="chuleta y costillitas (chuleta y ribs)" itemname="Martes- Tuesday"></menu_item>
+<menu_item type="default" category="Daily Specials" price=" " descript="espaghetti con pollo-mandogo (spaghetti with chicken-tripe)" itemname="Miercoles- Wednesday"></menu_item>
+<menu_item type="default" category="Daily Specials" price=" " descript="patica de cerdo" itemname="Jueves- Thursday"></menu_item>
+<menu_item type="default" category="Daily Specials" price=" " descript="chicken breast" itemname="Viernes- Friday"></menu_item>
+<menu_item type="default" category="Dessert" price=" 3.00" descript="" itemname="Flan"></menu_item>
+</root>

@@ -1,0 +1,98 @@
+<root>
+<menu_item type="Lunch At Amin Cuisine" category="Vegetarian" price=" 6.50" descript="fresh mixed vegetable cooked in spice flavored sauce" itemname="Mixed Vegetable Curry"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Vegetarian" price=" 6.50" descript="chick peas &amp; spinach cooked in a spice flavored sauce" itemname="Chana Shag"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Vegetarian" price=" 6.50" descript="homemade cheese fried &amp; cooked with fresh spinach" itemname="Shag Ponir"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Vegetarian" price=" 6.75" descript="fresh mixed vegetable sauteed in a herbs &amp; spice, cooked with special pastrami basmathi rice" itemname="Mixed Vegetable Biryani"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Vegetarian" price=" 6.75" descript="eggplant roasted on fire and cooked with onions and peas" itemname="Bartha"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Meat" price=" 6.95" descript="chicken, lamb or beef cooked in our delicately flavored curry sauce" itemname="Chicken&amp;#44; Lamb or Beef Curry"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Meat" price=" 7.25" descript="chicken, lamb or beef cooked with fresh spinach, spice flavored sauce" itemname="Chicken&amp;#44; Lamb or Beef Steak"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Meat" price=" 7.95" descript="marinated patya of chicken roasted in oven with herbs a spices" itemname="Chicken&amp;#44; Tandoori"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Meat" price=" 7.95" descript="marinated boneless chicken roasted in oven with herbs &amp; spices" itemname="Chicken Tikka"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Meat" price=" 7.95" descript="sauteed in herbs &amp; spices, cooked with special pastrami basmathi rice" itemname="Chicken or Meat Biryani"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Seafood" price=" 9.95" descript="shrimp cooked with spice flavored sauce" itemname="Shrimp Curry"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Seafood" price=" 7.75" descript="crab meat cooked with spice flavored sauce" itemname="Crab Meat Curry"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Seafood" price=" 9.95" descript="today's fresh fish marinated herns &amp; spices" itemname="Fish Tandoori"></menu_item>
+<menu_item type="Lunch At Amin Cuisine" category="Seafood" price=" 10.50" descript="choice of shrimp, sauteed herns &amp; spices cooked with special pastrami basmathi rice" itemname="Seafood Biryani"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 3.95" descript="too difficult to put into words, but recommonded" itemname="Ka&amp;#45;chories"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 3.95" descript="samosa, plaza, chicken pakora &amp; papadam" itemname="Indian Hor&amp;#39;s Oeuvres"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 2.50" descript="crisp pastry turnover filled with spices minced meat, vegetable or coconut" itemname="Samosa"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 2.25" descript="banana fritters" itemname="Banana Pakora"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 3.25" descript="chicken fritters" itemname="Chicken Pakora"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 3.25" descript="onion fritters" itemname="Peazi"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 3.25" descript="assorted vegetable poori" itemname="Mixed Vegetable Pakora"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 6.95" descript="a variety of indian barbeque, chicken, lamb &amp; steak kabob" itemname="Grilled Meat Appetizers"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 6.25" descript="shrimp cooked in bengali fashion served with poori" itemname="Fresh Shrimp"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 1.25" descript="chicken liver sauteed with herbs &amp; spices served with poori" itemname="Dhaka Liver"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 1.25" descript="thin bean works" itemname="Papadom"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Appetizers" price=" 3.95" descript="potaotes cakes with chutney and chick peas" itemname="Aloo Tikiyas"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Soups $2.50" price=" " descript="delicately spices fresh lentil puree" itemname="Mulligatawny"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Soups $2.50" price=" " descript="tomato soup cooked with tangy spices" itemname="Vegetable"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Soups $2.50" price=" " descript="delicious hot coconut milk" itemname="Coconut Soup"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Soups $2.50" price=" " descript="delicately spices with fresh mushroom" itemname="Mushroom Soup"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Curry Specialties" price=" 9.50" descript="choice of lamb, bee, chicken or keema, cooked with onions, tomatoes in a spice flavored sauce, bhuma is a heavy tjhick sauce" itemname="Curry or Bhuna"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Curry Specialties" price=" 9.75" descript="cooked with pineapple" itemname="Dildar Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Curry Specialties" price=" 9.75" descript="choice of lamb, beef, chicken or keema cooked with mushroom or spinach flavored sauce" itemname="Mushroom or Shaag Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Curry Specialties" price=" 9.75" descript="choice of lamb, beef, chicken or keema cooked with lentils, hot spices, hot spices persian style" itemname="Dansak Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Curry Specialties" price=" 9.75" descript="choice of lamb, beef, chicken or keema cooked with green peas or chick peas in special flavored sauce" itemname="Mottor or Chana Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Curry Specialties" price=" 9.75" descript="choice of lamb, chicken or keema, cooked with onion, fresh tomatoes in a special flavored sauce,madeas is medium, hot &amp; vindaloo very hot" itemname="Madras or Vindaloo"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Curry Specialties" price=" 10.50" descript="choice of lamb, beef, chicken or keema cooked with freshly ground spices, tomatoes and onion, served in  hot iron plate" itemname="Korahi"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Seafood Specialties" price=" 14.95" descript="cooked with spice flavored thick sauce &amp; madras medium hot" itemname="Shrimp Bhuna or Madras"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Seafood Specialties" price=" 14.50" descript="shrimp cooked with spice flavored sauce" itemname="Shrimp Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Seafood Specialties" price=" 14.95" descript="shrimp cooked with lentil hot sauce" itemname="Shrimp Pathia"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Seafood Specialties" price=" 10.95" descript="crabmeat cooked with spice flavored sauce" itemname="Crabmeat Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Seafood Specialties" price=" 10.95" descript="crabmeat cooked with lentil, hot sauce" itemname="Crabmeat Pathia"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Seafood Specialties" price=" 19.95" descript="lobster cooked with spice flavored sauce" itemname="Lobster Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Seafood Specialties" price=" 10.95" descript="fish cooked in delicately spiced sauce which the flavor" itemname="Fish Marsala"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Seafood Specialties" price=" 14.95" descript="shrimp cooked with sauteed onion, lime juice, spices and fresh coconut milk" itemname="Goan Shrimp Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Fresh Vegetables Varieties" price=" 8.50" descript="eggplant roasted on fire and cooked with onions and peas" itemname="Bartha"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Fresh Vegetables Varieties" price=" 9.25" descript="vegetable dumplings, cooked with tomatoes &amp; cream sauce" itemname="Malai Koftas"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Fresh Vegetables Varieties" price=" 8.50" descript="a piquant blend of spices in the preparation of cauliflower with tomato (thai bhajee can be cidered as a side dish $4.50)" itemname="Gobi Bhajee"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Fresh Vegetables Varieties" price=" 8.75" descript="spinach tastefully blended with tomatoes &amp; onions" itemname="Chana Shag"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Fresh Vegetables Varieties" price=" 8.75" descript="whole baby okra deliciously simmered with tomaotes &amp; onions" itemname="Bindi Bhajee"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Fresh Vegetables Varieties" price=" 8.75" descript="fresh mushrooms &amp; spinach cooked in spice flavored sauce" itemname="Mushroom Shag"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Fresh Vegetables Varieties" price=" 8.75" descript="potatoes, peas &amp; cauliflower cooked together in masala" itemname="Alu Mottor Gobi"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Fresh Vegetables Varieties" price=" 9.25" descript="homemade cheese fried &amp; cooked with fresh spinach" itemname="Shag Ponir"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Biryani &amp;amp; Kurma Dishes" price=" 9.95" descript="choice of lamb, beef, chicken or keema or vegetables" itemname="Biryani"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Biryani &amp;amp; Kurma Dishes" price=" 10.95" descript="" itemname="Amin Special mixed Meat Biryani"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Biryani &amp;amp; Kurma Dishes" price=" 14.95" descript="choice of shrimp, clam or crab meat sauteed herbs &amp; spices, cooked with special pakistani basmathi rice" itemname="Seafood Biryani"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Biryani &amp;amp; Kurma Dishes" price=" 10.50" descript="choice of lamb, beef, chicken or keema or vegetable cooked with cream &amp; almonds, sweet spices" itemname="Kurma"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Biryani &amp;amp; Kurma Dishes" price=" 14.75" descript="choice of shrimp, clam or cram meat cooked with almond, gently spiced" itemname="Seafood Kurma"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Biryani &amp;amp; Kurma Dishes" price=" 10.95" descript="choice of lamb, beef, chicken or keema or vegetable cooked with coconut, gently spiced" itemname="Malai"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Biryani &amp;amp; Kurma Dishes" price=" 14.25" descript="choice of shrimp, clam or crab meat cooked with coconut, gently spiced" itemname="Seafood Malai"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Biryani &amp;amp; Kurma Dishes" price=" 14.95" descript="shrimp cooked with sauteed onion juice, spices and fresh coconut milk" itemname="Goan Shrimp Curry"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 11.95" descript="spring chicken marinated in mild spices, barbequed over charcoal" itemname="Chicken Tandoori"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 11.25" descript="cubed chicken marinated in mild spices, barbequed on skewers over charcoal" itemname="Chicken Kebab"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 12.95" descript="cubed reg of lamb marinated in mild spices, barbequed over charcoal" itemname="Sheesh Kebab"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 11.50" descript="beef chunks marinated in mild spices, barbequed on skewer over skewer over charcoal served with mushroom or spinach" itemname="Boti Kebab"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 11.50" descript="boneless chicken marinated in herbs &amp; spices, barbequed over charcoal" itemname="Chicken Tikka"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 11.95" descript="boneless chicken marinated in herbs &amp; spices, barbequed over charcoal cooked in cream &amp; almonds" itemname="Chicken Tikka Marsala"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 11.50" descript="marinated pieces of chicken cooked with fresh spinach" itemname="Kati Chicken"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 15.95" descript="king size shrimp marinated in herbs &amp; spices, barbequed over charcoal" itemname="Shrimp Tandoori"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 12.95" descript="today's fresh fish marinated in herbs &amp; spices" itemname="Fish Tandoori"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 13.95" descript="marinated mixed vegetables skewered over vegetables tandoori" itemname="Bombay Chicken"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 11.25" descript="marinated mixed vegetables skewered over vegetable tandoori" itemname="Vegetable Tandoori"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Tandoori Charcoal Barbecues &amp;amp; Grills" price=" 12.95" descript="tandoori chicken breast chicken in a cream sauce and ketchup" itemname="Chicken Makhni"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 1.95" descript="unleaved bread freshly baked in a clay oven" itemname="Naan"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 1.95" descript="multi-layered bread freshly baked in a clay oven" itemname="Paratha"><extra type="add" price=" 1.95" descript="multi&amp;#45;layered crisp bread"></extra>
+</menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 2.25" descript="lightly  fluffy bread" itemname="Poori"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 2.95" descript="paratha stuffed with sauteed spice flavored potatoes" itemname="Alu Paratha"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 3.25" descript="spiced flavored meat filled bread" itemname="Keema Paratha"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 3.25" descript="stuffed with minced meat, egg, chopped onion &amp; green peppers" itemname="Mughli Paratha"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 2.00" descript="roasted bread" itemname="Chapati"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 2.95" descript="" itemname="Onion Kulsa or Garlic Nan"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Amin Special Homemade Breads" price=" 3.25" descript="" itemname="Keema Nan"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Side Dishes" price=" 2.25" descript="indian salad of cucumber, tomates, onion &amp; kettuce" itemname="Green Salad"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Side Dishes" price=" 1.75" descript="yogurt with diced cucumber garnished with herbs &amp; spices" itemname="Cucumber Rayta"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Side Dishes" price=" 1.75" descript="sweet &amp; sour" itemname="Mongo Chutney"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Side Dishes" price=" 1.75" descript="hot &amp; spicy" itemname="Mongo or Lemon Pickle"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Side Dishes" price=" 3.50" descript="basmathi rice, granished with natural fragrances cooked with fruits &amp; nuts" itemname="Kashmir Pillaw"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Side Dishes" price=" 3.75" descript="" itemname="A Large Tray of Assorted Chustenys &amp;amp; Condiments"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Combination Platters" price=" 14.95" descript="a. chicken tandoori, b. lamb kurma, c. chicken saag, d. nan &amp; mango chutney" itemname="1. Non Vegetarian"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Combination Platters" price=" 13.00" descript="a. motor ponir, b. mushroom saag, c. aloo motor gobi, d. nan &amp; rayta" itemname="2. Vegetarian"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Combination Platters" price=" 14.95" descript="a. shrimp saag, b. crab kurma, c. baby clam dildar, d. nan &amp; rayta" itemname="3. Seafood combination Platter"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Combination Platters" price=" 14.95" descript="a. chicken tandoori, b. shrimp saag, c. aloo motor gobi, d. nan &amp; mango chutney" itemname="4. mixed combination Platter"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Tandoori Dinner $31.95" price=" " descript="" itemname="Choice of Two Appetizers&amp;#44; Soups&amp;#44; Tandoori &amp;#40;2&amp;#41;"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Tandoori Dinner $31.95" price=" " descript="" itemname="Paratha &amp;#40;1&amp;#41;&amp;#44; Mango Chutney&amp;#44; Dessets &amp;#40;2&amp;#41;"></menu_item>
+<menu_item type="Dinner At Amin Cuicine" category="Special Tandoori Dinner $31.95" price=" " descript="except seafood" itemname="Entrees"></menu_item>
+</root>

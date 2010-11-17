@@ -1,0 +1,185 @@
+<root>
+<menu_item type="Lunch" category="Starters" price="6.00" descript="yogurt&amp;#44; dill" itemname="Chilled Cucumber">
+
+</menu_item>
+<menu_item type="Lunch" category="Starters" price="14.00" descript="baby arugula&amp;#44; parmesan&amp;#44; lemon&amp;#44; herbs&amp;#44; creamy garlic dressing" itemname="Crispy Artichokes">
+
+</menu_item>
+<menu_item type="Lunch" category="Starters" price="14.00" descript="ginger molasses sauce" itemname="Smoked BBQ Spare Ribs">
+
+</menu_item>
+<menu_item type="Lunch" category="Starters" price="8.00" descript="shaved parmesan&amp;#44; grilled sourdough&amp;#44; creamy garlic dressing" itemname="Hearts Of Romaine">
+
+</menu_item>
+<menu_item type="Lunch" category="Starters" price="9.00" descript="danish blue&amp;#44; radish&amp;#44; haricots vert&amp;#44; bacon &amp;amp; pecans&amp;#44; balsamic vinaigrette" itemname="Dumont Salad">
+
+</menu_item>
+<menu_item type="Lunch" category="Entrees" price="16.00" descript="mashed potatoes&amp;#44; gravy" itemname="Buttermilk Fried Half Chicken">
+
+</menu_item>
+<menu_item type="Lunch" category="Entrees" price="18.00" descript="frisee&amp;#44; fingerlings&amp;#44; roasted red peppers &amp;amp; blue cheese" itemname="Grilled Hanger Steak">
+
+</menu_item>
+<menu_item type="Lunch" category="Entrees" price="14.00" descript="cheddar&amp;#44; gruyere&amp;#44; parmesan&amp;#44; bacon &amp;amp; radiatore pasta" itemname="Dumac &amp;amp; Cheese">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="12.50" descript="fries&amp;#44; boston bibb lettuce&amp;#44; tomato &amp;amp; pickles" itemname="DuMont Burger">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="15.00" descript="creamy mushroom broth&amp;#44; asparagus&amp;#44; &amp;amp; lemon caper emulsion" itemname="cheese  &amp;#40;sharp white cheddar&amp;#44; american&amp;#44; danish blue &amp;amp; gruyere&amp;#41;&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;add&amp;nbsp;1.50&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;sub&quot;&gt;&lt;th&gt;&lt;cite&gt;bacon add&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2.00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;House Made Gnocchi">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="14.00" descript="cheddar&amp;#44; gruyere&amp;#44; parmesan&amp;#44; bacon &amp;amp; radiatore pasta" itemname="Dumac &amp;amp; Cheese">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="20.00" descript="roast garlic mashed potato&amp;#44; glazed cipollini onion&amp;#44; pan sauce" itemname="Roasted Hudson Valley Half Chicken">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="24.00" descript="boulanger potatoes&amp;#44; spinach&amp;#44; bordelaise" itemname="Grilled Hanger Steak">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="30.00" descript="fries &amp;amp; green peppercorn sauce" itemname="Grilled Ny Strip">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="18.00" descript="mashed potatoes&amp;#44; roasted tomatoes&amp;#44; kalamata olives&amp;#44; roasted garlic" itemname="Saut&amp;eacute;ed Skate">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs" price="10.00" descript="goat cheese&amp;#44; fine herbs&amp;#44; homefries&amp;#44; greens" itemname="Mushroom Omelet">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs" price="12.00" descript="gruyere&amp;#44; caramelized onion&amp;#44; homefries&amp;#44; greens" itemname="Black Forest Ham Omelet">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs" price="10.00" descript="2 poached eggs&amp;#44; hollandaise&amp;#44; greens  ham&amp;#44; spinach or house smoked salmon" itemname="Brioche &amp;amp; Eggs">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs" price="10.00" descript="2 eggs any style&amp;#44; flour tortilla&amp;#44; charred tomato salsa&amp;#44; black beans &amp;amp; avocado" itemname="add&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2.00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;Huevos Rancheros">
+
+</menu_item>
+<menu_item type="Brunch" category="Sandwiches" price="14.00" descript="bibb lettuce&amp;#44; tomato&amp;#44; red pepper rouille" itemname="Tempura Fried Softshell Crab">
+
+</menu_item>
+<menu_item type="Brunch" category="Sandwiches" price="20.00" descript="bibb lettuce&amp;#44; tomato&amp;#44; tarragon aioli" itemname="Maine Lobster Salad">
+
+</menu_item>
+<menu_item type="Brunch" category="Sandwiches" price="12.00" descript="bacon&amp;#44; bibb lettuce&amp;#44; tomato" itemname="House Roasted Turkey Club">
+
+</menu_item>
+<menu_item type="Brunch" category="Sandwiches" price="12.50" descript="fries&amp;#44; boston bibb lettuce&amp;#44; tomato &amp;amp; pickles" itemname="Dumont Burger">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides" price="4.00" descript="" itemname="Home Fries">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides" price="4.00" descript="" itemname="Bagel">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides" price="4.00" descript="" itemname="Smoked Salmon">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides" price="4.00" descript="" itemname="Bacon">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides" price="2.00" descript="" itemname="Sourdough Toast">
+
+</menu_item>
+<menu_item type="Brunch" category="Classics $9" price="" descript="vodka&amp;#44; kahlua&amp;#44; shot of espresso&amp;#44; with mint garnish" itemname="Espresso Martini">
+
+</menu_item>
+<menu_item type="Brunch" category="Classics $9" price="" descript="fresh squeezed lemonade old grand&amp;#45;dad bourbon" itemname="Grandad&amp;rsquo;s Lemonade">
+
+</menu_item>
+<menu_item type="Brunch" category="Classics $9" price="" descript="vodka&amp;#44; pomegranate juice lemon juice with a lemon twist" itemname="Pomegranate Martini">
+
+</menu_item>
+<menu_item type="Brunch" category="Classics $9" price="" descript="firefly sweet tea vodka&amp;#44; lemon" itemname="Grandma&amp;#39;s Iced Tea">
+
+</menu_item>
+<menu_item type="Brunch" category="Classics $9" price="" descript="vodka&amp;#44; tomato juice&amp;#44; pepper&amp;#44; horseradish &amp;amp; tabasco sauce" itemname="Bloody Mary">
+
+</menu_item>
+<menu_item type="Brunch" category="Classics $9" price="" descript="solerno blood orange liqueur&amp;#44; fresh orange grapefruit &amp;amp; sod" itemname="Citrus Splash">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Abita Light">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Bass Ale">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Budweiser">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Pilsner Urquell">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Sierra Nevada Pale Ale">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Yuengling Lager">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Stella Artois">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Dentergems Draft">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $5" price="" descript="" itemname="Jever Pilsner Draft">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Sweet Wine" price="11.00" descript="sparkling moscato" itemname="La Spignetta 2006">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Sweet Wine" price="8.00" descript="quinta do infantado ruby" itemname="Madeira&amp;#44; Port &amp;amp; Sherry">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Sweet Wine" price="10.00" descript="" itemname="Dow&amp;rsquo;s 10 Year Tawny">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Sweet Wine" price="12.00" descript="malmsey madeira nv" itemname="Rare Wine Co. Ny">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Sweet Wine" price="8.00" descript="" itemname="Lustau Amontillado &amp;quot;Los Arcos&amp;quot;">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Sweet Wine" price="8.00" descript="" itemname="Lustau Capataz Andres">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Coffee Drinks" price="2.00" descript="" itemname="Coffee">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Coffee Drinks" price="2.00" descript="" itemname="Espresso">
+
+</menu_item>
+<menu_item type="Dessert Menu" category="Coffee Drinks" price="3.00" descript="" itemname="Cappuccino">
+
+</menu_item>
+<menu_item type="Specials" category="Starters $14" price="" descript="shaved fennel&amp;#44; baby arugula&amp;#44; citrus&amp;#44; lemon caper emulsion" itemname="Peekytoe Crab Cake">
+
+</menu_item>
+<menu_item type="Specials" category="Starters $14" price="" descript="avocado&amp;#44; tomato&amp;#44; cilantro&amp;#44; thai chili dressing&amp;#44; jalapeno" itemname="Diver Scallop Ceviche">
+
+</menu_item>
+<menu_item type="Specials" category="Starters $14" price="" descript="sweet corn&amp;#44; favas&amp;#44; cherry tomatoes&amp;#44; lime cilantro sauce" itemname="Peekytoe Crab Cake">
+
+</menu_item>
+<menu_item type="Specials" category="Starters $14" price="" descript="fshaved fennel&amp;#44; baby arugula&amp;#44; citrus" itemname="Grilled Diver Scallops">
+
+</menu_item>
+<menu_item type="Specials" category="Starters $14" price="" descript="baby arugula&amp;#44; aged goat cheese&amp;#44; picholine olive &amp;amp; fennel relish" itemname="Heirloom Tomato Salad">
+
+</menu_item>
+<menu_item type="Mid Day Menu" category="Soup &amp;amp; Salads" price="6.00" descript="yogurt&amp;#44; dill" itemname="Chilled Cucumber">
+
+</menu_item>
+<menu_item type="Mid Day Menu" category="Soup &amp;amp; Salads" price="9.00" descript="haricots vert&amp;#44; pecans&amp;#44; danish blue&amp;#44; radish&amp;#44; bacon &amp;amp; balsamic" itemname="Dumont Salad">
+
+</menu_item>
+<menu_item type="Mid Day Menu" category="Soup &amp;amp; Salads" price="14.00" descript="baby arugula&amp;#44; shaved fennel&amp;#44; citrus&amp;#44; lemon caper emulsion" itemname="Peekytoe Crab Cake">
+
+</menu_item>
+<menu_item type="Mid Day Menu" category="Soup &amp;amp; Salads" price="11.00" descript="herbed goat cheese&amp;#44; roasted red pepper grilled red onion&amp;#44; fingerlings&amp;#44; baby arugula" itemname="Roasted Beets">
+
+</menu_item>
+</root>

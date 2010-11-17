@@ -1,0 +1,128 @@
+<root>
+<menu_item type="default" category="Appetizers" price=" 10.50" descript="with double mustard cream sauce" itemname="Crab Cakes"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.50" descript="in a special green sauce" itemname="Sauteed Shrimp"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.50" descript="sauteed clams in garlic sauce" itemname="Clams Al Ajillo"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.50" descript="sauteed shrimp in garlic sauce" itemname="Gambas Al Ajillo"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.50" descript="with spicy or sweet marinara sauce" itemname="Fried Calamari"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.50" descript="a composition of nachos with beef or chicken layered with beans &amp; melted cheese served with guacamole, sour cream &amp; pico de gallo" itemname="Nachos Paraiso"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.50" descript="jumbo wings with our famous buffalo roadhouse sauce, served with celery, carrot sticks, &amp; blue cheese dressing" itemname="Buffalo Chicken Wings"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.00" descript="served avocado slices" itemname="Shrimp Cocktail"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.50" descript="ripe hass avocados with fresh spices" itemname="Guacamole"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.00" descript="dominican style beef or chicken or cheese or vegetable patties served with guacamole sour cream &amp; pico de gallo" itemname="Empanadas"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.50" descript="grilled flour tortillas filled with cheese &amp; your choice of chicken or mushrooms, served with guacamole, sour cream &amp; pico de gallo" itemname="Quesadilla"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.00" descript="octopus marinated with olive oil, lemon, garlic, parsley &amp; paprika" itemname="Pulpo A La Gallega"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.50" descript="fried shrimp with cajun remoulade" itemname="Popcorn Shrimp"></menu_item>
+<menu_item type="default" category="Soups" price=" 5.25" descript="served with sour cream, diced onions, cheese &amp; chips" itemname="Homemade Turkey Chili"></menu_item>
+<menu_item type="default" category="Soups" price=" 4.50" descript="dominican style chicken soup with potatoes, carrots &amp; noodles" itemname="Homemade Chicken Soup"></menu_item>
+<menu_item type="default" category="Soups" price=" 4.50" descript="" itemname="Vegetable Soup"></menu_item>
+<menu_item type="default" category="Salads" price=" 5.95" descript="mixed mesclun with tom, cucumbers &amp; onion" itemname="House Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.50" descript="sliced hass avocado with lettuce, tomatoes, onions &amp; carrots" itemname="Paraiso Avocado Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 8.50" descript="romaine lettuce tossed in a homemade caesar dressing, croutons &amp; romano cheese" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 2.50" descript="" itemname="add grilled chicken breast extra"></menu_item>
+<menu_item type="default" category="Salads" price=" 11.95" descript="marinated grilled chicken breast over mixed greens, tomatoes, cucumbers &amp; red onions" itemname="Chicken Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 12.95" descript="marinated grilled skirt steak over mixed greens, tomatoes, cucumbers &amp; red onions" itemname="Steak Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 10.50" descript="fresh mushroom crispy bacon &amp; fried goat cheese" itemname="Spinach Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 14.50" descript="sauteed shrimp served over mixed, greens tom &amp; red onions" itemname="Shrimp Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 10.50" descript="marinated octopus over mixed greens onions, tom &amp; pepper" itemname="Pulpo Salad &amp;#40;Sat &amp;amp; Sun Only&amp;#41;"></menu_item>
+<menu_item type="default" category="Beef" price=" 20.95" descript="a 12 ounce grilled t-bone steak with fresh mushroom sauteed in a brown sauce served with mash potatoes" itemname="T&amp;#45;Bone Steak"></menu_item>
+<menu_item type="default" category="Beef" price=" 22.00" descript="grilled sirloin steak with whole fresh mushroom sauteed in a brandy cream sauce served with white rice &amp; broccoli" itemname="Grilled Sirloin In Brandy Sauce"></menu_item>
+<menu_item type="default" category="Beef" price=" 16.95" descript="grilled skirt served with broccoli 10oz steak" itemname="Churrasco A La Parrilla"></menu_item>
+<menu_item type="default" category="Beef" price=" 20.95" descript="grilled sirloin steak topped with a mixture of sauteed chiles poblanos &amp; sliced onions served with yellow rice &amp; beans" itemname="Carne Asada Con Rajas"></menu_item>
+<menu_item type="default" category="Beef" price=" 12.00" descript="served with white rice &amp; beans or yellow rice with pigeon peas" itemname="Pepper Steak"></menu_item>
+<menu_item type="default" category="Beef" price=" 11.95" descript="top round steak sauteed with onions &amp; white wine served with your choice of white  rice &amp; beans or yellow rice with pigeon peas" itemname="Bistec Encebollado"></menu_item>
+<menu_item type="default" category="Beef" price=" 22.00" descript="served with cheese mole enchiladas, pico de gallo avocados, rice &amp; beans" itemname="Grilled Sirloin Tampiquena"></menu_item>
+<menu_item type="default" category="Beef" price=" 20.95" descript="skewered marinated sirloin steak with sausage, peppers, onions, &amp; tomatoes served with yellow rice, green &amp; red sauce" itemname="Alambre Ala Mexicana"></menu_item>
+<menu_item type="default" category="Chicken" price=" 12.95" descript="grilled chicken breast served with rice &amp; beans" itemname="Grilled Chicken Cutlet"></menu_item>
+<menu_item type="default" category="Chicken" price=" 12.00" descript="served with fried plantains" itemname="Boneless Fried Chicken Breast"></menu_item>
+<menu_item type="default" category="Chicken" price=" 12.00" descript="1/2 crispy fried chicken served with fried green plantains" itemname="Fried Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" 9.00" descript="fried chicken chunks, served with fried plantains" itemname="Chicharron De Pollo"></menu_item>
+<menu_item type="default" category="Pork" price=" 9.95" descript="marinated roasted pork served with choice of your favorite side dish" itemname="Roast Pork"></menu_item>
+<menu_item type="default" category="Pork" price=" 12.00" descript="marinated fried pork chop, served with your favorite side dish" itemname="Fried .Pork Chops"></menu_item>
+<menu_item type="default" category="Pork" price=" 13.00" descript="broiled pork chop served with rice or vegetables" itemname="Grilled Pork Chops"></menu_item>
+<menu_item type="default" category="Vegetarian" price=" 11.95" descript="two crispy corn tortillas topped with beans, lettuce, sour cream, guacamole, pico de gallo &amp; cheese served with rice &amp; beans" itemname="Tostadas Vegetarians"></menu_item>
+<menu_item type="default" category="Vegetarian" price=" 11.95" descript="12&quot; flour tortilla stuffed with rice, beans, broccoli, mushrooms, peppers, onions &amp; cheese" itemname="Tex Mex Vegetable Burrito"></menu_item>
+<menu_item type="default" category="Vegetarian" price=" 11.95" descript="soft corn tortillas dipped in mild tomato sauce filled with melted cheese, served with white rice &amp; beans" itemname="Enchiladas San Luis"></menu_item>
+<menu_item type="default" category="Vegetarian" price=" 13.95" descript="linguini sauteed with broccoli mushrooms, green peas, carrots, peppers &amp; onions in marinara wine sauce" itemname="Spring Linguini"></menu_item>
+<menu_item type="default" category="Tex Mex" price=" 12.95" descript="corn tortillas dipped in mole sauce filled with chicken topped with melted cheese &amp; onions served with yellow rice &amp; beans" itemname="Enchiladas De Mole"></menu_item>
+<menu_item type="default" category="Tex Mex" price=" 12.95" descript="soft corn tortillas dipped in red sauce, filled with shredded chicken, covered with cheese served with rice, beans, sour cream &amp; pico de gallo" itemname="Enchiladas Rancheras"></menu_item>
+<menu_item type="default" category="Tex Mex" price=" 12.95" descript="soft corn tortillas dipped in green tomatillo sauce filled with shredded chicken covered with cheese topped with sour cream, served with yellow rice &amp; beans" itemname="Enchiladas Suiza"></menu_item>
+<menu_item type="default" category="Tex Mex" price=" 12.95" descript="shredder beef burritos, cheese enchilada &amp; chicken tostada topped with lettuce, guacamole, sour cream, pico de gallo, yellow rice &amp; beans" itemname="Mexican Combo"></menu_item>
+<menu_item type="default" category="Tex Mex" price=" 12.95" descript="12&quot; flour tortilla stuffed with shredded steak, rice, beans &amp; cheese served with garnish or lettuce, guacamole, sour cream, &amp; pico de gallo" itemname="Tex Mex Burrito"></menu_item>
+<menu_item type="default" category="Tex Mex" price=" 13.50" descript="grilled chicken breast in a rich dark sauce made of dried peppers &amp; assorted spices served with rice &amp;u beans" itemname="Pollo En Mole Poblano"></menu_item>
+<menu_item type="default" category="Seafood" price=" 15.95" descript="shrimp sauteed in wine garlic sauce, served over linguini" itemname="Shrimp Scampi"></menu_item>
+<menu_item type="default" category="Seafood" price=" 15.95" descript="shrimp with tomato sauce, served with white rice or broccoli" itemname="Shrimp In Sauce"></menu_item>
+<menu_item type="default" category="Seafood" price=" 14.95" descript="sauteed shrimp in wine green sauce, served with white or yellow rice" itemname="Shrimp En Salsa Verde"></menu_item>
+<menu_item type="default" category="Seafood" price=" 14.95" descript="fresh shrimp, sauteed in garlic wine sauce &amp; spices served with white rice or broccoli" itemname="Camarones Al Ajillo"></menu_item>
+<menu_item type="default" category="Seafood" price=" 14.95" descript="shrimps sauteed in fresh tomato chipotle sauce served with rice &amp; beans" itemname="Camarones Chipotle"></menu_item>
+<menu_item type="default" category="Seafood" price=" 16.95" descript="shrimp, clams &amp; mussels, served with linguini" itemname="Seafood Fra Diavolo"></menu_item>
+<menu_item type="default" category="Seafood" price=" 18.00" descript="broiled salmon stuffed with spinach served with tomato, chipotle sauce, rice or broccoli" itemname="Broiled Salmon"></menu_item>
+<menu_item type="default" category="Seafood" price=" 16.95" descript="" itemname="broiled salmon served with roasted potato &amp;amp; spinach"></menu_item>
+<menu_item type="default" category="Seafood" price=" 17.00" descript="filet of salmon with butter, garlic, wine sauce, served with white rice &amp; broccoli" itemname="Salmon Al Ajillo"></menu_item>
+<menu_item type="default" category="Seafood" price=" 14.95" descript="broiled tilapia in wine lemon sauce, served with rice or vegetables" itemname="Broiled Tilapia"></menu_item>
+<menu_item type="default" category="Seafood" price=" 14.95" descript="tilapia sauteed in garlic &amp; white wine sauce served with mashed potato" itemname="Tilapia Al Ajillo"></menu_item>
+<menu_item type="default" category="Rices" price=" 12.00" descript="flavorful baked saffron rice with chicken, peppers, &amp; onions" itemname="Arroz Con Pollo"></menu_item>
+<menu_item type="default" category="Rices" price=" 14.00" descript="flavorful baked saffron rice with shrimp, peppers, &amp; onions" itemname="Arroz Con Camarones"></menu_item>
+<menu_item type="default" category="Rices" price=" 19.00" descript="a classical saffron flavored spanish dish made with shrimp, clams, mussels, scallops baked in rice" itemname="Paella Marinera"></menu_item>
+<menu_item type="default" category="Rices" price=" 18.00" descript="clams, shrimp, mussels, scallops, chicken, spinach sausage with saffron rice &amp; lobster" itemname="Paella Valenciana"></menu_item>
+<menu_item type="default" category="Side Dishes $4" price=" " descript="with beans" itemname="Rice &amp;#40;White Or Yellow&amp;#41;"></menu_item>
+<menu_item type="default" category="Side Dishes $4" price=" " descript="" itemname="French Fries"></menu_item>
+<menu_item type="default" category="Side Dishes $4" price=" " descript="" itemname="Sauteed Broccoli"></menu_item>
+<menu_item type="default" category="Side Dishes $4" price=" " descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="default" category="Side Dishes $4" price=" " descript="with pigeon peas" itemname="Yellow Rice"></menu_item>
+<menu_item type="default" category="Side Dishes $4" price=" " descript="" itemname="Sauteed Spinach"></menu_item>
+<menu_item type="default" category="Side Dishes $4" price=" " descript="sweet or green" itemname="Plantains"></menu_item>
+<menu_item type="default" category="Side Dishes $4" price=" " descript="" itemname="Salad"></menu_item>
+<menu_item type="default" category="Mofongo" price=" 9.00" descript="with chicken" itemname="Mofongo"></menu_item>
+<menu_item type="default" category="Mofongo" price=" 9.00" descript="" itemname="with roast pork"></menu_item>
+<menu_item type="default" category="Mofongo" price=" 10.00" descript="" itemname="with fried pork"></menu_item>
+<menu_item type="default" category="Mofongo" price=" 14.00" descript="" itemname="with shrimp"></menu_item>
+<menu_item type="default" category="From The Rotisserie" price="(1/2) 9.50" descript="served with 2 sides" itemname="Chicken"></menu_item>
+<menu_item type="default" category="From The Rotisserie" price=" 10.95" descript="" itemname="Whole Chicken"></menu_item>
+<menu_item type="default" category="From The Rotisserie" price=" 12.50" descript="" itemname="with 1 side"></menu_item>
+<menu_item type="default" category="From The Rotisserie" price=" 15.00" descript="" itemname="with 2 side"></menu_item>
+<menu_item type="default" category="From The Rotisserie" price="(1/2) 5.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Sizzling Fajitas" price=" 12.95" descript="" itemname="Chicken Breast"></menu_item>
+<menu_item type="default" category="Sizzling Fajitas" price=" 14.95" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Sizzling Fajitas" price=" 13.95" descript="" itemname="Skirt Steak"></menu_item>
+<menu_item type="default" category="Sizzling Fajitas" price=" 11.95" descript="" itemname="Vegetables"></menu_item>
+<menu_item type="default" category="Extra Sides" price=" 1.00" descript="" itemname="Sour Cream"></menu_item>
+<menu_item type="default" category="Extra Sides" price=" 3.50" descript="" itemname="Chips &amp;amp; Salsa"></menu_item>
+<menu_item type="default" category="Extra Sides" price=" 1.00" descript="" itemname="Pico De Gallo"></menu_item>
+<menu_item type="default" category="Extra Sides" price=" .75" descript="" itemname="Chicken Sauce"></menu_item>
+<menu_item type="default" category="Extra Sides" price=" .75" descript="" itemname="Extra Salsa Sauce"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 9.95" descript="roast pork on a hero with swiss cheese, ham, sliced pickles &amp; mustard" itemname="Cuban Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 9.95" descript="12&quot; flour tortilla stuffed with grille chicken breast, lettuce, tomato, bacon" itemname="Grilled Chicken Bacon Ranch Wrap"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 8.95" descript="12&quot; flour tortilla stuffed with roasted chicken, lettuce, onions &amp; tomatoes" itemname="Roasted Chicken Salad Club Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.50" descript="" itemname="Roast Pork Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 9.95" descript="grilled steak on a hero with beans lettuce tomatoes onions &amp; avocado" itemname="Sliced Steak Sandwich"></menu_item>
+<menu_item type="default" category="Lunch Specials" price=" 10.95" descript="" itemname="Beef Stew"></menu_item>
+<menu_item type="default" category="Lunch Specials" price=" 9.95" descript="" itemname="Boneless Fried Chicken"></menu_item>
+<menu_item type="default" category="Lunch Specials" price=" 9.00" descript="" itemname="Chicken Stew"></menu_item>
+<menu_item type="default" category="Lunch Specials" price=" 10.95" descript="" itemname="Steak &amp;amp; Onions"></menu_item>
+<menu_item type="default" category="Lunch Specials &amp;#45; Platters" price=" 9.95" descript="delicate corn tortilla filled with white  cheese, tomatoes, onions, jalapeno, served with corn &amp; pico de gallo" itemname="Tamales Oaxaquenos"></menu_item>
+<menu_item type="default" category="Lunch Specials &amp;#45; Platters" price=" 11.95" descript="two corn tortillas with sauteed crab meat in a light cream sauce topped. with melted cheese served with white rice &amp; beans" itemname="Enchiladas De Jaiba"></menu_item>
+<menu_item type="default" category="Lunch Specials &amp;#45; Platters" price=" 10.95" descript="grilled  chicken breast layered with vegetable &amp; mozzarella cheese over a green tomatillo cream sauce served with mashed potatoes" itemname="Pollo Primavera"></menu_item>
+<menu_item type="default" category="Lunch Specials &amp;#45; Platters" price=" 11.00" descript="thin grilled sirloin steak, served with layered tortillas in green tomatillo sauce &amp; beans topped with cheese &amp; sour cream" itemname="Sabanita Steak With Chilaquiles"></menu_item>
+<menu_item type="default" category="Lunch Specials &amp;#45; Platters" price=" 8.95" descript="sauteed chicken breast with tomatoes, onions, cilantro, &amp; cheese, served with salad &amp; slices of avocado" itemname="Tacos De Pollo"></menu_item>
+<menu_item type="default" category="Lunch Specials &amp;#45; Platters" price=" 9.95" descript="rolled flour tortillas stuffed with shredded chicken, served with yellow rice, beans, guacamole, sour cream &amp; pico de gallo" itemname="Burritos"></menu_item>
+<menu_item type="default" category="Natural Juices" price=" 5.00" descript="" itemname="Orange Juice"></menu_item>
+<menu_item type="default" category="Natural Juices" price=" 4.00" descript="" itemname="Lemon Freeze"></menu_item>
+<menu_item type="default" category="Natural Juices" price=" 5.50" descript="" itemname="Mixed Fruit Juices"></menu_item>
+<menu_item type="default" category="Natural Juices" price=" 5.00" descript="" itemname="Orange Carrot Beet"></menu_item>
+<menu_item type="default" category="Natural Juices" price=" 5.00" descript="" itemname="Banana Strawberry And Carrot"></menu_item>
+<menu_item type="default" category="Natural Juices" price=" 5.50" descript="with carnation milk" itemname="Carrot And Orange"></menu_item>
+<menu_item type="default" category="Shakes" price=" 4.50" descript="" itemname="Mamey"></menu_item>
+<menu_item type="default" category="Shakes" price=" 4.50" descript="" itemname="Strawberry"></menu_item>
+<menu_item type="default" category="Shakes" price=" 4.50" descript="" itemname="Guanabana"></menu_item>
+<menu_item type="default" category="Shakes" price=" 4.50" descript="" itemname="Mango"></menu_item>
+<menu_item type="default" category="Shakes" price=" 4.50" descript="" itemname="Papaya"></menu_item>
+<menu_item type="default" category="Shakes" price=" 4.50" descript="" itemname="Orange Banana"></menu_item>
+<menu_item type="default" category="Shakes" price=" 4.50" descript="" itemname="Passion Fruit"></menu_item>
+<menu_item type="default" category="Shakes" price=" 5.00" descript="with carnation milk" itemname="Fresh Orange Juice"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 1.50" descript="" itemname="Coffee"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 2.50" descript="" itemname="Cafe Latte"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 2.75" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 1.75" descript="" itemname="Espresso"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 1.50" descript="" itemname="Herbal Teas"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 1.50" descript="" itemname="Chocolate"></menu_item>
+</root>

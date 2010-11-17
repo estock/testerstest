@@ -1,0 +1,21 @@
+<root>
+<menu_item type="Daily Fixed Priced Dinner $23.95" category="Starter" price=" " descript="" itemname="Soup Or Salad"></menu_item>
+<menu_item type="Daily Fixed Priced Dinner $23.95" category="Main Course" price=" " descript="" itemname="Entree Special Of Your Choice"></menu_item>
+<menu_item type="A La Carte Brunch" category="To Start" price="bowl 5.00" descript="" itemname="Homemade Soup Du Jour"></menu_item>
+<menu_item type="A La Carte Brunch" category="To Start" price=" 5.75" descript="" itemname="French Onion Soup"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 11.50" descript="lightly poached served on a toasted english muffin topped with champagne hollandaise sauce" itemname="Eggs Benedictine"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 8.50" descript="brioche style bread dunked in cinnamon sprinkled egg batter &amp; pan-fried" itemname="French Toast"><extra type="add" price=" 10.50" descript="with bacon or irish sausage"></extra>
+</menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 10.00" descript="combination of two fillings with choice of cheese" itemname="Omelette Du Jour"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 15.50" descript="8oz sirloin steak cooked to your liking with two eggs any style" itemname="Steak And Egg"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 12.95" descript="two eggs any style, served with irish sausage, bacon, black &amp; white pudding and fried tomatoes" itemname="Irish Breakfast"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 9.50" descript="straight from the waffle iron served with fresh fruit &amp; maple syrup" itemname="Waffles"><extra type="add" price=" 11.95" descript="with bacon or irish sausage"></extra>
+</menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 9.50" descript="straight from the griddle served with fresh fruit &amp; maple syrup" itemname="Pancakes"><extra type="add" price=" 11.95" descript="with bacon or irish sausage"></extra>
+</menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 11.50" descript="tuna salad on a toasted english muffin with melted swiss cheese served with salad or fries" itemname="Tuna Salad Melt"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 8.50" descript="served with sliced onion, tomato, lettuce and fries" itemname="Hamburger Platter"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 13.00" descript="served with garlic bread" itemname="Ravioli Du Jour"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 13.00" descript="cold poached salmon served on a bed of fresh spinach with sun dried tomato mayonnaise" itemname="Poached Salmon Salad"></menu_item>
+<menu_item type="A La Carte Brunch" category="Entrees" price=" 9.50" descript="pan roasted, served with spicy cajun tartar sauce &amp; side salad" itemname="Crab Cake"></menu_item>
+</root>

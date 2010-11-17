@@ -1,0 +1,75 @@
+<root>
+<menu_item type="default" category="Appetizers" price=" 7.00" descript="with olive tomatoes &amp; pita" itemname="Hummus *"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 6.00" descript="with pickled peppers &amp; olive oil mayo" itemname="Egg Shooters *"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.00" descript="with goat cheese, cheddar &amp; cool ranch" itemname="Jalapeno Poppers"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.00" descript="with queso fresco, chipotle butter &amp; lime" itemname="Roasted Adobo Corn *"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 11.00" descript="with lemon &amp; cayenne mayo" itemname="Fried Calamari"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.00" descript="with sour cream &amp; deli mustard" itemname="Potato &amp;amp; Onion Knish *"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.00" descript="with gravy, cajun spice, provolone &amp; cheddar" itemname="Rock And Roll Fries"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.00" descript="with cheddar, baloney &amp; mustard sauce" itemname="Cheese &amp;amp; Pretzels"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 10.00" descript="with rye toasts, capers &amp; dill" itemname="Smoked Fish Spread"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 12.00" descript="with spicy mayo" itemname="Cajun Shrimp Cocktail"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.00" descript="with cilantro, jalapenos, red onion &amp; queso fresco" itemname="Pork Rinds"></menu_item>
+<menu_item type="default" category="Salads" price=" 28.00" descript="" itemname="Trout Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 20.00" descript="" itemname="Organic Mixed Greens *"></menu_item>
+<menu_item type="default" category="Salads" price=" 22.00" descript="" itemname="Greek Salad *"></menu_item>
+<menu_item type="default" category="Salads" price=" 23.00" descript="" itemname="Iceberg, Blue Cheese &amp;amp; Bacon"></menu_item>
+<menu_item type="default" category="Salads" price=" 21.00" descript="" itemname="Vegetable Basket *"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 14.00" descript="with corn tartar on ciabatta" itemname="Fried Catfish"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 11.00" descript="with olive salad &amp; roasted garlic" itemname="Chicken Muffaletta"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 10.00" descript="with poblanos, sweet onions &amp; queso fresco" itemname="Roast Pork"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 9.00" descript="with olive oil mayo on toasted country white" itemname="B.L.T."></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 11.00" descript="with cole slaw, peppers, fork &amp; knife" itemname="&quot;Really&quot; Sloppy Joe"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 10.00" descript="with slo-roast brisket, pickles &amp; sweet-n-spicy gravy" itemname="BBQ Beef"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 12.00" descript="with roasted vegetables &amp; fresh mozzarella" itemname="Veggie Buster *"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 14.00" descript="with assorted meats, cheeses &amp; oil vinegar" itemname="Belly Buster"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 9.00" descript="with scrambled eggs, bacon, onion &amp; cheddar" itemname="&quot;Stanwich&quot;"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 14.00" descript="with lettuce, tomato &amp; onion on ciabatta" itemname="Oyster Po' Boy"></menu_item>
+<menu_item type="default" category="French Bread Pizza" price=" 11.00" descript="featuring iceberg, tomato, red onion, feta, &amp; olives" itemname="The Greek *"></menu_item>
+<menu_item type="default" category="French Bread Pizza" price=" 11.00" descript="featuring sausage, mozzarella &amp; peppers" itemname="The San Gennaro"></menu_item>
+<menu_item type="default" category="French Bread Pizza" price=" 12.00" descript="featuring tomato, fresh mozzarella &amp; basil" itemname="The Classic *"></menu_item>
+<menu_item type="default" category="French Bread Pizza" price=" 12.00" descript="featuring butternut squash, mushrooms, roasted garlic" itemname="The Theresa *"></menu_item>
+<menu_item type="default" category="French Bread Pizza" price=" 13.00" descript="featuring pulled pork &amp; pickled peppers" itemname="The Beach"></menu_item>
+<menu_item type="default" category="French Bread Pizza" price=" 16.00" descript="featuring pepperoni, ham, pulled pork, sausage, onion, mushroom &amp; eggplant" itemname="The Fatty"></menu_item>
+<menu_item type="default" category="Basket O' Smoked BBQ Wings" price=" 9.00" descript="" itemname="6 Piece"></menu_item>
+<menu_item type="default" category="Basket O' Smoked BBQ Wings" price=" 12.00" descript="" itemname="8 Piece"></menu_item>
+<menu_item type="default" category="Basket O' Smoked BBQ Wings" price=" 18.00" descript="" itemname="12 Piece"></menu_item>
+<menu_item type="default" category="Basket O' Smoked BBQ Wings" price=" 22.00" descript="" itemname="16 Piece"></menu_item>
+<menu_item type="default" category="Basket O' Smoked BBQ Wings" price=" 30.00" descript="" itemname="24 Piece"></menu_item>
+<menu_item type="default" category="Fried Chicken Dinners" price=" 14.50" descript="" itemname="1/2 Chicken Dark"></menu_item>
+<menu_item type="default" category="Fried Chicken Dinners" price=" 18.50" descript="" itemname="1/2 Chicken White"></menu_item>
+<menu_item type="default" category="Fried Chicken Dinners" price=" 16.50" descript="" itemname="1/2 Chicken Mix"></menu_item>
+<menu_item type="default" category="Fried Chicken Platters" price=" 44.00 58.00" descript="" itemname="Mixed Or Dark"></menu_item>
+<menu_item type="default" category="Fried Chicken Platters" price=" 56.00 69.00" descript="" itemname="White"></menu_item>
+<menu_item type="default" category="Entrees" price=" 9.00" descript="with fixins &amp; fries" itemname="Brooklyn Bowl Burger Deluxe Beef Or Chicken"></menu_item>
+<menu_item type="default" category="Entrees" price=" 16.00" descript="with greek salad, couscous, tzatziki &amp; pita" itemname="Vegetable K-Bobs *"></menu_item>
+<menu_item type="default" category="Entrees" price=" 18.00" descript="with mashed potatoes &amp; corn-on-the-cob" itemname="1/2 Rack Pork Ribs"></menu_item>
+<menu_item type="default" category="Entrees" price=" 18.00" descript="featuring lemon &amp; sage, arugula &amp; tomato salad" itemname="1/2 Roasted Chicken"></menu_item>
+<menu_item type="default" category="Entrees" price=" 17.00" descript="blackened with collards &amp; mashed potatoes" itemname="Cajun Catfish"></menu_item>
+<menu_item type="default" category="Entrees" price=" 11.00" descript="baked with bread crumbs" itemname="Mac &amp;amp; Cheese *"></menu_item>
+<menu_item type="default" category="Entrees" price=" 15.00" descript="" itemname="add artichoke &amp;amp; black olives or smoked chicken &amp;amp; peas"></menu_item>
+<menu_item type="default" category="Entrees" price=" 17.00" descript="with mashed potatoes &amp; corn-on-the-cob" itemname="Brooklyn Brisket"></menu_item>
+<menu_item type="default" category="Entrees" price=" 19.00" descript="with red beans, rice &amp; fresh herb mayo" itemname="Blackened Atlantic Salmon"></menu_item>
+<menu_item type="default" category="Sideshows $5" price=" " descript="" itemname="French Fries"></menu_item>
+<menu_item type="default" category="Sideshows $5" price=" " descript="" itemname="Cole Slaw"></menu_item>
+<menu_item type="default" category="Sideshows $5" price=" " descript="" itemname="Corn-On-The-Cob (2pc)"></menu_item>
+<menu_item type="default" category="Sideshows $5" price=" " descript="" itemname="Pickled Cucumber Salad"></menu_item>
+<menu_item type="default" category="Sideshows $5" price=" " descript="" itemname="Mixed Greens"></menu_item>
+<menu_item type="default" category="Sideshows $5" price=" " descript="" itemname="Red Beans &amp;amp; Rice"></menu_item>
+<menu_item type="default" category="Sideshows $5" price=" " descript="" itemname="Southern Collard Greens"></menu_item>
+<menu_item type="default" category="Sideshows $5" price=" " descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="default" category="Sweet Treats" price=" 6.00" descript="" itemname="Becca's Brownies"></menu_item>
+<menu_item type="default" category="Sweet Treats" price=" 8.00" descript="" itemname="a la mode"></menu_item>
+<menu_item type="default" category="Sweet Treats" price=" 8.00" descript="" itemname="Fresh Berries"></menu_item>
+<menu_item type="default" category="Sweet Treats" price=" 9.00" descript="" itemname="Hot Fudge Sundae"></menu_item>
+<menu_item type="default" category="Sweet Treats" price=" 9.00" descript="with vanilla ice cream &amp; hot fudge" itemname="Chocolate Chip Bread Pudding"></menu_item>
+<menu_item type="default" category="Sweet Treats" price=" 10.00" descript="" itemname="Fresh Berry Sundae"></menu_item>
+<menu_item type="default" category="Sweet Treats" price=" 10.00" descript="" itemname="Banana Split"></menu_item>
+<menu_item type="default" category="Sweet Treats" price=" 5.00" descript="" itemname="Relix Magazine"></menu_item>
+<menu_item type="default" category="Shakes &amp;amp; Floats" price=" 8.00" descript="with praline &amp; nutella" itemname="Bourbon St. Shake"></menu_item>
+<menu_item type="default" category="Shakes &amp;amp; Floats" price=" 13.00" descript="" itemname="add a shot of bourbon"></menu_item>
+<menu_item type="default" category="Shakes &amp;amp; Floats" price=" 8.00" descript="vanilla, chocolate or strawberry" itemname="Milk Shakes"></menu_item>
+<menu_item type="default" category="Shakes &amp;amp; Floats" price=" 6.00" descript="" itemname="Root Beer Float"></menu_item>
+<menu_item type="default" category="Shakes &amp;amp; Floats" price=" 8.00" descript="vanilla, chocolate or strawberry" itemname="Malted Milk"></menu_item>
+<menu_item type="default" category="Shakes &amp;amp; Floats" price=" 5.00" descript="" itemname="Vanilla Or Chocolate Egg Cream"></menu_item>
+</root>

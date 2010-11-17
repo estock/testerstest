@@ -1,0 +1,207 @@
+<root>
+<menu_item type="Dinner" category="Appetizers" price=" 1.95" descript="crispy bean wafers" itemname="Papadom"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price="(2 pcs) 2.95" descript="crispy turnover filled with (choices): seasoned potatoes, green peas and lentils, seasoned minced lamb and green peas, lightly sweetened coconut." itemname="Samosas"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 3.95" descript="chicken strips dipped in a seasoned gram-flour batter and deep-fried" itemname="Chicken Pakora"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 2.95" descript="sweet spongy banana fritters" itemname="Banana Pakora"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price="(6 pcs) 2.95" descript="sliced onion and lentil fritters" itemname="Onion Bhajia"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 3.95" descript="mixed vegetables, dipped in gram flour and seasoning blend and fried to perfection" itemname="Vegetable Pakora"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 3.95" descript="soft baked naan bread stuffed with bbq'd chicken" itemname="Tikka Naan"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price="(2 pcs) 6.95" descript="seasoned minced lamb wrapped around skewers and tandoored to perfection" itemname="Lamb Seekh Kabab"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 4.95" descript="flattened pastry stuffed with different types of lentils and topped with chickpeas, potato, yogurt, tamarind and mint sauce" itemname="Kachori"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 3.95" descript="chickpeas masala and a puffed bread" itemname="Chana Poori"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.95" descript="homemade cottage cheese marinated in fresh mint, herbs and spices" itemname="Paneer Tikka"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.95" descript="in thick delicious masala sauce." itemname="Shrimp Masala &amp;#40;Medium Spiced&amp;#41;"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 7.95" descript="marinated with herbs and chef's choice of tandoori spices" itemname="Grilled Salmon Appetizer"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.95" descript="combination of vegetarian appetizers from our menu" itemname="Assorted Vegetarian Platter"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.95" descript="assorted barbeque sampler" itemname="Grilled Meat Appetizers"></menu_item>
+<menu_item type="Dinner" category="Soups And Salads" price=" 2.95" descript="lettuce, tomato, cucumber, carrot, onions and chickpeas. served with house dressing on side" itemname="House Salad"></menu_item>
+<menu_item type="Dinner" category="Soups And Salads" price=" 7.95" descript="bbq'd shredded chicken marinated with yogurt and tandoori masala mixed with house salad (d.o.s)" itemname="Chicken Tikka Salad"></menu_item>
+<menu_item type="Dinner" category="Soups And Salads" price=" 2.95" descript="lightly spiced lentil and tomato based puree" itemname="Mulligatawny Soup"></menu_item>
+<menu_item type="Dinner" category="Soups And Salads" price=" 2.95" descript="in tomato and lentil puree" itemname="Mixed Vegetable And Mushroom Soup"></menu_item>
+<menu_item type="Dinner" category="Soups And Salads" price=" 2.95" descript="sweetened hot coconut in milk syrup" itemname="Coconut Soup"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 8.95" descript="fresh mixed vegetables cooked in house curry sauce" itemname="Mixed Vegetable Curry"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 9.00" descript="potatoes, cauliflower and green peas cooked in mild tomato and curry sauce" itemname="Aloo Mottor Gobi"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 8.95" descript="lightly stirfried okra deliciously simmered with tomatoes and onions" itemname="Bindi Masala"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 8.95" descript="combination of chick peas, onions and tomatoes cooked in a rich sauce" itemname="Chana Masala"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 8.95" descript="mild curried chickpeas or potatoes cooked with herbs and spinach" itemname="Chana Saag And Aloo Saag"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 8.95" descript="baked eggplant simmered with green peas and spices" itemname="Balgan Bhartha &amp;#40;Eggplant&amp;#41;"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 9.95" descript="choice of cheese or mushroom deliciously cooked with spinach and garlic tarka" itemname="Saag Panir And Mush Room Saag"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 9.95" descript="lightly fried vegetables cooked with green peppers, sliced onions in tangy masala sauce or in hot vindaloo sauce" itemname="Vegetable Jalfrezi And Vindaloo"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 9.95" descript="mixed vegetable balls in mild thick cream and almond curry sauce" itemname="Malai Kofta"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 7.95" descript="mixed lentils and beans cooked in light butter with fresh onions, garlic and tomatoes" itemname="Dal Makhani"></menu_item>
+<menu_item type="Dinner" category="Fresh Vegetable Entrees" price=" 7.95" descript="yellow lentils accented with onions, fresh garlic and spices" itemname="Yellow Tarka Dal"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 9.95" descript="your choice of meat cooked in house blended lightly spiced curry sauce" itemname="Curry"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 9.95" descript="your choice or meat stir fried and cooked in thick garlic, ginger and herbs sauce" itemname="Bhuna"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 9.95" descript="stir-fried meat cooked with fresh ginger, fresh coriander, tomato, onions and diced green pepper" itemname="Karahi"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 9.95" descript="your choice of meat cooked with spinach and herbs" itemname="Saag Curry &amp;#40;Fresh Spinach&amp;#41;"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 9.95" descript="cooked with fresh tomatoes, garlic and curry leaf" itemname="Madras"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 9.95" descript="your choice of meat cooked with chunks of potato and fresh tomato in house blended masala sauce" itemname="Aloo Tarkari"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 10.95" descript="a parsee dish, mild sweet and sour cooked with split lentil and light spinach puree. medium to hot curry" itemname="Dhansak"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 10.95" descript="chunks of fried onions, herbs and spices cooked with your choice of meat" itemname="Dopiaza"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 10.95" descript="your choice of meat cooked with lightly fried vegetables, sliced onions and peppers in tangy masala sauce" itemname="Jalfrezi"></menu_item>
+<menu_item type="Dinner" category="Curry Specialties" price=" 10.95" descript="your choice of meat cooked with chunk of potato in thickened roasted chilli based hot vindaloo sauce" itemname="Vindaloo &amp;#40;Hot&amp;#41;"></menu_item>
+<menu_item type="Dinner" category="Biryanis And Korma Entrees" price=" 10.95" descript="aromatic indian pilaf basmati rice steam-cooked with either vegetables or boneless cubes of chicken and fresh herbs" itemname="Chicken Or Vegetable Biryani"></menu_item>
+<menu_item type="Dinner" category="Biryanis And Korma Entrees" price=" 11.95" descript="choice of meat and aromatic indian pilaf basmati rice cooked with fresh herbs and seasonings" itemname="Lamb&amp;#44; Beef Ort Goat Biryani"></menu_item>
+<menu_item type="Dinner" category="Biryanis And Korma Entrees" price=" 13.95" descript="choices: shrimp, crub and mixed seafood basmati rice cooked with fresh ground spices and toasted almonds" itemname="Seafood Biryani"></menu_item>
+<menu_item type="Dinner" category="Biryanis And Korma Entrees" price=" 5.95" descript="basmati rice stir-fried with fresh mix vegetables" itemname="Veg Pilaf Rice"></menu_item>
+<menu_item type="Dinner" category="Biryanis And Korma Entrees" price=" 9.95" descript="the first blend of 9 select vegetables, cooked with fruits and nuts in a creamy sauce. (can be made without fruits)" itemname="Navrattan Korma &amp;#40;Vegetable Korma&amp;#41;"></menu_item>
+<menu_item type="Dinner" category="Biryanis And Korma Entrees" price=" 10.95" descript="your choice of meat (chicken, lamb, beef and goat) cooked in rich roasted almond, cashew and cream sauce" itemname="Korma"></menu_item>
+<menu_item type="Dinner" category="Biryanis And Korma Entrees" price=" 10.95" descript="cooked in lightly spiced cream and almond masala sauce with sweet chunks of pineapple" itemname="Dildar &amp;#40;Mild Lightly Sweet With Pineapple&amp;#41;"></menu_item>
+<menu_item type="Dinner" category="Seafood Entrees" price=" 12.95" descript="cooked in array of house blended lightly spice curry sauce" itemname="Shrimp Curry"></menu_item>
+<menu_item type="Dinner" category="Seafood Entrees" price=" 10.95" descript="cooked in array of house blended lightly spice sauce" itemname="Fresh Crab Meat Curry"></menu_item>
+<menu_item type="Dinner" category="Seafood Entrees" price=" 13.95" descript="medium hot fresh tomato and curry leaf sauce" itemname="Shrimp Madras"></menu_item>
+<menu_item type="Dinner" category="Seafood Entrees" price=" 13.95" descript="grilled cubes of salmon cooked in thick herbs and spices with onions, garlic and ginger" itemname="Fish Masala"></menu_item>
+<menu_item type="Dinner" category="Seafood Entrees" price=" 13.95" descript="your choice of seafood cooked in thick almond and cream sauce" itemname="Shrimp&amp;#44; Crab And Mixed Seafood Korma"></menu_item>
+<menu_item type="Dinner" category="Seafood Entrees" price=" 13.95" descript="cooked with spinach in curry sauce. lightly spiced" itemname="Shrimp Saag"></menu_item>
+<menu_item type="Dinner" category="Seafood Entrees" price=" 13.95" descript="cooked in our chef's masterfully blended hot vindaloo sauce or with stir fried sliced veggies in tangy masala" itemname="Shrimp Vindaloo Or Jalfrezi"></menu_item>
+<menu_item type="Dinner" category="Condiments And Pickles" price=" 1.95" descript="an extraordinary accompaniment with a curry or barbecues. yogurt base cucumber and fresh herbs sauce" itemname="Cucumber Raita"></menu_item>
+<menu_item type="Dinner" category="Condiments And Pickles" price=" 1.95" descript="heavily spiced pickled green mangoes or lemons" itemname="Mango Or Lemon Pickle"></menu_item>
+<menu_item type="Dinner" category="Condiments And Pickles" price=" 2.95" descript="sweet and sour mango sauce (jelly like with chunks of mango)" itemname="Mango Chutney"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 10.95" descript="tender boneless pieces of chicken, lamb first barbecued and then cooked in a mild creamy tomato based sauce flavored with fresh indian herbs (most popular)" itemname="Chicken Or Lamb Tikka Masala"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 10.95" descript="spring chicken marinated in special yogurt marinade with freshly ground spices then bbq'd to perfection" itemname="Tandoori Chicken"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 10.95" descript="boneless cubes of chicken marinated with yogurt, herbs and spices then grilled to perfection" itemname="Chicken Tikka"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 10.95" descript="cubes of chicken breast marinated with mild creamy blend then bbq'd to perfection" itemname="Chicken Malai Kabab"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 11.95" descript="barbecued chicken cooked with pureed spinach in mild creamy sauce. (can be cooked without cream)" itemname="Kati Chicken"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 10.95" descript="seasoned vegetables bbq'd in clay oven" itemname="Tandoori Sabzi"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 12.95" descript="seasoned minced lamb wrapped around skewers and tandoored to perfection" itemname="Lamb Seekh Kabab &amp;#40;Medium&amp;#41;"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 17.95" descript="tender lamb chops spiced, marinated overnight and barbecued to perfection. served with vegetable of the day" itemname="Lamb Chops"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 13.95" descript="chunks of lamb marinated in tangy spice blend then bbq'd to perfection" itemname="Lamb Boti Kabab"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 10.95" descript="red snapper grilled with onions, peppers and house blended masala" itemname="Whole Fish Tandoori"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 12.95" descript="marinated salmon cubes bbq'd with mild herbs and spices" itemname="Salmon Tikka"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 14.95" descript="jumbo shrimp delicately spiced and marinated in yogurt and grilled in the oven. served with vegetable of the day" itemname="Shrimp Tandoori"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 15.95" descript="grilled shrimps in creamy tomato and almond sauce." itemname="Shrimp Tandoori Masala"></menu_item>
+<menu_item type="Dinner" category="Tandoori Barbecues" price=" 12.95" descript="a combination platter consisting of chicken tandoori, chicken tikka, lamb tikka, paneer tikka, salmon tikka and tandoori shrimp. served with mango chutney" itemname="Tandoori Mix Grill"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 2.50" descript="a traditional soft indian bread" itemname="Naan"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 2.50" descript="an indian bread made with whole-wheat flour" itemname="Whole Wheat Roti"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 1.95" descript="multi-layered crispy buttered bread" itemname="Paratha"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 2.95" descript="stuffed with seasoned onions" itemname="Onion Khulcha"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 2.95" descript="topped with garlic and cilantro" itemname="Garlic Naan"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 3.95" descript="multi-layered bread stuffed with seasoned potatoes and peas" itemname="Aloo Paratha"></menu_item>
+<menu_item type="Dinner" category="Breads" price="(2 pcs) 2.95" descript="puffy bread" itemname="Poori"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 3.95" descript="stuffed with seasoned minced lamb" itemname="Keema Naan"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 4.95" descript="crispy bread stuffed with eggs and minced lamb and green peas" itemname="Mughlai Paratha"></menu_item>
+<menu_item type="Dinner" category="Breads" price=" 3.95" descript="a special naan stuffed with seasoned coconut, nuts and raisins" itemname="Peshwari Naan"></menu_item>
+<menu_item type="Dinner" category="Desserts And Hot Beverages" price=" 2.95" descript="sweet rice pudding made with cardamom seeds, nuts and raisins" itemname="Firni"></menu_item>
+<menu_item type="Dinner" category="Desserts And Hot Beverages" price=" 2.95" descript="sweet spongy deep fried doughnut in honey syrup" itemname="Gulab Jamun"></menu_item>
+<menu_item type="Dinner" category="Desserts And Hot Beverages" price=" 2.95" descript="flattened paneer in malai (clotted milk)" itemname="Rasmalai"></menu_item>
+<menu_item type="Dinner" category="Desserts And Hot Beverages" price=" 2.95" descript="homemade ice cream" itemname="Mango And Pistachio Ice Cream"></menu_item>
+<menu_item type="Dinner" category="Desserts And Hot Beverages" price=" 1.50" descript="" itemname="Spiced Tea"></menu_item>
+<menu_item type="Dinner" category="Desserts And Hot Beverages" price=" 1.50" descript="caffeinated Columbian coffee" itemname="Coffee"></menu_item>
+<menu_item type="Dinner" category="Desserts And Hot Beverages" price=" 1.50" descript="regular, decaff" itemname="Tea"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 1.50" descript="" itemname="Sodas &amp;#40;Can&amp;#41;"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 2.00" descript="" itemname="Snapple And Gatorade"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 2.95" descript="" itemname="Mango Lassi"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 1.95" descript="" itemname="Sweet And Salt Lassi"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 2.50" descript="refreshing mint, yogurt and soda drink" itemname="Dooq"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 1.95" descript="refreshing fresh squeezed lime drink" itemname="Lime&amp;#45;O&amp;#45;Nade"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 1.50" descript="spiced iced tea (unsweetened)" itemname="Indian Iced Tea"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 1.95" descript="mango, cranberry, orange, apple" itemname="Juice"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 2.50" descript="sweet basil drink infused with essence of rose, coriander seed, watermelon and various other herbs and fruits" itemname="Drink Of The East"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 4.50" descript="please ask your server for available choices" itemname="Non&amp;#45;Alcoholic Beer"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 1.95" descript="crispy bean wafers" itemname="Papadom"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 2.95" descript="crispy turnover filled with (choices): seasoned potatoes, green peas and lentils. seasoned minced lamb and green (minced lamb) peas. lightly sweetened coconut" itemname="Samosas"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 3.95" descript="chicken strips dipped in a seasoned gram-flour batter and deep-fried" itemname="Chicken Pakora"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 2.95" descript="sweet spongy banana fritters" itemname="Banana Pakora"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price="(6 pcs) 2.95" descript="sliced onion and lentil fritters" itemname="Onion Bhajia"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 3.95" descript="mixed vegetables, dipped in gram flour and seasoning blend and fried to perfection" itemname="Vegetable Pakora"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 3.95" descript="soft baked naan bread stuffed with bbq'd chicken" itemname="Tikka Naan"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price="(2 pcs) 6.95" descript="seasoned minced lamb wrapped around skewers and tandoored to perfection" itemname="Lamb Seekh Kabab"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 4.95" descript="flattened pastry stuffed with different types of lentils and topped with chickpeas, potato, yogurt, tamarind and mint sauce" itemname="Kachori"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 3.95" descript="chickpeas masala and a puffed bread" itemname="Chana Poori"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 6.95" descript="homemade cottage cheese marinated in fresh mint, herbs and spices" itemname="Paneer Tikka"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 6.95" descript="in thick delicious masala sauce" itemname="Shrimp masala &amp;#40;Medium Spiced&amp;#41;"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 7.95" descript="marinated with herbs and chef's choice of tandoori spices" itemname="Grilled Salmon Appetizer"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 6.95" descript="combination of vegetarian appetizers from our menu" itemname="Assorted Vegetarian Platter"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Appetizers" price=" 6.95" descript="assorted barbecue sampler" itemname="Grilled Meat Appetizers"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Soups And Salads $2.95" price=" " descript="lettuce, tomato, cucumber, carrot, onions and chickpeas, served with house dressing on side" itemname="House Salad"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Soups And Salads $2.95" price=" " descript="lightly spiced lentil and tomato based puree" itemname="Mulligatawny Soup"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Soups And Salads $2.95" price=" " descript="in tomato and lentil puree" itemname="Mixed Vegetable And Mushroom Soup"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Soups And Salads $2.95" price=" " descript="sweetened hot coconut in milk syrup" itemname="Coconut Soup"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price=" 2.00" descript="a traditional soft indian bread" itemname="Naan"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price=" 2.50" descript="an indian bread made with whole-wheat flour" itemname="Whole Wheat Roti"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price=" 2.00" descript="multi-layered crispy buttered bread" itemname="Paratha"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price=" 2.95" descript="stuffed with seasoned onions" itemname="Onion Khulcha"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price=" 2.95" descript="topped with garlic and cilantro" itemname="Garlic Naan"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price=" 2.95" descript="multi-layered bread stuffed with seasoned potatoes and peas" itemname="Aloo Paratha"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price="(2 pcs) 2.00" descript="puffy bread" itemname="Poori"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price=" 3.95" descript="stuffed with seasoned minced lamb" itemname="Keema Naan"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Breads" price=" 3.95" descript="crispy bread stuffed with eggs and minced lamb and green peas" itemname="Mughlai Paratha"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Condiments And Pickles" price=" 1.95" descript="an extraordinary accompaniment with a curry or barbecues. yogurt base cucumber and fresh herbs sauce" itemname="Cucumber Raita"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Condiments And Pickles" price=" 1.95" descript="heavily spiced pickled green mangoes or lemons" itemname="Mango Or Lemon Pickle"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Condiments And Pickles" price=" 2.95" descript="sweet and sour mango sauce (jelly like with chunks of mango)" itemname="Mango Chutney"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 8.95" descript="fresh mixed vegetables cooked in house curry sauce" itemname="Mixed Vegetable Curry"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 9.00" descript="potatoes, cauliflower and green peas cooked in mild tomato and curry sauce" itemname="Aloo Mottor Gobi"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 8.95" descript="lightly stirfried okra deliciously simmered with tomatoes and onions" itemname="Bindi Masala"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 8.95" descript="combination of chick peas, onions and tomatoes cooked in a rich sauce" itemname="Chana Masala"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 8.95" descript="mild curried chickpeas or potatoes cooked with herbs and spinach" itemname="Chana Saag And Aloo Saag"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 8.95" descript="baked eggplant simmered with green peas and spices" itemname="Baigan Bhartha &amp;#40;Eggplant&amp;#41;"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 9.95" descript="choice of cheese or mushroom deliciously cooked with spinach and garlic tarka" itemname="Saag Panir And Mush Room Saag"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 9.95" descript="lightly fried vegetables cooked with green peppers, sliced onions in tangy masala sauce or in hot vindaloo sauce" itemname="Vegetable Jalfrezi And Vindaloo"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 9.95" descript="mixed vegetable balls in mild thick cream and almond curry sauce" itemname="Malai Kofta"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 7.95" descript="mixed lentils and beans cooked in light butter with fresh onions, garlic and tomatoes" itemname="Dal Makhani"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Fresh Vegetable Entrees" price=" 7.95" descript="yellow lentils accented with onions, fresh garlic and spices" itemname="Yellow Tarka Dal"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 9.95" descript="your choice of meat cooked in house blended lightly spiced curry sauce" itemname="Curry"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 9.95" descript="your choice of meat stir fried and cooked in thick garlic, ginger and herbs sauce" itemname="Bhuna"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 9.95" descript="stir-fried meat cooked with fresh ginger, fresh coriander, tomato, onions and diced green pepper" itemname="Karahi"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 9.95" descript="your choice of meat cooked with spinach and herbs" itemname="Saag Curry &amp;#40;Fresh Spinach&amp;#41;"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 9.95" descript="cooked with fresh tomatoes, garlic and curry leaf" itemname="Madras"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 9.95" descript="your choice of meat cooked with chunks of potato and fresh tomato in house blended masala sauce" itemname="Aloo Tarkari"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 10.95" descript="a parsee dish, mild sweet and sour cooked with split lentil and light spinach puree, medium to hot curry" itemname="Dhansak"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 10.95" descript="chunks of fried onions, herbs and spices cooked with your choice of meat" itemname="Dopiaza"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 10.95" descript="your choice of meat cooked with lightly fried vegetables, sliced onions and peppers in tangy masala sauce" itemname="Jalfrezi"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Curry Specialties" price=" 10.95" descript="your choice of meat cooked with chunk of potato in thickened roasted chilli based hot vindaloo sauce" itemname="Vindaloo &amp;#40;Hot&amp;#41;"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Biryani And Korma Entrees" price=" 10.95" descript="aromatic indian pilaf basmati rice steam-cooked with either vegetables or boneless cubes of chicken and fresh herbs" itemname="Chicken Or Vegetable Biryani"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Biryani And Korma Entrees" price=" 11.95" descript="choice of meat and aromatic indian pilaf basmati rice cooked with fresh herbs and seasonings" itemname="Lamb&amp;#44; Beef Or Goat Biryani"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Biryani And Korma Entrees" price=" 13.95" descript="choices: shrimp, crab and mixed seafood basmati rice cooked with fresh ground spices and toasted almonds" itemname="Seafood Biryani"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Biryani And Korma Entrees" price=" 5.95" descript="basmati rice stir-fried with fresh mix vegetables" itemname="Veg Pilaf Rice"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Biryani And Korma Entrees" price=" 9.95" descript="the finest blend of 9 select vegetables, cooked with fruits and nuts in a creamy sauce" itemname="Navrattan Korma &amp;#40;Vegetable Korma&amp;#41;"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Biryani And Korma Entrees" price=" 10.95" descript="your choice of meat (chicken, lamb, beef and goat) cooked in rich roasted almond, cashew and cream sauce" itemname="Korma"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Biryani And Korma Entrees" price=" 10.95" descript="cooked in lightly spiced cream and almond masala sauce with sweet chunks of pineapple" itemname="Dildar &amp;#40;Mild Lightly Sweet With Pineapple&amp;#41;"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Seafood Entrees" price=" 12.95" descript="cooked in array of house blended lightly spice curry sauce" itemname="Shrimp Curry"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Seafood Entrees" price=" 10.95" descript="cooked in array of house blended lightly spice sauce" itemname="Fresh Crab Meat Curry"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Seafood Entrees" price=" 13.95" descript="medium hot fresh tomato and curry leaf sauce" itemname="Shrimp Madras"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Seafood Entrees" price=" 13.95" descript="grilled cubes of salmon cooked in thick herbs and spices with onions, garlic and ginger" itemname="Fish Masala"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Seafood Entrees" price=" 13.95" descript="your choice of seafood cooked in thick almond and cream sauce" itemname="Shrimp&amp;#44; Crab And Mixed Seafood Korma"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Seafood Entrees" price=" 13.95" descript="cooked with spinach in curry sauce. lightly spiced" itemname="Shrimp Saag"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Seafood Entrees" price=" 13.95" descript="cooked in our chef's masterfully blended hot vindaloo sauce or with stir fried sliced veggies in tangy masala" itemname="Shrimp Vindaloo Or Jalfrezi"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 10.95" descript="tender boneless pieces of chicken, lamb first barbecued and then cooked in a mild creamy tomato based sauce flavored with fresh indian herbs. (most popular)" itemname="Chicken Or Lamb Tikka Masala"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 10.95" descript="spring chicken marinated in special yogurt marinade with freshly ground spices then bbq'd to perfection" itemname="Tandoori Chicken"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 10.95" descript="boneless cubes of chicken marinated with yogurt, herbs and spices then grilled to perfection" itemname="Chicken Tikka"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 10.95" descript="cubes of chicken breast marinated with mild creamy blend then bbq'd to perfection" itemname="Chicken Malai Kabab"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 11.95" descript="barbecued chicken cooked with pureed spinach in mild creamy sauce. (can be cooked without cream)" itemname="Kati Chicken"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 10.95" descript="seasoned vegetables bbq'd in clay oven" itemname="Tandoori Sabzi"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 12.95" descript="seasoned minced lamb wrapped around skewers and tandoored to perfection" itemname="Lamb Seekh Kabab &amp;#40;Medium&amp;#41;"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 17.95" descript="tender lamb chops spiced, marinated overnight and barbecued to perfection, served with vegetable of the day" itemname="Lamb Chops"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 13.95" descript="chunks of lamb marinated in tangy spice blend then bbq'd to perfection" itemname="Lamb Boti Kabab"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 10.95" descript="red snapper grilled with onions, peppers and house blended masala" itemname="Whole Fish Tandoori"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 12.95" descript="marinated salmon cubes bbq'd with mild herbs and spices" itemname="Salmon Tikka"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 14.95" descript="jumbo shrimp delicately spiced and marinated in yogurt and grilled in the oven. served with vegetable of the day" itemname="Shrimp Tandoori"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 15.95" descript="grilled shrimps in creamy tomato and almond sauce" itemname="Shrimp Tandoori Masala"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Tandoori Barbecues" price=" 12.95" descript="a combination platter consisting of chicken tandoori, chicken tikka, lamb tikka, paneer tikka, salmon tikka and tandoori shrimp. served with mango chutney" itemname="Tandoori Mix Grill"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Desserts $2.95" price=" " descript="" itemname="Firni And Rice Pudding"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Desserts $2.95" price=" " descript="" itemname="Gulab Jamun"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Desserts $2.95" price=" " descript="" itemname="Rasmalai"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Desserts $2.95" price=" " descript="" itemname="Mango And Pistachio Ice Cream"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Beverages" price=" 1.50" descript="" itemname="Sodas &amp;#40;Can&amp;#41;"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Beverages" price=" 2.00" descript="" itemname="Snapple"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Beverages" price=" 2.95" descript="" itemname="Mango Lassi"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Beverages" price=" 1.95" descript="" itemname="Sweet And Salt Lassi"></menu_item>
+<menu_item type="Take&amp;#45;Out" category="Beverages" price=" 2.50" descript="refreshing mint, yogurt and soda drink." itemname="Dooq"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="crispy turnover filled with potato, peas and lentils or seasoned minced lamb with green peas" itemname="Samosas &amp;#40;2 Pcs&amp;#41;"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="chicken fritters" itemname="Chicken Pakora"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="onion and lentil fritters" itemname="Onion Bhajia"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="bbq'd minced lamb" itemname="Lamb Seekh Kabab"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="boneless marinated cubes bbq'd in clay oven" itemname="Chicken Tikka"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="cubes of chicken breast marinated with mild creamy blend then bbq'd to perfection" itemname="Chicken Malai Kabab"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="mix vegetable fritters" itemname="Vegetable Pakora"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="tomato and lentil soup" itemname="Mulligatawny Soup"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="seasoned veg. in tomato and lentil puree" itemname="Mixed Vegetable Soup"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Appetizers" price=" " descript="sweetened hot coconut in milk syrup" itemname="Coconut Soup"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Entrees" price=" " descript="choice of vegetable, chicken, lamb or beef cooked in house blended sauce" itemname="Curry"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Entrees" price=" " descript="potato, cauliflower and green peas in delicately spices light sauce" itemname="Aloo Motor Gobi"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Entrees" price=" " descript="roasted eggplant with onions and green peas" itemname="Baigan Bharta"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Entrees" price=" " descript="shredded chicken in creamy tomato based butter sauce" itemname="Chicken Makhani"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Entrees" price=" " descript="cubes of chicken in creamy almond and cashew sauce" itemname="Chicken Korma"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Entrees" price=" " descript="with stir fried sliced vegetables in tangy masala" itemname="Lamb Jalfrezi"></menu_item>
+<menu_item type="Two&amp;#45;Course Meal Deal $13.95" category="Entrees" price=" " descript="choice of chicken, lamb or beef or mushroom cooked with spinach" itemname="Saag Curry"></menu_item>
+</root>

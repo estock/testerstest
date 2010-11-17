@@ -1,0 +1,66 @@
+<root>
+<menu_item type="default" category="Specials" price=" 5.00" descript="choose either basic, chicken or steak with a soda, chips &amp; salsa." itemname="Mini Burrito"></menu_item>
+<menu_item type="default" category="Specials" price=" 7.25" descript="" itemname="Lunch Box"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Wraps" price=" 6.00" descript="fresh spinach, tomatoes, onions &amp; shredded carrots with ginger lime dressing." itemname="Spinach Salad"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Wraps" price=" 6.00" descript="fresh spinach, tomatoes, onions &amp; shredded carrots with ginger lime dressing." itemname="Spinach Salad Wrap"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Wraps" price=" 7.50" descript="spicy buffalo chicken, fresh spinach, blue cheese, shredded carrots &amp; salsa." itemname="Buffalo Chicken Wrap"></menu_item>
+<menu_item type="default" category="Starters" price=" lg (24) 18.25 bucket (50) 37.00 party bucket (100) 68.00" descript="" itemname="Buffalo Wings"></menu_item>
+<menu_item type="default" category="Starters" price=" lg (24) 18.25 bucket (50) 37.00 party bucket (100) 68.00" descript="" itemname="Teriyaki Wings"></menu_item>
+<menu_item type="default" category="Starters" price=" lg (24) 18.25 bucket (50) 37.00 party bucket (100) 68.00" descript="" itemname="BBQ Wings"></menu_item>
+<menu_item type="default" category="Starters" price=" lg (24) 18.25 bucket (50) 37.00 party bucket (100) 68.00" descript="" itemname="Sweet Chili Wings"></menu_item>
+<menu_item type="default" category="Starters" price=" lg (24) 18.25 bucket (50) 37.00 party bucket (100) 68.00" descript="" itemname="Pan&amp;#45;Fried Tofu"></menu_item>
+<menu_item type="default" category="Starters" price=" lg (24) 18.25 bucket (50) 37.00 party bucket (100) 68.00" descript="" itemname="Chicken Tenders"></menu_item>
+<menu_item type="default" category="Starters" price="   5.00" descript="with chipotle mayo dip." itemname="Popcorn Shrimp"></menu_item>
+<menu_item type="default" category="Starters" price="   5.00" descript="stuffed with shrimp &amp; monterey jack cheese then wrapped in bacon." itemname="Jalapeno Poppers"></menu_item>
+<menu_item type="default" category="Starters" price="   6.75" descript="tortilla chips with beans, jack cheese, sour cream, guacamole and salsa." itemname="Nachos"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers" price=" 7.50" descript="with avocado, chipotle mayo, lettuce &amp; tomato with fries or a salad." itemname="Grilled Chicken Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers" price=" 7.50" descript="spinach, tomato, onions, ranch dressing or honey mustard with fries or a salad." itemname="Fried Chicken Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers" price=" 7.50" descript="fresh spinach, tomato, onions &amp; blue cheese with fries or a salad." itemname="Buffalo Chicken Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers" price=" 7.50" descript="american cheese, onions and mayo. with fries or salad." itemname="Steak Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers" price=" 8.00" descript="with american cheese, &amp; fries or a salad." itemname="Cheese Burger"></menu_item>
+<menu_item type="default" category="Tortas $7.50" price=" " descript="chicken, monterey jack cheese, tomatoes &amp; honey mustard in a toasted tortilla with fries or salad." itemname="Chicken Torta"></menu_item>
+<menu_item type="default" category="Tortas $7.50" price=" " descript="steak, fries, honey mustard &amp; monterey jack cheese in a toasted tortilla with salad." itemname="Steak Frites Torta"></menu_item>
+<menu_item type="default" category="Tortas $7.50" price=" " descript="slow roast pork and cheese in a toasted tortilla with fries or salad." itemname="Roast Pork Torta"></menu_item>
+<menu_item type="default" category="Tortas $7.50" price=" " descript="shrimp, tomatoes, onions, lettuce and chipotle mayo with fries or salad." itemname="Shrimp Torta"></menu_item>
+<menu_item type="default" category="Tortas $7.50" price=" " descript="spicy chicken, rice, onions, and sour cream in a toasted tortilla with fries or salad." itemname="Torta El Diablo"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 6.25" descript="a tortilla filled with melted cheese &amp; served with sour cream, salsa, rice &amp; beans." itemname="Quesadilla"></menu_item>
+<menu_item type="default" category="Tacos" price=" 3.00" descript="" itemname="Taco"></menu_item>
+<menu_item type="default" category="Tacos" price=" 4.00" descript="" itemname="Shrimp Or Fish Taco"></menu_item>
+<menu_item type="default" category="Burritos" price=" 6.25" descript="rice, black beans, sour cream, jack cheese &amp; pico de gallo." itemname="Basic Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.25" descript="" itemname="Chicken Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.25" descript="" itemname="Steak Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.25" descript="" itemname="Ground Beef Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.25" descript="" itemname="Buffalo Chicken Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.25" descript="" itemname="Roast Pork Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.50" descript="sweet &amp; spicy chocolate sauce." itemname="Chicken Mole Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.25" descript="vegetarian" itemname="Spinach &amp;amp; Mushroom Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.25" descript="vegetarian" itemname="Avocado Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.25" descript="vegetarian. plain of spicy." itemname="Pan&amp;#45;Fried Tofu Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.50" descript="" itemname="BBQ Chicken Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.50" descript="with sweet plantains." itemname="Jerk Chicken Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 7.50" descript="" itemname="Chorizo Burrito"></menu_item>
+<menu_item type="default" category="Burritos" price=" 8.00" descript="" itemname="Fish Or Shrimp Burrito"></menu_item>
+<menu_item type="default" category="Sides" price=" 1.50" descript="" itemname="Salsa"></menu_item>
+<menu_item type="default" category="Sides" price=" 1.25" descript="" itemname="Chips"></menu_item>
+<menu_item type="default" category="Sides" price=" 3.25" descript="" itemname="Guacamole"></menu_item>
+<menu_item type="default" category="Sides" price=" 3.50" descript="" itemname="Fries"></menu_item>
+<menu_item type="default" category="Sides" price=" 2.00" descript="" itemname="Rice &amp;amp; Beans"></menu_item>
+<menu_item type="default" category="Sides" price="(5 oz) 8.00" descript="" itemname="Bottle Of Suicidal Sauce"></menu_item>
+<menu_item type="default" category="Sides" price="(5 oz) 12.00" descript="" itemname="Bottle Of Seppuku Sauce"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.00" descript="" itemname="Soppapillas"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.25" descript="" itemname="Churros"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.25" descript="" itemname="Banana Fudge Chimichanga"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.25" descript="" itemname="Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.25" descript="" itemname="Selzer"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Jarritos"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.75" descript="" itemname="Coca Cola Mexico"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Vitamin Water"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Home Made Lemonade"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Iced Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Iced Citrus Green Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Iced Jasmine Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Iced Peppermint Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Iced Raspberry Pomegranate Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Iced Hibiscus Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Horchata"></menu_item>
+</root>

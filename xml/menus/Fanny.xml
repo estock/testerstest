@@ -1,0 +1,75 @@
+<root>
+<menu_item type="Lunch" category="Appetizers" price=" 6.00" descript="" itemname="Soup Of The Day"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.00" descript="w/ boston lettuce, frisée, mizuna and fine herbs" itemname="House Salad"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.00" descript="steamed in white wine and shallots" itemname="Mussels"><extra type="sub" price=" 11.00" descript="w/ fries"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Eggs" price=" 8.00" descript="" itemname="Tomato And Goat Cheese Omelet"></menu_item>
+<menu_item type="Lunch" category="Eggs" price=" 7.00" descript="w/ canadian bacon" itemname="Two Eggs Any Style"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Main Courses" price=" 9.00" descript="tuna, tomato, egg, onion and anchovy sandwich" itemname="Pan Bagnat"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Main Courses" price=" 9.00" descript="open face grilled ham and swiss with béchamel" itemname="Croque Monsieur"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Main Courses" price=" 10.00" descript="croque monsieur w/ sunny side egg on top" itemname="Croque Madame"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Main Courses" price=" 10.00" descript="over warm chick peas, kalamata olives, arugula, red peppers and preserved lemons with cider vinaigrette" itemname="Grilled Organic Chicken Breast"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Main Courses" price=" 9.00" descript="breaded cod w/ tomato and tartar sauce" itemname="Fried Fish Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Main Courses" price=" 17.00" descript="w/ caramelized onions" itemname="Skirt Steak And Fries"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Main Courses" price=" 8.00" descript="w/ lettuce, tomato and onion" itemname="Sirloin Beef Burger"><extra type="sub" price=" 9.00" descript="w/ cheese"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Main Courses" price=" 11.00" descript="w/ couscous" itemname="Vegetarian Tagine"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 4.00" descript="" itemname="French Fries"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 4.00" descript="" itemname="Spinach And Mushroom Fricassee"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 4.00" descript="" itemname="Ratatouille"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 5.00" descript="" itemname="Fried Artichokes"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 5.00" descript="" itemname="Olives"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 8.00" descript="selection of the day" itemname="Cheese Plate"></menu_item>
+<menu_item type="Lunch" category="Desserts $6" price=" " descript="w/ chocolate sauce" itemname="Pear Sorbet"></menu_item>
+<menu_item type="Lunch" category="Desserts $6" price=" " descript="w/ fig ice cream" itemname="Tarte Tatin"></menu_item>
+<menu_item type="Lunch" category="Desserts $6" price=" " descript="" itemname="Chocolate Mousse"></menu_item>
+<menu_item type="Lunch" category="Desserts $6" price=" " descript="w/ vanilla ice cream" itemname="Lavender Blanc Manger"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.00" descript="" itemname="Soup Of The Day"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.00" descript="w/ boston lettuce, frisée, arugula and fine herbs" itemname="House Salad"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="in white wine and shallots" itemname="Mussels"><extra type="sub" price=" 11.00" descript="w/ fries"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.00" descript="butternut squash, beets, salad and goat cheese with apple cider vinaigrette and pumpkin seeds" itemname="Roasted Winter Vegetables Salad"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="in shallots and parsley butter over crushed chick peas with garlic confit and lemon juice" itemname="Garlic Shrimps"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="in red wine over warm lentil salad with chorizo" itemname="Braised Octopus"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 13.00" descript="tuna, tomatoes, eggs, snap peas, potatoes, black olives and anchovies over barley" itemname="Salade Niçoise"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 19.00" descript="roasted portobello, fingerling potatoes, baby arugula and whole roasted garlic" itemname="Rack Of Lamb"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 14.00" descript="potatoes, bacon, garlic confit, snap peas and sunchokes" itemname="Grilled Pork Chop A La Barigoule"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 16.00" descript="(allow 20 mn) w/ spinach and mushroom fricassée" itemname="Roasted Organic Chicken"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 16.00" descript="poached in light broth with carrots, turnips, potatoes and fennel" itemname="Codfish Aïoli"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 17.00" descript="w/ caramelized onions" itemname="Skirt Steak And Fries"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 8.00" descript="w/ lettuce, tomato and onion" itemname="Sirloin Beef Burger"><extra type="sub" price=" 9.00" descript="w/ cheese"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 11.00" descript="w/ couscous" itemname="Vegetarian Tagine"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 4.00" descript="" itemname="French Fries"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 4.00" descript="" itemname="Spinach And Mushroom Fricassee"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 4.00" descript="" itemname="Ratatouille"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="" itemname="Fried Artichokes"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="" itemname="Olives"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 8.00" descript="selection of the day" itemname="Cheese Plate"></menu_item>
+<menu_item type="Dinner" category="Desserts $6" price=" " descript="w/ chocolate sauce" itemname="Pear Sorbet"></menu_item>
+<menu_item type="Dinner" category="Desserts $6" price=" " descript="w/ fig ice cream" itemname="Tarte Tatin"></menu_item>
+<menu_item type="Dinner" category="Desserts $6" price=" " descript="" itemname="Chocolate Mousse"></menu_item>
+<menu_item type="Dinner" category="Desserts $6" price=" " descript="w/ vanilla ice cream" itemname="Lavender Blanc Manger"></menu_item>
+<menu_item type="Brunch" category="Brunch Special $13" price=" 8.00" descript="served with home fries, french fries or salad" itemname="Baked Eggs Over Ratatouille"></menu_item>
+<menu_item type="Brunch" category="Brunch Special $13" price=" 7.00" descript="served with home fries, french fries or salad" itemname="Two Eggs Scrambled With Canadian Bacon"></menu_item>
+<menu_item type="Brunch" category="Brunch Special $13" price=" 9.00" descript="on country bread with sautéed spinach" itemname="Poached Eggs And Tarragon Shrimps"></menu_item>
+<menu_item type="Brunch" category="Brunch Special $13" price=" 8.00" descript="w/ seasonal fruits" itemname="French Toast"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 9.00" descript="open face grilled ham and swiss with béchamel" itemname="Croque Monsieur"><extra type="sub" price=" 10.00" descript="w/ sunny side egg"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 9.00" descript="breaded codfish w/ tomato and tartar sauce" itemname="Fried Fish Sandwich"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 8.00" descript="w/ lettuce, tomato and onion" itemname="Sirloin Beef Burger"><extra type="sub" price=" 9.00" descript="w/ cheese"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Main Courses" price=" 10.00" descript="over warm chick peas, kalamata olives, arugula, red peppers and preserved lemons with cider vinaigrette" itemname="Grilled Organic Chicken Breast"></menu_item>
+<menu_item type="Brunch" category="Main Courses" price=" 17.00" descript="w/ caramelized onions" itemname="Skirt Steak And Fries"><extra type="sub" price=" 4.00" descript="add w/ brunch special"></extra>
+</menu_item>
+<menu_item type="Brunch" category="On The Side" price=" 6.00" descript="" itemname="Soup Of The Day"></menu_item>
+<menu_item type="Brunch" category="On The Side" price=" 6.00" descript="" itemname="House Salad"></menu_item>
+<menu_item type="Brunch" category="On The Side" price=" 9.00" descript="" itemname="Mussels"><extra type="sub" price=" 11.00" descript="w/ fries"></extra>
+</menu_item>
+<menu_item type="Brunch" category="On The Side" price=" 5.00" descript="" itemname="Fried Artichokes"></menu_item>
+<menu_item type="Brunch" category="On The Side" price=" 8.00" descript="selection of the day" itemname="Cheese Plate"></menu_item>
+<menu_item type="Brunch" category="Desserts $6" price=" " descript="w/ chocolate sauce" itemname="Pear Sorbet"></menu_item>
+<menu_item type="Brunch" category="Desserts $6" price=" " descript="w/ fig ice cream" itemname="Tarte Tatin"></menu_item>
+<menu_item type="Brunch" category="Desserts $6" price=" " descript="" itemname="Chocolate Mousse"></menu_item>
+<menu_item type="Brunch" category="Desserts $6" price=" " descript="w/ vanilla ice cream" itemname="Lavender Blanc Manger"></menu_item>
+</root>

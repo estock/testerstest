@@ -1,0 +1,204 @@
+<root>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Sweet Potato"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Spicy Onion"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Chicken Tempura"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Salmon Tempura"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Shrimp Tempura"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="California"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Alaskan*"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Eel Avocado Or Cucumber"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Philadelphia"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Salmon*"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Spicy Salmon"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Salmon Skin"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Tuna*"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Spicy Tuna"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Yellowtail With Scallion*"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Boston"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Tokyo"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" " descript="" itemname="Osaka"></menu_item>
+<menu_item type="default" category="Teriyaki $9" price=" " descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Teriyaki $9" price=" " descript="" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Teriyaki $9" price=" " descript="" itemname="Beef"></menu_item>
+<menu_item type="default" category="Teriyaki $9" price=" " descript="" itemname="Salmon"></menu_item>
+<menu_item type="default" category="Lunch Box $10" price=" " descript="" itemname="Chicken Teriyaki"></menu_item>
+<menu_item type="default" category="Lunch Box $10" price=" " descript="" itemname="Beef Teriyaki"></menu_item>
+<menu_item type="default" category="Lunch Box $10" price=" " descript="" itemname="Beef Negimaki"></menu_item>
+<menu_item type="default" category="Lunch Box $10" price=" " descript="" itemname="Shrimp &amp;amp; Vegetable Tempura"></menu_item>
+<menu_item type="default" category="Lunch Box $10" price=" " descript="" itemname="Salmon Teriyaki"></menu_item>
+<menu_item type="default" category="Lunch Box $10" price=" " descript="pork or chicken or fish" itemname="Katsu"></menu_item>
+<menu_item type="default" category="Lunch Box $10" price=" " descript="" itemname="Shrimp &amp;amp; Scallop Teriyaki"></menu_item>
+<menu_item type="default" category="Lunch Box $10" price=" " descript="" itemname="White Fish Teriyaki"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 10.00" descript="7pcs sushi &amp; california roll." itemname="Sushi*"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 11.00" descript="8pcs assorted sashimi." itemname="Sashimi*"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 11.00" descript="" itemname="Chirashi*"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 13.00" descript="" itemname="Sushi &amp;amp; Sashimi*"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 5.00" descript="" itemname="Shumai"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 6.00" descript="" itemname="Jumbo Shrimp Shumai"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 5.00" descript="" itemname="Shrimp Gyoza"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 5.00" descript="" itemname="Yakitori"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 5.00" descript="" itemname="Japanese Spring Roll"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 5.00" descript="" itemname="Chicken Tatsuage"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 5.00" descript="" itemname="Edamame"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 5.00" descript="" itemname="Age Tofu"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 5.00" descript="" itemname="Vegetable Gyoza"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 6.00" descript="" itemname="Vegetable Tempura"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 7.00" descript="" itemname="Beef Negimaki"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 7.00" descript="" itemname="Chicken Tempura"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 7.00" descript="" itemname="Shrimp Tempura"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 7.00" descript="" itemname="Sesame Crusted Calamari"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 8.00" descript="marinated beef short rib korean style plum sauce over tortilla." itemname="Kalbi"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 9.00" descript="sauteed scallop, crabmeat, enoki mushroom, broiled caviar, aioli sauce." itemname="Scallop Motoyaki"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 10.00" descript="shredded peking duck, scallion &amp; cucumber in chef." itemname="Crispy Peking Duck"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 11.00" descript="" itemname="Seabass Motoyaki"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 11.00" descript="" itemname="Sauteed Cajun Filet Mignon"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 11.00" descript="" itemname="Baby Lamb Rib"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 11.00" descript="garlic, butter &amp; lemon sauce." itemname="Soft Shell Crab"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 11.00" descript="sauteed fried oyster, garlic, butter &amp; lemon sauce." itemname="Oyster Yaki"></menu_item>
+<menu_item type="default" category="Hot Appetizers" price=" 11.00" descript="wok spicy yuzu aioli." itemname="Rock Shrimp Tempura"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 8.00" descript="" itemname="Sushi"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 9.00" descript="" itemname="Sashimi"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 8.00" descript="" itemname="Sunomono"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 9.00" descript="" itemname="Spicy Tuna Crunch With Avocado*"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 9.00" descript="with spicy mayo &amp; tobiko." itemname="Tuna Avocado"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 9.00" descript="with wasabi mayo sauce." itemname="Sealed Tuna Mango"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="" itemname="Seared Tuna Tataki*"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="served black pepper tuna with wasabi mayo." itemname="Tuna Carpaccio*"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="" itemname="Yellowtail Or Salmon Jalapeno*"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="served with yuzu wasabi mayo sauce." itemname="Tuna &amp;amp; Lobster"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="served yuzu olive sauce." itemname="Toro Or Yellowtail Tartar*"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="deep fried eggplant with spicy tuna, lobster salad &amp; fresh salmon, special sauce on top." itemname="Yankee Sandwich"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="" itemname="Seafood Ceviche"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="seared with red pepper." itemname="Truffle White Tuna"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 11.00" descript="" itemname="Tuna &amp;amp; Avocado Pizza"></menu_item>
+<menu_item type="default" category="Cold Appetizers" price=" 13.00" descript="" itemname="King Crab Pizza"></menu_item>
+<menu_item type="default" category="Soups" price=" 2.00" descript="" itemname="Miso Soup"></menu_item>
+<menu_item type="default" category="Soups" price=" 6.00" descript="shrimp, scallop, white fish." itemname="Seafood Soup"></menu_item>
+<menu_item type="default" category="Soups" price=" 4.00" descript="" itemname="Mushroom Soup"></menu_item>
+<menu_item type="default" category="Soups" price=" 5.00" descript="lemon grass coconut." itemname="Tom Yum Shrimp Soup"></menu_item>
+<menu_item type="default" category="Soups" price=" 7.00" descript="" itemname="Spicy Seafood Miso Soup"></menu_item>
+<menu_item type="default" category="Udon Soup" price=" 12.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Udon Soup" price=" 14.00" descript="" itemname="Seafood"></menu_item>
+<menu_item type="default" category="Salads" price=" 4.00" descript="" itemname="Garden Fresh Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 5.00" descript="" itemname="Seaweed Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 6.00" descript="" itemname="Avocado Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 8.00" descript="" itemname="Lobster Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.00" descript="" itemname="Kani Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.00" descript="" itemname="Salmon Skin Salad*"></menu_item>
+<menu_item type="default" category="Salads" price=" 12.00" descript="" itemname="King Crab Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 11.00" descript="" itemname="Seared Tuna Salad*"></menu_item>
+<menu_item type="default" category="Salads" price=" 11.00" descript="" itemname="Crispy Duck Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 12.00" descript="yellowtail, salmon, white fish, kani, hokigai with yuzu olive sauce." itemname="Ozu Salad"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 14.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 15.00" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 15.00" descript="scottish" itemname="Salmon"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 16.00" descript="" itemname="Steak*"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 16.00" descript="" itemname="Scallop"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 16.00" descript="" itemname="Beef Negimaki"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 18.00" descript="" itemname="Crispy Duck"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 22.00" descript="lobster, shrimp, scallop" itemname="Seafood"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 22.00" descript="" itemname="Filet Mignon*"></menu_item>
+<menu_item type="default" category="Kitchen Entrees" price=" 22.00" descript="chilean seabass" itemname="Spicy Garlic"></menu_item>
+<menu_item type="default" category="Bento Box" price=" 17.00" descript="" itemname="A. Chicken Teriyaki With Tempura"></menu_item>
+<menu_item type="default" category="Bento Box" price=" 17.00" descript="" itemname="B. Beef Teriyaki With Chicken Maki"></menu_item>
+<menu_item type="default" category="Bento Box" price=" 17.00" descript="" itemname="C. Salmon Teriyaki With Beef Negimaki"></menu_item>
+<menu_item type="default" category="Bento Box" price="(4pcs) 19.00" descript="" itemname="D. Soft Shell Crab With Sushi"></menu_item>
+<menu_item type="default" category="Tempura" price=" 13.00" descript="" itemname="Vegetable"></menu_item>
+<menu_item type="default" category="Tempura" price=" 15.00" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Tempura" price=" 15.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Tempura" price=" 15.00" descript="choice of: chicken, fish, pork" itemname="Katsu"></menu_item>
+<menu_item type="default" category="Yaki Udon&amp;#44; Soba &amp;amp; Spaghetti" price=" 11.00" descript="" itemname="Vegetable"></menu_item>
+<menu_item type="default" category="Yaki Udon&amp;#44; Soba &amp;amp; Spaghetti" price=" 11.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Yaki Udon&amp;#44; Soba &amp;amp; Spaghetti" price=" 12.00" descript="" itemname="Steak"></menu_item>
+<menu_item type="default" category="Yaki Udon&amp;#44; Soba &amp;amp; Spaghetti" price=" 12.00" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Yaki Udon&amp;#44; Soba &amp;amp; Spaghetti" price=" 14.00" descript="" itemname="Seafood"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 7.00" descript="" itemname="Vegetable"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 8.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 8.00" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 10.00" descript="" itemname="Seafood"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.00" descript="hirame" itemname="Fluke*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.00" descript="sawara" itemname="Spanish Mackerel*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.00" descript="kani" itemname="Crab Meat"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.00" descript="ebi" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.00" descript="tako" itemname="Octopus*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.00" descript="" itemname="Sweet Omelette Tamago"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="maguro" itemname="Tuna*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="" itemname="Super White Tuna*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="" itemname="Black Pepper Tuna*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="" itemname="Bonito*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="" itemname="Scottish Salmon*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="" itemname="Smoked Salmon"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="hamachi" itemname="Yellowtail*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="unagi" itemname="Fresh Water Eel"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="masago" itemname="Flying Fish Roe*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="" itemname="Red Tobiko Caviar*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="" itemname="Wasabi Tobiko Caviar*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 2.50" descript="" itemname="Black Tobiko Caviar*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 3.00" descript="" itemname="Jumbo Sweet Shrimp*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 3.00" descript="ikura" itemname="Salmon Roe*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 4.00" descript="" itemname="Alaskan King Crab"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" 4.00" descript="uni" itemname="Sea Urchin*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" " descript="toro" itemname="Fatty Tuna*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" " descript="okra" itemname="Tuna Belly*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" " descript="mirugai" itemname="Giant Clam*"></menu_item>
+<menu_item type="default" category="Sushi &amp;amp; Sashimi A La Carte" price=" " descript="hotate" itemname="Live Scallop*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 3.00" descript="" itemname="Asparagus"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 3.00" descript="" itemname="Avocado"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 3.00" descript="" itemname="Cucumber"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 3.00" descript="" itemname="Fried Sweet Potato"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 3.00" descript="" itemname="Spicy Onion"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 4.00" descript="" itemname="California"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 4.50" descript="" itemname="Boston"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 4.50" descript="" itemname="Salmon Skin"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 4.00" descript="" itemname="Tuna*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 4.00" descript="" itemname="Scottish Salmon*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 4.00" descript="" itemname="Yellowtail Scallion*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 4.50" descript="" itemname="Alaskan*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 5.00" descript="" itemname="Spicy Tuna Or Spicy Tuna Crunch*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 5.00" descript="" itemname="Spicy Salmon Or Spicy Salmon Crunch*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 5.00" descript="" itemname="Salmon Avocado*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 5.00" descript="" itemname="Eel Cucumber"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 5.00" descript="" itemname="Eel Avocado"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 5.00" descript="" itemname="Philadelphia"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 5.00" descript="" itemname="Chicken Tempura"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 6.00" descript="" itemname="Black Pepper Tuna"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 6.00" descript="" itemname="Spicy Scallop With Crunch*"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 6.00" descript="" itemname="Shrimp Tempura"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 8.00" descript="" itemname="Alaskan King Crab"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 8.00" descript="" itemname="Dragon"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 12.00" descript="" itemname="Lobster Tail Tempura"></menu_item>
+<menu_item type="default" category="Classic Rolls Or Hand Rolls" price=" 12.00" descript="" itemname="Spider"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 12.00" descript="tuna roll, salmon roll &amp; california roll." itemname="Maki A*"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 13.00" descript="spicy tuna roll, spicy crunchy salmon roll &amp; eel cucumber roll." itemname="Maki B"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 19.00" descript="fried roll, shrimp tempura, california." itemname="Maki C &amp;#40;All Cooked&amp;#41;"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 18.00" descript="8pcs assorted sushi with spicy crunchy salmon roll." itemname="House Sushi"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 20.00" descript="16pcs assorted sashimi." itemname="House Sashimi"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 21.00" descript="2pcs. tuna, salmon &amp; yellowtail sashimi, 3pcs sushi, daikon with cajun spicy sauce." itemname="Tri Color Three Way"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 15.00" descript="broiled glazed eel with eel sauce over fried rice." itemname="Una Don"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 17.00" descript="assorted fish over seasonal rice." itemname="Chirashi"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 22.00" descript="9pcs of sashimi, 5pcs of sushi, tuna, avocado roll." itemname="Sushi Sashimi Platter 1"></menu_item>
+<menu_item type="default" category="Sushi Entree" price=" 46.00" descript="15pcs of sashimi, 10pcs of sushi, with magic roll." itemname="Sushi Sashimi Platter 2"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 8.00" descript="smoked eel, cream cheese &amp; tempura crunch with eel sauce." itemname="Millennium Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 8.00" descript="spicy salmon skin, crabmeat, avocado, seaweed, kaware with green tobiko outside." itemname="Mexican Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 8.00" descript="spicy tuna, yellowtail, avocado with mix tobiko on the top." itemname="Valentine Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 8.00" descript="deep fried shrimp tempura topped wit eel." itemname="Unaju Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 9.00" descript="spicy kin crab, avocado, cucumber with tobiko outside." itemname="King Crab Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 9.00" descript="california, top with spicy tuna, flake, scallion &amp; tobiko." itemname="Sweet Heart Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 9.00" descript="spicy yellowtail tuna, top with salmon, flake, scallion &amp; tobiko." itemname="Cupid Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 9.00" descript="salmon, avocado inside top with mango sauce." itemname="Mango Hawaii Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 9.00" descript="california roll with assorted fish &amp; tobiko outside." itemname="Rainbow Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 9.00" descript="spicy tuna, yellowtail, crunch, avocado, top with tuna." itemname="Clark Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 10.00" descript="spicy crabmeat &amp; crunch topped with avocado, fluke &amp; chili sauce." itemname="Good Time Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 10.00" descript="with yuzu olive sauce." itemname="Naruto Kani"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 10.00" descript="spicy kani, avocado top with black pepper, tuna with wasabi mayo sauce." itemname="Banzai Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 10.00" descript="spicy salmon, avocado, cucumber, tobiko with special seaweed outside." itemname="Crazy Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 11.00" descript="spicy tuna, eel, avocado, cucumber tobiko with special seaweed outside." itemname="Red Dragon Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 11.00" descript="tuna, salmon, yellowtail, avocado, crunch with special seaweed outside." itemname="Halloween Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 11.00" descript="toro, scallion, crunch top with sweet shrimp &amp; green tobiko with chef's special sauce." itemname="Season Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 11.00" descript="tuna, salmon, yellowtail top with white tuna &amp; avocado with spicy cajun sauce." itemname="Christmas Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 11.00" descript="tuna, salmon, white fish &amp; avocado wrapped in cucumber." itemname="Naruto Rainbow"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 11.00" descript="duck, cucumber, mango wrapped rice seaweed with chef's special sauce." itemname="Crispy Duck Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 11.00" descript="smoke salmon, kani, eel, avocado, ebi, ginger wrapped with rice &amp; special sauce." itemname="Fried Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 12.00" descript="salmon, ginger, avocado rolled with special seaweed, tuna &amp; yellowtail on top, served with chef's special sauce." itemname="Tri&amp;#45;color Roll"></menu_item>
+<menu_item type="default" category="Special Sushi Roll" price=" 12.00" descript="rock shrimp tempura inside, top with spicy lobster &amp; spicy kani with spicy cajun sauce." itemname="Magic Roll"></menu_item>
+</root>

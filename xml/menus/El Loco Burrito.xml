@@ -1,0 +1,76 @@
+<root>
+<menu_item type="default" category="Soups, Stews &amp;amp; Chili" price=" " descript="with fresh vegetables, spicy chicken broth, jack cheese, guacamole, and corn tortilla chips" itemname="Traditional Tortilla Soup"></menu_item>
+<menu_item type="default" category="Soups, Stews &amp;amp; Chili" price=" " descript="topped with jack cheese and sour cream vegetable or beef" itemname="Chili Soup"></menu_item>
+<menu_item type="default" category="Salads" price=" 5.25" descript="" itemname="Regular Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 6.25" descript="" itemname="Grilled Vegetables Or spinach or broccoli"></menu_item>
+<menu_item type="default" category="Salads" price=" 6.75" descript="" itemname="Grilled Spicy Beef Shredded Chicken Or Picadillo (Ground Beef)"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.50" descript="with mixed vegetables" itemname="Grilled Marinated Chicken Breast S"></menu_item>
+<menu_item type="default" category="Salads" price=" 8.25" descript="with spicy red salsa" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Nachos" price=" 6.25" descript="" itemname="Grilled Vegetables Or Spinach Or Broccoli"></menu_item>
+<menu_item type="default" category="Nachos" price=" 6.75" descript="ground beef" itemname="Grilled Spicy Beef Shredded Chicken Or Picadillo"></menu_item>
+<menu_item type="default" category="Nachos" price=" 7.50" descript="with mixed vegetables" itemname="Grilled Marinated Chicken Breast"></menu_item>
+<menu_item type="default" category="Nachos" price=" 8.25" descript="with spicy red salsa" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 5.25" descript="with cheese" itemname="13&quot; Flour Tortilla Filled"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 6.25" descript="" itemname="Grilled Vegetables Or Spinach Or Broccoli"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 6.75" descript="ground beef" itemname="Grilled Spicy Beef Shredded Chicken Or Picadillo"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 7.50" descript="with mixed vegetables" itemname="Grilled Marinated Chicken Breast"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 8.25" descript="with spicy red salsa" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Tacos" price="(3) 2.75" descript="" itemname="One Tacos"></menu_item>
+<menu_item type="default" category="Tacos" price="(per taco) .75" descript="" itemname="Grilled Vegetables Or Spinach Or Broccoli"></menu_item>
+<menu_item type="default" category="Tacos" price="(per taco) 1.00" descript="" itemname="Grilled Spicy Beef Shredded Chicken (Ground Beef)"></menu_item>
+<menu_item type="default" category="Tacos" price="(per taco) 1.25" descript="with mixed vegetables" itemname="Grilled Marinated Chicken Breast"></menu_item>
+<menu_item type="default" category="Tacos" price="(per taco) 1.25" descript="with spicy salsa or fried fish" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 5.50" descript="pinto beans and brown rice" itemname="Regular Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.75" descript="shredded chicken with pinto beans in a rich tomatillo salsa, mexican rice" itemname="Baja Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 7.50" descript="grilled breast with mixed vegetables, pinto beans and mexican rice" itemname="Crazy Chicken Fajita Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.25" descript="steamed spinach and mushrooms with brown rice and pinto beans in a spinach tortilla" itemname="Spinach Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 7.00" descript="mixed vegetables with chili salsa, brown rice soy cheese, pinto beans, and tofu sour cream in a wheat tortilla" itemname="Garden Veggie Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 7.00" descript="brown rice, romaine lettuce, soy cheese, tofu sour cream, pinto beans, and guacamole in a wheat tortilla" itemname="Super Veggie Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.25" descript="steamed broccoli, pinto beans, brown rice, and yellow squash" itemname="Mission Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.25" descript="huevos rancheros, mexican rice, pinto beans, tofu bacon" itemname="Monterey Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.25" descript="vegetarian chili, mexican rice, and pinto beans in a spinach tortilla" itemname="Chili Veggie Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.75" descript="mexican chili, mexican rice, pinto beans in a spinach tortilla" itemname="Chili Beef Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.75" descript="mexican rice, pinto beans, rich mexican mole salsa in a spinach tortilla" itemname="Chicken Mole Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.75" descript="spicy shredded chicken, with mexican rice, pinto beans, in a flour tortilla" itemname="Chicken Chipotle Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 7.00" descript="mexican rice, pinto beans, in a flour tortilla" itemname="Grilled Spicy Beef Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 6.75" descript="mexican rice, pinto beans and ground beef" itemname="Picadillo Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" " descript="mexican rice, pinto beans, smoked peppers, spicy red salsa, romaine lettuce, in a spinach tortilla" itemname="Arizona Burrito"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 7.50" descript="" itemname="with your choice of chicken"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 8.25" descript="" itemname="with your choice of shrimp"></menu_item>
+<menu_item type="default" category="Crazy Burritos" price=" 7.50" descript="mexican rice, pinto beans, romaine lettuce in a wheat tortilla" itemname="Jerk Marinated Grilled Chicken Burrito"></menu_item>
+<menu_item type="default" category="Super Flautas" price=" " descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Super Flautas" price=" " descript="" itemname="Grilled Vegetables"></menu_item>
+<menu_item type="default" category="Super Flautas" price=" " descript="" itemname="Picadillo"></menu_item>
+<menu_item type="default" category="Fajita Platters" price=" 7.00" descript="" itemname="Grilled Vegetables"></menu_item>
+<menu_item type="default" category="Fajita Platters" price=" 8.25" descript="with vegetable" itemname="Grilled Chicken"></menu_item>
+<menu_item type="default" category="Fajita Platters" price=" 8.25" descript="with vegetables" itemname="Grilled Beef"></menu_item>
+<menu_item type="default" category="Fajita Platters" price=" 9.25" descript="with chili salsa &amp; vegetables" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Enchiladas $6.75" price=" " descript="" itemname="Vegetables"></menu_item>
+<menu_item type="default" category="Enchiladas $6.75" price=" " descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Enchiladas $6.75" price=" " descript="" itemname="Beef"></menu_item>
+<menu_item type="default" category="Extra" price=" 2.50" descript="" itemname="Mexican Corn On The Cob"></menu_item>
+<menu_item type="default" category="Extra" price=" " descript="" itemname="Guacamole"></menu_item>
+<menu_item type="default" category="Extra" price=" 2.50" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Extra" price="lg 2.75" descript="" itemname="Chips And Salsa"></menu_item>
+<menu_item type="default" category="Extra" price="lg 2.00" descript="" itemname="Sour Cream"></menu_item>
+<menu_item type="default" category="Extra" price="lg 2.00" descript="" itemname="Red Salsa"></menu_item>
+<menu_item type="default" category="Extra" price="lg 2.00" descript="" itemname="Green Salsa"></menu_item>
+<menu_item type="default" category="Extra" price=" 2.00" descript="" itemname="Mixed Vegetables"></menu_item>
+<menu_item type="default" category="Extra" price=" 2.00" descript="" itemname="Broccoli"></menu_item>
+<menu_item type="default" category="Extra" price=" 2.00" descript="" itemname="Spinach"></menu_item>
+<menu_item type="default" category="Extra" price=" 1.50" descript="" itemname="Soy Cheese"></menu_item>
+<menu_item type="default" category="Extra" price="lg 2.00" descript="" itemname="Tofu Sour Cream"></menu_item>
+<menu_item type="default" category="Extra" price="lg 3.35" descript="" itemname="Rice And Beans"></menu_item>
+<menu_item type="default" category="Desserts $2.25" price=" " descript="" itemname="Mexican Flan"></menu_item>
+<menu_item type="default" category="Desserts $2.25" price=" " descript="" itemname="Rice Pudding"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Can Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Bottle Of Water"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.35" descript="mexican soda" itemname="Jarritos"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Gatorade"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Horchata"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.25" descript="" itemname="Dos Equis"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.25" descript="" itemname="Corona Beer"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.25" descript="" itemname="Negra Modelo"></menu_item>
+<menu_item type="default" category="Beverages" price=" 12.00" descript="with fresh fruit by the pitcher" itemname="Sangria"></menu_item>
+</root>

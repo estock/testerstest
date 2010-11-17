@@ -1,0 +1,238 @@
+<root>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="1. Tuna"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="2. Salmon"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="3. Yellowtail"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="4. California"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="5. Cucumber"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="6. Avocado"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="7. Asparagus"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="8. Philadelphia"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="9. Boston"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="10. Alaskan"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="11. Tuna Cucumber"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="12. Tuna Avocado"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="13. Salmon Cucumber"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="14. Salmon Avocado"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="15. Spicy Tuna"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="16. Spicy Salmon"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="17. Shrimp Cucumber"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="18. Shrimp Avocado"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="19. Eel Cucumber"></menu_item>
+<menu_item type="Lunch" category="Sushi Luncheon Special $8" price=" " descript="" itemname="20. Eel Avocado"></menu_item>
+<menu_item type="Lunch" category="Luncheon Sushi Combo" price=" 11.00" descript="" itemname="A. California Roll &amp;amp; 6pcs Of Sushi"></menu_item>
+<menu_item type="Lunch" category="Luncheon Sushi Combo" price=" 12.00" descript="" itemname="B. Sushi &amp;amp; Sashimi"></menu_item>
+<menu_item type="Lunch" category="Luncheon Sushi Combo" price=" 13.00" descript="" itemname="C. Spicy Tuna Roll &amp;amp; 7pcs Of Sushi"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 7.75" descript="" itemname="A. Chicken Teriyaki"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 8.25" descript="" itemname="B. Salmon Teriyaki"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 8.25" descript="" itemname="C. Fish Teriyaki"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 8.25" descript="sliced beef rolled with scallion broiled with teriyaki sauce" itemname="D. Beef Negimaki"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 8.25" descript="" itemname="E. Beef Teriyaki"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 8.25" descript="" itemname="F. Tuna Teriyaki"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 8.25" descript="2 chicken skewers, 1 beef skewer &amp; 1 broccoli skewer" itemname="G. Kushi Yaki"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 7.25" descript="with japanese tofu" itemname="H. Vegetable Teriyaki"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 7.25" descript="pan-fried noodle w. mixed vegetable &amp; mushroom" itemname="I. Veggie Yaki Udon"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 7.25" descript="3 chicken skewers" itemname="J. Chicken Yakitori"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 7.25" descript="" itemname="K. Chicken Karage"></menu_item>
+<menu_item type="Lunch Bento Box" category="Teriyaki Platter" price=" 8.25" descript="" itemname="L. Ginger Beef"></menu_item>
+<menu_item type="Lunch Bento Box" category="Tempura Platter $7.25" price=" " descript="shrimp &amp; vegetable" itemname="M. Mixed Tempura"></menu_item>
+<menu_item type="Lunch Bento Box" category="Tempura Platter $7.25" price=" " descript="" itemname="N. Vegetable Tempura"></menu_item>
+<menu_item type="Lunch Bento Box" category="Tempura Platter $7.25" price=" " descript="" itemname="O. Shrimp Tempura"></menu_item>
+<menu_item type="Lunch Bento Box" category="Tempura Platter $7.25" price=" " descript="" itemname="P. Fish Tempura"></menu_item>
+<menu_item type="Lunch Bento Box" category="Tempura Platter $7.25" price=" " descript="" itemname="Q. Chicken Tempura"></menu_item>
+<menu_item type="Lunch Bento Box" category="Tempura Platter $7.25" price=" " descript="pork cutlet" itemname="R. Ton Katsu"></menu_item>
+<menu_item type="Lunch Bento Box" category="Tempura Platter $7.25" price=" " descript="chicken cutlet" itemname="S. Chicken Katsu"></menu_item>
+<menu_item type="Lunch Bento Box" category="Tempura Platter $7.25" price=" " descript="sushi platter" itemname="T. Fish Katsu"></menu_item>
+<menu_item type="Lunch Bento Box" category="Sushi Platter" price=" 8.25" descript="4pcs of sushi" itemname="U. Sushi Bento"></menu_item>
+<menu_item type="Lunch Bento Box" category="Sushi Platter" price=" 8.95" descript="6pcs of sashimi" itemname="V. Sashimi Bento"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 4.00" descript="green soybean" itemname="Edamame"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 4.00" descript="steamed shrimp dumpling" itemname="Shumai"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 5.00" descript="2 skewers of chicken" itemname="Yakitori"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 4.00" descript="broccoli, mushroom &amp; eggplant grille on skewer" itemname="Veggie Kushiyaki"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 4.00" descript="golden fried bean curd with special dipping sauce" itemname="Agedashi Tofu"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 4.00" descript="japanese spring roll" itemname="Harumaki"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 4.00" descript="boiled cold spinach with dried bonito" itemname="Oshitashi"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 5.00" descript="homemade pan-fried dumpling" itemname="Gyoza Or Veggie Gyoza"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 8.00" descript="lightly batter-fried shrimp w. lightly spicy creamy dressing" itemname="Rock Shrimp"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 5.00" descript="" itemname="Vegetable Tempura"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 6.00" descript="shrimp &amp; vegetable" itemname="Tempura"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 5.00" descript="fried crab dumpling" itemname="Kaniza"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 7.00" descript="beef rolled w. scallion broiled with teriyaki sauce" itemname="Beef Negimaki"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 7.00" descript="batter-fried oyster" itemname="Kaki Fry"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 8.00" descript="golden crispy fried squid" itemname="Calamari"></menu_item>
+<menu_item type="Dinner" category="Hot Appetizer" price=" 7.00" descript="baked shrimp, scallop &amp; mushroom" itemname="Dynamite"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Appetizer" price="(5 pcs) 7.00" descript="" itemname="Sushi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Appetizer" price="(7pcs) 8.00" descript="" itemname="Sashimi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Appetizer" price=" 8.00" descript="seared tuna or salmon" itemname="Tataki Tuna Or Salmon"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Appetizer" price=" 8.00" descript="thin-sliced fluke" itemname="Usuzukuri"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Appetizer" price=" 8.00" descript="seared beef" itemname="Beef Tataki"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Appetizer" price=" 8.00" descript="" itemname="Spicy Tuna Crunch"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Appetizer" price=" 9.00" descript="with onion, tobiko, scallion" itemname="Salmon Tartar"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Appetizer" price=" 10.00" descript="" itemname="Spicy Eel Crunch"></menu_item>
+<menu_item type="Dinner" category="Soup" price=" 2.00" descript="" itemname="Miso Soup"></menu_item>
+<menu_item type="Dinner" category="Soup" price=" 2.00" descript="" itemname="Clear Soup"></menu_item>
+<menu_item type="Dinner" category="Soup" price=" 5.00" descript="" itemname="Seafood Soup"></menu_item>
+<menu_item type="Dinner" category="Soup" price=" 6.00" descript="" itemname="Spicy Seafood Soup"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 4.00" descript="" itemname="Mixed Mesclun Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 4.00" descript="" itemname="Seaweed Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 4.00" descript="" itemname="Hijiki Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 5.00" descript="" itemname="Mixed Oshinko"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 6.00" descript="" itemname="Avocado Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 7.00" descript="octopus, crab, seafood" itemname="Sunomono"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 6.00" descript="" itemname="Baked Spicy Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 7.00" descript="" itemname="Seafood Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 7.00" descript="" itemname="Kani Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 8.00" descript="" itemname="Spicy Tuna Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 8.00" descript="with seaweed salad" itemname="Special Lobster Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 9.00" descript="seared tuna" itemname="Tuna Tataki Salad"></menu_item>
+<menu_item type="Dinner" category="Salad" price=" 7.00" descript="" itemname="Mushroom Salad"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Sushi Entree" price=" 10.95" descript="" itemname="Tuna &amp;amp; 5 Pcs of Sushi"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Sushi Entree" price=" 15.00" descript="" itemname="Tuna Or Salmon Or Eel Don"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Sushi Entree" price=" 10.95" descript="3 pcs of tuna a top with avocado &amp; 3 pcs of salmon top with cucumber" itemname="Sunshine Sushi"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Sushi Entree" price=" 14.00" descript="" itemname="Chirashi"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Sushi Entree" price=" 16.00" descript="7 pcs of salmon over brown rice &amp; topped with masago" itemname="Orange Don"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Sushi Entree" price=" 13.95" descript="" itemname="California &amp;amp; 6pcs Of Sushi"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Sushi Entree" price="(for 1) 21.00" descript="" itemname="Sushi &amp;amp; Sashimi"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Kitchen Entree" price=" 12.00" descript="mix peppers, mushrooms, asparagus with teriyaki sauce" itemname="Vegetable Brown"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Kitchen Entree" price=" 14.00" descript="pan fried white chicken with teriyaki sauce" itemname="Chicken Brown"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Kitchen Entree" price=" 16.00" descript="pan fried salmon with teriyaki sauce" itemname="Salmon Brown"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Kitchen Entree" price=" 16.00" descript="shrimp with teriyaki sauce" itemname="Shrimp Brown"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Kitchen Entree" price=" 18.00" descript="rib eye with teriyaki sauce" itemname="Beef Brown"></menu_item>
+<menu_item type="Dinner" category="Brown Rice Kitchen Entree" price=" 21.00" descript="grilled sea bass with fruity miso sauce" itemname="Sen Bass Brown"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 10.00" descript="with mixed vegetable" itemname="Tofu"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 12.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 13.00" descript="" itemname="Beef Negimaki"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 14.00" descript="" itemname="Salmon"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 14.00" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 16.00" descript="" itemname="Chilean Sea Bass"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 16.00" descript="" itemname="Beef"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 16.00" descript="" itemname="Tuna"></menu_item>
+<menu_item type="Dinner" category="Teriyaki" price=" 21.00" descript="" itemname="Filet Mignon"></menu_item>
+<menu_item type="Dinner" category="Tempura" price=" 10.00" descript="" itemname="Vegetable Tempura"></menu_item>
+<menu_item type="Dinner" category="Tempura" price=" 11.00" descript="pork cutlet" itemname="Ton Katsu"></menu_item>
+<menu_item type="Dinner" category="Tempura" price=" 11.00" descript="" itemname="Chicken Katsu"></menu_item>
+<menu_item type="Dinner" category="Tempura" price=" 12.00" descript="shrimp &amp; vegetable" itemname="Tempura Mixed"></menu_item>
+<menu_item type="Dinner" category="Tempura" price=" 12.00" descript="" itemname="Shrimp Tempura"></menu_item>
+<menu_item type="Dinner" category="Tempura" price=" 11.00" descript="" itemname="Chicken Tempura"></menu_item>
+<menu_item type="Dinner" category="Noodles" price=" " descript="with vegetable" itemname="Pan Fried Noodle"><extra type="add" price=" 8.00" descript="chicken"></extra>
+<extra type="add" price=" 8.00" descript="vegetable"></extra>
+<extra type="add" price=" 11.00" descript="shrimp"></extra>
+<extra type="add" price=" 8.00" descript="pork"></extra>
+<extra type="add" price=" 9.00" descript="beef"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Noodles" price=" " descript="with vegetable" itemname="Japanese Noodle In Broth"><extra type="add" price=" 8.00" descript="chicken"></extra>
+<extra type="add" price=" 9.00" descript="beef"></extra>
+<extra type="add" price=" 12.00" descript="seafood"></extra>
+<extra type="add" price=" 9.00" descript="tempura"></extra>
+<extra type="add" price=" 9.00" descript="nabeyaki"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 6.00" descript="baked yellowtail &amp; salmon" itemname="Baked Spicy Roll"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 7.00" descript="4 pcs of seared tuna with spicy sauce" itemname="Tataki Roll"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 8.00" descript="eel &amp; cucumber w. avocado &amp; masago on top" itemname="Brooklyn Roll"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 8.00" descript="tempura fish, masago, avocado, seaweed salad &amp; scallion" itemname="Crazy Roll"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 9.00" descript="smoked salmon, caper, asparagus, onion, masago, mayo, sprinkled w. black &amp; red tobiko" itemname="Excellent Roll"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 9.00" descript="eel, avocado, salmon skin, masago &amp; scallion fried w. tempura batter" itemname="Super Roll"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 10.00" descript="california roll topped w. tuna &amp; avocado" itemname="Red Dragon Roll"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 11.00" descript="shrimp tempura roll &amp; banana inside w. spicy tuna on top" itemname="Fire House Roll"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Roll" price=" 9.95" descript="tuna salmon, cucumber to with shrimp and avocado" itemname="Javits Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 13.00" descript="6 pcs of assorted sushi &amp; california roll" itemname="Sushi &amp;amp; California Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 13.00" descript="1 avocado cucumber roll inside out &amp; 7 pcs of sushi" itemname="Veggie Sushi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 13.00" descript="3 tuna, 3 salmon, 1 yellowtail 2 whitefish, tamago, shrimp &amp; crab over bowl of rice" itemname="Chirashi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 14.00" descript="broiled eel glazed w. eel sauce over rice" itemname="Unaju"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 15.00" descript="7pcs of tuna sushi &amp; 1 tuna roll" itemname="Tuna Lover"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 15.00" descript="2 tuna, 2 salmon, 1 yellowtail, 2 whitefish, shrimp, white tuna &amp; tuna roll" itemname="Sushi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 15.00" descript="7pcs of salami sushi &amp; a spicy salmon roll" itemname="Salmon Lover"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 17.00" descript="15pcs of assorted sashimi" itemname="Sashimi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 18.00" descript="2 tuna, 2 salmon, 2 yellowtail, 2 kampachi, 2 king crab &amp; california roll" itemname="House Sushi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price="(for 1) 20.00" descript="10pcs of sashimi, 5 pcs of sushi &amp; a california roll" itemname="Sushi &amp;amp; Sashimi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price=" 20.00" descript="3 tuna, 3 salmon, 3 yellowtail, 3 white tuna, 3 kampachi, 2 king crab" itemname="House Sashimi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price="(for 2) 35.00" descript="spicy tuna roll &amp; california roll, 4 tuna, 4 salmon, 2 yellowtail, 2 whitefish, 2 shrimp, 2 eel, 2 white tuna" itemname="Sushi"></menu_item>
+<menu_item type="Dinner" category="Sushi Bar Entree" price="(for 2) 43.00" descript="20pcs of sashimi, 10pcs of sushi, spicy tuna &amp; red dragon roll" itemname="Sushi &amp;amp; Sashimi"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="maguro" itemname="Tuna"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="sake" itemname="Salmon"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="tuna tataki" itemname="Seared Tuna"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.00" descript="hamachi" itemname="Yellowtail"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.00" descript="" itemname="Blue Fin Tuna"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.00" descript="unagi" itemname="Eel"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.00" descript="" itemname="White Tuna"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.00" descript="" itemname="King Crab"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.00" descript="" itemname="Amber Jack"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="hirame" itemname="Halibut"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="" itemname="Smoked Salmon"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="masago" itemname="Smelt Roe"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="red tobiko" itemname="Flying Fish Roe"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="ikura" itemname="Salmon Roe"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="tai" itemname="Red Snapper"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="" itemname="Mackerel Saba"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="sawara" itemname="Spanish Mackerel"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="tako" itemname="Octopus"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="ika" itemname="Squid"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="hokkigai" itemname="Surf Clam"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="ebi" itemname="Shrimp"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.00" descript="hotategai" itemname="Scallop"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.50" descript="kalbashia" itemname="Scallop With Caviar &amp;amp; Mayo"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.50" descript="" itemname="Snow Crab With American Caviar"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 3.50" descript="botan ebi" itemname="Raw Shrimp"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" " descript="uni" itemname="California Sea Urchin"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" " descript="toro" itemname="Fatty Blue Fin Tuna"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" " descript="mirugai" itemname="Jumbo Clam"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="tamago" itemname="Egg Custard"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="kani" itemname="Crab Stick"></menu_item>
+<menu_item type="Dinner" category="A La Carte Sushi or Sashimi" price=" 2.00" descript="inari" itemname="Bean Curd Skin"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(6 pcs) 5.50" descript="asparagus, avocado &amp; cucumber" itemname="AAC"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(6 pcs) 5.50" descript="" itemname="Spinach Walnut"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price=" 6.50" descript="tuna or salmon with avocado, cucumber &amp; masago outside" itemname="Tuna Or Salmon Brown"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(8 pcs) 7.50" descript="tuna, yellowtail, crabmeat, cucumber &amp; spicy mayo" itemname="Samurai"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(8 pcs) 7.50" descript="tuna, salmon, shrimp, avocado &amp; masago outside" itemname="Pacific"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(8 pcs) 7.50" descript="yellowtail, spicy mayo, cucumber, asparagus top with masago" itemname="Chelsea"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(6 pcs) 8.50" descript="spicy lobster meat with cucumber &amp; lettuce" itemname="Lobster Brown"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(8 pcs) 8.50" descript="eel inside top with eel avocado" itemname="Dragon Brown"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(8 pcs) 9.50" descript="vegetable tempura with tofu skin of top" itemname="Double Brown"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(8 pcs) 9.50" descript="2 shrimp tempura inside top with masago" itemname="Ebi Ten"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Special Brown Roll" price="(8 pcs) 10.00" descript="fel, avocado, egg, custard, masago and top with tuna salmon" itemname="Hako"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 4.00" descript="tekka" itemname="Tuna Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 4.00" descript="" itemname="Salmon Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 4.00" descript="" itemname="Yellowtail Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Shrimp &amp;amp; Cucumber"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Shrimp &amp;amp; Avocado"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 4.00" descript="king crab, cucumber, avocado &amp; masago" itemname="California"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Tuna &amp;amp; Cucumber"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Tuna &amp;amp; Avocado"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" " descript="" itemname="Salmon &amp;amp; Cucumber"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Salmon &amp;amp; Avocado"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Salmon Skin"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Philadelphia Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Unagi Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Unagi &amp;amp; Avocado"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="crab, egg &amp; veggie" itemname="Futomaki"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Spicy Scallop"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Spicy Tuna"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Spicy Salmon"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Spicy Yellowtail"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Spicy Shrimp"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 5.00" descript="" itemname="Spicy White Tuna"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 6.00" descript="smoked salmon, cucumber &amp; avocado" itemname="Alaskan Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 6.00" descript="shrimp, lettuce, cucumber &amp; avocado" itemname="Boston Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price=" 6.00" descript="negi toro" itemname="Tuna Belly"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price="5pcs 7.00" descript="" itemname="Dragon Roll"></menu_item>
+<menu_item type="Dinner" category="Sushi Roll &amp;amp; Hand Roll" price="8pcs 11.00" descript="" itemname="Rainbow Roll"></menu_item>
+<menu_item type="Dinner" category="Tempura Roll" price=" 5.00" descript="" itemname="Vegetable Tempura Roll"></menu_item>
+<menu_item type="Dinner" category="Tempura Roll" price=" 6.00" descript="" itemname="Chicken Tempura Roll"></menu_item>
+<menu_item type="Dinner" category="Tempura Roll" price=" 7.00" descript="" itemname="Shrimp Tempura Roll"></menu_item>
+<menu_item type="Dinner" category="Tempura Roll" price=" 7.00" descript="soft shell crab" itemname="Spider Roll"></menu_item>
+<menu_item type="Dinner" category="Tempura Roll" price=" 9.00" descript="" itemname="Lobster Tempura Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 3.00" descript="" itemname="Cucumber Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 3.00" descript="" itemname="Avocado Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 3.00" descript="" itemname="Asparagus Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 3.00" descript="" itemname="Oshinko Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 3.00" descript="" itemname="Kampyo Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 3.00" descript="" itemname="Yamagobo Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 4.00" descript="" itemname="Shiitake Mushroom Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 5.00" descript="" itemname="Veggie Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 6.00" descript="" itemname="Veggie Brown Rice Roll"></menu_item>
+<menu_item type="Dinner" category="Vegetable Roll" price=" 5.00" descript="seaweed salad, cucumber, asparagus, inari &amp; mushroom" itemname="Zen Zen Roll"></menu_item>
+<menu_item type="Dinner" category="House Special Roll Combo" price=" 11.00" descript="tuna, yellowtail &amp; california" itemname="Maki Comb A"></menu_item>
+<menu_item type="Dinner" category="House Special Roll Combo" price=" 13.00" descript="spicy tuna, spicy yellowtail &amp; spicy salmon roll" itemname="Maki Comb B"></menu_item>
+<menu_item type="Dinner" category="House Special Roll Combo" price=" 13.00" descript="california, spicy tuna &amp; eel avocado roll" itemname="Maki Combo C"></menu_item>
+<menu_item type="Dinner" category="Set Dinner $16" price=" " descript="teriyaki with choice of chicken, beef, salmon, beef negimaki or chicken yakitori, and choose one from california, spicy tuna, sushi or sashimi" itemname="Dinner Bento A"></menu_item>
+<menu_item type="Dinner" category="Set Dinner $16" price=" " descript="tempura with choices of shrimp tempura, vegetable tempura, mix tempura or chicken tempura, and choose one from California, spicy tuna, sushi or sashimi" itemname="Dinner Bento B"></menu_item>
+</root>

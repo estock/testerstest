@@ -1,0 +1,60 @@
+<root>
+<menu_item type="default" category="Viennoiserie" price=" 2.15" descript="" itemname="Croissant"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 2.15" descript="" itemname="Pain Au Chocolat"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 2.65" descript="almond, almond chocolate, almond raspberry" itemname="Almond Croissant"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 2.15" descript="" itemname="Pain Aux Raisins"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 2.15" descript="" itemname="Pear &amp;amp; Apricot Danish"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 2.15" descript="raspberry, blueberry, bran with raisins" itemname="Muffins"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 1.25" descript="classic petite french cakes with a hint of citrus" itemname="Petite Madeleine"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 2.15" descript="dark, golden, and flaky soft bun with sprinkled with coarse sugar. *weekend only" itemname="Brioche With Sugar"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 6.00" descript="" itemname="Brioche Loaf"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 10.00" descript="" itemname="dark, golden, and flaky loaf. large loaf"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 2.65" descript="deep fried choux pastry filled with raspberry jam and sprinkled with sugar *weekend specialty" itemname="Beignet"></menu_item>
+<menu_item type="default" category="Viennoiserie" price=" 2.65" descript="with raisins" itemname="Bread Pudding"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 2.15" descript="crunchy, buttery, salty, soft and just the right amount of chocolate" itemname="Chocolate Chip Cookie"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 2.15" descript="chewy, nutty and wheat free" itemname="Flourless Chocolate Cookie With Walnuts"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 2.15" descript="" itemname="Oatmeal Raisin Cookie"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 3.25" descript="a rich almond flour cake with berries" itemname="Financier"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 3.25" descript="" itemname="Chocolate Fondant"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 2.15" descript="whipped egg whites and sugar create this light, airy and sweet confection" itemname="Meringues"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 1.25" descript="colorful meringue-based confections in lemon raspberry passion pistachio chocolate black currant" itemname="Macarons"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 1.25" descript="chocolate ganache and nuts covered in chocolate" itemname="Rocher"></menu_item>
+<menu_item type="default" category="Cookies And Cakes" price=" 2.75" descript="regular golden cake or chocolate cake with chocolate or white chocolate topping" itemname="Cupcakes"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="chocolate dacquoise, crème chocolate, flourless cake, chocolate mousse" itemname="Regal"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="valrhona guanaja chocolate mousse and raspberry cremeux with crunchy chocolate pearls and berry compote." itemname="Chocolate Raspberry - Nut Free"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="flourless cake, french macaron, vanilla crème brulee, chocolate mousse" itemname="Chocolate Crème Brule Cake"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="almond layer biscuit, fresh strawberries, mousseline crème" itemname="Fraisier"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="extra bitter chocolate with candied hazelnuts and hazelnut meringue" itemname="Chocolate Purse"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="flourless cake, dark chocolate mousse, coconut dacquoise, passion fruit crème" itemname="Chocolate Passion"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="pistachio sponge cake, lemon cremeux and raspberry jelly topped with meringue" itemname="Lemon Raspberry"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="almond sponge cake, chocolate ganache layers of coffee butter cream" itemname="Opera"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="flourless cake, crunchy wafer, chocolate mousse, praline crème, chocolate dacquoise" itemname="Almondine"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="crunchy streusel chocolate and tahitian vanilla cremeux with crunchy chocolate pearls, a thin chocolate biscuit and chocolate mousse." itemname="Chocolate Vanilla"></menu_item>
+<menu_item type="default" category="Fancy Pâtisserie $4.50" price=" " descript="dark, milk and white chocolate mousse with a chocolate sponge cake" itemname="Chocolate Trio"></menu_item>
+<menu_item type="default" category="Classic Pâtisserie" price=" 3.75" descript="chocolate mousse with chocolate shavings" itemname="Chocolate Mousse"></menu_item>
+<menu_item type="default" category="Classic Pâtisserie" price=" 3.75" descript="" itemname="Crème Brulee"></menu_item>
+<menu_item type="default" category="Classic Pâtisserie" price=" 3.75" descript="" itemname="NY Cheese Cake"></menu_item>
+<menu_item type="default" category="Classic Pâtisserie" price=" 3.75" descript="french apple tart with caramelized buttered apples baked in puff pastry" itemname="Tarte Tatin"></menu_item>
+<menu_item type="default" category="Classic Pâtisserie" price=" 3.75" descript="flaky puff pastry with vanilla custard" itemname="Mille Feuille"></menu_item>
+<menu_item type="default" category="Classic Pâtisserie" price=" 4.00" descript="almond tart topped with crème pâtissière and raspberries or strawberries" itemname="Berries Tart"></menu_item>
+<menu_item type="default" category="Classic Pâtisserie" price=" 4.00" descript="lemon pie with a hint of raspberry jam, topped off with meringue" itemname="Lemon Meringue Pie"></menu_item>
+<menu_item type="default" category="Classic Pâtisserie" price=" 3.75" descript="filled with chocolate or berries and cream" itemname="Eclair"></menu_item>
+<menu_item type="default" category="Quiche &amp;amp; Soup" price="whole 25.00" descript="ham and swiss" itemname="Lorraine"></menu_item>
+<menu_item type="default" category="Quiche &amp;amp; Soup" price="whole 25.00" descript="tomato with mozzarella" itemname="Tomate"></menu_item>
+<menu_item type="default" category="Quiche &amp;amp; Soup" price="whole 25.00" descript="broccoli, mushrooms, tomatoes &amp; mozzarella" itemname="Vegetarian"></menu_item>
+<menu_item type="default" category="Quiche &amp;amp; Soup" price="(16oz) 5.10" descript="hale &amp; hearty soups and homemade vegetarian potage" itemname="Soupe"></menu_item>
+<menu_item type="default" category="Sandwiches $7.25" price=" " descript="pâté on baguette with butter, tomatoes and cornichons" itemname="Pâté"></menu_item>
+<menu_item type="default" category="Sandwiches $7.25" price=" " descript="tuna with mayonnaise, swiss cheese and tomatoes" itemname="Tuna"></menu_item>
+<menu_item type="default" category="Sandwiches $7.25" price=" " descript="turkey sandwich with mayonnaise, onions, tomatoes and cheese" itemname="Turkey"></menu_item>
+<menu_item type="default" category="Sandwiches $7.25" price=" " descript="baked eggplant, zucchini, mushrooms, onions, garlic, sweet red peppers and goat cheese" itemname="Vegetarian"></menu_item>
+<menu_item type="default" category="Sandwiches $7.25" price=" " descript="chicken sandwich with sundried tomatoes, red peppers, pesto and mozzarella cheese" itemname="Chicken Pesto"></menu_item>
+<menu_item type="default" category="Sandwiches $7.25" price=" " descript="sweet ham and brie sandwich with mustard, butter and tomatoes" itemname="Ham"></menu_item>
+<menu_item type="default" category="Beverages &amp;amp; Coffee" price="(16oz) 2.10" descript="la colombe torrefaction corsica blend" itemname="Café"></menu_item>
+<menu_item type="default" category="Beverages &amp;amp; Coffee" price="(16oz) 3.60" descript="la colombe torrefaction nizza blend" itemname="Latte &amp;amp; Cappuccino"></menu_item>
+<menu_item type="default" category="Beverages &amp;amp; Coffee" price="(16oz) 4.00" descript="exclusive &amp; seasonal" itemname="Valrhona Hot Chocolate"></menu_item>
+<menu_item type="default" category="Beverages &amp;amp; Coffee" price="(16oz) 2.50" descript="la colombe torrefaction nizza blend" itemname="Espresso"></menu_item>
+<menu_item type="default" category="Beverages &amp;amp; Coffee" price="(16oz) 3.60" descript="sweetened with organic cane sugar, spices and organic black tea" itemname="Organic Sattwa Chai Latte"></menu_item>
+<menu_item type="default" category="Beverages &amp;amp; Coffee" price="(16oz) 4.00" descript="iced latte or organic iced chai" itemname="Iced Latte, Iced Chai"></menu_item>
+<menu_item type="default" category="Beverages &amp;amp; Coffee" price="(16oz) 3.50" descript="seasonal" itemname="Homemade Lemonade"></menu_item>
+<menu_item type="default" category="Beverages &amp;amp; Coffee" price="(16oz) 2.15" descript="evian, perrier, orangina, bai etc" itemname="Bottled Beverages"></menu_item>
+</root>

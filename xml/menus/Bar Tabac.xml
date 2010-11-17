@@ -1,0 +1,475 @@
+<root>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="mustard soy vinaigrette" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Shrimp Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="chermoula sauce" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Lamb Kebab Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="soy balsamic dressing, parsley" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Scallops Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Salmon Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="pesto sauce" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Fresh Calamari Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="harissa sauce" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Lamb Sausage ԕMerguezԕ"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="garlic, pastis &amp; parsley butter" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Mushroom Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Chicken Breast Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="ricard, butter, parsley sauce" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Baked Clams"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="ham and sausage" category_description="
+$6 Or Combo, Choice Of 5 $24.95.
+" itemname="Prosciutto Et Saucisson"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.00" descript="" category_description="" itemname="Soup of The Day"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.50" descript="with a twist of porto" category_description="" itemname="Onion Soup Gratinée"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.00" descript="with green peppercorn, brandy, porto" category_description="" itemname="Country Paté"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.00" descript="with raw vegetable julienne" category_description="" itemname="Mixed Baby Greens"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.50" descript="with garlic, parsley and pastis butter" category_description="" itemname="Baked Burgundy Snails"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.50" descript="with vinaigrette, avocado purée, and tortilla chips" category_description="" itemname="Tuna Tartare"></menu_item>
+<menu_item type="Lunch" category="Salads $9.50" price=" " descript="with lettuce, tomato, swiss, ham, egg, cucumbers, corn" category_description="" itemname="Chef"></menu_item>
+<menu_item type="Lunch" category="Salads $9.50" price=" " descript="with lettuce, egg, tomato, croutons, classic caesar dressing" category_description="" itemname="Jules Caesar"></menu_item>
+<menu_item type="Lunch" category="Salads $9.50" price=" " descript="with romaine, tomato, bacon, lemon parsley dressing" category_description="" itemname="Grilled Calamari"></menu_item>
+<menu_item type="Lunch" category="Salads $9.50" price=" " descript="with bacon, walnuts, croutons, grape dressing, truffle oil" category_description="" itemname="Duck Salad"></menu_item>
+<menu_item type="Lunch" category="Salads $9.50" price=" " descript="with baby greens, fresh seared tuna, egg, tomato, anchovies" category_description="" itemname="Niçoise"></menu_item>
+<menu_item type="Lunch" category="Salads $9.50" price=" " descript="with beet, apple, frisée, raspberry dressing" category_description="" itemname="Goat Cheese On Croutons"></menu_item>
+<menu_item type="Lunch" category="Salads $9.50" price=" " descript="with hearts of palm, beets, and mustard dressing" category_description="" itemname="Artichoke Salad"></menu_item>
+<menu_item type="Lunch" category="Salads $9.50" price=" " descript="with baby arugula, beets, walnuts and raspberry dressing" category_description="" itemname="Fourme D'ambert"></menu_item>
+<menu_item type="Lunch" category="Les Moules &quot;Bar Tabac&quot; $12.95" price=" " descript="marinière or provencales" category_description="" itemname="Steamed Fresh Canadian Mussels"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $9.75" price=" " descript="french fries, baby greens" category_description="" itemname="Burger Bar Tabac"><extra type="add" price=" 1.00" descript="add with swiss or cheddar cheese"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches $9.75" price=" " descript="country bread, bechamel, ham, swiss, and fries" category_description="" itemname="Croque Monsieur"><extra type="add" price=" 1.50" descript="add fried egg"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches $9.75" price=" " descript="brioche onion bun, mixed salad &amp; french fries" category_description="" itemname="Grilled Chicken Breast Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $9.75" price=" " descript="brioche onion bun, mixed salad &amp; french fries" category_description="" itemname="Grilled Hanger Steak Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $9.75" price=" " descript="with pico de gallo and avocado" category_description="" itemname="Salmon burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $9.75" price=" " descript="avocado, cheddar and pico de gallo" category_description="" itemname="Chicken Wrap"></menu_item>
+<menu_item type="Lunch" category="Main Courses Express" price=" 18.95" descript="grilled organic shell steak, french fries, mixed salad" category_description="" itemname="Steak Frites"><extra type="add" price=" 1.50" descript="pepper sauce"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Main Courses Express" price=" 15.50" descript="baby greens and french fries, with fried eggs" category_description="" itemname="Steak And Eggs"></menu_item>
+<menu_item type="Lunch" category="Main Courses Express" price=" 9.95" descript="choice of 2: tomato, swiss, cheddar, ham, bacon, smoked salmon, merguez sausage, served with french fries and baby greens ." category_description="" itemname="Omelette A la Carte (Organic Eggs)"><extra type="add" price=" 1.00" descript="each additional item"></extra>
+<extra type="add" price=" 1.50" descript="add egg white omelette available"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Main Courses Express" price=" 9.95" descript="choice of ham, sausage, or merguez" category_description="" itemname="2 Eggs Any Style (Organic Eggs )"></menu_item>
+<menu_item type="Lunch" category="Main Courses Express" price=" 14.50" descript="with herbs, natural juice, and mashed potatoes" category_description="" itemname="Roasted Half Chicken"></menu_item>
+<menu_item type="Lunch" category="Main Courses Express" price=" 14.50" descript="over tomato, roasted peppers, green beans, olives salad, nicoise style" category_description="" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Lunch" category="Main Courses Express" price=" 13.50" descript="bacon, mushroom and cream sauce" category_description="" itemname="Fettucini Carbonara"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="String Beans"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="French Fries"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="Mushroom Risotto"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="Sauteed Spinach"></menu_item>
+<menu_item type="Lunch" category="Diet Busters $6" price=" 6.00" descript="warm flourless chocolate cake" category_description="" itemname="Gâteaux Au Chocolat"></menu_item>
+<menu_item type="Lunch" category="Diet Busters $6" price=" 6.00" descript="" category_description="" itemname="Traditional Crème Brulée"></menu_item>
+<menu_item type="Lunch" category="Diet Busters $6" price=" 6.00" descript="" category_description="" itemname="Cheese Cake"></menu_item>
+<menu_item type="Lunch" category="Diet Busters $6" price=" 6.00" descript="" category_description="" itemname="Ice Cream"></menu_item>
+<menu_item type="Lunch" category="Diet Busters $6" price=" 7.00" descript="" category_description="" itemname="Profiteroles"></menu_item>
+<menu_item type="Lunch" category="default" price=" 2.00" descript="" category_description="" itemname="Café Americain"></menu_item>
+<menu_item type="Lunch" category="default" price=" 2.75" descript="" category_description="" itemname="Espresso - Macchiato"></menu_item>
+<menu_item type="Lunch" category="default" price=" 3.50" descript="" category_description="" itemname="Latte"></menu_item>
+<menu_item type="Lunch" category="default" price=" 3.95" descript="" category_description="" itemname="Cappuccino"></menu_item>
+<menu_item type="Lunch" category="default" price=" 2.00" descript="earl grey, english breakfast, peppermint, chamomile" category_description="" itemname="Tea Selection"></menu_item>
+<menu_item type="Lunch" category="default" price=" 4.95" descript="with celery" category_description="" itemname="Bloody Mary"></menu_item>
+<menu_item type="Lunch" category="default" price=" 3.95" descript="" category_description="" itemname="Mimosa"></menu_item>
+<menu_item type="Lunch" category="default" price=" 2.95" descript="" category_description="" itemname="Virgin Mary"></menu_item>
+<menu_item type="Lunch" category="default" price=" 5.95" descript="champagne cassis" category_description="" itemname="Kir Royal"></menu_item>
+<menu_item type="Lunch" category="default" price=" 6.00" descript="" category_description="" itemname="Ricard &amp;amp; Ricard Cocktail"></menu_item>
+<menu_item type="Lunch" category="Les Rafraichissements" price=" 3.00" descript="orange, lemonade, tomato, pineapple, grapefruit, cranberry" category_description="" itemname="Juices"></menu_item>
+<menu_item type="Lunch" category="Les Rafraichissements" price=" " descript="combination of sprite and stella" category_description="" itemname="Very Refreshing"><extra type="add" price=" 6.00" descript="panache"></extra>
+<extra type="add" price=" 6.00" descript="monaco with grenadine"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Les Rafraichissements" price=" 2.00" descript="coke, diet, coke, ginger ale, sprite" category_description="" itemname="Sodas"><extra type="add" price=" 2.00" descript="tonic water, club soda"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="
+Please Ask Your Waiter About Our Wines By The Glass. Les Carafes (500cl) $17.
+" itemname="Perrier, Large"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 4.00" descript="" category_description="
+Please Ask Your Waiter About Our Wines By The Glass. Les Carafes (500cl) $17.
+" itemname="Perrier 33cl"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="
+Please Ask Your Waiter About Our Wines By The Glass. Les Carafes (500cl) $17.
+" itemname="Panna, Large"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="
+Please Ask Your Waiter About Our Wines By The Glass. Les Carafes (500cl) $17.
+" itemname="Badoit, Large"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="mustard soy vinaigrette" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Shrimp Brochette"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="chermoula sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Lamb Kebab Brochette"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="soy balsamic dressing, parsley" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Scallops Brochette"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Salmon Brochette"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="pesto sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Fresh Calamari Brochette"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="harissa sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Lamb Sausage ԕMerguezԕ"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="garlic, pastis &amp; parsley butter" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Mushroom Brochette"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Chicken Breast Brochette"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="ricard, butter, parsley sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Baked Clams"></menu_item>
+<menu_item type="Dinner" category="Bistro Bites" price=" " descript="ham and sausage" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Prosciutto Et Saucisson"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.00" descript="" category_description="" itemname="Soup of The Day"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.50" descript="with a twist of port wine" category_description="" itemname="Onion Soup Gratinée"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 7.00" descript="with green peppercorn, brandy, porto" category_description="" itemname="Country Pâté"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 7.95" descript="with croutons, beets, apples and frisée salad" category_description="" itemname="Goat Cheese Salad"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 6.00" descript="with raw vegetables julienne" category_description="" itemname="Mixed Baby Greens"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 7.50" descript="with garlic, parsley and pastis butter" category_description="" itemname="Baked Burgundy Snails"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.50" descript="frisee with lardons and poached egg" category_description="" itemname="Frisee Aux Lardons"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.50" descript="with bacon, walnuts, croutons, truffle oil" category_description="" itemname="Duck Salad"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 7.95" descript="with hearts of palm, beets, and mustard dressing" category_description="" itemname="Artichoke salad"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.50" descript="with vinaigrette, avocado purée , and tortilla chips" category_description="" itemname="Tuna Tartare"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.50" descript="with baby arugula, beets, walnuts and raspberry dressing" category_description="" itemname="Fourme D'Ambert"></menu_item>
+<menu_item type="Dinner" category="Les Moules &quot;Bar Tabac&quot; $15.95" price=" " descript="" category_description="" itemname="Steamed Fresh Canadian Mussels"></menu_item>
+<menu_item type="Dinner" category="Les Moules &quot;Bar Tabac&quot; $15.95" price=" " descript="" category_description="" itemname="Marinière Or Dijonnaise"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 15.75" descript="french fries, mixed salad" category_description="" itemname="Grilled Minute Steak"><extra type="add" price=" 1.50" descript="add pepper sauce"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 17.95" descript="mushroom risotto and shallot sauce" category_description="" itemname="Pan Roasted Hanger Steak"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 18.95" descript="moroccan spices, couscous, and vegetables" category_description="" itemname="Grilled Lamb Steak"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 15.50" descript="with mixed greens &amp; shoestring potatoes" category_description="" itemname="Chicken Paillard"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 17.95" descript="served with french fries and mixed greens" category_description="" itemname="Duck Confit"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 16.95" descript="herbs, natural juice, and mashed potatoes" category_description="" itemname="Roasted Half Chicken"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 16.95" descript="sauteed over mashed potatoes and vegetables, with cornichon sauce" category_description="" itemname="Pork Chop &quot;Charcutiere&quot;"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 17.95" descript="over tomato, roasted peppers, greens beans, olive salad, nicoise style" category_description="" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 17.95" descript="almond trout, string beans, steamed potatoes, lemon, brown butter" category_description="" itemname="Truite Amandine"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 14.50" descript="bacon, mushroom and cream sauce" category_description="" itemname="Fettucini Carbonara"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 16.50" descript="with spicy shrimp in tomato sauce" category_description="" itemname="Black Ink Tagliatelle"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 15.95" descript="baby greens, vegetables, fresh seared tuna, egg, tomato, anchovy" category_description="" itemname="Nicoise Salad"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 19.95" descript="grilled shell steak, fresh fries, mixed salad" category_description="" itemname="Steak Frites"><extra type="add" price=" 1.50" descript="peppercorn sauce add"></extra>
+</menu_item>
+<menu_item type="Dinner" category="default" price=" 13.95" descript="french fries and baby greens" category_description="" itemname="Late Night Giant Bar Tabac Burger"><extra type="add" price=" 1.00" descript="w/ swiss or cheddar cheese add"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Side Orders $5" price=" " descript="" category_description="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Dinner" category="Side Orders $5" price=" " descript="" category_description="" itemname="String Beans"></menu_item>
+<menu_item type="Dinner" category="Side Orders $5" price=" " descript="" category_description="" itemname="French Fries"></menu_item>
+<menu_item type="Dinner" category="Side Orders $5" price=" " descript="" category_description="" itemname="Mushroom Risotto"></menu_item>
+<menu_item type="Dinner" category="Side Orders $5" price=" " descript="" category_description="" itemname="Sauteed Spinach"></menu_item>
+<menu_item type="Dinner" category="Diet Busters" price=" 6.00" descript="warm flourless chocolate cake" category_description="" itemname="Gâteaux Au Chocolat"></menu_item>
+<menu_item type="Dinner" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Traditional Crème Brulée"></menu_item>
+<menu_item type="Dinner" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Cheese Cake"></menu_item>
+<menu_item type="Dinner" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Ice Cream"></menu_item>
+<menu_item type="Dinner" category="Diet Busters" price=" 7.00" descript="" category_description="" itemname="Profiteroles"></menu_item>
+<menu_item type="Dinner" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Perrier, Large"></menu_item>
+<menu_item type="Dinner" category="Les Eaux" price=" 3.00" descript="" category_description="" itemname="Perrier. 33cl"></menu_item>
+<menu_item type="Dinner" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Evian, Large"></menu_item>
+<menu_item type="Dinner" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Badoit, Large"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="mustard soy vinaigrette" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Shrimp Brochette"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="chermoula sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Lamb Kebab Brochette"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="soy balsamic dressing, parsley" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Scallops Brochette"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Salmon Brochette"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="pesto sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Fresh Calamari Brochette"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="harissa sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Lamb Sausage ԕMerguezԕ"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="garlic, pastis &amp; parsley butter" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Mushroom Brochette"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Chicken Breast Brochette"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="ricard, butter, parsley sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Baked Clams"></menu_item>
+<menu_item type="Brunch" category="Bistro Bites" price=" " descript="ham and sausage" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Prosciutto Et Saucisson"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 6.00" descript="" category_description="" itemname="Soup of The Day"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 6.50" descript="with a twist of porto" category_description="" itemname="Onion Soup Gratinée"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 7.00" descript="with green peppercorn, brandy, porto" category_description="" itemname="Country Paté"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 6.00" descript="with raw vegetable julienne" category_description="" itemname="Mixed Baby Greens"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 7.50" descript="with garlic, parsley and pastis butter" category_description="" itemname="Baked Burgundy Snails"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 8.50" descript="with vinaigrette, avocado purée, and tortilla chips ." category_description="" itemname="Tuna Tartare"></menu_item>
+<menu_item type="Brunch" category="Eggs $9.95" price=" " descript="with fresh fruit salad and spices" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="French Toast"></menu_item>
+<menu_item type="Brunch" category="Eggs $9.95" price=" " descript="poached eggs, ham, hollandaise" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Eggs Benedict"></menu_item>
+<menu_item type="Brunch" category="Eggs $9.95" price=" " descript="poached eggs, spinach, hollandaise" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Eggs Florentine"></menu_item>
+<menu_item type="Brunch" category="Eggs $9.95" price=" " descript="poached eggs, scottish smoked salmon, hollandaise" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Eggs Norvegienne"></menu_item>
+<menu_item type="Brunch" category="Eggs $9.95" price=" " descript="baked with ratatouille and merguez sausage" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Eggs &quot;Bar Tabac&quot;"></menu_item>
+<menu_item type="Brunch" category="Eggs $9.95" price="ea 1.00" descript="choice of two ingredients: smoked salmon, spinach, ham, swiss cheese, breakfast sausage, bacon, merguez sausage, fresh tomato" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Omelette À La Carte"><extra type="add" price=" 1.50" descript="egg white omelette available add"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Express Mains" price=" 11.95" descript="french fries and baby greens" category_description="" itemname="Burger Bar Tabac"><extra type="add" price=" 1.00" descript="add with swiss cheese or cheddar"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Express Mains" price=" 11.50" descript="baby greens, vegetables, fresh seared tuna, egg, tomato, anchovies" category_description="" itemname="Niçoise Salad"></menu_item>
+<menu_item type="Brunch" category="Express Mains" price=" 10.50" descript="served on warm croutons, beet, apple, frisée, raspberry dressing" category_description="" itemname="Goat Cheese Salad"></menu_item>
+<menu_item type="Brunch" category="Express Mains" price=" 18.95" descript="grilled organic shell steak, french fries, salad" category_description="" itemname="Steak Frites"><extra type="add" price=" 1.50" descript="add pepper sauce"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Express Mains" price=" 12.95" descript="steamed mussels with white wine, shallots, parsley &amp; french fries" category_description="" itemname="Moules Frites"></menu_item>
+<menu_item type="Brunch" category="Express Mains" price=" 9.95" descript="country bread, béchamel, ham, swiss &amp; fries" category_description="" itemname="Croque Monsieur"><extra type="add" price=" 1.50" descript="add with fried egg"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Express Mains" price=" 12.95" descript="baby greens and french fries, with fried eggs" category_description="" itemname="Steak And Eggs (Organic)"></menu_item>
+<menu_item type="Brunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Bacon"></menu_item>
+<menu_item type="Brunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Breakfast Sausage"></menu_item>
+<menu_item type="Brunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Merguez"></menu_item>
+<menu_item type="Brunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Smoked Salmon"></menu_item>
+<menu_item type="Brunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Spinach"></menu_item>
+<menu_item type="Brunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Home Fries"></menu_item>
+<menu_item type="Brunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="French Fries"></menu_item>
+<menu_item type="Brunch" category="Side Orders" price=" 1.00" descript="" category_description="" itemname="English Muffin"></menu_item>
+<menu_item type="Brunch" category="Diet Busters" price=" 6.00" descript="warm flourless chocolate cake" category_description="" itemname="Gâteaux Au Chocolat"></menu_item>
+<menu_item type="Brunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Traditional Crème Brulée"></menu_item>
+<menu_item type="Brunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Cheese Cake"></menu_item>
+<menu_item type="Brunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Ice Cream"></menu_item>
+<menu_item type="Brunch" category="Diet Busters" price=" 7.00" descript="" category_description="" itemname="Profiteroles"></menu_item>
+<menu_item type="Brunch" category="default" price=" 2.00" descript="" category_description="" itemname="Café Americain"></menu_item>
+<menu_item type="Brunch" category="default" price=" 2.75" descript="" category_description="" itemname="Espresso - Macchiato"></menu_item>
+<menu_item type="Brunch" category="default" price=" 3.50" descript="" category_description="" itemname="Latte"></menu_item>
+<menu_item type="Brunch" category="default" price=" 3.95" descript="" category_description="" itemname="Cappuccino"></menu_item>
+<menu_item type="Brunch" category="default" price=" 2.00" descript="earl grey, english breakfast, peppermint, chamomile" category_description="" itemname="Tea Selection"></menu_item>
+<menu_item type="Brunch" category="default" price=" 4.95" descript="with celery" category_description="" itemname="Bloody Mary"></menu_item>
+<menu_item type="Brunch" category="default" price=" 3.95" descript="" category_description="" itemname="Mimosa"></menu_item>
+<menu_item type="Brunch" category="default" price=" 2.95" descript="" category_description="" itemname="Virgin Mary"></menu_item>
+<menu_item type="Brunch" category="default" price=" 4.95" descript="champagne cassis" category_description="" itemname="Kir Royal"></menu_item>
+<menu_item type="Brunch" category="default" price=" 6.00" descript="" category_description="" itemname="Ricard And Ricard Cocktail"></menu_item>
+<menu_item type="Brunch" category="Les Rafraichissements" price=" 3.00" descript="orange, lemonade, tomato, pineapple, grapefruit, cranberry" category_description="" itemname="Juices"></menu_item>
+<menu_item type="Brunch" category="Les Rafraichissements" price=" " descript="combination of sprite and stella" category_description="" itemname="Very Refreshing"><extra type="add" price=" 6.00" descript="panaché"></extra>
+<extra type="add" price=" 6.00" descript="monaco with grenadine."></extra>
+</menu_item>
+<menu_item type="Brunch" category="Les Rafraichissements" price=" 2.00" descript="coke, diet coke, ginger ale, sprite" category_description="" itemname="Sodas"><extra type="add" price=" 2.00" descript="tonic water, club soda"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Perrier, Large"></menu_item>
+<menu_item type="Brunch" category="Les Eaux" price=" 4.00" descript="" category_description="" itemname="Perrier 33cl"></menu_item>
+<menu_item type="Brunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Evian, Large"></menu_item>
+<menu_item type="Brunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Badoit, Large"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="mustard soy vinaigrette" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Shrimp Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="chermoula sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Lamb Kebab Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="soy balsamic dressing, parsley" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Scallops Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Salmon Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="pesto sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Fresh Calamari Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="harissa sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Lamb Sausage ԕMerguezԕ"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="garlic, pastis &amp; parsley butter" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Mushroom Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Chicken Breast Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="ricard, butter, parsley sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Baked Clams"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="ham and sausage" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Prosciutto Et Saucisson"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.00" descript="" category_description="" itemname="Soup of The Day"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.50" descript="with a twist of port wine" category_description="" itemname="Onion Soup Gratinée"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.00" descript="with green peppercorn, brandy, porto" category_description="" itemname="Country Pâté"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.95" descript="with croutons, beets, apples and frisée salad" category_description="" itemname="Goat Cheese Salad"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.00" descript="with raw vegetables julienne" category_description="" itemname="Mixed Baby Greens"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.50" descript="with garlic, parsley and pastis butter" category_description="" itemname="Baked Burgundy Snails"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.50" descript="frisee with lardons and poached egg" category_description="" itemname="Frisee Aux Lardons"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 10.50" descript="with bacon, walnuts, croutons, truffle oil" category_description="" itemname="Duck Salad"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.95" descript="with hearts of palm, beets, and mustard dressing" category_description="" itemname="Artichoke salad"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.50" descript="with vinaigrette, avocado purée , and tortilla chips" category_description="" itemname="Tuna Tartare"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.50" descript="with baby arugula, beets, walnuts and raspberry dressing" category_description="" itemname="Fourme D'Ambert"></menu_item>
+<menu_item type="Lunch" category="Les Moules &quot;Bar Tabac&quot; $15.95" price=" " descript="" category_description="" itemname="Steamed Fresh Canadian Mussels"></menu_item>
+<menu_item type="Lunch" category="Les Moules &quot;Bar Tabac&quot; $15.95" price=" " descript="" category_description="" itemname="Marinière Or Dijonnaise"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 15.75" descript="french fries, mixed salad" category_description="" itemname="Grilled Minute Steak"><extra type="add" price=" 1.50" descript="add pepper sauce"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 17.95" descript="mushroom risotto and shallot sauce" category_description="" itemname="Pan Roasted Hanger Steak"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 18.95" descript="moroccan spices, couscous, and vegetables" category_description="" itemname="Grilled Lamb Steak"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 15.50" descript="with mixed greens &amp; shoestring potatoes" category_description="" itemname="Chicken Paillard"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 17.95" descript="served with french fries and mixed greens" category_description="" itemname="Duck Confit"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 16.95" descript="herbs, natural juice, and mashed potatoes" category_description="" itemname="Roasted Half Chicken"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 16.95" descript="sauteed over mashed potatoes and vegetables, with cornichon sauce" category_description="" itemname="Pork Chop &quot;Charcutiere&quot;"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 17.95" descript="over tomato, roasted peppers, greens beans, olive salad, nicoise style" category_description="" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 17.95" descript="almond trout, string beans, steamed potatoes, lemon, brown butter" category_description="" itemname="Truite Amandine"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 14.50" descript="bacon, mushroom and cream sauce" category_description="" itemname="Fettucini Carbonara"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 16.50" descript="with spicy shrimp in tomato sauce" category_description="" itemname="Black Ink Tagliatelle"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 15.95" descript="baby greens, vegetables, fresh seared tuna, egg, tomato, anchovy" category_description="" itemname="Nicoise Salad"></menu_item>
+<menu_item type="Lunch" category="Main Courses" price=" 19.95" descript="grilled shell steak, fresh fries, mixed salad" category_description="" itemname="Steak Frites"><extra type="add" price=" 1.50" descript="peppercorn sauce add"></extra>
+</menu_item>
+<menu_item type="Lunch" category="default" price=" 13.95" descript="french fries and baby greens" category_description="" itemname="Late Night Giant Bar Tabac Burger"><extra type="add" price=" 1.00" descript="w/ swiss or cheddar cheese add"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="String Beans"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="French Fries"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="Mushroom Risotto"></menu_item>
+<menu_item type="Lunch" category="Side Orders $5" price=" " descript="" category_description="" itemname="Sauteed Spinach"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 6.00" descript="warm flourless chocolate cake" category_description="" itemname="Gâteaux Au Chocolat"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Traditional Crème Brulée"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Cheese Cake"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Ice Cream"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 7.00" descript="" category_description="" itemname="Profiteroles"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Perrier, Large"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 3.00" descript="" category_description="" itemname="Perrier. 33cl"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Evian, Large"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Badoit, Large"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="mustard soy vinaigrette" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Shrimp Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="chermoula sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Lamb Kebab Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="soy balsamic dressing, parsley" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Scallops Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Salmon Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="pesto sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Fresh Calamari Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="harissa sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Lamb Sausage ԕMerguezԕ"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="garlic, pastis &amp; parsley butter" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Mushroom Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="green peppercorn sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Chicken Breast Brochette"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="ricard, butter, parsley sauce" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Baked Clams"></menu_item>
+<menu_item type="Lunch" category="Bistro Bites" price=" " descript="ham and sausage" category_description="
+$6 Or Combo, Choice Of 5, $24.95
+" itemname="Prosciutto Et Saucisson"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.00" descript="" category_description="" itemname="Soup of The Day"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.50" descript="with a twist of porto" category_description="" itemname="Onion Soup Gratinée"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.00" descript="with green peppercorn, brandy, porto" category_description="" itemname="Country Paté"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.00" descript="with raw vegetable julienne" category_description="" itemname="Mixed Baby Greens"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.50" descript="with garlic, parsley and pastis butter" category_description="" itemname="Baked Burgundy Snails"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.50" descript="with vinaigrette, avocado purée, and tortilla chips ." category_description="" itemname="Tuna Tartare"></menu_item>
+<menu_item type="Lunch" category="Eggs $9.95" price=" " descript="with fresh fruit salad and spices" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="French Toast"></menu_item>
+<menu_item type="Lunch" category="Eggs $9.95" price=" " descript="poached eggs, ham, hollandaise" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Eggs Benedict"></menu_item>
+<menu_item type="Lunch" category="Eggs $9.95" price=" " descript="poached eggs, spinach, hollandaise" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Eggs Florentine"></menu_item>
+<menu_item type="Lunch" category="Eggs $9.95" price=" " descript="poached eggs, scottish smoked salmon, hollandaise" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Eggs Norvegienne"></menu_item>
+<menu_item type="Lunch" category="Eggs $9.95" price=" " descript="baked with ratatouille and merguez sausage" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Eggs &quot;Bar Tabac&quot;"></menu_item>
+<menu_item type="Lunch" category="Eggs $9.95" price="ea 1.00" descript="choice of two ingredients: smoked salmon, spinach, ham, swiss cheese, breakfast sausage, bacon, merguez sausage, fresh tomato" category_description="
+All Eggs Raised Organically (Saucer Farm)
+" itemname="Omelette À La Carte"><extra type="add" price=" 1.50" descript="egg white omelette available add"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Express Mains" price=" 11.95" descript="french fries and baby greens" category_description="" itemname="Burger Bar Tabac"><extra type="add" price=" 1.00" descript="add with swiss cheese or cheddar"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Express Mains" price=" 11.50" descript="baby greens, vegetables, fresh seared tuna, egg, tomato, anchovies" category_description="" itemname="Niçoise Salad"></menu_item>
+<menu_item type="Lunch" category="Express Mains" price=" 10.50" descript="served on warm croutons, beet, apple, frisée, raspberry dressing" category_description="" itemname="Goat Cheese Salad"></menu_item>
+<menu_item type="Lunch" category="Express Mains" price=" 18.95" descript="grilled organic shell steak, french fries, salad" category_description="" itemname="Steak Frites"><extra type="add" price=" 1.50" descript="add pepper sauce"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Express Mains" price=" 12.95" descript="steamed mussels with white wine, shallots, parsley &amp; french fries" category_description="" itemname="Moules Frites"></menu_item>
+<menu_item type="Lunch" category="Express Mains" price=" 9.95" descript="country bread, béchamel, ham, swiss &amp; fries" category_description="" itemname="Croque Monsieur"><extra type="add" price=" 1.50" descript="add with fried egg"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Express Mains" price=" 12.95" descript="baby greens and french fries, with fried eggs" category_description="" itemname="Steak And Eggs (Organic)"></menu_item>
+<menu_item type="Lunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Bacon"></menu_item>
+<menu_item type="Lunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Breakfast Sausage"></menu_item>
+<menu_item type="Lunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Merguez"></menu_item>
+<menu_item type="Lunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Smoked Salmon"></menu_item>
+<menu_item type="Lunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Spinach"></menu_item>
+<menu_item type="Lunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="Home Fries"></menu_item>
+<menu_item type="Lunch" category="Side Orders" price=" 5.00" descript="" category_description="" itemname="French Fries"></menu_item>
+<menu_item type="Lunch" category="Side Orders" price=" 1.00" descript="" category_description="" itemname="English Muffin"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 6.00" descript="warm flourless chocolate cake" category_description="" itemname="Gâteaux Au Chocolat"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Traditional Crème Brulée"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Cheese Cake"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 6.00" descript="" category_description="" itemname="Ice Cream"></menu_item>
+<menu_item type="Lunch" category="Diet Busters" price=" 7.00" descript="" category_description="" itemname="Profiteroles"></menu_item>
+<menu_item type="Lunch" category="default" price=" 2.00" descript="" category_description="" itemname="Café Americain"></menu_item>
+<menu_item type="Lunch" category="default" price=" 2.75" descript="" category_description="" itemname="Espresso - Macchiato"></menu_item>
+<menu_item type="Lunch" category="default" price=" 3.50" descript="" category_description="" itemname="Latte"></menu_item>
+<menu_item type="Lunch" category="default" price=" 3.95" descript="" category_description="" itemname="Cappuccino"></menu_item>
+<menu_item type="Lunch" category="default" price=" 2.00" descript="earl grey, english breakfast, peppermint, chamomile" category_description="" itemname="Tea Selection"></menu_item>
+<menu_item type="Lunch" category="default" price=" 4.95" descript="with celery" category_description="" itemname="Bloody Mary"></menu_item>
+<menu_item type="Lunch" category="default" price=" 3.95" descript="" category_description="" itemname="Mimosa"></menu_item>
+<menu_item type="Lunch" category="default" price=" 2.95" descript="" category_description="" itemname="Virgin Mary"></menu_item>
+<menu_item type="Lunch" category="default" price=" 4.95" descript="champagne cassis" category_description="" itemname="Kir Royal"></menu_item>
+<menu_item type="Lunch" category="default" price=" 6.00" descript="" category_description="" itemname="Ricard And Ricard Cocktail"></menu_item>
+<menu_item type="Lunch" category="Les Rafraichissements" price=" 3.00" descript="orange, lemonade, tomato, pineapple, grapefruit, cranberry" category_description="" itemname="Juices"></menu_item>
+<menu_item type="Lunch" category="Les Rafraichissements" price=" " descript="combination of sprite and stella" category_description="" itemname="Very Refreshing"><extra type="add" price=" 6.00" descript="panaché"></extra>
+<extra type="add" price=" 6.00" descript="monaco with grenadine."></extra>
+</menu_item>
+<menu_item type="Lunch" category="Les Rafraichissements" price=" 2.00" descript="coke, diet coke, ginger ale, sprite" category_description="" itemname="Sodas"><extra type="add" price=" 2.00" descript="tonic water, club soda"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Perrier, Large"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 4.00" descript="" category_description="" itemname="Perrier 33cl"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Evian, Large"></menu_item>
+<menu_item type="Lunch" category="Les Eaux" price=" 6.00" descript="" category_description="" itemname="Badoit, Large"></menu_item>
+<menu_item type="Lunch" category="Dessert Diet Busters $6" price=" " descript="warm flourless chocolate cake" category_description="
+Please Ask Your Server About Our Selection Of Freshly Baked Desserts From Ceci-Cela.
+" itemname="Gâteaux Au Chocolat"></menu_item>
+<menu_item type="Lunch" category="Dessert Diet Busters $6" price=" " descript="" category_description="
+Please Ask Your Server About Our Selection Of Freshly Baked Desserts From Ceci-Cela.
+" itemname="Traditional Crème Brulée"></menu_item>
+<menu_item type="Lunch" category="Dessert Diet Busters $6" price=" " descript="" category_description="
+Please Ask Your Server About Our Selection Of Freshly Baked Desserts From Ceci-Cela.
+" itemname="Cheesecake"></menu_item>
+<menu_item type="Lunch" category="Dessert Diet Busters $6" price=" " descript="" category_description="
+Please Ask Your Server About Our Selection Of Freshly Baked Desserts From Ceci-Cela.
+" itemname="Ice Cream"></menu_item>
+<menu_item type="Lunch" category="Kids Menu" price=" 7.00" descript="" category_description="" itemname="Grilled Chicken Fingers"></menu_item>
+<menu_item type="Lunch" category="Kids Menu" price=" 7.00" descript="" category_description="" itemname="Kids Burger"></menu_item>
+<menu_item type="Lunch" category="Kids Menu" price=" 7.00" descript="served with french fries" category_description="" itemname="Grilled Cheese Sandwich"></menu_item>
+<menu_item type="Lunch" category="Kids Menu" price=" 7.00" descript="with tomato sauce" category_description="" itemname="Kids Pasta"></menu_item>
+<menu_item type="Lunch" category="Kids Menu" price=" 6.00" descript="ask for flavors" category_description="" itemname="Ice Cream"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 6.00" descript="" category_description="" itemname="Sierra Nevada"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 6.00" descript="" category_description="" itemname="Amstel Light"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 6.00" descript="" category_description="" itemname="Newcastle"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 6.00" descript="" category_description="" itemname="Kronenbourg"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 6.00" descript="" category_description="" itemname="Blue Moon"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 7.00" descript="" category_description="" itemname="Guinness"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 6.00" descript="" category_description="" itemname="Modelo &quot;Especial&quot;"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 7.00" descript="" category_description="" itemname="Chimay Red"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 5.00" descript="" category_description="" itemname="Bud Light"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 6.00" descript="" category_description="" itemname="Peak Organic Pomegranate Ale"></menu_item>
+<menu_item type="Lunch" category="Bottle Beer" price=" 5.00" descript="non alcoholic beer" category_description="" itemname="Clausthaler"></menu_item>
+</root>

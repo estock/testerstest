@@ -1,0 +1,57 @@
+<root>
+<menu_item type="default" category="Soups &amp;amp; Salads" price=" 4.00" descript="cup, bowl" itemname="Soup Du Jour"></menu_item>
+<menu_item type="default" category="Soups &amp;amp; Salads" price=" 4.00" descript="" itemname="French Onion Soup Au Gratin"></menu_item>
+<menu_item type="default" category="Soups &amp;amp; Salads" price=" 6.95" descript="seasonal greens with tomatoes, onions mushrooms &amp; balsamic vinaigrette" itemname="House Salad"></menu_item>
+<menu_item type="default" category="Soups &amp;amp; Salads" price=" 9.95" descript="seasonal greens with crumbled bacon, tomatoes, grilled chicken, shredded cheddar, black olives &amp; guacamole" itemname="Cobb Salad"></menu_item>
+<menu_item type="default" category="Soups &amp;amp; Salads" price=" 9.95" descript="topped with grilled chicken" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="Soups &amp;amp; Salads" price=" 9.95" descript="grilled chicken over seasonal greens with tomatoes, cucumbers, apples, dried cranberries, walnuts and crumbled cheese served with cider balsamic dressing." itemname="Chopped Salad"></menu_item>
+<menu_item type="default" category="Soups &amp;amp; Salads" price=" 9.95" descript="grilled chicken or chilli over seasonal greens with tomatoes, olive, jalapenos cheddar &amp; jack cheese" itemname="Taco Salad"></menu_item>
+<menu_item type="default" category="Soups &amp;amp; Salads" price=" 8.95" descript="served with bacon, mushrooms, hard boiled egg &amp; a warm vinaigrette" itemname="Spinach Salad"></menu_item>
+<menu_item type="default" category="Create Your Own Pasta" price=" " descript="penne rigatoni bow tie" itemname="Pasta Choices"></menu_item>
+<menu_item type="default" category="Create Your Own Pasta" price=" " descript="bolognese marinara alfredo vodka garlic &amp; oil" itemname="Sauces"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 14.95" descript="served with blue cheese dip, celery and carrots buffalo mild, medium, or hot teriyaki, barbecue or honey garlic" itemname="Basket of Wings"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 13.95" descript="chicken fingers, mozzarella sticks, bacon cheddar skins and poppers" itemname="Southwestern Sampler"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 6.50" descript="" itemname="Okeefes Chili"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.50" descript="" itemname="Veggie Chili"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.95" descript="with chicken add" itemname="Nachos Grande"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.00" descript="" itemname="Chips, Salsa &amp;amp; Guacamole"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.50" descript="" itemname="Potato Skins"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.50" descript="" itemname="Beer Battered Onion Rings"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 13.00" descript="" itemname="Basket of Fries"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 14.00" descript="" itemname="Cheese and Gravy"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 14.00" descript="" itemname="Cheese and Chili"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.95" descript="" itemname="Chicken Fingers and Fries"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.95" descript="" itemname="or try them buffalo style"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 6.95" descript="" itemname="Cheese Quesadilla"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.95" descript="" itemname="Veggie Quesadilla"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.95" descript="" itemname="Chicken Quesadilla"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.95" descript="" itemname="Shrimp Quesadilla"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.00" descript="" itemname="Garlic Bread"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.75" descript="" itemname="with cheese"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 18.95" descript="" itemname="Fried Calamari"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.95" descript="" itemname="or try them buffalo style"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 17.95" descript="" itemname="Mozzarella Sticks"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.95" descript="lightly breaded cheddar stuffed jalapenos" itemname="Jalapeno Poppers"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 15.50" descript="served with tortilla chips" itemname="Spinach Artichoke Dip"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 14.95" descript="served with mashed potatoes and vegetables" itemname="12oz Rib Eye Steak"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 7.95" descript="thinly sliced rib eye steak with peppers, onions and mozzarella on garlic bread or try our chicken philly cheese steak" itemname="Philly Cheese Steak"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 7.95" descript="boneless chicken breast breaded and fried dipped in medium wing sauce served with blue cheese dressing" itemname="Buffalo Chicken Sandwich"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 7.95" descript="with lettuce, tomato &amp; pickle" itemname="Grilled Chicken Sandwich"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 7.95" descript="sliced corned beef with sauerkrant &amp; melted swiss cheese on grilled rye with thousand island dressing" itemname="Reuben"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 7.95" descript="stack on rye bread" itemname="Corned Beef"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 8.95" descript="roast beef on a hero served with au jus" itemname="French Dip"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 8.95" descript="lettuce, tomato &amp; bacon on white bread" itemname="Turkey Chicken or Roast Beef Club"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 4.95" descript="(With tomato or bacon $0.75)" itemname="Grilled Cheese"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 7.95" descript="1/2 fresh ground beef on a seeded bun with lettuce, tomato &amp; pickle" itemname="Okeefe Burger"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 7.95" descript="ground turkey with lettuce, tomato &amp; pickle" itemname="Turkey Burger"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 7.95" descript="rolled oats., brown rice, walnuts, mushrooms &amp; assorted seasonings" itemname="Garden Burger"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 8.95" descript="" itemname="Santa Fe Chicken Sandwich"></menu_item>
+<menu_item type="default" category="Entrees &amp;amp; Sandwiches" price=" 9.95" descript="" itemname="Fish and Chips"></menu_item>
+<menu_item type="default" category="Create Your Own Pizza" price=" " descript="" itemname="Choice of Toppings"></menu_item>
+<menu_item type="default" category="Create Your Own Pizza" price=" 2.00" descript="" itemname="Grilled Chicken"></menu_item>
+<menu_item type="default" category="Create Your Own Pizza" price=" 2.00" descript="" itemname="Barbeque Chicken"></menu_item>
+<menu_item type="default" category="Create Your Own Pizza" price=" 3.00" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Create Your Own Pizza" price=" 1.00" descript="" itemname="Grilled Vegetables"></menu_item>
+<menu_item type="default" category="Create Your Own Pizza" price=" 1.00" descript="" itemname="Pepperoni"></menu_item>
+<menu_item type="default" category="Create Your Own Pizza" price=" 1.00" descript="tomatoes, mushrooms, onions, peppers, olives, olives, bacon" itemname="Additional Toppings"></menu_item>
+</root>

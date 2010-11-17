@@ -1,0 +1,104 @@
+<root>
+<menu_item type="default" category="Starters" price=" 7.99" descript="jumbo shrimp served with oyster crackers and &quot;zesty&quot; cocktail sauce" itemname="Jumbo Shrimp Cocktail"></menu_item>
+<menu_item type="default" category="Starters" price=" 7.99" descript="served with cole slaw &amp; tartar sauce" itemname="Crispy Shrimp"></menu_item>
+<menu_item type="default" category="Starters" price=" 8.99" descript="served with cole slaw" itemname="Crabcakes &amp;amp; Crispy Shrimp Combo"></menu_item>
+<menu_item type="default" category="Starters" price=" 6.99" descript="our homemade boneless buttermilk breaded chicken tenders" itemname="Southern Fried Chicken Tenders"></menu_item>
+<menu_item type="default" category="Starters" price=" 7.99" descript="honey basted" itemname="Sticky Chicken Tenders"></menu_item>
+<menu_item type="default" category="Starters" price=" 8.99" descript="" itemname="Crispy Shrimp &amp;amp; Wings Combo"></menu_item>
+<menu_item type="default" category="Starters" price=" 7.99" descript="served with coleslaw" itemname="Crabcakes"></menu_item>
+<menu_item type="default" category="Starters" price=" 7.99" descript="" itemname="Texas Crispy Wings"></menu_item>
+<menu_item type="default" category="Starters" price=" 8.99" descript="served with cool ranch dressing." itemname="Hot Wings"></menu_item>
+<menu_item type="default" category="Starters" price=" 8.99" descript="honey basted" itemname="Sticky Wings"></menu_item>
+<menu_item type="default" category="Starters" price=" 1.99" descript="" itemname="Corn On The Cob"></menu_item>
+<menu_item type="default" category="Starters" price=" 3.99" descript="" itemname="Steamed Veggie Plate"></menu_item>
+<menu_item type="default" category="Starters" price=" 2.99" descript="variety of five beans cooked with brown sugar and bacon" itemname="Bar-b-q Baked Beans"></menu_item>
+<menu_item type="default" category="Starters" price=" 3.99" descript="100% sirloin, made twice daily." itemname="Texas Style Chili"></menu_item>
+<menu_item type="default" category="Starters" price=" 1.99" descript="baked or french fried." itemname="Idaho Potatoes"></menu_item>
+<menu_item type="default" category="Starters" price=" .75" descript="" itemname="Homemade Corn Bread"></menu_item>
+<menu_item type="default" category="Starters" price=" 4.99" descript="" itemname="A Loaf Of Our Famous Onion Rings"></menu_item>
+<menu_item type="default" category="Starters" price=" 4.99" descript="light and crispy." itemname="Garden Vegetable Tempura"></menu_item>
+<menu_item type="default" category="Starters" price=" 1.99" descript="" itemname="Homemade Chicken Vegetable Soup"></menu_item>
+<menu_item type="default" category="Starters" price=" 1.99" descript="" itemname="Yellow Rice"></menu_item>
+<menu_item type="default" category="Starters" price=" 4.99" descript="" itemname="A La Carte Breast"></menu_item>
+<menu_item type="default" category="Salads" price=" 3.99" descript="fresh california produce." itemname="Garden Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 1.99" descript="a nyc favorite." itemname="Homemade Cole Slaw"></menu_item>
+<menu_item type="default" category="Salads" price=" 6.99" descript="shredded lettuce &amp; chips topped with chili, cheese, chopped tomatoes and sour cream" itemname="Taco Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 5.99" descript="topped with croutons &amp; cheese" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.99" descript="topped with rotisseried chicken" itemname="Chicken Caesar Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 9.99" descript="with 6 oz of sirloin steak" itemname="Steak Caesar Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 9.99" descript="topped with our famous crispy shrimp" itemname="Shrimp Caesar Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 6.99" descript="topped with mushroom raisins, walnuts and our raspberry vinaigrette" itemname="Spinach Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 8.99" descript="topped with rotisseried chicken" itemname="Spinach Chicken Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 9.99" descript="with 6 oz of sirloin steak." itemname="Spinach Steak Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 9.99" descript="topped with our famous crispy shrimp" itemname="Shrimp Spinach Salad"></menu_item>
+<menu_item type="default" category="Sirloin Steak Burgers" price=" 7.99" descript="" itemname="Hamburger"></menu_item>
+<menu_item type="default" category="Sirloin Steak Burgers" price=" 11.99" descript="" itemname="Double Crispy Onion Cheeseburger"></menu_item>
+<menu_item type="default" category="Sirloin Steak Burgers" price=" 10.99" descript="cheddar cheese, hickory bacon, crispy onion, topped with our own bbq sauce." itemname="BBQ Burger"></menu_item>
+<menu_item type="default" category="Turkey Burgers" price=" 8.99" descript="" itemname="Turkey Burger"></menu_item>
+<menu_item type="default" category="Turkey Burgers" price=" 8.99" descript="topped with lettuce, tomato and ranch dressing." itemname="Veggie Burger"></menu_item>
+<menu_item type="default" category="Turkey Burgers" price=" 10.99" descript="cheddar cheese, hickory bacon, crispy onion, topped with our own bbq sauce." itemname="BBQ Turkey Burger"></menu_item>
+<menu_item type="default" category="Rotisseried Chicken" price=" 5.99" descript="" itemname="Quarter Rotisserie Chicken"></menu_item>
+<menu_item type="default" category="Rotisseried Chicken" price=" 7.99" descript="served with corn bread and a side." itemname="Half Rotisseried Chicken"></menu_item>
+<menu_item type="default" category="Rotisseried Chicken" price=" 6.99" descript="does not come with a choice of side." itemname="Whole Rotisserie Chicken"></menu_item>
+<menu_item type="default" category="Famous Baby Back Ribs" price=" 11.99" descript="a full rack of our slowly smoked bar-b-qued baby back ribs served with cornbread and a choice of baked fried idaho potatoes or yellow rice" itemname="Bar-B-Q Baby Ribs"></menu_item>
+<menu_item type="default" category="Famous Baby Back Ribs" price=" 8.99" descript="served `til 3 p.m. comes with cornbread." itemname="Luncheon Portion Bar-b-q Baby Back Ribs"></menu_item>
+<menu_item type="default" category="Famous Baby Back Ribs" price=" 11.99" descript="served with cornbread." itemname="Bar-B-Q Beef Ribs"></menu_item>
+<menu_item type="default" category="Smokehouse Specialties" price=" 9.99" descript="served with cole slaw" itemname="Carolina Pulled Pork"></menu_item>
+<menu_item type="default" category="Smokehouse Specialties" price=" 9.99" descript="a huge platter, zesty, slowly smoked, sliced and chopped with our special bbq sauce, cole slaw." itemname="Bar-B-Q Brisket Of Beef"></menu_item>
+<menu_item type="default" category="Smokehouse Specialties" price=" 12.99" descript="carolinan pulled pork served with our brisket of beef and cole slaw" itemname="Bar-B-Q Combo"></menu_item>
+<menu_item type="default" category="Wild West Combos" price=" 11.99" descript="chicken and ribs combo" itemname="Chicken And Ribs Combo"></menu_item>
+<menu_item type="default" category="Wild West Combos" price=" 14.99" descript="with cornbread." itemname="Crispy Shrimp &amp;amp; Baby Back Ribs Combo"></menu_item>
+<menu_item type="default" category="Wild West Combos" price=" 16.99" descript="sirloin steak, baby back ribs, crispy shrimp." itemname="House Special Combo"></menu_item>
+<menu_item type="default" category="Wild West Combos" price=" 16.99" descript="sirloin steak, crispy shrimp and chicken." itemname="Dinner Of The Day Combo"></menu_item>
+<menu_item type="default" category="Wild West Combos" price=" 11.99" descript="with cornbread." itemname="Beef Ribs &amp;amp; Chicken Combo"></menu_item>
+<menu_item type="default" category="Wild West Combos" price=" 12.99" descript="half chicken and crispy shrimp with cornbread." itemname="Chicken &amp;amp; Shrimp Combo"></menu_item>
+<menu_item type="default" category="Wild West Combos" price=" 16.99" descript="sirloin steak, baby back ribs, chicken." itemname="BBQ Special Combo"></menu_item>
+<menu_item type="default" category="Wild West Combos" price=" 16.99" descript="fish filet, crispy shrimp crabcakes" itemname="Fisherman's Platter"></menu_item>
+<menu_item type="default" category="Angus Steak" price=" 13.99" descript="topped with crispy onions." itemname="NY Cut Sirloin Steak"></menu_item>
+<menu_item type="default" category="Angus Steak" price=" 9.99" descript="served until 5 pm." itemname="Luncheon Sirloin Steak"></menu_item>
+<menu_item type="default" category="Angus Steak" price=" 16.99" descript="ny cut sirloin served with crispy shrimp, onion ringlettes." itemname="Steak And Shrimp"></menu_item>
+<menu_item type="default" category="Angus Steak" price=" 15.99" descript="a 6 oz. sirloin and half rack served with cornbread." itemname="Steak And Ribs Combo"></menu_item>
+<menu_item type="default" category="Seafood" price=" 10.99" descript="buttermilk biscuit breaded, served with cajun dipping sauce, cole slaw." itemname="Homestyle Catfish"></menu_item>
+<menu_item type="default" category="Seafood" price=" 10.99" descript="served with tartar sauce &amp; coleslaw." itemname="Crispy Cod Filet Platter"></menu_item>
+<menu_item type="default" category="Seafood" price=" 9.99" descript="served with coleslaw, cornbread and tartar sauce." itemname="Shrimp Platter"></menu_item>
+<menu_item type="default" category="Seafood" price=" 15.99" descript="crispy fish &amp; shrimp platter" itemname="Crispy Fish &amp;amp; Shrimp Platter"></menu_item>
+<menu_item type="default" category="Seafood" price=" 11.99" descript="with red potatoes and spinach salad." itemname="Cold Poached Salmon"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.75" descript="" itemname="Dasani Water"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.95" descript="" itemname="Bottled Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.95" descript="bottled." itemname="Lemonade"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.35" descript="" itemname="Canned Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.95" descript="bottled." itemname="Iced Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 5.99" descript="" itemname="Virgin Pina Colada"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 7.99" descript="rotisseried chicken, corn on the cob, cole slaw, baked or french fry idaho potatoes or yellow rice, homemade corn bread" itemname="1. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 13.99" descript="baby back or beef ribs, rotisseried chicken, corn on the cob, cole slaw, baked or french fry potatoes or yellow rice, homemade corn bread" itemname="2. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 15.99" descript="bar-b-q or honey chicken, baby back or beef ribs, honey or hot wings, cole slaw, corn on the cob, baked or french fry idaho potatoes or yellow rice, homemade corn bread" itemname="3. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 13.99" descript="brisket sandwich platters, rotisseried chicken, cole slaw, corn on the cob, baked or french fry idaho potatoes or yellow rice, homemade corn bread" itemname="4. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 12.99" descript="baby back or beef ribs, rotisseried chicken, cole slaw, baked or french fry idaho potatoes or yellow rice, homemade corn bread" itemname="5. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 9.50" descript="rotisseried chicken, corn on the cob, cole slaw, baked or french fry idaho potatoes or yellow rice, homemade corn bread, bottle of soda" itemname="6. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 15.99" descript="baby back or beef ribs, rotisseried chicken, corn on the cob, cole slaw, baked or french fry idaho potatoes or yellow rice, homemade corn bread, bottle of soda" itemname="7. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 16.99" descript="bar-b-q or honey chicken, baby back or beef ribs, honey or hot wings, cole slaw, corn on the cob, baked or french fry idaho potatoes or yellow rice, homemade corn bread, bottle of soda" itemname="8. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 15.50" descript="brisket sandwich platters, rotisseried chicken, cole slaw, corn on the cob, homemade corn bread, baked or french fry idaho potatoes or yellow rice, bottle of soda" itemname="9. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 14.50" descript="baby back or beef ribs, rotisseried chicken, cole slaw, baked or french fry idaho potatoes or yellow rice, homemade corn bread, bottle of soda" itemname="10. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 9.99" descript="bar-b-q or honey chicken, corn on the cob, cole slaw, regular, honey or hot wings, baked or french fry idaho potatoes or yellow rice, homemade corn bread" itemname="11. Catering Special"></menu_item>
+<menu_item type="default" category="Catering Specials" price=" 11.50" descript="bar-b-q or honey chicken, corn on the cob, cole slaw, regular, honey or hot wings, baked or french fry idaho potatoes or yellow rice, homemade corn bread, bottle of soda" itemname="12. Catering Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 4.99" descript="rotisserie chicken with smokey bbq sauce. served with hand-cut crispy idaho french fries and creamy cole slaw." itemname="BBQ Chicken Sandwich Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 4.99" descript="chicken, lettuce and tomato sandwich" itemname="CLT Sandwich"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 17.50" descript="2 half chickens served with choice of 2 sides, 2 cornbread, 2 coleslaws and 2 cans of soda." itemname="Special Family Meal To Go"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 9.49" descript="served with cornbread and coleslaw." itemname="1. Half Chicken Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 9.99" descript="served with cornbread and coleslaw. served until 3 pm." itemname="2. Lunch Ribs Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 12.99" descript="served with cornbread and coleslaw." itemname="3. Chicken And Ribs Combo Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 12.99" descript="served with cornbread and coleslaw." itemname="4. Baby Back Ribs Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 10.99" descript="served with cornbread and coleslaw." itemname="5. Crispy Shrimp Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 8.99" descript="with choice of side, coleslaw and a can of soda." itemname="6. Hamburger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 9.99" descript="" itemname="7. Cheeseburger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 9.99" descript="with choice of side, coleslaw and a can of soda." itemname="8. Onion Burger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 10.99" descript="" itemname="9. Chili Burger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 10.99" descript="" itemname="10. Bacon Cheeseburger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 12.99" descript="" itemname="11. Double Onion Cheeseburger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 9.99" descript="" itemname="12. Turkey Burger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 10.99" descript="" itemname="13. Turkey Cheeseburger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 11.99" descript="" itemname="14. Turkey Bacon Cheeseburger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 11.99" descript="" itemname="15. BBQ Burger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 11.99" descript="" itemname="16. BBQ Turkey Burger Special"></menu_item>
+<menu_item type="default" category="Take Out Specials" price=" 8.99" descript="note: this platter only consists of 3 wings" itemname="17. Wings Platter Special"></menu_item>
+</root>

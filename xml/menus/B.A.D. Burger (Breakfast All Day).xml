@@ -1,0 +1,108 @@
+<root>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="chose any two ingredients and combination wins &amp; side" itemname="Vegas Omelette"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="lox, eggs and onions scrambled or omelette with cream cheese &amp; side" itemname="L.E.O."></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="mac and cheese and eggs plus side" itemname="Machete"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="3 holed out breads, filled with eggs then covered with chili and melted cheese" itemname="Bird's Eye"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="baked egg dish with cured ham and caramelized asparagus" itemname="Ham And Asparagus Frittata"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="heated tortilla topped with eggs any style, black beans, cheese, sour cream, pico de gallo, guacamole" itemname="Sunrise (Huevos Rancheros)"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="same as sunrise burrito, deep fried to a crisp" itemname="Desayuno Chimichangas"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="crushed matzoh and eggs scrambled with grape jelly or brown sugar plus a side" itemname="Matzoh Brie"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="substitute pastrami, bad burger" itemname="Salami And Eggs"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="n.y. strip steak and eggs any style" itemname="Steak And Eggs"></menu_item>
+<menu_item type="default" category="B.A.D Eggs $7.95" price=" " descript="caviar, scallions, omelette style" itemname="The Czar's Favorite"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="strawberry banana, blueberry puree swirled" itemname="Marble Fruitcakes"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="topped with melted fresh fruit whipped cream butter" itemname="Pancakes"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="extra thick pancakes" itemname="Lumberjacks"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="blended and chopped banana with chopped walnuts" itemname="Banana Walnut"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="caramelized apple, chopped walnuts with ground cinnamon" itemname="Apple Walnut Cinnamon"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="sausage, peppers, and onions in virgin olive oil" itemname="Godfather"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="with thermidor sauce" itemname="B.B.Q Shrimp Pancakes"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="bacon, cheddar and scallions" itemname="Gad Bag"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="spinach, feta, chick peas and black olives" itemname="Santorini Down"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="thin pancakes with lox and sauteed onions, filled with blended cream cheese" itemname="L.E.O. Cakes"></menu_item>
+<menu_item type="default" category="Pancake Attack $7.95" price=" " descript="large pancakes rolled with chosen side and wrapped to go" itemname="Flapjacks Road Warriors (Pancake Wraps)"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" " descript="choose a bread, egg style and two adds. you can't lose." itemname="The Vegas"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" " descript="eggs any style with black beans, rice, cheese, pico and sour cream, wrapped in a warm tortilla. sides can come inside." itemname="Sunrise Burrito"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" " descript="the classic with eggs any style" itemname="Bacon, Tomato And Eggs"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" " descript="eggs on a roll with beans and cheese and a muy caliente tomatillo sauce." itemname="Tortas Fully Loaded"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 2.50" descript="add" itemname="Make It With French Toast *"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" " descript="strawberry, blueberry, banana with ice cream, chocolate syrup, whipped cream" itemname="Make Your Own Waffle Bar"></menu_item>
+<menu_item type="default" category="The Big Cheese $6.95" price=" " descript="jack, cheddar and mozzarella w/ham, bacon &amp; sausage" itemname="B.A.D. Melt"></menu_item>
+<menu_item type="default" category="The Big Cheese $6.95" price=" " descript="one sidekick and two add-ons" itemname="Vegan Meltdown"></menu_item>
+<menu_item type="default" category="The Big Cheese $6.95" price=" " descript="grilled vegetables, smoked tofu and mozzarella" itemname="Holy Smokes"></menu_item>
+<menu_item type="default" category="The Big Cheese $6.95" price=" 1.50" descript="add" itemname="Make It With French Toast *"></menu_item>
+<menu_item type="default" category="Soups And Chilis" price=" " descript="" itemname="Black Bean"></menu_item>
+<menu_item type="default" category="Soups And Chilis" price=" " descript="" itemname="Corn Chowder"></menu_item>
+<menu_item type="default" category="Soups And Chilis" price=" " descript="" itemname="Mushroom Barley"></menu_item>
+<menu_item type="default" category="Soups And Chilis" price=" " descript="" itemname="Matzoh Ball"></menu_item>
+<menu_item type="default" category="Soups And Chilis" price=" " descript="" itemname="Chili Con Carne"></menu_item>
+<menu_item type="default" category="Soups And Chilis" price=" " descript="" itemname="Veggie Chili"></menu_item>
+<menu_item type="default" category="Soups And Chilis" price=" " descript="" itemname="White Chix Chili"></menu_item>
+<menu_item type="default" category="Salads" price=" 10.95" descript="mixed greens, chix, bacon avocado, egg blue cheese" itemname="Cobb"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.50" descript="iceberg, romaine, radicchio with carrot sprouts, onion, tomato" itemname="House"></menu_item>
+<menu_item type="default" category="Salads" price=" 10.95" descript="mixed greens, walnuts, raisins, apples with crispy soy chix or grilled chicken slices" itemname="Waldorf"></menu_item>
+<menu_item type="default" category="Salads" price=" 10.95" descript="spinach, tofu bacon, grilled mushroom, sunflower seeds, and red onion" itemname="Popeye"></menu_item>
+<menu_item type="default" category="Salads" price=" " descript="a blend of chopped romaine lettuce with a caesar dressing with croutons and anchovies or soychovies" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Bacon"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Tofu Bacon"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Canadian Bacon"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Chili"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Brown Rice"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="French Fries"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Ome Fries"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Hash Browns"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Sausages"></menu_item>
+<menu_item type="default" category="B.A.D. Sidekicks $2.50" price=" " descript="" itemname="Soysages"></menu_item>
+<menu_item type="default" category="All Day Entrees $9.95" price=" " descript="" itemname="Mickey's Grilled Tri-Pepper Lasagne"></menu_item>
+<menu_item type="default" category="All Day Entrees $9.95" price=" " descript="" itemname="Masco Clam Sauce And Sharp Elbows"></menu_item>
+<menu_item type="default" category="All Day Entrees $9.95" price=" " descript="" itemname="Sheppardճ Pie"></menu_item>
+<menu_item type="default" category="All Day Entrees $9.95" price=" " descript="" itemname="Vegetarian Pot Pie"></menu_item>
+<menu_item type="default" category="All Day Entrees $9.95" price=" " descript="" itemname="Tuna Casserole"></menu_item>
+<menu_item type="default" category="Small Plates $2.95" price=" " descript="" itemname="Rice And Beans"></menu_item>
+<menu_item type="default" category="Small Plates $2.95" price=" " descript="" itemname="Clam Sauce And Elbows"></menu_item>
+<menu_item type="default" category="Small Plates $2.95" price=" " descript="" itemname="One Potato Pancake"></menu_item>
+<menu_item type="default" category="Small Plates $2.95" price=" " descript="" itemname="Salami Slices"></menu_item>
+<menu_item type="default" category="Small Plates $2.95" price=" " descript="" itemname="Bagel And Cream Cheese"></menu_item>
+<menu_item type="default" category="Small Plates $2.95" price=" " descript="" itemname="One Pancake"></menu_item>
+<menu_item type="default" category="Small Plates $2.95" price=" " descript="" itemname="One Meatball"></menu_item>
+<menu_item type="default" category="Small Plates $2.95" price=" " descript="" itemname="One Dog Any Style"></menu_item>
+<menu_item type="default" category="Potato Heads" price=" 3.00" descript="" itemname="Hand Cut French Fries, Baked, Hash Browns, Sweet Potato Fries"></menu_item>
+<menu_item type="default" category="Potato Heads" price=" 3.75" descript="" itemname="Cheese Fries, Bacon Fries, Chili Fries"></menu_item>
+<menu_item type="default" category="Potato Heads" price=" 4.25" descript="" itemname="Chili Cheese Fries, Bacon Cheese Fries, Mex Fries"></menu_item>
+<menu_item type="default" category="Potato Heads" price=" 5.25" descript="three toppings" itemname="Shrimp And Cheese Fries, B.A.D Fries"></menu_item>
+<menu_item type="default" category="Potato Heads" price=" 3.00" descript="" itemname="Sweet Potato Fries"></menu_item>
+<menu_item type="default" category="Potato Heads" price=" 4.00" descript="" itemname="with marshmallow topping"></menu_item>
+<menu_item type="default" category="Liquidteria" price="soy 5.50" descript="vanilla, chocolate, strawberry b &amp; w" itemname="L.A. Shakers"></menu_item>
+<menu_item type="default" category="Liquidteria" price="(12 oz) 5.00" descript="carrot, beet, celery, apple, spinach, parsley" itemname="Veggie Juice"></menu_item>
+<menu_item type="default" category="Liquidteria" price="soy 5.50" descript="yogurt, milk, honey, banana, strawberry" itemname="Smoothies"></menu_item>
+<menu_item type="default" category="Liquidteria" price="reg 20.00" descript="raspberry, mango, cherry, blackberry" itemname="Limonades (16 Oz)"></menu_item>
+<menu_item type="default" category="Bad Burgers $8.95" price=" " descript="" itemname="Bad Burger"></menu_item>
+<menu_item type="default" category="Bad Burgers $8.95" price=" " descript="" itemname="Veggie Grilled"></menu_item>
+<menu_item type="default" category="Bad Burgers $8.95" price=" " descript="" itemname="Herb Rub"></menu_item>
+<menu_item type="default" category="Bad Burgers $8.95" price=" " descript="" itemname="Portobello"></menu_item>
+<menu_item type="default" category="Bad Burgers $8.95" price=" " descript="" itemname="Turkey"></menu_item>
+<menu_item type="default" category="Bad Burgers $8.95" price=" " descript="" itemname="Bad Blend"></menu_item>
+<menu_item type="default" category="Bad Burgers $8.95" price=" " descript="" itemname="Black Bean"></menu_item>
+<menu_item type="default" category="Bad Burgers $8.95" price=" " descript="" itemname="Salmon"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="choose any two choices and pick your burger and bun" itemname="Vegas Burger"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="chili, onions and cheese" itemname="Bad Lands"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="guacamole, jalapenos, black beans and cheese" itemname="Bandito Carne"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="pastrami, pepperoni and salami" itemname="Bad Company"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="chicken fried burger with bacon and cheese" itemname="Bad Choice"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="bad burger, herb burger, bad blend" itemname="Good Bad And The Ugly"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="portobello mushrooms in a creamy pepper sauce" itemname="Portabello Au Poivre"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="olives, lettuce, cucumbers, slathered in hummus" itemname="Mikonos"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="pasta and clams with a white sauce" itemname="Clam Up"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" " descript="chicken fried burger wrapped in bacon with blue cheese" itemname="The Bad Burger"></menu_item>
+<menu_item type="default" category="Bad Burgers - Ten Most Wanted" price=" 3.00" descript="add extra burger" itemname="One Is Good But Two Is B.A.D *"></menu_item>
+<menu_item type="default" category="We Got Balls" price=" " descript="" itemname="Hot And Sweet Meatballs"></menu_item>
+<menu_item type="default" category="We Got Balls" price=" " descript="jalapeno, sliced mozzarella blend" itemname="Mamacita's Abondigas Caliente"></menu_item>
+<menu_item type="default" category="We Got Balls" price=" " descript="one of each ball" itemname="Meatball Confusion"></menu_item>
+<menu_item type="default" category="We Got Balls" price=" " descript="a beet-based melange, slightly spiced" itemname="Faux Balls"></menu_item>
+<menu_item type="default" category="Bad Dogs" price=" " descript="3 hot dogs wrapped in a giant tortilla, guacamole, american &amp; swiss cheese, fajitamix" itemname="&quot;Three Dog Night&quot;"></menu_item>
+<menu_item type="default" category="Bad Dogs" price=" " descript="yummy bbq sauce topped with onion rings" itemname="Lord Of The &quot;Rings&quot; Dog"></menu_item>
+<menu_item type="default" category="Bad Dogs" price=" " descript="topped with fresh guacamole, chopped tomatoes and onions" itemname="The Bob Marley Veggie Dog (Vegan)"></menu_item>
+<menu_item type="default" category="Bad Dogs" price=" " descript="grilled mushrooms, mayo, one slice of swiss cheese" itemname="Swiss Dog"></menu_item>
+<menu_item type="default" category="Bad Dogs" price=" " descript="twin dogs in buns smothered in chili, topped with cheese" itemname="Chili Dog"></menu_item>
+<menu_item type="default" category="Bad Dogs" price=" " descript="any dog and a choice of cup of soup or side salad" itemname="Dog And A Soup"></menu_item>
+</root>

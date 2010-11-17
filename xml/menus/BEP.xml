@@ -1,0 +1,22 @@
+<root>
+<menu_item type="default" category="Appetizers $4.5" price=" " descript="pork &amp; shrimp fried spring rolls" itemname="Cha Gìo"></menu_item>
+<menu_item type="default" category="Appetizers $4.5" price=" " descript="barbecued pork rolls" itemname="Xá Xíu Cuôn"></menu_item>
+<menu_item type="default" category="Appetizers $4.5" price=" " descript="vegetarian rolls" itemname="Cuôn Chay"></menu_item>
+<menu_item type="default" category="Soups $8" price=" " descript="tonkin beef noodle soup" itemname="Pho Bò"></menu_item>
+<menu_item type="default" category="Soups $8" price=" " descript="saigon pork &amp; shrimp noodle soup" itemname="Hu Tiêu"></menu_item>
+<menu_item type="default" category="Soups $8" price=" " descript="pork &amp; shrimp egg noodle soup" itemname="Mi"></menu_item>
+<menu_item type="default" category="Vermicelli Bowls $8" price=" " descript="grilled pork &amp; fried spring roll" itemname="Bún Thit Nuong Cha Gìo"></menu_item>
+<menu_item type="default" category="Vermicelli Bowls $8" price=" " descript="spicy lemongrass chicken" itemname="Bún Gà Xã Ot"></menu_item>
+<menu_item type="default" category="Vermicelli Bowls $8" price=" " descript="stir fried vegetables, herbs, &amp; tofu" itemname="Bún Chay"></menu_item>
+<menu_item type="default" category="Bánh Mì - Sandwiches $5.50" price=" " descript="grilled pork" itemname="Bánh Mì Thit Nuong"></menu_item>
+<menu_item type="default" category="Bánh Mì - Sandwiches $5.50" price=" " descript="barbecued pork" itemname="Bánh Mì Xá Xíu"></menu_item>
+<menu_item type="default" category="Bánh Mì - Sandwiches $5.50" price=" " descript="spicy lemongrass chicken" itemname="Bánh Mì Gà Xã Ot"></menu_item>
+<menu_item type="default" category="Bánh Mì - Sandwiches $5.50" price=" " descript="vegetarian" itemname="Bánh Mì Chay"></menu_item>
+<menu_item type="default" category="Drinks" price=" 33.00" descript="saigon beer" itemname="Bia"></menu_item>
+<menu_item type="default" category="Drinks" price=" 5.00" descript="" itemname="export"></menu_item>
+<menu_item type="default" category="Drinks" price=" 30.00" descript="" itemname="Red &amp;amp; White Wine Of The Week"></menu_item>
+<menu_item type="default" category="Drinks" price=" 3.00" descript="limeade soda" itemname="Soda Chanh"></menu_item>
+<menu_item type="default" category="Drinks" price=" 3.00" descript="vietnamese ice coffee" itemname="Cà Phê Sua Ðá"></menu_item>
+<menu_item type="default" category="Drinks" price=" 3.00" descript="vietnamese arnold palmer" itemname="Trà Ðá Chanh"></menu_item>
+<menu_item type="default" category="Drinks" price=" 2.00" descript="coke, sprite" itemname="Nuoc Ngot"></menu_item>
+</root>

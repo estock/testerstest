@@ -1,0 +1,18 @@
+<root>
+<menu_item type="Lunch Special" category="Burger" price=" 10.95" descript="lunch special" itemname="Burger Di Armando"></menu_item>
+<menu_item type="Lunch Special" category="Pasta Entrees $12.95" price=" " descript="ear shaped pasta in extra virgin olive oil with grilled chicken, sun dried tomatoes and garlic." itemname="Orecchiette Di Armando"></menu_item>
+<menu_item type="Lunch Special" category="Pasta Entrees $12.95" price=" " descript="tomato, basil and mozzarella ravioli sautŽed in a light marinara sauce with mushrooms, shallots, garlic and a touch of parmesan cheese." itemname="Ravioli Piemontese"></menu_item>
+<menu_item type="Lunch Special" category="Pasta Entrees $12.95" price=" " descript="goat cheese, herb and black pepper ravioli sautŽed with mushrooms, shallots, grappa and cream." itemname="Goat Cheese Ravioli Alla Grappa"></menu_item>
+<menu_item type="Lunch Special" category="Pasta Entrees $12.95" price=" " descript="homemade fettucine with shrimp, asparagus, radicchio, extra virgin olive oil and garlic." itemname="Fettuccine Bottarga"></menu_item>
+<menu_item type="Lunch Special" category="Pasta Entrees $12.95" price=" " descript="penne pasta sautŽed with shrimp, broccoli, zucchini, carrots, peas and tomatoes." itemname="Penne Primavera With Shrimp"></menu_item>
+<menu_item type="Lunch Special" category="Pasta Entrees $12.95" price=" " descript="linguini with red or white clam sauce." itemname="Linguini Alle Vongole"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="breast of chicken dipped in egg and sautŽed in lemon, butter and white wine." itemname="Chicken Francese"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="breast of chicken with artichokes and roasted peppers, topped with mozzarella cheese and marsala wine reduction." itemname="Chicken Cardinale"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="pan-fried chicken cutlet topped with arugula salad, cherry tomatoes and lemon vinaigrette." itemname="Chicken Milanese"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="filet of sole sautŽed in lemon, butter and white wine." itemname="Filet Of Sole Saut&amp;eacute; Meuniere"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="with asparagus, oven dried tomatoes and salsa verde." itemname="Grilled Filet Of Salmon"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="pork chop sautŽed in a marinara sauce with green peppers, mushrooms and onions." itemname="Pork Chop Pizzaiola"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="breast of chicken sautŽed in extra virgin olive oil and white wine with mushrooms and plum tomatoes." itemname="Chicken Alla Maria"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="veal scallopine on a bed of spinach, topped with mozzarella cheese, sautŽed in lemon, butter and white wine." itemname="Veal Scallopine Fiorentina"></menu_item>
+<menu_item type="Lunch Special" category="Entrees $14.95" price=" " descript="broiled boston scrod topped with breadcrumbs, oregano and garlic." itemname="Boston Scrod Oreganato"></menu_item>
+</root>

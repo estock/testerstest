@@ -1,0 +1,78 @@
+<root>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.75" descript="" itemname="Almond Croissant"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.00" descript="" itemname="Fresh Croissant"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.50" descript="" itemname="Whole Wheat Croissant"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="plain, apricot, chocolate &amp; cream" itemname="Cornetti"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="" itemname="Pain Au Chocolate"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.75" descript="" itemname="Apple Cream Cheese"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.75" descript="" itemname="Apple Turnover"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.50" descript="" itemname="Bread Pudding"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="" itemname="Cinnamon Roll"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="" itemname="Muffins"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="" itemname="Raisin Swirl"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.85" descript="" itemname="Cream Brulee"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="" itemname="Treccia Alla Crema"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Pannacotta"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="" itemname="Flan"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.85" descript="" itemname="Apple Tart"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.85" descript="" itemname="Ricotta Chocolate Chips Tart"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price="lg 3.50" descript="" itemname="Fruit Or Chocolate Tart"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Pear Chocolate Tart"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Raspberry &amp;amp; Almond Tart"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.50" descript="" itemname="Strawberry Napoleon"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.75" descript="" itemname="Tiramisu"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.75" descript="" itemname="Amaretto Cream"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price="sm 1.75" descript="" itemname="Fruit Or White Choc. Tart"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.50" descript="" itemname="Red Velvet Cupcake"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.75" descript="" itemname="Elephant Ears"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.25" descript="" itemname="Flourless Brownie"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.25" descript="" itemname="Amaretti Cookies"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.00" descript="" itemname="Macaron"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.00" descript="" itemname="Cream Donut"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="" itemname="Apple Danish"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.25" descript="" itemname="Mini-Cornetti"></menu_item>
+<menu_item type="default" category="Cookies" price=" 1.25" descript="" itemname="Hazelnut"></menu_item>
+<menu_item type="default" category="Cookies" price=" 1.50" descript="" itemname="Cream Cheese &amp;amp; Walnuts"></menu_item>
+<menu_item type="default" category="Cookies" price="(3) 1.50" descript="" itemname="Wine Chocolates Chips"></menu_item>
+<menu_item type="default" category="Cookies" price=" .50" descript="" itemname="Merengue"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.25" descript="" itemname="Baguette"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.00" descript="" itemname="Bagels"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.50" descript="" itemname="with butter"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.75" descript="" itemname="with cream cheese"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.25" descript="" itemname="Chocolate Chips Rolls"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.00" descript="plain" itemname="Ciabatta"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.25" descript="" itemname="9 grains"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" .75" descript="" itemname="Dinner Rolls"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.75" descript="" itemname="Focaccia"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.25" descript="" itemname="9 Grains"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.75" descript="" itemname="Pizza Bianca"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.50" descript="" itemname="Pizzetta"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price="(3) 1.00" descript="" itemname="Mini-Pizzetta"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 1.75" descript="" itemname="Semolina"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.75" descript="" itemname="Sourdough"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.95" descript="" itemname="Stranetti"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.50" descript="" itemname="Whole Wheat Bread"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.25" descript="" itemname="Ham And Cheese Croissant"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 4.50" descript="served with salad" itemname="Quiches (Bacon Or Vegetarian)"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 4.85" descript="served with salad" itemname="Quiches (Salmon)"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 6.75" descript="chicken with brie cheese &amp; arugula" itemname="Panini Sandwiches Served With Salad On Ciabatta Bread"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 6.75" descript="" itemname="prosciutto &amp;amp; fresh mozzarella"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 6.75" descript="" itemname="pomodoro with tomatoes, fresh mozzarella &amp;amp; basil &amp;amp; olive oil"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 7.00" descript="with tofu, roasted pepper &amp; arugula" itemname="On 9 Grains Bread"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 7.00" descript="" itemname="with smoked salmon, cream cheese &amp;amp; arugula"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 2.75" descript="" itemname="Mini Panini"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 3.00" descript="" itemname="With Tofu Or Salmon"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 4.25" descript="served with focaccia bread" itemname="Our Daily Homemade Soup"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 42.00" descript="" itemname="Nutella"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 38.00" descript="" itemname="Ricotta &amp;amp; Chocolate Chips"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 35.00" descript="sponge cake with chantilly cream &amp; strawberry" itemname="Mimosa"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 35.00" descript="puff pastry with pastry cream &amp; shaved chocolate" itemname="Millefoglie"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 38.00" descript="a delightful combination of sponge cake combined with mascarpone cheese, coffee, coffee liqueur, cinnamon and cocoa powder" itemname="Tiramisu"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 26.00" descript="short crust pastry with pastry cream &amp; pine nuts" itemname="Torta Della Nonna"></menu_item>
+<menu_item type="default" category="&amp;nbsp;" price=" 38.00" descript="" itemname="Fruit Tart"></menu_item>
+<menu_item type="default" category="Cakes" price=" 2.75" descript="" itemname="Pound Cake"></menu_item>
+<menu_item type="default" category="Cakes" price=" 2.75" descript="" itemname="Torta Della Nonna"></menu_item>
+<menu_item type="default" category="Cakes" price=" 3.75" descript="" itemname="Cheese Cake"></menu_item>
+<menu_item type="default" category="Cakes" price=" 3.75" descript="" itemname="Ricotta Chocolate Chips"></menu_item>
+<menu_item type="default" category="Cakes" price=" 3.75" descript="" itemname="Nutella"></menu_item>
+</root>

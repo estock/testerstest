@@ -1,0 +1,48 @@
+<root>
+<menu_item type="Brunch" category="Sides $3.50" price=" " descript="" itemname="Potatoes"></menu_item>
+<menu_item type="Brunch" category="Sides $3.50" price=" " descript="" itemname="Collard Greens"></menu_item>
+<menu_item type="Brunch" category="Sides $3.50" price=" " descript="with cheese" itemname="White Grits"></menu_item>
+<menu_item type="Brunch" category="Sides $3.50" price=" " descript="" itemname="Beans And Rice"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 1.50" descript="" itemname="Toast"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 2.50" descript="" itemname="Buttermilk Biscuit"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 4.00" descript="" itemname="Veggie Or Sausage Gravy"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 5.00" descript="" itemname="Bacon"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 5.00" descript="" itemname="Pork Sausage"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 5.00" descript="" itemname="Veggie Sausage Patties"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 5.00" descript="" itemname="Fried Cheese Grits"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 4.00" descript="" itemname="Fruit"></menu_item>
+<menu_item type="Brunch" category="Sides $3.50" price=" " descript="" itemname="Potatoes"></menu_item>
+<menu_item type="Brunch" category="Sides $3.50" price=" " descript="" itemname="Collard Greens"></menu_item>
+<menu_item type="Brunch" category="Sides $3.50" price=" " descript="with cheese" itemname="White Grits"></menu_item>
+<menu_item type="Brunch" category="Sides $3.50" price=" " descript="" itemname="Beans And Rice"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 1.50" descript="" itemname="Toast"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 2.50" descript="" itemname="Buttermilk Biscuit"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 4.00" descript="" itemname="Veggie Or Sausage Gravy"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 5.00" descript="" itemname="Bacon"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 5.00" descript="" itemname="Pork Sausage"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 5.00" descript="" itemname="Veggie Sausage Patties"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 5.00" descript="" itemname="Fried Cheese Grits"></menu_item>
+<menu_item type="Brunch" category="Add-Ons" price=" 4.00" descript="" itemname="Fruit"></menu_item>
+<menu_item type="Brunch" category="Brunch Specials" price=" 10.00" descript="" itemname="White Donut Peach Pancakes"></menu_item>
+<menu_item type="Brunch" category="Brunch Specials" price=" 11.00" descript="our bbq pork, fried up crisp with potatoes, onions, and jack cheese 2 eggs as you please" itemname="Pulled Pork Hash"></menu_item>
+<menu_item type="Brunch" category="Brunch Specials" price=" 11.00" descript="two poached eggs, grilled bayճ english muffin, hollandaise sauce, choose a side." itemname="Grilled White Asparagus Benedict"></menu_item>
+<menu_item type="Brunch" category="Brunch Specials" price=" 10.00" descript="toasted essa-bagel, cream cheese, house cured salmon, and pickled vegetables, choose a side." itemname="Bagel Plate"></menu_item>
+<menu_item type="Brunch" category="Desserts $6" price=" " descript="" itemname="Fruit Pies"></menu_item>
+<menu_item type="Brunch" category="Desserts $6" price=" " descript="" itemname="Chocolate Bourbon Cakes"></menu_item>
+<menu_item type="Brunch" category="Tap Beer" price=" 5.00" descript="" itemname="Yuengling"></menu_item>
+<menu_item type="Brunch" category="Tap Beer" price=" 5.00" descript="" itemname="Brooklyn Lager"></menu_item>
+<menu_item type="Brunch" category="Tap Beer" price=" 6.00" descript="" itemname="Stella Artois"></menu_item>
+<menu_item type="Brunch" category="Tap Beer" price=" 6.00" descript="" itemname="Sixpoint Righteous Rye"></menu_item>
+<menu_item type="Brunch" category="Tap Beer" price=" 6.00" descript="" itemname="Paulaner Hefe-Weizen"></menu_item>
+<menu_item type="Brunch" category="Tap Beer" price=" 6.00" descript="" itemname="Pilsner Urquell"></menu_item>
+<menu_item type="Brunch" category="Tap Beer" price=" 6.00" descript="" itemname="Newcastle Brown Ale"></menu_item>
+<menu_item type="Brunch" category="Tap Beer" price=" 6.00" descript="" itemname="Guinness"></menu_item>
+<menu_item type="Brunch" category="Bottles" price="can 3.00" descript="" itemname="Tecate"></menu_item>
+<menu_item type="Brunch" category="Bottles" price=" 3.00" descript="" itemname="Miller High Life"></menu_item>
+<menu_item type="Brunch" category="Bottles" price=" 4.00" descript="" itemname="Heineken"></menu_item>
+<menu_item type="Brunch" category="Bottles" price=" 4.00" descript="" itemname="Red Stripe"></menu_item>
+<menu_item type="Brunch" category="Bottles" price=" 4.00" descript="" itemname="Presidente"></menu_item>
+<menu_item type="Brunch" category="Bottles" price=" 4.00" descript="" itemname="Sol"></menu_item>
+<menu_item type="Brunch" category="Bottles" price=" 4.00" descript="" itemname="Amstel Light"></menu_item>
+<menu_item type="Brunch" category="Bottles" price=" 7.00" descript="" itemname="Chimay (Red)"></menu_item>
+</root>

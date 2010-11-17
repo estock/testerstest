@@ -1,0 +1,81 @@
+<root>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 5.00" descript="" itemname="Soup Of The Day"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 6.00" descript="" itemname="Bruschetta"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 6.00" descript="" itemname="Irish Cheddar Toasties"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 6.00" descript="stuffed with flavored goat cheese" itemname="Baby Bellas"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 6.00" descript="" itemname="Chicken Fingers"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 8.00" descript="" itemname="Mussels In White Wine And Tomato Sauce"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 5.00" descript="" itemname="Mixed Greens"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 9.00" descript="" itemname="Shitake, Peppers, And Goat Cheese Salad"><extra type="sub" price=" 3.00" descript="add chicken"></extra>
+</menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 12.00" descript="topped with shoe-string fries" itemname="Steak Salad"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sandwiches" price=" 9.00" descript="with bacon and fries" itemname="Burger"><extra type="sub" price=" 1.00" descript="add cheese"></extra>
+</menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sandwiches" price=" 9.00" descript="with fries" itemname="Grilled Pesto Chicken Sandwich"><extra type="sub" price=" 1.00" descript="add cheese"></extra>
+</menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sandwiches" price=" 7.00" descript="served with salad" itemname="Goat Cheese Pesto And Tomato Panini"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Entrees" price=" 9.00" descript="" itemname="Bangers &amp;amp; Mash"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Entrees" price=" 9.00" descript="" itemname="Mac &amp;amp; Cheese"><extra type="sub" price=" 2.00" descript="add mushroom"></extra>
+<extra type="sub" price=" 4.00" descript="add proscuitto"></extra>
+</menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Entrees" price=" 12.00" descript="" itemname="Pasta In Tomato And Meat Sauce"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Entrees" price=" 12.00" descript="served with white rice and salad" itemname="Beef Stew"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Entrees" price=" 13.00" descript="" itemname="Beer Battered Cod Fish &amp;amp; Chips"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Entrees" price=" 14.00" descript="with shitake and onions served with mash &amp; salad" itemname="Sauteed Beef"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Entrees" price=" 14.00" descript="sauteed in white wine, shitake, tomatoes and capers with mash" itemname="Chicken Breast"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sides" price=" 3.00" descript="" itemname="Fries"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sides" price=" 3.00" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sides" price=" 3.00" descript="" itemname="Mash"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sides" price=" 5.00" descript="" itemname="Mac &amp;amp; Cheese"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sides" price=" 4.00" descript="" itemname="Breaded And Fried Macaroni"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Sides" price=" 2.00" descript="" itemname="Sausage"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Guinness"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Smithwick's"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Belhaven Scottish Ale"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Radeberger Pilsner"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Wurzburger Pilsner"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Dry Black Thorn Cider"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Starodramen Lager"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Hofbrau Hefeweizen"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Weihenstephan"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Hoegaarden"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Old Speckled Hen"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Stella Artois"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Imports $6" price=" " descript="" itemname="Hofbrau Oktoberfest"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Domestic $5" price=" " descript="" itemname="Blue Point Toasted"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Domestic $5" price=" " descript="" itemname="Blue Moon"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Domestic $5" price=" " descript="" itemname="Sixpoint Sweet Action"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Domestic $5" price=" " descript="" itemname="Harpoon Cider"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Domestic $5" price=" " descript="" itemname="Yuengling Lager"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Domestic $5" price=" " descript="" itemname="Big Daddy IPA"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Beer On Draught - Domestic $5" price=" " descript="" itemname="Anchor Liberty Ale"></menu_item>
+<menu_item type="Brunch" category="Hangover Special" price=" 3.00" descript="with any dish" itemname="Your First Mimosa Or House Bloody Mary"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 8.00" descript="" itemname="Eggs Benedict"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 9.00" descript="" itemname="Salmon Benedict"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 8.00" descript="" itemname="Eggs Florentine"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 10.00" descript="" itemname="Steak &amp;amp; Eggs"></menu_item>
+<menu_item type="Brunch" category="Eggs" price="(3 items) 8.00" descript="" itemname="Build Your Own Omelet"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 8.00" descript="three eggs baked in a tomato mushrooms and peppers sauce, served with bread" itemname="Shakshuka"></menu_item>
+<menu_item type="Brunch" category="default" price=" 6.00" descript="with milk or yogurt" itemname="Homemade Granola And Berries Served"></menu_item>
+<menu_item type="Brunch" category="default" price=" 7.00" descript="" itemname="Banana French Toast"></menu_item>
+<menu_item type="Brunch" category="default" price=" 8.00" descript="with cream cheese and capers" itemname="Smoked Salmon On A Bagel"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 9.00" descript="with bacon and fries" itemname="Burger"><extra type="sub" price=" 1.00" descript="add cheese"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 9.00" descript="with fries" itemname="Grilled Pesto Chicken Sandwich"><extra type="sub" price=" 1.00" descript="add cheese"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 7.00" descript="served on whole wheat with salad" itemname="Goat Cheese Pesto And Tomato Panini"><extra type="sub" price=" 1.00" descript="add avocado"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 9.00" descript="" itemname="Bangers &amp;amp; Mash"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 9.00" descript="" itemname="Mac &amp;amp; Cheese"><extra type="sub" price=" 2.00" descript="add mushrooms or bacon"></extra>
+<extra type="sub" price=" 4.00" descript="add proscuitto"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 12.00" descript="served with white rice and salad" itemname="Beef Stew"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 13.00" descript="" itemname="Beer Battered Cod Fish &amp;amp; Chips"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 3.00" descript="" itemname="Fries"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 3.00" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 3.00" descript="" itemname="Mash"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 5.00" descript="" itemname="Mac &amp;amp; Cheese"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.00" descript="" itemname="Breaded And Fried Macaroni"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 2.00" descript="" itemname="Sausage"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 5.00" descript="" itemname="Chicken Fingers"></menu_item>
+</root>

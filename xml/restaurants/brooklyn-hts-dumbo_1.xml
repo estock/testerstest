@@ -1,0 +1,47 @@
+<root>
+<restaurant><name>Almondine Bakery</name>
+<menuxml>Almondine Bakery.xml</menuxml>
+<streataddress>85 Water St</streataddress>
+<crosstreat>(At Main St)</crosstreat>
+<local>Brooklyn</local>
+<region>NY</region>
+<phone>(718) 797-5026</phone>
+<latitude>40.703378</latitude>
+<longitude>-73.991245</longitude>
+<cuisines>Bakeries, Desserts</cuisines>
+<price>$</price>
+<features>Take Out</features>
+<deliveryamount>
+</deliveryamount>
+<deliveryarea>
+</deliveryarea>
+<hours> Mon-Sat: 7am-7pm,  Sun: 10am-6pm,</hours>
+<website>http://www.almondinebakery.com</website>
+<meals>Breakfast, Lunch, Dinner</meals>
+<price>$$</price>
+<features>Delivery, Online Ordering, Take Out</features>
+<deliveryamount></deliveryamount>
+<deliveryarea></deliveryarea>
+<hours> Daily: 12-10:30pm,</hours>
+<website></website>
+<meals>Lunch, Dinner</meals>
+</restaurant>
+<restaurant><name>Andy's</name>
+<menuxml>Andy's.xml</menuxml>
+<streataddress>128 Montague St</streataddress>
+<crosstreat>(At Henry St)</crosstreat>
+<local>Brooklyn</local>
+<region>NY</region>
+<phone>(718) 237-8899</phone>
+<latitude>40.694547</latitude>
+<longitude>-73.994269</longitude>
+<cuisines>Chinese</cuisines>
+<price>$$</price>
+<features>Delivery, Accepts Credit Cards, Lunch Special, Take Out</features>
+<deliveryamount>10.00</deliveryamount>
+<deliveryarea></deliveryarea>
+<hours> Mon-Thu: 11am-10:30pm,  Fri: 11am-11pm,  Sat: 12pm-11pm,  Sun: 1pm-10pm,</hours>
+<website></website>
+<meals>Lunch, Dinner</meals>
+</restaurant>
+</root>

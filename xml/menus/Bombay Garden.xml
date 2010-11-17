@@ -1,0 +1,70 @@
+<root>
+<menu_item type="default" category="Appetizers" price=" 2.99" descript="spicy seasoned potatoes and peas with wrapped in a light pastry" itemname="1. Shahi Vegetable Samosa"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.99" descript="spicy seasoned meat and peas wrapped in a light pastry" itemname="2. Khadani Meat Samosa"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.99" descript="cubed cottage cheese served in a meld tomato sauce" itemname="3. Kashmiti Paneer Tikka"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.99" descript="" itemname="4. Bombay Aloo Tikkyas"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.99" descript="chicken breast marinate with ginger, garlic and cream cheese grilled in clay oven" itemname="5. Reshmi Kebab"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.99" descript="shrimp, spiced with greens, chili, garlic and onion served with chutney" itemname="6. Grilled Shrimps On Skewers"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.99" descript="marinated grilled chicken and vegetable on a skewer from tandoor oven" itemname="7. Chicken Shashlik"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.99" descript="vegetable filler" itemname="8. Vegetable Pakora"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.99" descript="cooked chick peas seaweed with puri bread" itemname="9. Choley Bhature"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.99" descript="" itemname="10. Bombay Gobhi"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.99" descript="" itemname="11. Chicken Lollipop"></menu_item>
+<menu_item type="default" category="Salads" price=" 3.99" descript="fine organic vegetable mix with salad dressing" itemname="12. Organic Green Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 5.99" descript="sliced grilled chicken with together arugula" itemname="13. Grilled Chicken Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 3.99" descript="chick peas, kidney beans with red onion and green chili" itemname="14. Mixed Peas Salad"></menu_item>
+<menu_item type="default" category="Hot Soups" price=" 2.99" descript="thick anglo-indian lentil soup" itemname="15. Vegetable Mulligatawny Soup"></menu_item>
+<menu_item type="default" category="Hot Soups" price=" 3.99" descript="" itemname="16. Chicken Soup"></menu_item>
+<menu_item type="default" category="Hot Soups" price=" 3.99" descript="" itemname="17. Mixed Vegetable Soup"></menu_item>
+<menu_item type="default" category="Rolls $5.99" price=" " descript="" itemname="18. Vegetable Spring Roll"></menu_item>
+<menu_item type="default" category="Rolls $5.99" price=" " descript="indian cottage cheese in spicy pickle" itemname="19. Achari Paneer"></menu_item>
+<menu_item type="default" category="Rolls $5.99" price=" " descript="" itemname="20. Chicken Tikka Or Beef Tikka"></menu_item>
+<menu_item type="default" category="Rolls $5.99" price=" " descript="" itemname="21. Mixed"></menu_item>
+<menu_item type="default" category="Rolls $5.99" price=" " descript="" itemname="22. Kabab-Naan"></menu_item>
+<menu_item type="default" category="Rice &amp;amp; Biryani" price=" 9.99" descript="" itemname="23. Chicken Biryani"></menu_item>
+<menu_item type="default" category="Rice &amp;amp; Biryani" price=" 3.99" descript="" itemname="24. Peas Pulao"></menu_item>
+<menu_item type="default" category="Rice &amp;amp; Biryani" price=" 9.99" descript="" itemname="25. Vegetable Biryani"></menu_item>
+<menu_item type="default" category="Rice &amp;amp; Biryani" price=" 11.99" descript="" itemname="26. Lamb Biryani"></menu_item>
+<menu_item type="default" category="Rice &amp;amp; Biryani" price=" 13.99" descript="" itemname="27. Shrimp Biryani"></menu_item>
+<menu_item type="default" category="Rice &amp;amp; Biryani" price=" 20.99" descript="" itemname="28. Lobster Biryani"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 7.99" descript="" itemname="29. Mix Vegetable Curry"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 7.99" descript="peas, potato and cauliflower with cumin and spices" itemname="30. Aloo Motor Gobi"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 7.99" descript="spinach, tomato and onion" itemname="31. Shaag Bhajee"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 7.99" descript="chick peas and spinach cooked spice flavored sauce" itemname="32. Chana Shaag"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 7.99" descript="mushrooms cooked with fresh spinach in sauce" itemname="33. Mushroom Shaag"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 7.99" descript="fresh okra with spices" itemname="34. Bhindi Masala"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 7.99" descript="" itemname="35. Chana Masala"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 7.99" descript="" itemname="36. Baingun Bharhta"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 8.99" descript="mushrooms cooked with fresh spinach in sauce" itemname="37. Motar Paneer"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 8.99" descript="" itemname="38. Daal Makhni"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 8.99" descript="" itemname="39. Vegetable Jalfra / Vindaloo"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 8.99" descript="cheese with fresh spinach" itemname="40. Shaag Paneer"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 9.99" descript="" itemname="41. Malai Kofta"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 10.99" descript="" itemname="42. Paneer Kadai"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 10.99" descript="" itemname="43. Paneer Makhni"></menu_item>
+<menu_item type="default" category="Vegetarian Entrees" price=" 10.99" descript="homemade cheese cubes sauteed with onion and tomatoes" itemname="45. Shahi Paneer"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 7.99" descript="cooked with indian curry sauce" itemname="47. Curry (Chicken, Lamb, Beef)"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 8.99" descript="braised and sauteed with traditional indian spices, cooked served slowly to perfection" itemname="48. Bhuna Gosht (Chicken, Lamb, Beef)"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 8.99" descript="" itemname="48. Kadai (Chicken, Lamb, Beef)"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 8.99" descript="" itemname="50. Rogan Josh ((Chicken, Lamb, Beef)"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 8.99" descript="mildly spiced, flavored with butter and simmered with yogurt" itemname="51. Korma (Chicken, Lamb, Beef)"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 8.99" descript="cooked in hot and tangy curry sauce with potatoes specials" itemname="52. Vindaloo"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 8.99" descript="meat cooked in curry sauce, flavored with hot grilles" itemname="53. Achar Gosht (Chicken, Lamb, Beef)"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 8.99" descript="grilled chicken cooked with yogurt and sour cream" itemname="54. Chicken Tikka Masala"></menu_item>
+<menu_item type="default" category="Meat Entrees" price=" 8.99" descript="meat cooked with spinach" itemname="55. Shagwala (Chicken, Lamb, Beef)"></menu_item>
+<menu_item type="default" category="Seafood Entrees" price=" 12.99" descript="fish cooked in coconut and cream sauce" itemname="56. Goan Fish Curry"></menu_item>
+<menu_item type="default" category="Seafood Entrees" price=" 12.99" descript="fish cooked with indian curry sauce" itemname="56. Fish Curry"></menu_item>
+<menu_item type="default" category="Seafood Entrees" price=" 12.99" descript="shrimp cooked in specialty prepared meats and spices with a touch of ginger and garlic" itemname="57. Shrimp Bhuna"></menu_item>
+<menu_item type="default" category="Seafood Entrees" price=" 12.99" descript="" itemname="58. Shrimp Curry Vindaloo"></menu_item>
+<menu_item type="default" category="Seafood Entrees" price=" 12.99" descript="fish tossed with chili and green peppers, onions and soy juice" itemname="59. Chilli Fish"></menu_item>
+<menu_item type="default" category="Seafood Entrees" price=" 18.99" descript="" itemname="60. Lobster Curry"></menu_item>
+<menu_item type="default" category="Seafood Entrees" price=" 18.99" descript="tandoori marinated in meats and spices served in a tomato and onion sauce" itemname="61. Lobster Tikka Masala"></menu_item>
+<menu_item type="default" category="Tandoori Entrees" price=" 8.99" descript="chicken marinated in yogurt, spices, herbs and barbecued on the tandoori" itemname="62. Chicken Tandoori"></menu_item>
+<menu_item type="default" category="Tandoori Entrees" price=" 12.99" descript="jumbo shrimp marinated in tandoori spices and barbecued on the tandoori" itemname="63. Shrimp Tandoori"></menu_item>
+<menu_item type="default" category="Tandoori Entrees" price=" 8.99" descript="vegetables barbecued on the tandoori with spices and herbs shredded in lemon juice" itemname="64. Vegetable Tandoori"></menu_item>
+<menu_item type="default" category="Tandoori Entrees" price=" 8.99" descript="boneless white meat chicken marinated in japanese spices and roasted in clay oven" itemname="65. Chicken Tikka"></menu_item>
+<menu_item type="default" category="Tandoori Entrees" price=" 11.99" descript="" itemname="66. Tandoori Mixed Grill Assorted"></menu_item>
+<menu_item type="default" category="Tandoori Entrees" price=" 12.99" descript="juicy lamb chops marinated in ginger and garlic, cooked to your taste" itemname="67. Tandoori Lamb Chop"></menu_item>
+<menu_item type="default" category="Tandoori Entrees" price=" 12.99" descript="fish marinated in fresh ginger and garlic cooked to your taste another all time favorite" itemname="68. Fish Tikka"></menu_item>
+<menu_item type="default" category="Bread" price=" " descript="" itemname="69. Naan"></menu_item>
+</root>

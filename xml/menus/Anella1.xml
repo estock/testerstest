@@ -1,0 +1,62 @@
+<root>
+<menu_item type="Dinner" category="Small Plates" price="8.00" descript="whipped ricotta, sylvetta arugula" itemname="Sweet Carrots">
+
+</menu_item>
+<menu_item type="Dinner" category="Small Plates" price="8.00" descript="watercress, pecorino oro, riviera olive oil, lemon" itemname="Roasted Broccoli">
+
+</menu_item>
+<menu_item type="Dinner" category="Small Plates" price="9.00" descript="tender greens, candied walnuts, bayley hazen, blue cheese" itemname="Endive And Apple Salad">
+
+</menu_item>
+<menu_item type="Dinner" category="Small Plates" price="7.00" descript="lemon, capers, garlic confit" itemname="Brussels Sprouts">
+
+</menu_item>
+<menu_item type="Brunch" category="Pizza" price="5.00" descript="arugula, garlic, chili" itemname="House Made Mozzarella">
+  <extra type="add" descript="Add Cheese" price="0.50"></extra>
+  <extra type="add" descript="Add Onion" price="0.50"></extra>
+  <extra type="add" descript="Add Olives" price="0.70"></extra>
+  <extra type="sub" descript="With Chicken" price="6.00"></extra>
+  <extra type="sub" descript="With Pork" price="6.00"></extra>
+  <extra type="sub" descript="With Bacon" price="7.50"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Pizza" price="" descript="hot coppa, pecorino, fried egg" itemname="Ricotta">
+
+</menu_item>
+<menu_item type="Dinner" category="Meat" descript="creamy lentils, sherry vinegar, winter vegetables" itemname="Brick Oven Roasted Chicken">
+
+</menu_item>
+<menu_item type="Dinner" category="Meat" price="19.00" descript="braised cabbage, red bliss potatoes" itemname="Beef Short Ribs">
+
+</menu_item>
+<menu_item type="Dinner" category="Meat" price="18.00" descript="berkshire pork shoulder, coco beans, smoked bacon, tuscan kale" itemname="Pork And Bean Cassoulet">
+
+</menu_item>
+<menu_item type="Brunch" category="First Course" price="9.00" descript="house baked croissants, muffins, homemade jam" itemname="Pastry Basket">
+
+</menu_item>
+<menu_item type="Brunch" category="First Course" price="9.00" descript="crunchy granola, yogurt, seasonal fruits" itemname="Fruit And Granola">
+
+</menu_item>
+<menu_item type="Brunch" category="First Course" price="8.00" descript="tender greens, candied walnuts, bayley hazen blue cheese" itemname="Endive And Apple Salad">
+
+</menu_item>
+<menu_item type="Brunch" category="Entrees" price="13.00" descript="house smoked fish, soft boiled eggs, capers and shallots, garlic &amp;amp; rosemary potatoes" itemname="Smoked Pollack Salad">
+
+</menu_item>
+<menu_item type="Brunch" category="Entrees" price="12.00" descript="roasted strawberries, toasted pecans, maple syrup" itemname="French Toast">
+    <extra type="sub" descript="With cherry" price="10.00"></extra>
+    <extra type="sub" descript="With raspberry" price="12.00"></extra>
+    <extra type="add" descript="double fruits" price="3.00"></extra>
+    <extra type="add" descript="add honey" price="1.00"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Sides" price="5.00" descript="" itemname="Bacon">
+    <extra type="add" descript="add onion" price="0.50"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Sides" price="5.00" descript="" itemname="Brussels Sprouts">
+</menu_item>
+<menu_item type="Brunch" category="Sides" price="4.00" descript="" itemname="Potatoes">
+    <extra type="sub" descript="Roasted potatoes" price="5.00"></extra>
+    <extra type="sub" descript="Double potatoes" price="7.00"></extra>
+    <extra type="sub" descript="Double roasted potatoes" price="8.00"></extra>
+</menu_item>
+</root>

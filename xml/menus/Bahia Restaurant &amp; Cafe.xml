@@ -1,0 +1,235 @@
+<root>
+<menu_item type="Dinning Room Menu" category="Aperitivos - Appetizers" price=" 3.50" descript="tortilla chips with our homemade salsa." itemname="Nachos Con Salsa"></menu_item>
+<menu_item type="Dinning Room Menu" category="Aperitivos - Appetizers" price=" 6.50" descript="tortilla chips with our homemade guacamole." itemname="Nachos Con Guacamole"></menu_item>
+<menu_item type="Dinning Room Menu" category="Aperitivos - Appetizers" price=" 4.50" descript="fried mozzarella sticks, served with marinara sauce." itemname="Palillos De Mozzarella (6)"></menu_item>
+<menu_item type="Dinning Room Menu" category="Aperitivos - Appetizers" price=" 8.95" descript="fried calamari, tender &amp; crispy, served with our special marinara picante sauce." itemname="Calamares Fritos"></menu_item>
+<menu_item type="Dinning Room Menu" category="Aperitivos - Appetizers" price=" 8.95" descript="tortilla chips, nacho cheese, refried beans, guacamole, sour cream, shredded lettuce, chirmol &amp; parmesan cheese." itemname="Nachos a Todo Dar"></menu_item>
+<menu_item type="Dinning Room Menu" category="Aperitivos - Appetizers" price=" 9.95" descript="chilled shrimp; served with cocktail sauce." itemname="Cocktail De Camarones"></menu_item>
+<menu_item type="Dinning Room Menu" category="Aperitivos - Appetizers" price=" 9.95" descript="shrimp sautéed in pernod with mushrooms" itemname="Camarones A La Bahia"></menu_item>
+<menu_item type="Dinning Room Menu" category="Ensaladas - Salads" price=" 4.50" descript="iceberg lettuce, mixed greens, tomatoes, cucumbers &amp; carrots." itemname="Ensalada Verde"></menu_item>
+<menu_item type="Dinning Room Menu" category="Ensaladas - Salads" price=" 4.50" descript="traditional caesar salad; romaine lettuce, croutons, parmesan cheese &amp; caesar dressing." itemname="Ensalada Romana"></menu_item>
+<menu_item type="Dinning Room Menu" category="Ensaladas - Salads" price=" 6.50" descript="sliced avocado on a bed of greens, topped with marinated red onions &amp; lemon vinaigrette dressing." itemname="Ensalada De Aguacate"></menu_item>
+<menu_item type="Dinning Room Menu" category="Ensaladas - Salads" price=" 9.50" descript="sliced avocado and grill chicken served on a bed of mixed greens, topped with marinated red onions &amp; lemon vinaigrette dressing." itemname="Ensalada De Aguacate Con Pollo"></menu_item>
+<menu_item type="Dinning Room Menu" category="Ensaladas - Salads" price=" 6.00" descript="fresh mozzarella, tomatoes &amp; basil, balsamic vinaigrette; served on a bed of greens." itemname="Ensalada De Mozzarella Fresca"></menu_item>
+<menu_item type="Dinning Room Menu" category="Ensaladas - Salads" price=" 9.00" descript="traditional caesar salad; topped with strips of tender grilled chicken served with caesar dressing" itemname="Ensalada Romana Con Pollo"></menu_item>
+<menu_item type="Dinning Room Menu" category="Ensaladas - Salads" price=" 12.00" descript="traditional caesar salad; topped with grilled shrimp served with caesar dressing" itemname="Ensalada Romana Con Camarones"></menu_item>
+<menu_item type="Dinning Room Menu" category="Sopas - Soups" price=" 6.50" descript="home style chicken soup with potatoes &amp; carrots, served with rice." itemname="Sopa De Pollo"></menu_item>
+<menu_item type="Dinning Room Menu" category="Sopas - Soups" price=" 8.95" descript="home style beef soup with cabbage, yuca, corn on the cob and string beans, served with rice." itemname="Sopa De Res"></menu_item>
+<menu_item type="Dinning Room Menu" category="Sopas - Soups" price=" 14.00" descript="assorted seafood soup." itemname="Sopa De Mariscos"></menu_item>
+<menu_item type="Dinning Room Menu" category="Sopas - Soups" price=" 12.00" descript="shrimp soup with fresh tomatoes &amp; basil." itemname="Sopa De Camarones"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 2.00" descript="chicharron (pork), frijoles (refried beans), frijoles con queso (refried beans &amp; cheese), revueltas (pork, refried beans &amp; cheese), pollo (chicken), pollo con queso (chicken &amp; cheese), queso (cheese), queso con ayote (cheese &amp; zucchini), queso con loroco (cheese &amp; loroco), jalapeño con queso (jalapeño &amp; cheese)." itemname="Pupusas"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 2.00" descript="sweet plantain pattie stuffed with our homemade pastry cream with cinnamon." itemname="Empanada De Leche"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 2.00" descript="chicken tamale." itemname="Tamal De Pollo"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 2.50" descript="fresh corn tamale, served with our homemade sour cream." itemname="Tamal De Elote Con Crema"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 2.50" descript="fresh corn on the cob with mayonnaise, mustard &amp; parmesan cheese." itemname="Elote Loco"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 3.50" descript="fried sweet plantains served with our homemade sour cream." itemname="Platanos Maduros Con Crema"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 7.00" descript="fried sweet plantains, refried beans, salvadoran cream and cheese." itemname="El Típico"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 8.95" descript="fried corn tortilla, topped with refried beans, chicken, shredded lettuce, chirmol and parmesan cheese." itemname="Enchiladas De Pollo (2)"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 8.95" descript="fried corn tortilla, topped with refried beans, beef, shredded lettuce, chirmol and parmesan cheese." itemname="Enchiladas De Carne (2)"></menu_item>
+<menu_item type="Dinning Room Menu" category="A Taste of El Salvador" price=" 8.95" descript="fried yuca, served with chunks of fried pork and red marinated onions." itemname="Yuca Frita Con Chicharrón"></menu_item>
+<menu_item type="Dinning Room Menu" category="Platos Tipicos Salvadoreños - Traditional Dishes" price=" 18.00" descript="carne asada con casamiento, aguacate y queso. - grilled boneless choice shell steak; served with casamiento, avocado and salvadoran cheese." itemname="El Campesino"></menu_item>
+<menu_item type="Dinning Room Menu" category="Platos Tipicos Salvadoreños - Traditional Dishes" price=" 15.00" descript="carne al sarten con tomate, chile y cebolla; servido con arroz y frijoles fritos. - sliced top sirloin steak with tomatoes, red and green peppers &amp; onions; served with rice &amp; refried beans." itemname="El Ranchero"></menu_item>
+<menu_item type="Dinning Room Menu" category="Platos Tipicos Salvadoreños - Traditional Dishes" price=" 15.00" descript="carne al sarten con tomate y cebolla; servido con arroz, aguacate y queso. - sliced steak sautéed with tomatoes and onions; served with rice, avocado &amp; salvadoran cheese." itemname="El Guanaco"></menu_item>
+<menu_item type="Dinning Room Menu" category="Platos Tipicos Salvadoreños - Traditional Dishes" price=" 22.50" descript="boca roja al horno, cubierto con una salsa de limon, ajo y perejil; servido con arroz y ensalada de aguacate. - broiled whole red snapper topped with lemon &amp; garlic sauce with parsley served with rice &amp; avocado salad." itemname="El Pescador"></menu_item>
+<menu_item type="Dinning Room Menu" category="Platos Tipicos Salvadoreños - Traditional Dishes" price=" 18.00" descript="carne asada; servido con frijoles fritos, maduros y queso duro. - grilled boneless choice shell steak; served with refried beans, sweet plantain and salvadoran cheese." itemname="El Paisano"></menu_item>
+<menu_item type="Dinning Room Menu" category="Platos Tipicos Salvadoreños - Traditional Dishes" price=" 14.00" descript="dos chuletas asadas; servido con casamiento aguacate y queso. - two center cut pork chops grilled with extra virgin olive oil, garlic and fresh herbs, served with casamiento, avocado and salvadoran cheese." itemname="Chuletas Campesinas"></menu_item>
+<menu_item type="Dinning Room Menu" category="Carnes - Meats" price=" 15.00" descript="grilled boneless choice shell steak" itemname="Carne Asada Con Chirmol"></menu_item>
+<menu_item type="Dinning Room Menu" category="Carnes - Meats" price=" 12.00" descript="sliced top sirloin steak, sautéed with onions in a brown sauce." itemname="Bistec Encebollado"></menu_item>
+<menu_item type="Dinning Room Menu" category="Carnes - Meats" price=" 12.00" descript="two center cut pork chops, sautéed in a brown sauce." itemname="Chuletas Al Sartén"></menu_item>
+<menu_item type="Dinning Room Menu" category="Carnes - Meats" price=" 22.00" descript="carne asada con camarones.- grilled shell steak &amp; shrimp." itemname="Mar Y Tierra"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 8.95" descript="half broiled chicken." itemname="Medio Pollo Al Horno"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 8.95" descript="half barbequed chicken." itemname="Medio Pollo A La Barbacoa"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 8.95" descript="fried chicken." itemname="Pollo Frita"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 8.95" descript="small pieces of crispy fried chicken." itemname="Chicharrones De Pollo"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 10.95" descript="boneless chicken breast sauteed in a lemon sauce." itemname="Pollo Al Limon"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 10.95" descript="boneless breast of chicken in a garlic sauce." itemname="Pollo Al Ajillo"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 10.95" descript="chicken breast dipped in parmesan cheese, sauteed in white wine and lemon sauce." itemname="Pollo Sorpreso"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 10.95" descript="grilled marinated chicken breast." itemname="Pechuga De Pollo A La Parilla"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pollo - Chicken" price=" 10.95" descript="pieces of chicken breast with mushrooms, red and green peppers, tomatoes &amp; white wine." itemname="Pollo En Salsa Compestre"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" " descript="broiled or fried red snapper." itemname="Boca Roja"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 14.00" descript="fried porgy." itemname="Mojarra Frita"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 14.00" descript="fresh baked salmon fillet." itemname="Filete De Salmon Al Horno"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 14.00" descript="tilapia fillet, sauteed with white wine, capers, tomatoes, scallions &amp; fine herbs." itemname="Filete De Tilapia Al Sarten"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 14.00" descript="tilapia fillet, sauteed with fresh tomatoes &amp; onions." itemname="Filete De Tilapia En Salsa"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 15.00" descript="jumbo shrimp with green &amp; red peppers, onions &amp; tomatoes." itemname="Camarones a La Veracruzana"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 15.00" descript="shrimp sauteed with garlic and white wine sauce." itemname="Camarones Al Ajillo"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 15.00" descript="jumbo shrimp grilled with lemon and garlic" itemname="Camarones A La Plancha"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 15.00" descript="jumbo shrimp in a spicy tomato sauce" itemname="Camarones A la Diabla"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 25.00" descript="grilled shrimp, salmon, tilapia, calamari, mussels &amp; clams topped with fresh tomatoes &amp; garlic sauce." itemname="Parrillada De Mariscos"></menu_item>
+<menu_item type="Dinning Room Menu" category="Marisco - Seafood" price=" 14.00" descript="marinated shrimp in lime juice with diced tomatoes, red onions &amp; cilantro." itemname="Ceviche De Camaron"></menu_item>
+<menu_item type="Dinning Room Menu" category="Burgers &amp;amp; Sandwiches" price=" 7.00" descript="turkey burger topped with monterrey jack cheese and crispy bacon; served with french fries." itemname="Burger Bacon Jack Turkey"></menu_item>
+<menu_item type="Dinning Room Menu" category="Burgers &amp;amp; Sandwiches" price=" 7.00" descript="beef burger topped with salsa ranchera &amp; spicy queso sauce; served with french fries." itemname="Fiesta Burger"></menu_item>
+<menu_item type="Dinning Room Menu" category="Burgers &amp;amp; Sandwiches" price=" 7.00" descript="beef burger topped with sautéed mushrooms and melted alpine swiss cheese served with french fries." itemname="Alpine Swiss Burger"></menu_item>
+<menu_item type="Dinning Room Menu" category="Burgers &amp;amp; Sandwiches" price=" 3.50" descript="" itemname="Jumbo Beefburger"><extra type="sub" price=" 4.00" descript="with melted american cheese"></extra>
+<extra type="sub" price=" 5.00" descript="with bacon &amp;amp; cheese"></extra>
+</menu_item>
+<menu_item type="Dinning Room Menu" category="Burgers &amp;amp; Sandwiches" price=" 2.00" descript="french fries, lettuce &amp; tomato, add" itemname="Deluxe"></menu_item>
+<menu_item type="Dinning Room Menu" category="Burgers &amp;amp; Sandwiches" price=" 6.50" descript="with french fries." itemname="Chicken Fingers"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pastas" price=" 15.00" descript="linguini with shrimp sauteed with garlic &amp; white wine" itemname="Linguini Shrimp Scampi"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pastas" price=" 10.95" descript="breaded chicken breast topped with melted mozzarella cheese &amp; tomato sauce served over linguini." itemname="Pollo A La Parmigiana"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pastas" price=" 9.00" descript="penne pasta with tomato sauce, vodka and heavy cream." itemname="Penne Vodka"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pastas" price=" 9.00" descript="cheese ravioli in your choice of vodka, or tomato &amp; basil sauce." itemname="Cheese Ravioli"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pastas" price=" 12.00" descript="penne pasta with chicken, tomato sauce, vodka and heavy cream." itemname="Penne Vodka With Chicken"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pastas" price=" 18.00" descript="shrimp, mussels, calamari, clams and fish, sautéed with olive oil, garlic &amp; fresh basil." itemname="Linguini Frutti Di Mare"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pastas" price=" 12.00" descript="imported penne pasta with grilled chicken, broccoli, fresh tomatoes, garlic and white wine." itemname="Penne a La Bahia"></menu_item>
+<menu_item type="Dinning Room Menu" category="Pastas" price=" 14.00" descript="linguini, salmon and zucchini sautéed with olive oil &amp; roasted garlic." itemname="Linguini Con Salmon"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 2.50" descript="white rice" itemname="Arroz Blanco"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 3.00" descript="roasted potatoes" itemname="Papas Rostizadas"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 4.50" descript="julienne style mixed vegetables." itemname="Vegetales Mixtas"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 2.50" descript="side house green salad." itemname="Ensalada Verde"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 2.00" descript="red beans." itemname="Habichuelas"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 2.50" descript="french fries." itemname="Papas Fritas"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 3.00" descript="fried sweet plantains." itemname="Maduros"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 2.50" descript="twice fried green plantains." itemname="Tostones"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 4.00" descript="fried yuca." itemname="Yuca Frita"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 3.50" descript="mixed rice &amp; beans" itemname="Casamiento"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 2.50" descript="diced tomato, radish, red onions, scallions, cilantro &amp; lime juice" itemname="Chirmol"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 1.00" descript="homemade cream" itemname="Crema"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 3.50" descript="refried red beans." itemname="Frijoles Fritos"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 2.00" descript="sliced avocado" itemname="Aguacate"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 2.00" descript="salvadoran cheese." itemname="Queso Duro"></menu_item>
+<menu_item type="Dinning Room Menu" category="Side Orders" price=" 3.50" descript="" itemname="Guacamole"></menu_item>
+<menu_item type="Dinning Room Menu" category="Postres - Desserts" price=" 3.50" descript="" itemname="Amaretto Cheese Cake"></menu_item>
+<menu_item type="Dinning Room Menu" category="Postres - Desserts" price=" 4.00" descript="" itemname="Cherry Cheese Cake"></menu_item>
+<menu_item type="Dinning Room Menu" category="Postres - Desserts" price=" 3.00" descript="" itemname="White Chocolate Mousse Cake"></menu_item>
+<menu_item type="Dinning Room Menu" category="Postres - Desserts" price=" 3.00" descript="" itemname="Dark Chocolate Mousse Cake"></menu_item>
+<menu_item type="Dinning Room Menu" category="Postres - Desserts" price=" 4.00" descript="" itemname="Tres Leches"></menu_item>
+<menu_item type="Dinning Room Menu" category="Postres - Desserts" price=" 3.00" descript="" itemname="Flan"></menu_item>
+<menu_item type="Dinning Room Menu" category="Postres - Desserts" price=" 4.00" descript="" itemname="Tiramisú"></menu_item>
+<menu_item type="Dinning Room Menu" category="Postres - Desserts" price=" 2.50" descript="" itemname="Vanilla Or Chocolate Ice Cream"></menu_item>
+<menu_item type="Dinning Room Menu" category="Beverage &amp;amp; Drinks" price=" 2.50" descript="" itemname="Horchata"></menu_item>
+<menu_item type="Dinning Room Menu" category="Beverage &amp;amp; Drinks" price=" 2.00" descript="" itemname="Marañon"></menu_item>
+<menu_item type="Dinning Room Menu" category="Beverage &amp;amp; Drinks" price=" 2.00" descript="" itemname="Maracuya"></menu_item>
+<menu_item type="Dinning Room Menu" category="Beverage &amp;amp; Drinks" price=" 2.00" descript="" itemname="Tamarindo"></menu_item>
+<menu_item type="Dinning Room Menu" category="Beverage &amp;amp; Drinks" price=" 2.50" descript="" itemname="Limonada"></menu_item>
+<menu_item type="Dinning Room Menu" category="Beverage &amp;amp; Drinks" price=" 2.50" descript="" itemname="Melon"></menu_item>
+<menu_item type="Dinning Room Menu" category="Batidos - Milk Shakes $3" price=" " descript="strawberry" itemname="Fresa"></menu_item>
+<menu_item type="Dinning Room Menu" category="Batidos - Milk Shakes $3" price=" " descript="" itemname="Banana"></menu_item>
+<menu_item type="Dinning Room Menu" category="Batidos - Milk Shakes $3" price=" " descript="" itemname="Mango"></menu_item>
+<menu_item type="Dinning Room Menu" category="Batidos - Milk Shakes $3" price=" " descript="" itemname="Papaya"></menu_item>
+<menu_item type="Dinning Room Menu" category="Batidos - Milk Shakes $3" price=" " descript="" itemname="Guanabana"></menu_item>
+<menu_item type="Dinning Room Menu" category="Batidos - Milk Shakes $3" price=" " descript="blackberry" itemname="Mora"></menu_item>
+<menu_item type="Dinning Room Menu" category="Batidos - Milk Shakes $3" price=" " descript="vanilla" itemname="Vanilla"></menu_item>
+<menu_item type="Dinning Room Menu" category="Jugos - Juices" price=" 2.00" descript="" itemname="Orange Juice"></menu_item>
+<menu_item type="Dinning Room Menu" category="Jugos - Juices" price=" 1.50" descript="" itemname="Apple Juice"></menu_item>
+<menu_item type="Dinning Room Menu" category="Jugos - Juices" price=" 2.00" descript="" itemname="Cranberry Juice"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Calientes - Hot Drinks" price=" 1.50" descript="" itemname="Café"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Calientes - Hot Drinks" price=" 1.50" descript="" itemname="Chocolate"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Calientes - Hot Drinks" price=" 2.00" descript="" itemname="Espresso"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Calientes - Hot Drinks" price=" 3.00" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Calientes - Hot Drinks" price=" 1.50" descript="lemon ginger, chamomile, cinnamon apple, peppermint &amp; raspberry" itemname="Té De Hierbas"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Frias - Cold Drinks" price=" 1.00" descript="coke, diet coke, sprite, diet sprite, sunkist, ginger ale, pepsi &amp; diet pepsi" itemname="Sodas"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Frias - Cold Drinks" price=" 1.50" descript="lemon iced tea, diet lemon iced tea, peach iced tea, mango madness, fruit punch &amp; kiwi strawberry." itemname="Snapple"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Frias - Cold Drinks" price=" 1.50" descript="" itemname="PS Water"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Frias - Cold Drinks" price=" 1.50" descript="" itemname="Small Pellegrino"></menu_item>
+<menu_item type="Dinning Room Menu" category="Bebidas Frias - Cold Drinks" price=" 3.50" descript="" itemname="Large Pellegrino"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Corona"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Heineken"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Presidente"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Pilsener"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Suprema"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Famosa"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Coors Light"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Stella Artois"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Negra Modelo"></menu_item>
+<menu_item type="Dinning Room Menu" category="Cervezas - Beers $3.50" price=" " descript="" itemname="Modelo Especial"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Breakfast" price=" " descript="an assortment of our freshly baked muffins, danish, bagels; garnished with fresh fruit served with cream cheese, butter &amp; jelly." itemname="Assorted Breakfast Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Breakfast" price=" " descript="our assorted breakfast platter, fresh sliced fruit platter, orange juice, freshly brewed coffee &amp; assorted teas." itemname="Continental Breakfast"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Breakfast" price=" " descript="scrambled eggs, golden brown french toast, home fries, bacon &amp; sausage, kaiser rolls, syrup &amp; butter." itemname="Hot Breakfast Buffet"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Breakfast" price=" " descript="thinly sliced nova scotia smoked salmon, garnished with capers, sliced onions, tomatoes &amp; lemon accompanied by assorted bagels &amp; cream cheese." itemname="Smoked Salmon Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Breakfast" price=" " descript="artfully arranged sliced fresh fruit platter." itemname="Fresh Fruit Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Breakfast" price=" " descript="chunks of vine ripe fresh fruit in their own natural juice." itemname="Fresh Fruit Salad"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Breakfast" price=" " descript="our special blend of colombian roast coffee &amp; gourmet teas, set-up with milk, sugar, sweet &amp; low, &amp; cups." itemname="Coffee &amp;amp; Tea Service"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Breakfast" price=" " descript="" itemname="Orange Juice"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price=" " descript="an assortment of tuna salad, chicken salad, shrimp salad &amp; egg salad; made on assorted breads." itemname="Assorted Salads Sandwich Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price=" " descript="an assortment of roast beef, turkey, ham, chicken &amp; tuna salad, made on assorted breads." itemname="Assorted Basic Sandwich Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price=" " descript="an assortment of roast beef with horseradish, arugula &amp; plum tomatoes; italian tuna salad. chicken fajita (strips of grilled chicken with red &amp; greens peppers, guacamole &amp; salsa). grilled vegetables with fresh mozzarella &amp; balsamic vinaigrette. sliced avocado with plum tomatoes, marinated red onions &amp; lemon vinaigrette." itemname="Assorted Wraps Sandwich Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price=" " descript="an assortment of fresh mozzarella, tomato &amp; basil, grilled chicken with roasted peppers. grilled vegetables, poached salmon with sliced cucumbers, arugula, dill mayonnaise. black forest ham with smoked turkey, brie &amp; honey mustard, made on assorted gourmet breads." itemname="Assorted Gourmet Sandwich Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price="per person 2.00" descript="tossed green salad, caesar salad, pasta salad, potato salad, cole slaw." itemname="Side Salads"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price=" " descript="tuna fish salad with pineapple &amp; fine herbs, crabmeat salad with avocado in a lemon vinaigrette. chicken salad with fresh dill. served with your choice of salad: tossed green salad or mesclun salad. assorted dinner rolls or tuscan bread &amp; condiments relishes." itemname="Gourmet Salad Sampler"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price=" " descript="grilled boneless breast of chicken &amp; grilled carrots, zucchini, yellow squash, portobello mushrooms; served with our house salad &amp; your choice of dressing." itemname="The Healthy Choice"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price=" " descript="an assortment of chocolate chip cookies, raisin oatmeal cookies, brownies &amp; biscotti." itemname="Pastry Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Luncheon Platters" price=" " descript="an assortment of our miniature italian pastries." itemname="Miniature Italian Pastries"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hero's By The Foot" price=" " descript="oven roasted turkey breast, roast beef, corned beef, pastrami, ham, american &amp; swiss cheese, shredded lettuce &amp; tomatoes; served with condiments on the side: mayonnaise, mustard &amp; russian dressing." itemname="American Hero"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hero's By The Foot" price=" " descript="prosciutto, mortadella, genoa salami, pepperoni &amp; provolone cheese, shredded lettuce, sliced tomatoes, onions, extra virgin olive oil &amp; vinegar." itemname="Italian Hero"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hero's By The Foot" price=" " descript="grilled vegetables drizzled with extra virgin olive oil &amp; fine herbs, fresh mozzarella, shredded carrots, avocado &amp; balsamic vinaigrette." itemname="Vegetarian Hero"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Entree Salad Selections" price=" " descript="fresh mozzarella, plum tomatoes, chopped fresh basil, balsamic vinaigrette on a bed of greens." itemname="Fresh Mozzarella, Tomato &amp;amp; Basil Salad"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Entree Salad Selections" price=" " descript="red &amp; green peppers, zucchini, yellow squash, carrots &amp; portobello mushrooms served on a bed of greens." itemname="Grilled Vegetable Salad"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Entree Salad Selections" price=" " descript="white meat tuna, string beans, potato salad &amp; cooked eggs; served on a bed of greens." itemname="Salad Nicoise"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Entree Salad Selections" price=" " descript="grilled chicken, croutons, grated parmesan cheese; served on a bed of romaine lettuce." itemname="Grilled Chicken Caesar Salad"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Entree Salad Selections" price=" " descript="grilled chicken breast, fresh mozzarella, roasted red peppers; served on a bed of greens." itemname="Mediterranean Salad"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Entree Salad Selections" price=" " descript="pieces of grilled salmon, croutons, parmesan cheese; served on a bed of romaine lettuce." itemname="Grilled Salmon Caesar Salad"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Entree Salad Selections" price=" " descript="poached salmon filet on a bed of greens with fresh dill, capers &amp; cucumbers, dill mayonnaise." itemname="Poached Salmon Salad"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Pasta Salads" price=" " descript="spiral pasta with julienne farm fresh vegetables, tomatoes &amp; extra virgin olive oil." itemname="Primavera"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Pasta Salads" price=" " descript="penne pasta with fresh mozzarella, diced tomato &amp; basil; light balsamic vinaigrette." itemname="Caprese"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Pasta Salads" price=" " descript="bowtie pasta, poached chicken, snap peas, peppers; orange lemon vinaigrette." itemname="Poached Chicken"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Pasta Salads" price=" " descript="pasta, white meat tuna, red onions, peppers, black olives; cilantro vinaigrette." itemname="California Pasta Salad"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Pasta Salads" price=" " descript="cheese tortellini, fresh asparagus, fresh tomatoes &amp; roasted garlic olive oil." itemname="Cheese Tortellini"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Pastas" price=" " descript="imported penne pasta tossed with fresh tomato &amp; basil sauce." itemname="Penne Pomodoro"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Pastas" price=" " descript="imported penne pasta with tomato sauce, vodka and a hint of heavy cream." itemname="Penne Vodka"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Pastas" price=" " descript="rigatoni with homemade marinara sauce, diced eggplant, fresh mozzarella &amp; basil." itemname="Rigatoni Siciliana"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Pastas" price=" " descript="bowtie pasta with grilled chicken, broccoli, fresh tomatoes, white wine &amp; fine herbs." itemname="Chicken Farfalle"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Pastas" price=" " descript="your choice of sauce; fresh tomato &amp; basil, vodka or alfredo sauce." itemname="Homemade Cheese Or Meat Ravioli"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Pastas" price=" " descript="linguini, pieces of fresh grilled salmon, zucchini, fresh tomatoes; roasted garlic &amp; olive oil." itemname="Linguini With Salmon"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="boneless breast of chicken, lemon &amp; white wine sauce and capers." itemname="Lemon Chicken"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="boneless breast of chicken in garlic sauce with white wine." itemname="Chicken Ajillo"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="boneless breast of chicken, fresh mushrooms, marsala wine &amp; fine herbs." itemname="Chicken Marsala"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="boneless breast of chicken dipped in egg batter, lemon &amp; butter sauce." itemname="Chicken Francaise"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="boneless breast of chicken stuffed with spinach &amp; provolone cheese." itemname="Chicken Florentine"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="boneless breast of chicken stuffed with thinly sliced ham &amp; melted swiss cheese." itemname="Chicken Cordon Bleu"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="boneless breast of chicken stuffed with sautéed julienne vegetables with garlic &amp; olive oil." itemname="Chicken Primavera"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="roast boned free range chicken marinated with fresh rosemary &amp; garlic." itemname="Chicken Rosemary"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="lightly breaded chicken breast topped with melted mozzarella &amp; marinara sauce." itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Chicken Selections" price=" " descript="boneless breast of chicken sautéed in a brandy sauce and topped with prosciutto, roasted peppers &amp; fresh mozzarella." itemname="Chicken Cardinale"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="a spanish delicacy.- roasted fresh ham with fresh garlic &amp; fine herbs." itemname="Pernil Asado"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="fresh country ham gazed with pure maple syrup, bourbon and brown sugar." itemname="Maple Bourbon Glazed Ham"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="center cut pork chops in a brown sauce." itemname="Pork Chops"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="roasted pork loin with fresh thyme, oregano &amp; garlic oil." itemname="Oven Roasted Pork Loin"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="sliced top sirloin steak sautéed with thinly slice onions in a brown sauce." itemname="Beef Steak &amp;amp; Onions"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="cuban style shredded beef with tomatoes, onions &amp; cilantro." itemname="Ropa Vieja"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="sliced top sirloin steak with red and green peppers &amp; tomatoes." itemname="Steak El Ranchero"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="salvadoran style slice beef steak sautéed with fresh tomatoes &amp; onions." itemname="Steak El Guanaco"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="veal tenderloins, extra virgin olive oil, light lemon sauce, capers &amp; fresh parsley." itemname="Piccata Di Vitello"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Meat Selections" price=" " descript="veal medallions sautéed with exotic mushrooms and marsala wine." itemname="Vitello Al Marsala"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="fresh salmon fillet baked with fresh fine herbs, lemon &amp; butter." itemname="Baked Salmon"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="fresh salmon fillet sauteed with white wine, onions, raisins &amp; fresh basil." itemname="Salmone Alla Siciliana"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="fresh tilapia fillet sauteed with fresh tomatoes capers, scallions &amp; white wine." itemname="Tilapia Livornese"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="fresh tilapia fillet sauteed with fresh tomatoes &amp; slice onions." itemname="Tilapia En Salsa"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="st. peters fish fillet grilled with extra virgin olive oil &amp; oregano." itemname="Grilled St. Peters"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="st. peters fish fillet in a marinara sauce with clams &amp; mussels." itemname="St. Peters Marachiara"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="shrimp, salmon, scallops, clams &amp; mussels with saffron rice." itemname="Paella Marinera"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="gulf shrimp, salmon, calamari, clams &amp; mussels in a sauce of tomatoes, garlic &amp; parsley." itemname="Mariscada"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="gulf shrimp sautéed in white wine, garlic, fresh parsley &amp; extra virgin olive oil." itemname="Shrimp Scampi"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="gulf shrimp in a spicy fresh tomato sauce with red &amp; green peppers." itemname="Shrimp Creole"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Seafood Selections" price=" " descript="gulf shrimp in a garlic sauce." itemname="Shrimp Ajillo"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="an assortment of imported cheese display with fresh fruits &amp; crackers." itemname="Fresh Fruit &amp;amp; Cheese"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="seasonal fresh vegetables artfully arrange with a choice of dips." itemname="Crudite Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="chilled jumbo shrimp served with cocktail sauce and garnished with lemon slices." itemname="Jumbo Shrimp Cocktail Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="pre-sliced smoked salmon garnished with capers, sliced onions, cucumbers, tomato &amp; lemon served with rye &amp; pumpernickel cocktail bread." itemname="Smoked Salmon Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="a whole side of poached salmon garnished with thinly sliced cucumbers, capers, fresh dill &amp; lemon slices." itemname="Poached Salmon Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="marinated artichokes, grilled portobello mushrooms, marinated fresh mozzarella with fresh basil. roasted red peppers, genoa salami, imported pepperoni, olives &amp; bruschetta; served with tuscan bread &amp; baguettes." itemname="Cold Antipasto Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="jumbo gulf shrimp marinated in lime juice, extra virgin olive oil, sliced red onions, diced tomatoes &amp; cilantro; served with toasted garlic bread." itemname="Shrimp Ceviche"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="an assortment of smoked turkey, roast beef, ham, tuna, chicken and egg salad; garnished with fresh dill and cherry tomatoes." itemname="Tea Sandwiches"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="1kilo imported brie wrapped in a puff pastry crust; served with crackers and baguette." itemname="Brie En Croute"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="sliced tenderloin of filet mignon served with rosemary roasted baby red potatoes, horseradish sauce and dinner rolls." itemname="Filet Mignon Platter"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Buffet Party Platters" price=" " descript="nachos &amp; tortilla chips served with guacamole dip &amp; salsa." itemname="Nachos &amp;amp; Chips"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Cold Hors D'Oeuvres" price=" " descript="" itemname="Bruschetta On Toasted Tuscan Bread Points"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Cold Hors D'Oeuvres" price=" " descript="topped with caviar" itemname="Deviled Egg"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Cold Hors D'Oeuvres" price=" " descript="stuffed with smoked salmon mousse" itemname="Cucumbers Barquettes"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Cold Hors D'Oeuvres" price=" " descript="" itemname="Asparagus Wrapped in Tender Slices of Imported Proscuitto"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Cold Hors D'Oeuvres" price=" " descript="filled with chilled shrimp ceviche" itemname="Puff Pastry Shells"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Cold Hors D'Oeuvres" price=" " descript="" itemname="Skewers Of Cherry Tomatoes, Fresh Mozzarella &amp;amp; Fresh Basil"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Cold Hors D'Oeuvres" price=" " descript="with cream fraiche &amp; caviar" itemname="Red Bliss Potatoes"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="lorraine, broccoli &amp; cheddar, spinach, asparagus" itemname="Assorted Mini Quiche"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="fried corn tortilla topped with refried beans, beef cubes, shredded lettuce, chirmol &amp; parmesan cheese" itemname="Mini Beef Enchiladas"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="mini corn flour pancakes stuffed with a variety of fillings such as: chicken, pork, beans, cheese, zucchini &amp; cheese, and beans &amp; cheese or mixed" itemname="Mini Pupusas"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="with crabmeat" itemname="Stuffed Mushrooms"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="with roasted peppers" itemname="Chicken Brochette"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="with dill mayonnaise" itemname="Mini Crab Cakes"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="" itemname="Coconut Shrimp"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="" itemname="Pigs In The Blanket"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="stuffed with ricotta cheese" itemname="Rolled Eggplant"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="" itemname="Swedish Meatballs"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="" itemname="Buffalo Style Chicken Wings"></menu_item>
+<menu_item type="Corporate Catering Menu" category="Hot Hors D'Oeuvres" price=" " descript="" itemname="Beef Sate"></menu_item>
+</root>

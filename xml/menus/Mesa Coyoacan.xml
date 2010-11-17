@@ -1,0 +1,123 @@
+<root>
+<menu_item type="Dinner" category="Abriendo Boca" price=" 7.00" descript="salsa borracha y totopos" itemname="Guacamole"></menu_item>
+<menu_item type="Dinner" category="Abriendo Boca" price=" 7.00" descript="grilled cactus topped with rajas con crema - an aztec delicacy" itemname="Nopal Asado"></menu_item>
+<menu_item type="Dinner" category="Abriendo Boca" price=" 8.00" descript="hand made tortilla and oaxaca cheese - order of two. choose from the following: mushrooms and huitlacoche, rajas con crema, tinga de pollo or homemade chorizo" itemname="Quesadillas"></menu_item>
+<menu_item type="Dinner" category="Abriendo Boca" price=" 7.00" descript="oaxaqueno (chicken and black mole), veracruzano (tilapia and guajillo salsa), chiapaneco (pork picadillo, fruit, raisins, almonds)" itemname="Tamales"></menu_item>
+<menu_item type="Dinner" category="Abriendo Boca" price=" 7.00" descript="corn kernels, epazote, chile, mayo and lime juice with cotija cheese" itemname="Esquites"></menu_item>
+<menu_item type="Dinner" category="Abriendo Boca" price=" 9.00" descript="shrimp, tinga de pollo (shredded chicken), or crab meat" itemname="Tostadas"></menu_item>
+<menu_item type="Dinner" category="Sopas" price=" 9.00" descript="traditional mexican tortilla soup, chicken broth, chile guajillo, chile ancho, served with queso fresco, avocado and tortilla strips" itemname="Azteca"></menu_item>
+<menu_item type="Dinner" category="Sopas" price=" 11.00" descript="shredded pork, hominy corn, guajillo-ancho broth, served with lettuce, radish, oregano, avocado and tostadas" itemname="Pozole Garibaldi"></menu_item>
+<menu_item type="Dinner" category="Sopas" price=" 14.00" descript="seafood stew, red snapper, shrimp, octopus, mussels, guajillo chile and fresh epazote leaves" itemname="De Mariscos"></menu_item>
+<menu_item type="Dinner" category="Sopas" price=" 9.00" descript="ask your server" itemname="Sopa Del Dia"></menu_item>
+<menu_item type="Dinner" category="Ensaladas $8" price=" " descript="mixed greens, jicama, orange, beets, red onion, citrus-chile-arbol vinaigrette" itemname="Coyoacan"></menu_item>
+<menu_item type="Dinner" category="Ensaladas $8" price=" " descript="mixed greens, baby arugula, green beans, radish, grilled corn, avocado, pear-chile-ancho vinaigrette" itemname="Mixcoac"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="a thin cut of beef from the brisket (very popular in mexican taquerias) with avocado salsa" itemname="De Suadero"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="grass fed marinated grilled skirt steak, onion and cilantro" itemname="De Carne Asada"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="organic shredded chicken cooked in a chipotle salsa and queso fresco" itemname="De Tinga De Pollo"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="grilled tilapia marinated with mexican herbs and topped with home made pickled cabbage salad" itemname="De Pescado"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="braised berkshire pork d.f. style, onion and cilantro" itemname="De Carnitas"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="guajillo chile marinated pork, onion, cilantro and grilled pineapple" itemname="Al Pastor"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="mushrooms, huitlacoche, cactus salad and salsa borracha" itemname="De Nopales, Hongos Y Huitlacoche"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="sauteed with salsa veracruzana and served with avocado salsa" itemname="De Calamari"></menu_item>
+<menu_item type="Dinner" category="Ceviches $10" price=" " descript="df style, onion, tomato, avocado, cilantro and ivan's family recipe" itemname="De Camaron"></menu_item>
+<menu_item type="Dinner" category="Ceviches $10" price=" " descript="acapulco style with oysters, octopus, shrimp, scallops in a tomato salsa, lime juice, onions, cilantro, and mexican spices" itemname="Vuelve A La Vida"></menu_item>
+<menu_item type="Dinner" category="Platos Fuertes" price=" 12.00" descript="traditional green enchiladas stuffed with your choice of chicken, grilled steak, or vegetarian topped with oaxacan cheese, avocado, red onions and crema fresca" itemname="Enchiladas Verdes"></menu_item>
+<menu_item type="Dinner" category="Platos Fuertes" price=" 12.00" descript="chef ivan's family secret recipe with chicken topped with, queso fresco, crema fresco, avocado, onion and sesame seeds" itemname="Enchiladas De Mole"></menu_item>
+<menu_item type="Dinner" category="Platos Fuertes" price=" 12.00" descript="roasted poblano pepper stuffed with zucchini, carrots, grilled corn, spinach or verdolagas (seasonal), covered with red tomato salsa and topped with pumpkin seeds" itemname="Chile Relleno Vegetariano"></menu_item>
+<menu_item type="Dinner" category="Platos Fuertes" price=" 14.00" descript="spiced lamb with chile ancho, chile guajillo and avocado leaves steamed in a banana leaf" itemname="Mixiotes De Carnero"></menu_item>
+<menu_item type="Dinner" category="Platos Fuertes" price=" 14.00" descript="roasted poblano pepper stuffed with shredded pork, peaches, pears, apples and almonds covered in a walnut sauce then topped with pomegranate seeds" itemname="Chiles En Nogada"></menu_item>
+<menu_item type="Dinner" category="Platos Fuertes" price=" 13.00" descript="grilled tilapia marinated with a chile guajillo and topped with a grilled pineapple. served with sauteed vegetables and black beans" itemname="Pescado Al Pastor"></menu_item>
+<menu_item type="Dinner" category="Platos Fuertes" price=" 16.00" descript="grass fed, grilled marinated skirt steak, served with rajas con crema, black beans and enchilada de mole" itemname="Carne Asada"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="" itemname="Arroz A La Mexicana Y Frijoles Mexicanos"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="" itemname="Platano Macho Frito"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="" itemname="Elotes Asados Estilo Coyoacan"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="" itemname="Ensalada De Nopales"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="" itemname="Vegetales Al Sarten"></menu_item>
+<menu_item type="Dinner" category="Postres" price=" 4.50" descript="" itemname="Churros Con Cajeta Y Salsa De Chocolate"></menu_item>
+<menu_item type="Dinner" category="Postres" price=" 4.50" descript="" itemname="Taquitos De Fresa Y Mango Con Cajeta"></menu_item>
+<menu_item type="Dinner" category="Postres" price=" 4.50" descript="" itemname="Platanos Flameados Al Tequila"></menu_item>
+<menu_item type="Dinner" category="Postres" price=" 6.00" descript="ivan's family recipe made with tequila reposado, mango and strawberries. delicious!" itemname="Pastel De Tres Leches"></menu_item>
+<menu_item type="Dinner" category="Postres" price=" 4.50" descript="candied pumpkin cured with sugar cane. served cold with a touch of cinnamon and fresh key lime cream. a favorite of the &quot;abuelitas&quot; and &quot;nietecitos&quot;" itemname="Dulce De Calabaza"></menu_item>
+<menu_item type="Brunch" category="Huevos $9" price=" " descript="two fried eggs over a corn tortilla with our salsa ranchera, cilantro, crema fresca, black beans and guacamole" itemname="Huevos Rancheros"></menu_item>
+<menu_item type="Brunch" category="Huevos $9" price=" " descript="two scrambled eggs with tomatoes, onion, jalapeno, black beans and guacamole" itemname="Huevos A La Mexicana"></menu_item>
+<menu_item type="Brunch" category="Huevos $9" price=" " descript="two scrambled eggs with our homemade chorizo, black beans and guacamole" itemname="Huevos Con Chorizo"></menu_item>
+<menu_item type="Brunch" category="Chilaquiles $9" price=" " descript="crispy tortilla totopos with our salsa ranchero, queso fresco, crema fresco, and your choice of two eggs any style" itemname="Chilaquiles Con Huevo"></menu_item>
+<menu_item type="Brunch" category="Chilaquiles $9" price=" " descript="crispy tortilla totopos with our salsa ranchero, queso fresco, crema fresca, onions" itemname="Chilaquiles Con Bistec"><extra type="sub" price="(add) 4.00" descript="5oz. of grass fed grilled marinated skirt steak"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Chilaquiles $9" price=" " descript="mexican grilled bread with a spread of black beans, topped with oaxaca cheese, homemade chorizo and pico de gallo" itemname="Molletes"></menu_item>
+<menu_item type="Brunch" category="Sopas" price=" 9.00" descript="traditional mexican tortilla soup, chicken broth, chile guajillo, chile ancho, served with queso fresco, avocado and tortilla strips" itemname="Azteca"></menu_item>
+<menu_item type="Brunch" category="Sopas" price=" 11.00" descript="shredded pork, hominy corn, guajillo-ancho broth, served with lettuce, radish, oregano, avocado and tostadas" itemname="Pozole Garibaldi"></menu_item>
+<menu_item type="Brunch" category="Sopas" price=" 14.00" descript="seafood stew, red snapper, shrimp, octopus, mussels, guajillo chile and fresh epazote leaves" itemname="De Mariscos"></menu_item>
+<menu_item type="Brunch" category="Ensaladas $8" price=" " descript="mixed greens, jicama, orange, beets, red onion, citrus-chile-arbol vinaigrette" itemname="Coyoacan"></menu_item>
+<menu_item type="Brunch" category="Ensaladas $8" price=" " descript="mixed greens, baby arugula, green beans, radish, grilled corn, avocado, pear-chile-ancho vinaigrette" itemname="Mixcoac"></menu_item>
+<menu_item type="Brunch" category="Tacos $9" price=" " descript="grass fed marinated grilled skirt steak, cilantro, onion and salsa verde" itemname="De Carne Asada"></menu_item>
+<menu_item type="Brunch" category="Tacos $9" price=" " descript="grilled tilapia marinated with mexican herbs" itemname="De Pescado"></menu_item>
+<menu_item type="Brunch" category="Tacos $9" price=" " descript="braised berkshire pork de style, cilantro, onion and salsa verde" itemname="De Carnitas"></menu_item>
+<menu_item type="Brunch" category="Tacos $9" price=" " descript="cactus, mushrooms, huitlacoche, pico de gallo and queso fresco" itemname="De Nopales, Hongos Y Huitlacoche"></menu_item>
+<menu_item type="Brunch" category="Ceviches $10" price=" " descript="df style, onion, tomato, avocado, cilantro and ivan's family recipe" itemname="De Camaron"></menu_item>
+<menu_item type="Brunch" category="Ceviches $10" price=" " descript="acapulco style with oysters, octopus, shrimp, scallops in a tomato salsa, lime juice, onions, cilantro, and mexican spices" itemname="Vuelve A La Vida"></menu_item>
+<menu_item type="Brunch" category="Para Acompanar $4.50" price=" " descript="watermelon, pineapple and jicama" itemname="Ensalada De Frutas"></menu_item>
+<menu_item type="Brunch" category="Para Acompanar $4.50" price=" " descript="corn on the cob" itemname="Elote Asado"></menu_item>
+<menu_item type="Brunch" category="Para Acompanar $4.50" price=" " descript="" itemname="Arroz A La Mexicana Y Frijoles Mexicanos"></menu_item>
+<menu_item type="Brunch" category="Para Acompanar $4.50" price=" " descript="" itemname="Platanos Machos"></menu_item>
+<menu_item type="Brunch" category="Postres" price=" 4.50" descript="" itemname="Churros Con Cajeta Y Salsa De Chocolate"></menu_item>
+<menu_item type="Brunch" category="Postres" price=" 6.00" descript="ivan's family recipe made with tequila reposado, mango and strawberries, delicious!" itemname="Pastel De Tres Leches"></menu_item>
+<menu_item type="Brunch" category="Postres" price=" 4.50" descript="candied pumpkin cured with sugar cane. served cold with a touch of cinnamon and fresh key lime cream. a favorite of the &quot;abuelitas&quot; and &quot;nietecitos&quot;" itemname="Dulce De Calabaza"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.00" descript="" itemname="Mimosas"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 6.00" descript="made with tequila fimador reposado" itemname="Bloody Marias"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 24.00" descript="malbec wine, champagne and fresh strawberries" itemname="Sangria"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.00" descript="" itemname="Fresh Squeezed Orange Juice"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 2.50" descript="" itemname="Cafe Regular"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.50" descript="" itemname="Cafe Con Leche"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.50" descript="" itemname="Espresso"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.50" descript="" itemname="Cafe Cortado"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.50" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.50" descript="" itemname="Mexican Hot Chocolate"></menu_item>
+<menu_item type="Dinner" category="Huevos $9" price=" " descript="two fried eggs over a corn tortilla with our salsa ranchera, cilantro, crema fresca, black beans and guacamole" itemname="Huevos Rancheros"></menu_item>
+<menu_item type="Dinner" category="Huevos $9" price=" " descript="two scrambled eggs with tomatoes, onion, jalapeno, black beans and guacamole" itemname="Huevos A La Mexicana"></menu_item>
+<menu_item type="Dinner" category="Huevos $9" price=" " descript="two scrambled eggs with our homemade chorizo, black beans and guacamole" itemname="Huevos Con Chorizo"></menu_item>
+<menu_item type="Dinner" category="Chilaquiles $9" price=" " descript="crispy tortilla totopos with our salsa ranchero, queso fresco, crema fresco, and your choice of two eggs any style" itemname="Chilaquiles Con Huevo"></menu_item>
+<menu_item type="Dinner" category="Chilaquiles $9" price=" " descript="crispy tortilla totopos with our salsa ranchero, queso fresco, crema fresca, onions" itemname="Chilaquiles Con Bistec"><extra type="sub" price="(add) 4.00" descript="5oz. of grass fed grilled marinated skirt steak"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Chilaquiles $9" price=" " descript="mexican grilled bread with a spread of black beans, topped with oaxaca cheese, homemade chorizo and pico de gallo" itemname="Molletes"></menu_item>
+<menu_item type="Dinner" category="Sopas" price=" 9.00" descript="traditional mexican tortilla soup, chicken broth, chile guajillo, chile ancho, served with queso fresco, avocado and tortilla strips" itemname="Azteca"></menu_item>
+<menu_item type="Dinner" category="Sopas" price=" 11.00" descript="shredded pork, hominy corn, guajillo-ancho broth, served with lettuce, radish, oregano, avocado and tostadas" itemname="Pozole Garibaldi"></menu_item>
+<menu_item type="Dinner" category="Sopas" price=" 14.00" descript="seafood stew, red snapper, shrimp, octopus, mussels, guajillo chile and fresh epazote leaves" itemname="De Mariscos"></menu_item>
+<menu_item type="Dinner" category="Ensaladas $8" price=" " descript="mixed greens, jicama, orange, beets, red onion, citrus-chile-arbol vinaigrette" itemname="Coyoacan"></menu_item>
+<menu_item type="Dinner" category="Ensaladas $8" price=" " descript="mixed greens, baby arugula, green beans, radish, grilled corn, avocado, pear-chile-ancho vinaigrette" itemname="Mixcoac"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="grass fed marinated grilled skirt steak, cilantro, onion and salsa verde" itemname="De Carne Asada"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="grilled tilapia marinated with mexican herbs" itemname="De Pescado"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="braised berkshire pork de style, cilantro, onion and salsa verde" itemname="De Carnitas"></menu_item>
+<menu_item type="Dinner" category="Tacos $9" price=" " descript="cactus, mushrooms, huitlacoche, pico de gallo and queso fresco" itemname="De Nopales, Hongos Y Huitlacoche"></menu_item>
+<menu_item type="Dinner" category="Ceviches $10" price=" " descript="df style, onion, tomato, avocado, cilantro and ivan's family recipe" itemname="De Camaron"></menu_item>
+<menu_item type="Dinner" category="Ceviches $10" price=" " descript="acapulco style with oysters, octopus, shrimp, scallops in a tomato salsa, lime juice, onions, cilantro, and mexican spices" itemname="Vuelve A La Vida"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="watermelon, pineapple and jicama" itemname="Ensalada De Frutas"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="corn on the cob" itemname="Elote Asado"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="" itemname="Arroz A La Mexicana Y Frijoles Mexicanos"></menu_item>
+<menu_item type="Dinner" category="Para Acompanar $4.50" price=" " descript="" itemname="Platanos Machos"></menu_item>
+<menu_item type="Dinner" category="Postres" price=" 4.50" descript="" itemname="Churros Con Cajeta Y Salsa De Chocolate"></menu_item>
+<menu_item type="Dinner" category="Postres" price=" 6.00" descript="ivan's family recipe made with tequila reposado, mango and strawberries, delicious!" itemname="Pastel De Tres Leches"></menu_item>
+<menu_item type="Dinner" category="Postres" price=" 4.50" descript="candied pumpkin cured with sugar cane. served cold with a touch of cinnamon and fresh key lime cream. a favorite of the &quot;abuelitas&quot; and &quot;nietecitos&quot;" itemname="Dulce De Calabaza"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 4.00" descript="" itemname="Mimosas"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 6.00" descript="made with tequila fimador reposado" itemname="Bloody Marias"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 24.00" descript="malbec wine, champagne and fresh strawberries" itemname="Sangria"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 4.00" descript="" itemname="Fresh Squeezed Orange Juice"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 2.50" descript="" itemname="Cafe Regular"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 3.50" descript="" itemname="Cafe Con Leche"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 3.50" descript="" itemname="Espresso"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 3.50" descript="" itemname="Cafe Cortado"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 3.50" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Dinner" category="Beverages" price=" 3.50" descript="" itemname="Mexican Hot Chocolate"></menu_item>
+<menu_item type="Dinner" category="Margaritas" price=" 9.00" descript="tequila fimador, fresh squeezed lime juice and orange liquor" itemname="Coyoacan (Tradicional)"></menu_item>
+<menu_item type="Dinner" category="Margaritas" price=" 9.00" descript="tequila fimador, fresh squeezed lime juice and orange liquor, tamarind" itemname="Tamarindo"></menu_item>
+<menu_item type="Dinner" category="Margaritas" price=" 9.00" descript="tequila fimador, fresh squeezed lime juice, orange liquor, hibiscus" itemname="Jamaica"></menu_item>
+<menu_item type="Dinner" category="Margaritas" price=" 9.00" descript="habanero infused tequila fimador, fresh squeezed grapefruit juice, lime juice and orange liquor" itemname="Toronja Habanero"></menu_item>
+<menu_item type="Dinner" category="Margaritas" price=" 9.00" descript="tequila fimador infused with dried chiles, fresh squeezed lime juice, orange liquor and pineapple" itemname="Pina Con Chiles Secos"></menu_item>
+<menu_item type="Dinner" category="Margaritas" price=" 9.00" descript="tequila fimador, fresh squeezed lime, grapefruit juice and orange liquor" itemname="Toronja"></menu_item>
+<menu_item type="Dinner" category="Margaritas" price=" 16.00" descript="tequila jose cuervo reserva de la familia platino, fresh squeezed lime juice and orange liquor" itemname="Coyoacan (Premium- Tradicional)"></menu_item>
+<menu_item type="Dinner" category="Beers $5" price=" " descript="" itemname="Tecate"></menu_item>
+<menu_item type="Dinner" category="Beers $5" price=" " descript="" itemname="Negra Modelo"></menu_item>
+<menu_item type="Dinner" category="Beers $5" price=" " descript="" itemname="Modelo Especial"></menu_item>
+<menu_item type="Dinner" category="Beers $5" price=" " descript="" itemname="XX"></menu_item>
+<menu_item type="Dinner" category="Beers $5" price=" " descript="" itemname="Pacifico"></menu_item>
+</root>

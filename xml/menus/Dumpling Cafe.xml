@@ -1,0 +1,26 @@
+<root>
+<menu_item type="default" category="Mini Snacks" price=" 1.75" descript="" itemname="H1. Vegetable Lo Mein"></menu_item>
+<menu_item type="default" category="Mini Snacks" price=" .85" descript="" itemname="H2. Steamed Vegetable Bun"></menu_item>
+<menu_item type="default" category="Mini Snacks" price=" .85" descript="" itemname="H3. Steamed Pork Cabbage Bun"></menu_item>
+<menu_item type="default" category="House Specials" price=" 2.00" descript="" itemname="H1. Scallion Pancake"></menu_item>
+<menu_item type="default" category="House Specials" price=" 2.50" descript="chive, mung bean noodle, egg" itemname="H2. Vegetable Pancake"></menu_item>
+<menu_item type="default" category="House Specials" price=" 4.50" descript="paste over noodles. diced bean cake, carrot, bamboo shoot, mushroom, minced pork, shredded cucumber." itemname="H3. Minced Pork With Bean"></menu_item>
+<menu_item type="default" category="House Specials" price=" 4.75" descript="over noodles (vege)" itemname="H4. Minced Soy With Bean Paste"></menu_item>
+<menu_item type="default" category="Dumplings" price="(6) 3.25" descript="" itemname="D1. Pan Fried Pork Dumplings"></menu_item>
+<menu_item type="default" category="Dumplings" price="(4) 2.25" descript="" itemname="D2. Pan Fried Tiny Buns"></menu_item>
+<menu_item type="default" category="Dumplings" price="(7) 3.95" descript="shrimp, pork &amp; chive" itemname="D3. Chive Dumplings In Soup"></menu_item>
+<menu_item type="default" category="Dumplings" price="(7) 3.95" descript="pork with chinese cabbage" itemname="D4. Pork Cabbage Dumplings In Soup"></menu_item>
+<menu_item type="default" category="Dumplings" price="(7) 3.95" descript="shanghai bok choy with ground pork" itemname="D5. Shanghai Wontons In Soup"></menu_item>
+<menu_item type="default" category="Dumplings" price="(7) 3.95" descript="d5 with spicy sauce and soup" itemname="D6. Spicy Shanghai Wonton"></menu_item>
+<menu_item type="default" category="Dumplings" price="(7) 4.95" descript="pan fried steamed or soup shrimp, thin paste, watercress" itemname="D7. Seafood Dumplings"></menu_item>
+<menu_item type="default" category="Dumplings" price="(4) 3.25" descript="pan fried, steamed, or soup" itemname="D8. Steamed Vegetable Dumplings"></menu_item>
+<menu_item type="default" category="Dumplings" price="(7) 4.25" descript="pan fried, steamed, or soup. chicken with chinese cabbage" itemname="D9. Chicken Dumplings"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" 4.50" descript="these items over rice" itemname="Lunch Combo"></menu_item>
+<menu_item type="default" category="Lunch Special" price=" 3.50" descript="" itemname="Small Lunch Combo"></menu_item>
+<menu_item type="default" category="Beverages" price="lg 1.25" descript="" itemname="Coffee"></menu_item>
+<menu_item type="default" category="Beverages" price="lg 1.25" descript="" itemname="Tea"></menu_item>
+<menu_item type="default" category="Beverages" price="lg 1.50" descript="" itemname="Gourmet Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.95" descript="" itemname="Iced Coffee"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Bottled Water"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Soda"></menu_item>
+</root>

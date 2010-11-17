@@ -1,0 +1,84 @@
+<root>
+<menu_item type="Entrees" category="Poultry" price=" 6.50" descript="" itemname="Chicken Cutlet"><extra type="sub" price=" 8.00" descript="topped with fried mushrooms"></extra>
+</menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 5.50" descript="topped with fried onions" itemname="Chicken Livers"></menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 8.00" descript="stuffed with meat and vegetables" itemname="Stuffed Chicken Chicken Leg"></menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 5.50" descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 6.50" descript="" itemname="Ground Chicken Cutlet"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 8.00" descript="" itemname="Tender Loins Kabab"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 8.00" descript="with fried onions" itemname="Veal Liver"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 7.50" descript="" itemname="Beef Goulash"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 7.50" descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 8.00" descript="topped with beef goulash" itemname="Hungarian Pancake Potato Pancake"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 8.00" descript="stuffed with vegetables" itemname="Beef Roll"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 7.50" descript="with vegetables" itemname="Veal Goulash"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 8.00" descript="with cheese and mushrooms" itemname="Brizol Topped"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="" itemname="Fried Kielbasa"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.00" descript="" itemname="Ground Pork Cutlet"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.50" descript="" itemname="Hunters Stew"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.50" descript="in mushroom sauce" itemname="Meat Balls"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.00" descript="" itemname="Pig Hock(2pcs Cook)"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="" itemname="Pig Hock(2pcs Roast)"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.00" descript="" itemname="Pig Chop"><extra type="sub" price=" 8.00" descript="topped with sauteed mushrooms"></extra>
+</menu_item>
+<menu_item type="Entrees" category="Pork" price=" 8.00" descript="with sauerkraut &amp; mushrooms" itemname="Pork Loin"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 7.00" descript="sliced roast pork in gravy" itemname="Roast Pork"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 8.00" descript="with sauteed onion" itemname="Roast Pork Tenderloin"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="" itemname="Spare Ribs"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.50" descript="stuffed with pork and rice" itemname="Stuffed Cabbage"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.50" descript="stuffed with meat" itemname="Potato Dumpling"><extra type="sub" price=" 5.50" descript="stuff with meat"></extra>
+</menu_item>
+<menu_item type="Entrees" category="Pork" price=" 8.00" descript="stuffed with mushrooms" itemname="Pork Loin"><extra type="sub" price=" 8.00" descript="stuffed with plum"></extra>
+</menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="with bbq" itemname="Spare Ribs"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="with horseradish sauce" itemname="Pork Tongue"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 7.50" descript="" itemname="Fried Cold Fish"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 10.00" descript="with dill sauce" itemname="Fried Salmon"></menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 6.50" descript="" itemname="Chicken Cutlet"><extra type="sub" price=" 8.00" descript="topped with fried mushrooms"></extra>
+</menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 5.50" descript="topped with fried onions" itemname="Chicken Livers"></menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 8.00" descript="stuffed with meat and vegetables" itemname="Stuffed Chicken Chicken Leg"></menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 5.50" descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="Entrees" category="Poultry" price=" 6.50" descript="" itemname="Ground Chicken Cutlet"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 8.00" descript="" itemname="Tender Loins Kabab"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 8.00" descript="with fried onions" itemname="Veal Liver"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 7.50" descript="" itemname="Beef Goulash"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 7.50" descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 8.00" descript="topped with beef goulash" itemname="Hungarian Pancake Potato Pancake"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 8.00" descript="stuffed with vegetables" itemname="Beef Roll"></menu_item>
+<menu_item type="Entrees" category="Beef &amp;amp; Veal" price=" 7.50" descript="with vegetables" itemname="Veal Goulash"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 8.00" descript="with cheese and mushrooms" itemname="Brizol Topped"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="" itemname="Fried Kielbasa"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.00" descript="" itemname="Ground Pork Cutlet"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.50" descript="" itemname="Hunters Stew"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.50" descript="in mushroom sauce" itemname="Meat Balls"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.00" descript="" itemname="Pig Hock(2pcs Cook)"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="" itemname="Pig Hock(2pcs Roast)"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.00" descript="" itemname="Pig Chop"><extra type="sub" price=" 8.00" descript="topped with sauteed mushrooms"></extra>
+</menu_item>
+<menu_item type="Entrees" category="Pork" price=" 8.00" descript="with sauerkraut &amp; mushrooms" itemname="Pork Loin"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 7.00" descript="sliced roast pork in gravy" itemname="Roast Pork"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 8.00" descript="with sauteed onion" itemname="Roast Pork Tenderloin"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="" itemname="Spare Ribs"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.50" descript="stuffed with pork and rice" itemname="Stuffed Cabbage"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 5.50" descript="stuffed with meat" itemname="Potato Dumpling"><extra type="sub" price=" 5.50" descript="stuff with meat"></extra>
+</menu_item>
+<menu_item type="Entrees" category="Pork" price=" 8.00" descript="stuffed with mushrooms" itemname="Pork Loin"><extra type="sub" price=" 8.00" descript="stuffed with plum"></extra>
+</menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="with bbq" itemname="Spare Ribs"></menu_item>
+<menu_item type="Entrees" category="Pork" price=" 6.50" descript="with horseradish sauce" itemname="Pork Tongue"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 7.50" descript="" itemname="Fried Cold Fish"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 10.00" descript="with dill sauce" itemname="Fried Salmon"></menu_item>
+<menu_item type="Entrees" category="Entrees From Grill" price=" 10.00" descript="" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Entrees" category="Entrees From Grill" price=" 16.00" descript="" itemname="Grilled Ribeye Steak"></menu_item>
+<menu_item type="Entrees" category="Entrees From Grill" price=" 10.00" descript="" itemname="Grilled Pork Loin"></menu_item>
+<menu_item type="Entrees" category="Entrees From Grill" price=" 10.00" descript="with honey mustard sauce" itemname="Grilled Chicken Strips"></menu_item>
+<menu_item type="Entrees" category="Pierogi $5.50" price=" " descript="" itemname="Potato And Cheese"></menu_item>
+<menu_item type="Entrees" category="Pierogi $5.50" price=" " descript="" itemname="Meat"></menu_item>
+<menu_item type="Entrees" category="Pierogi $5.50" price=" " descript="" itemname="Sauerkraut And Mushrooms"></menu_item>
+<menu_item type="Entrees" category="Pierogi $5.50" price=" " descript="a mix of assorted pierogies" itemname="Combination Plate"></menu_item>
+<menu_item type="Entrees" category="Blintzes $5.50" price=" " descript="" itemname="Cheese"></menu_item>
+<menu_item type="Entrees" category="Blintzes $5.50" price=" " descript="" itemname="Blueberry"></menu_item>
+<menu_item type="Entrees" category="Blintzes $5.50" price=" " descript="" itemname="Strawberry"></menu_item>
+<menu_item type="Entrees" category="Blintzes $5.50" price=" " descript="" itemname="Cherry"></menu_item>
+</root>

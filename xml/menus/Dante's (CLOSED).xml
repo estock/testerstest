@@ -1,0 +1,134 @@
+<root>
+<menu_item type="Dinner Menu" category="Salads" price="8.00" descript="hearts of romaine, cracked pepper, shaved parmesan, ev olive oil mist, balsamic reduction, lightly coated with caesar dressing" itemname="Dante's Caesar Salad">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Salads" price="13.00" descript="fresh tuna steak, pink in the middle, over baby greens coated with an orange vinaigrette, cucumber wasabi dipping sauce, cherry tomatoes, olives and sliced red onion." itemname="add chili grilled chicken&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;11.00&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;sub&quot;&gt;&lt;th&gt;&lt;cite&gt;add chilli grilled shrimp&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;13.00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;Cajun Blackened Ahi Tuna">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Salads" price="6.00" descript="mixed baby field green salad with your choice of dressing." itemname="House Salad">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="Succotash">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="Collard Greens">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="Creamed Spinach">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="Mashed Cauliflower">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="Corn On The Cob">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="Cheese Grits">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="4.50" descript="" itemname="Mashed Potatoes &amp;amp; Gravy">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="July 4th Bbq Beans">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="Mac &amp;amp; Cheese">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="White Rice &amp;amp; Gravy">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="with chipotle mayo" itemname="Sweet Potato Fries">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="" descript="" itemname="Ed's Potato Salad">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="1.00" descript="" itemname="Our Own Kernel Cornbread">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sides" price="2.00" descript="" itemname="Garlic, Regular Fries">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sandwiches" price="8.50" descript="triple-decker made with sliced turkey, apple smoked bacon, lettuce, tomato, vidalia onion jam and mayo." itemname="&quot; Big&quot; Carolina Club Sandwich">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sandwiches" price="7.50" descript="apple smoked bacon, lettuce, vidalia onion jam and tomato on toasted bread." itemname="BLT-D">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sandwiches" price="9.50" descript="grilled swiss on rye with fresh sliced avocado, sauerkraut and russian dressing" itemname="Avocado Reuben">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sandwiches" price="10.00" descript="golden brown chicken fillet with chipotle mayo, cheddar cheese, lettuce and tomato." itemname="Southwestern Chicken Hero">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sandwiches" price="10.00" descript="with choice of fries &amp;amp; slaw" itemname="Sloooow Cooked Bbq Pulled Pork On A Bun">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="13.00" descript="served with peach-pecan relish, any two sides and cornbread" itemname="Seared Chili Glazed Chicken Breast">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="13.50" descript="baby back ribs with red bliss potato salad, july 4th bbq beans and cornbread" itemname="Half Rack Baby Back">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="11.00" descript="3-cheese smokey blend with a town house cracker crust, served with grilled country sausage and salad." itemname="Bangers &amp;amp; Mac">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="12.00" descript="dante's homemade meatloaf with gravy, mashed potatoes, one side and cornbread." itemname="Meat Loaf">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="11.00" descript="fresh north atlantic cod in a spiked golden beer batter with choice of fries and a side of cornbread" itemname="Fish 'n Chips">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="12.00" descript="crispy fried shrimp with choice of fries and a side of cornbread. served with tarter or cocktail sauce." itemname="Shrimp Basket">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="13.00" descript="big ol' pile of ed's crispy fried chicken, served with cornbread, any two sides and slaw!" itemname="Fried Chicken Dinner">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="9.00" descript="2 big pieces with shoe string fries and slaw!" itemname="Fried Chicken Basket">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="9.00" descript="any three of our sides on a plate. you choose 'em!" itemname="The Three Way">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Dinner" price="12.50" descript="thanksgiving dinner on a sandwich. roast turkey, stuffing, gravy and cranberry sauce with knife &amp;amp; fork." itemname="T.V. Dinner">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sodas" price="2.50" descript="" itemname="Stewart's Black Cherry">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sodas" price="2.50" descript="" itemname="Stewart's Root Beer">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sodas" price="2.50" descript="" itemname="Stewart's Cream Soda">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sodas" price="2.50" descript="" itemname="Stewart's Ginger Beer">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sodas" price="1.50" descript="" itemname="Sprite">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sodas" price="1.50" descript="" itemname="Coke">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Sodas" price="1.50" descript="" itemname="Diet Coke">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Desert" price="4.50" descript="" itemname="Our Own Peach Cobbler">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Desert" price="5.50" descript="" itemname="Red Velvet Cake">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Desert" price="5.50" descript="" itemname="Pecan Pie">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Desert" price="4.00" descript="" itemname="Shoe Fly Pie">
+
+</menu_item>
+<menu_item type="Dinner Menu" category="Desert" price="1.50" descript="" itemname="Ice Cream">
+
+</menu_item>
+</root>

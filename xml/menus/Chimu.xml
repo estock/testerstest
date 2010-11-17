@@ -1,0 +1,38 @@
+<root>
+<menu_item type="default" category="Soups" price="3.00" descript="rice &amp;amp; chicken" itemname="Aguadito">
+
+</menu_item>
+<menu_item type="default" category="Soups" price="13.95" descript="a rich mixed seafood soup in spicy aji panca and tomatoes" itemname="Parihuela">
+
+</menu_item>
+<menu_item type="default" category="Soups" price="13.95" descript="creamy shrimp soup with spices, peas, corn, fried eggs and aji broth" itemname="Chupe De Camarones">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="15.95" descript="grilled skirt steak, served with rice, beans and salad. servida con arroz y frejoles 6 papas fritas y ensalada" itemname="Entrana">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="12.95" descript="rice and beans risotto topped with grilled steak and creole sauce" itemname="Tacu Tacu Entrana">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="11.95" descript="served with white rice. servido con arroz blancho" itemname="Lomo Saltado">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="12.95" descript="served with rice and beans. servido con arroz blanco y frejoles" itemname="Lomo Saltado Combinado">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="10.95" descript="served with white rice. servido con arroz blanco" itemname="Pollo Saltado">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="10.95" descript="served with rice and beans. servido con arroz blanco y frejoles" itemname="Pollo Saltado Combinado">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="12.95" descript="served with roasted potato. servido con papa horneada" itemname="Tallarin Verde With Skirt Steak">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="10.95" descript="chicken breast in a creamy sauce with aji amarillo, peanuts, served over boiled potato with rice" itemname="Aji De Gallina">
+
+</menu_item>
+<menu_item type="default" category="From Our Kitchen" price="8.95" descript="peruvian tripe stew" itemname="Cau Cau">
+
+</menu_item>
+</root>

@@ -1,0 +1,134 @@
+<root>
+<menu_item type="Cafe Menu" category="default" price=" " descript="with cream cheese, peanut butter jam or honey lox &amp; spread" itemname="Bagels"></menu_item>
+<menu_item type="Cafe Menu" category="default" price=" 1.95" descript="" itemname="Croissant"></menu_item>
+<menu_item type="Cafe Menu" category="default" price=" 2.25" descript="" itemname="Choc, Croissant"></menu_item>
+<menu_item type="Cafe Menu" category="default" price=" 1.95" descript="" itemname="Muffins"></menu_item>
+<menu_item type="Cafe Menu" category="default" price=" 3.99" descript="" itemname="Oatmeal"></menu_item>
+<menu_item type="Prepared Foods" category="Soups" price=" " descript="8 pasta chicken noodle with diced vegetables" itemname="Chicken"></menu_item>
+<menu_item type="Prepared Foods" category="Soups" price=" " descript="" itemname="Spring Pea"></menu_item>
+<menu_item type="Prepared Foods" category="Soups" price=" " descript="with saffron, market fish" itemname="Seafood Bouillabaisse"></menu_item>
+<menu_item type="Prepared Foods" category="Soups" price=" " descript="with vegetable stock, carrot, celery, onions" itemname="Lentil &amp;amp; Vegetable"></menu_item>
+<menu_item type="Prepared Foods" category="Soups" price=" " descript="vegetarian" itemname="Dried Fava Bean"></menu_item>
+<menu_item type="Prepared Foods" category="Soups" price=" " descript="organic corn chowder" itemname="Creamy Corn"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 7.00" descript="toasted walnuts, roquefort cheese" itemname="Roasted &amp;amp; Marinated Beets"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 7.00" descript="julienne of vegetables, thai basil, cilantro, mango, scallions, sesame vinaigrette" itemname="Toasted Almond Noodle"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 7.00" descript="greek yogurt, crème fraiche, fresh dill" itemname="Cucumber"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 8.00" descript="homemade mayo, lemon, caper dressing" itemname="Albacore Tuna"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 10.00" descript="olives, feta, tuna, oregano vinaigrette" itemname="Mediterranean"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 10.00" descript="pickled fennel, oven-roasted tomatoes, sicilian oregano vinaigrette" itemname="Seafood Salad"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 7.00" descript="endive, arugula, radicchio, balsamic vinaigrette" itemname="Tricolore Italian"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 6.00" descript="broccoli rabe, toasted garlic dressing (available without chicken)" itemname="Grilled Chicken Pasta Salad"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 8.00" descript="crunchy turkish pistachio, shallots, pistachio oil" itemname="French Green Beans"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 8.00" descript="garlic oil, pepperoncini" itemname="Sauteed Broccoli Rabe"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 6.00" descript="freshly grated nutmeg, garlic, shaved grana padano" itemname="Wilted Baby Spinach"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 6.00" descript="carrots, celery" itemname="Chicken Salad"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 15.00" descript="shaved pecorino, lemon, truffle &amp; black pepper dressing" itemname="Globe Artichoke"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 6.00" descript="romaine hearts, croutons, shaved parmesan" itemname="Caesar"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 7.00" descript="asparagus, peas, lemon herb dressing" itemname="Mixed Seasonal"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 8.00" descript="seasonal vegetables, creamy balsamic dressing" itemname="Grilled Vegetable"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 7.00" descript="with fresh mint, tarragon and parsley" itemname="Grill Baby Zucchini"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 8.00" descript="naval oranges, mixed nuts, orange dressing" itemname="Field Greens"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 8.00" descript="bow-tie pasta, grana padano" itemname="Oven - Dried Pesto"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 6.00" descript="" itemname="Red Potato Bliss Salad"></menu_item>
+<menu_item type="Prepared Foods" category="Gourmet Salads" price=" 8.00" descript="" itemname="Arugula, Pear &amp;amp; Fennel"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="fresh mozzarella, arugula pesto" itemname="Glazed Portobello"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="goat cheese, oven-dried tomatoes, walnuts, on a brioche" itemname="Lemon Chicken"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 7.00" descript="lettuce, tomatoes, cucumber, on a croissant" itemname="Tuna Salad"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="capers, balsamic, tuna tonnato sauce" itemname="Grilled Eggplant"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 7.00" descript="goat cheese, tomatoes, peppers, lettuce, olive pâté" itemname="Grilled Zucchini"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="basil dressing, on a toasted brioche" itemname="Tomato, Mozzarella"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="sliced pear, fresh arugula" itemname="Stilton"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="avocado spread, lettuce, bacon" itemname="Chicken Salad"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="manchego, watercress" itemname="Serrano Ham"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 7.00" descript="white cheddar, glazed sweet onions, horseradish dressing" itemname="Grass - Fed Beef"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 7.00" descript="granny smith apple, celery root rémoulade" itemname="French Brie"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 7.00" descript="lettuce, tomatoes, dijon mustard" itemname="Cracked Pepper Turkey"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="fried cod, chips, tartar sauce" itemname="Fish &amp;amp; Chips"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 7.00" descript="gruyére, lettuce, honey mustard dressing" itemname="Smoked Ham"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="blue cheese, mission fig spread" itemname="Speck"></menu_item>
+<menu_item type="Prepared Foods" category="Artisan Sandwiches" price=" 8.00" descript="red onion, anchovy or chive yogurt dressing" itemname="Smoked Salmon"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 10.00" descript="" itemname="Miso Marinated Atlantic Salmon"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 8.00" descript="" itemname="Organic Chicken Breast"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 7.00" descript="" itemname="Buttermilk And Breaded Chicken"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 7.00" descript="" itemname="Orecchetti &amp;amp; Cheese"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 12.00" descript="" itemname="Bolognese Lasagna"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 8.00" descript="with sweet hungarian paprika" itemname="Whole Roasted Organic Chicken"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 12.00" descript="" itemname="Eggplant &amp;amp; Mozzarella Lasagna"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 7.00" descript="w/ fresh tomato sauce, oregano" itemname="Chicken Meat Balls"></menu_item>
+<menu_item type="Prepared Foods" category="Main Courses" price=" 17.00" descript="braised in red wine" itemname="Boneless Short Ribs"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Hors D' Oeuvres" price=" " descript="with shiso and soy" itemname="Vegetable Maki Rolls"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Hors D' Oeuvres" price=" " descript="" itemname="Miniature Lasagna Tarts"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Hors D' Oeuvres" price=" " descript="" itemname="Goat Cheese, Tomato And Basil Tartlet"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Hors D' Oeuvres" price=" " descript="" itemname="Black Truffle Deviled Eggs"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Hors D' Oeuvres" price=" " descript="with roasted peppers" itemname="Stuffed Baby Artichokes"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Hors D' Oeuvres" price=" " descript="with fromage blanc" itemname="Tomato Terrine"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Hors D' Oeuvres" price=" " descript="" itemname="Wild Mushroom Terrine"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Warm Hors D' Oeuvres" price=" " descript="with ginger ponzu dipping sauce" itemname="Vegetable Pot Stickers"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Warm Hors D' Oeuvres" price=" " descript="with caramelized onion tartlets" itemname="Brie"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Warm Hors D' Oeuvres" price=" " descript="" itemname="Artichoke Pecorino Tartlet"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Warm Hors D' Oeuvres" price=" " descript="caramelized vidalia onion strudel" itemname="Fingerling Potatoes"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetarian Warm Hors D' Oeuvres" price=" " descript="buttery, crusty, light gruyere cheese bites" itemname="Gougères"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood" price=" " descript="tamarind sauce" itemname="Thai Shrimp Terrine"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood" price=" " descript="" itemname="Smoked Salmon Egg Napoleon"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood" price=" " descript="" itemname="Maine Lobster Apple Tartlets"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood" price=" " descript="" itemname="Spicy Tuna Roll"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood" price=" " descript="on a brioche" itemname="Petit Lobster"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood Warm" price=" " descript="with vietnamese dipping sauce" itemname="Kataifi Wrapped Shrimp"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood Warm" price=" " descript="with mango salsa" itemname="Peeky Toe Crab Cakes"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood Warm" price=" " descript="with miso soup" itemname="Grilled And Skewered Florida Pink Shrimp"></menu_item>
+<menu_item type="Sample Catering Menu" category="Seafood Warm" price=" " descript="lime, yuzu soy dressing" itemname="Seared Tuna"></menu_item>
+<menu_item type="Sample Catering Menu" category="Poultry, Meat &amp;amp; Game" price=" " descript="free-range chicken, ricotta and spinach" itemname="Herbed Crêpes"></menu_item>
+<menu_item type="Sample Catering Menu" category="Poultry, Meat &amp;amp; Game" price=" " descript="with avocado crème on crispy tortilla" itemname="Braised Pork Shoulder"></menu_item>
+<menu_item type="Sample Catering Menu" category="Poultry, Meat &amp;amp; Game" price=" " descript="with dried cherry chutney" itemname="Duck Confit Crêpes"></menu_item>
+<menu_item type="Sample Catering Menu" category="Poultry, Meat &amp;amp; Game" price=" " descript="orange marmalade, on pretzel crisp" itemname="Pork Rillette"></menu_item>
+<menu_item type="Sample Catering Menu" category="Poultry, Meat &amp;amp; Game" price=" " descript="with chimichurri sauce" itemname="Beef Tenderloin"></menu_item>
+<menu_item type="Sample Catering Menu" category="Warm Poultry, Meat &amp;amp;Game" price=" " descript="rosemary, garlic dressing" itemname="Lemon-marinated Chicken Skewers"></menu_item>
+<menu_item type="Sample Catering Menu" category="Warm Poultry, Meat &amp;amp;Game" price=" " descript="" itemname="Smoked Bacon And White Cheddar Mini Quiche"></menu_item>
+<menu_item type="Sample Catering Menu" category="Warm Poultry, Meat &amp;amp;Game" price=" " descript="" itemname="Barbecue Pork Won Tons"></menu_item>
+<menu_item type="Sample Catering Menu" category="Warm Poultry, Meat &amp;amp;Game" price=" " descript="with mustard, on a demi brioche" itemname="Mini Beef Burgers"></menu_item>
+<menu_item type="Sample Catering Menu" category="Boxed Lunches" price=" " descript="with mustard, on a demi brioche" itemname="Boxed Lunch"></menu_item>
+<menu_item type="Sample Catering Menu" category="Boxed Lunches" price=" " descript="your choice of all of the above, plus organic field greens, parmesan or manchego cheese" itemname="Deluxe Boxed Lunch"></menu_item>
+<menu_item type="Sample Catering Menu" category="Sandwich Platters" price=" " descript="10 sandwiches" itemname="Small Platter"></menu_item>
+<menu_item type="Sample Catering Menu" category="Sandwich Platters" price=" " descript="15 sandwiches" itemname="Medium Platter"></menu_item>
+<menu_item type="Sample Catering Menu" category="Sandwich Platters" price=" " descript="20 sandwiches" itemname="Large Platter"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="fresh mozzarella, arugula pesto" itemname="Glazed Portobello"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="goat cheese, oven-dried tomatoes, walnuts, on a brioche" itemname="Lemon Chicken"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="lettuce, tomatoes, cucumber, on a croissant" itemname="Tuna Salad"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="capers, balsamic, tuna tonnato sauce" itemname="Grilled Eggplant"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="goat cheese, tomatoes, peppers, lettuce, black olive pâté" itemname="Grilled Zucchini"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="basil dressing, on a toasted brioche" itemname="Tomato &amp;amp; Mozzarella"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="sliced pear, fresh arugula" itemname="Stilton"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="avocado spread, lettuce, bacon" itemname="Chicken Salad"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="manchego, watercress" itemname="Serrano Ham"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="white cheddar, glazed sweet onions, horseradish dressing" itemname="Grass-fed Beef"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="granny smith apple, celery root rémoulade" itemname="French Brie"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="lettuce, tomatoes, dijon mustard" itemname="Cracked Pepper Turkey"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="fried cod, chips, tartar sauce" itemname="Fish &amp;amp; Chips"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="gruyère, lettuce, honey mustard dressing" itemname="Smoked Ham"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="blue cheese, mission fig spread" itemname="Speck"></menu_item>
+<menu_item type="Sample Catering Menu" category="Artisan Sandwiches" price=" " descript="red onions, anchovy or chive yogurt dressing" itemname="Smoked Salmon"></menu_item>
+<menu_item type="Sample Catering Menu" category="Platters" price=" " descript="assortment of italian appetizers includes roasted bell peppers, garlic, balsamic portobello mushrooms, olives, cured meats, salamis, pickled vegetables, crostini" itemname="Antipasto Platter"></menu_item>
+<menu_item type="Sample Catering Menu" category="Platters" price=" " descript="classic cheese board combined with the chef's choice of domestic and imported cheeses and is accompanied by dried fruits, nuts, fruit chutney, crackers" itemname="Artisan Cheese Platters"></menu_item>
+<menu_item type="Sample Catering Menu" category="Platters" price=" " descript="includes a variety of domestic and european salamis, cured meats, pâtés, mousses, mediterranean olives, cornichons, french mustard and crackers" itemname="Charcuterie Platters"></menu_item>
+<menu_item type="Sample Catering Menu" category="Platters" price=" " descript="platter includes a variety of domestic and european salamis, cured meats, pâtés, mousses, mediterranean olives, cornichons, french mustard and crackers" itemname="Crudites Platters"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetable" price=" " descript="" itemname="Balsamic Marinated Portabello Mushrooms"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetable" price=" " descript="with ginger, carrots" itemname="Braised Carrots"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetable" price=" " descript="with hoisin roasted shallots, garlic" itemname="Chinese Long Beans"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetable" price=" " descript="with watercress, arugula" itemname="Celery Root Cole Slaw"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetable" price=" " descript="with shiitake mushrooms" itemname="Baby Bok Choy"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetable" price=" " descript="crunchy turkish pistachios, shallots, pistachio oil" itemname="French Green Beans"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetable" price=" " descript="with toasted garlic vinaigrette" itemname="Papini"></menu_item>
+<menu_item type="Sample Catering Menu" category="Vegetable" price=" " descript="goat cheese, toasted hazelnut with honey sherry vinegar" itemname="Roasted Beets"></menu_item>
+<menu_item type="Sample Catering Menu" category="Potatoes" price=" " descript="with sea salt, olive oil" itemname="Oven Roasted Fingerling Potatoes"></menu_item>
+<menu_item type="Sample Catering Menu" category="Potatoes" price=" " descript="with smoked spanish paprika" itemname="Roasted Potatoes"></menu_item>
+<menu_item type="Sample Catering Menu" category="Potatoes" price=" " descript="" itemname="Classic Potato Salad"></menu_item>
+<menu_item type="Sample Catering Menu" category="Potatoes" price=" " descript="with pecorino cheese, fresh herbs" itemname="Yukon Gold Potato Pavee"></menu_item>
+<menu_item type="Sample Catering Menu" category="Potatoes" price=" " descript="with caramelized sweet vidalia onions, italian parsley" itemname="Russian Fingerling Potatoes"></menu_item>
+<menu_item type="Sample Catering Menu" category="Salads, Grains &amp;amp; Pasta" price=" " descript="julienne of vegetables, thai basil, sesame vinaigrette" itemname="Toasted Almond Noodle Salad"></menu_item>
+<menu_item type="Sample Catering Menu" category="Salads, Grains &amp;amp; Pasta" price=" " descript="homemade mayo, lemon, caper dressing" itemname="Albacore Tuna Salad"></menu_item>
+<menu_item type="Sample Catering Menu" category="Salads, Grains &amp;amp; Pasta" price=" " descript="fresh orange segments, thyme, rosemary dressing" itemname="Grilled Pepper Salad"></menu_item>
+<menu_item type="Sample Catering Menu" category="Salads, Grains &amp;amp; Pasta" price=" " descript="pine nuts, cucumber, parsley, mint, lemon, argan oil" itemname="Steamed Cous-cous"></menu_item>
+<menu_item type="Sample Catering Menu" category="Salads, Grains &amp;amp; Pasta" price=" " descript="mortadella, olives, chickpeas, peppers, creamy italian dressing" itemname="Cavatelli Pasta"></menu_item>
+<menu_item type="Sample Catering Menu" category="Salads, Grains &amp;amp; Pasta" price=" " descript="dried cranberries, apricots, pecans, olive, herb dressing" itemname="Toasted Quinoa"></menu_item>
+<menu_item type="Sample Catering Menu" category="Salads, Grains &amp;amp; Pasta" price=" " descript="carrots, celery" itemname="Chicken Salad"></menu_item>
+</root>

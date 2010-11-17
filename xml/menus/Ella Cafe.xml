@@ -1,0 +1,99 @@
+<root>
+<menu_item type="Takeout Breakfast" category="Breakfast" price=" 6.95" descript="with fruit compote" itemname="Organic Three Stack Pancakes"></menu_item>
+<menu_item type="Takeout Breakfast" category="Breakfast" price=" 5.95" descript="with fruits" itemname="Organic Blueberry Flax Granola &amp;amp; Yogurt"></menu_item>
+<menu_item type="Takeout Breakfast" category="Breakfast" price=" 4.50" descript="with strawberries" itemname="Organic Steel-cut Oatmeal"></menu_item>
+<menu_item type="Takeout Breakfast" category="Breakfast" price=" 1.00" descript="plain, sesame, whole wheat and everything" itemname="Bagel"></menu_item>
+<menu_item type="Takeout Breakfast" category="Sandwiches" price=" 4.95" descript="" itemname="Bacon Or Sausage, Cheese And Two Organic Eggs"><extra type="sub" price=" .50" descript="add egg whites for"></extra>
+</menu_item>
+<menu_item type="Takeout Breakfast" category="Sandwiches" price=" 3.95" descript="" itemname="Cheese And Two Organic Eggs"><extra type="sub" price=" .50" descript="add egg whites for"></extra>
+</menu_item>
+<menu_item type="Takeout Breakfast" category="Sandwiches" price=" 5.95" descript="with scallion cream cheese, tomato on bagel" itemname="Cured Lox"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Eggs &amp;amp; Omelets" price=" 6.00" descript="" itemname="Two Organic Eggs Any Style"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Eggs &amp;amp; Omelets" price=" 7.95" descript="swiss, mozzarella and cheddar" itemname="Three-Cheese"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Eggs &amp;amp; Omelets" price=" 8.95" descript="mushrooms, onions, red peppers and black sesame" itemname="Mushroom &amp;amp; Vegetable"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Eggs &amp;amp; Omelets" price=" 9.50" descript="organic spinach, kielbasa and cheddar" itemname="Spinach &amp;amp; Kielbasa"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Eggs &amp;amp; Omelets" price=" 8.95" descript="avocado, scallions and swiss" itemname="Avocado &amp;amp; Tomato"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Skillets" price=" 6.95" descript="" itemname="Classic Skillet"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Skillets" price=" 7.95" descript="classic with bacon" itemname="Bacon Skillet"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Skillets" price=" 8.95" descript="classic with kielbasa sausage" itemname="Kielbasa Skillet"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Skillets" price=" 9.95" descript="classic with bacon and kielbasa" itemname="Meat Skillet"></menu_item>
+<menu_item type="Takeout Breakfast" category="Sides" price=" 3.00" descript="" itemname="Organic Home-Fries"></menu_item>
+<menu_item type="Takeout Breakfast" category="Sides" price=" 4.00" descript="" itemname="Kielbasa Sausage"></menu_item>
+<menu_item type="Takeout Breakfast" category="Sides" price=" 2.00" descript="" itemname="Bacon"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Coffee &amp;amp; Espresso" price=" 2.75" descript="" itemname="Dark-roast Coffee"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Coffee &amp;amp; Espresso" price=" 3.25" descript="" itemname="Café Au Lait"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Coffee &amp;amp; Espresso" price=" 3.00" descript="americano" itemname="Espresso"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Coffee &amp;amp; Espresso" price=" 3.25" descript="" itemname="Macchiato"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Coffee &amp;amp; Espresso" price=" 4.50" descript="latte" itemname="Cappuccino"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Coffee &amp;amp; Espresso" price=" 5.00" descript="mocha" itemname="Mochaccino"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Coffee &amp;amp; Espresso" price=" 4.00" descript="red-eye" itemname="Hammerhead"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Coffee &amp;amp; Espresso" price=" 5.75" descript="blended ice drink made with espresso &amp; whipped cream" itemname="Iced Mocha Or Vanilla Frappe"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Teas" price=" 2.25" descript="" itemname="Serendipitea Teas"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Teas" price=" 4.00" descript="" itemname="Chai Latte"></menu_item>
+<menu_item type="Takeout Breakfast" category="Organic Teas" price=" 3.50" descript="" itemname="Arnold Palmer"><extra type="sub" price=" 4.00" descript="seasonal"></extra>
+</menu_item>
+<menu_item type="Takeout Breakfast" category="Smoothies" price=" 7.25" descript="" itemname="Super Acai"></menu_item>
+<menu_item type="Takeout Breakfast" category="Smoothies" price=" 6.50" descript="" itemname="Lemon Berry"></menu_item>
+<menu_item type="Takeout Breakfast" category="Beverages" price=" 5.00" descript="" itemname="Organic Hot Chocolate"></menu_item>
+<menu_item type="Takeout Breakfast" category="Beverages" price=" 4.50" descript="" itemname="Organic Milk"></menu_item>
+<menu_item type="Takeout Breakfast" category="Beverages" price=" 1.00" descript="" itemname="Coke, Diet Coke, Sprite, Ginger Ale"></menu_item>
+<menu_item type="Takeout Breakfast" category="Beverages" price=" 1.25" descript="" itemname="Poland Spring"></menu_item>
+<menu_item type="Takeout Breakfast" category="Beverages" price=" 1.75" descript="" itemname="San Pellegrino"></menu_item>
+<menu_item type="Takeout Breakfast" category="Fresh Organic Juices" price=" 6.00" descript="" itemname="Carrot"></menu_item>
+<menu_item type="Takeout Breakfast" category="Fresh Organic Juices" price=" 6.50" descript="" itemname="Red Cocktail"></menu_item>
+<menu_item type="Takeout Breakfast" category="Fresh Organic Juices" price=" 6.50" descript="" itemname="Fruit Cocktail"></menu_item>
+<menu_item type="Takeout Breakfast" category="Fresh Organic Juices" price=" 6.00" descript="" itemname="Fresh Squeezed Orange"></menu_item>
+<menu_item type="Takeout Breakfast" category="Fresh Organic Juices" price=" 4.00" descript="choose a base: carrot, celery, apple, pear, orange" itemname="Create Your Own"><extra type="sub" price="ea .50" descript="add any item: carrot, celery, beet, ginger, apple, pear, orange, lemon"></extra>
+</menu_item>
+<menu_item type="Take Out" category="Appetizers" price=" 5.95" descript="" itemname="Organic Chicken Strips"></menu_item>
+<menu_item type="Take Out" category="Appetizers" price=" 8.95" descript="served with carrots and celery sticks" itemname="Buffalo Wings"></menu_item>
+<menu_item type="Take Out" category="Appetizers" price=" 5.95" descript="" itemname="Fresh Tilapia Sticks"></menu_item>
+<menu_item type="Take Out" category="Soups $4.95" price=" " descript="classic tomato soup served with organic, grass-fed meatballs" itemname="Organic Tomato Soup"></menu_item>
+<menu_item type="Take Out" category="Soups $4.95" price=" " descript="" itemname="Soup Of The Day"></menu_item>
+<menu_item type="Take Out" category="Salads" price=" 8.95" descript="artichokes, hearts of palm and sweet peppers, marinated in honey, balsamic vinegar and fresh herbs with mesclun" itemname="Artichoke (V)"></menu_item>
+<menu_item type="Take Out" category="Salads" price=" 8.95" descript="organic greens, avocado, gorgonzola cheese, apples and craisins" itemname="Avocado (Vt)"></menu_item>
+<menu_item type="Take Out" category="Salads" price=" 8.95" descript="organic lentils, arugula, goat cheese and olives" itemname="Mediterranean (Vt)"></menu_item>
+<menu_item type="Take Out" category="Salads" price=" 10.95" descript="organic romaine lettuce, grilled chicken, red cabbage, carrots and almonds with asian dressing" itemname="Asian Chicken"></menu_item>
+<menu_item type="Take Out" category="Salads" price=" 6.95" descript="organic traditional caesar salad with our anchovy caesar dressing" itemname="Organic Caesar"></menu_item>
+<menu_item type="Take Out" category="Salads" price=" 11.95" descript="organic grilled chicken, cherry tomatoes, egg, bacon, gorgonzola and avocado" itemname="Cobb"></menu_item>
+<menu_item type="Take Out" category="Salads" price=" 6.95" descript="mesclun with cucumbers, cherry tomatoes and pumpkin seeds" itemname="Organic Mixed Green (V)"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 10.95" descript="organic chicken breast served with lettuce, avocado, tomatoes and chipotle mayo on focaccia" itemname="Organic Grilled Chicken"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 9.95" descript="grilled salmon, roasted red peppers, avocado, lettuce and garlic slivers with chipotle mayo" itemname="Grilled Salmon Wrap"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 11.95" descript="organic, grass-fed sirloin, sautéed onions, melted cheddar and beet horseradish on ciabatta" itemname="Organic Grilled Steak"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 7.95" descript="organic eggs, celery, red onions and sprouts on semolina raisin fennel" itemname="Organic Egg Salad"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 6.95" descript="mozzarella, tomato and arugula on toasted foccacia" itemname="Tomato Bacon Melt"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 10.95" descript="portobello, eggplant, roasted red peppers, melted brie and caper mayo on ciabatta" itemname="Portobello And Vegetable (VT)"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 9.95" descript="tilapia fillets, lettuce, tomato and caper mayo on ciabatta" itemname="Tilapia Roll"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 9.95" descript="sliced chicken breast with raisin puree, arugula and swiss cheese on whole wheat" itemname="Organic Chicken Raisin Salad"></menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 9.95" descript="organic grass-fed burger with lettuce, tomatoes and red onions on brioche" itemname="Sirloin Burger"><extra type="sub" price=" .75" descript="add cheese, bacon, mushrooms or sautéed onions for"></extra>
+<extra type="sub" price=" 1.50" descript="add avocado for"></extra>
+</menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 11.95" descript="organic grass-fed burger with lettuce, tomato, sweet relish, onions, pickles, mayo and mustard" itemname="California Burger"><extra type="sub" price=" .75" descript="add cheese"></extra>
+</menu_item>
+<menu_item type="Take Out" category="Sandwiches" price=" 10.95" descript="organic grass-fed burger with tomato sauce and mozzarella cheese" itemname="Pizza Burger"></menu_item>
+<menu_item type="Take Out" category="Entrees" price=" 11.95" descript="slow roasted organic chicken served with apple compote" itemname="Organic Roasted Chicken"></menu_item>
+<menu_item type="Take Out" category="Entrees" price=" 13.95" descript="grilled steak cooked to order" itemname="Flat-Iron Steak"></menu_item>
+<menu_item type="Take Out" category="Entrees" price=" 13.95" descript="fresh daily salmon" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Take Out" category="Entrees" price=" 12.95" descript="fresh daily tilapia" itemname="Grilled Tilapia"></menu_item>
+<menu_item type="Take Out" category="Entrees" price=" 10.95" descript="organic tofu, eggplant, zucchini, mozzarella cheese, and tomato sauce" itemname="Organic Tofu Lasagna (VT)"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 3.00" descript="" itemname="Organic Jasmine Rice"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 4.00" descript="" itemname="Mustard Spaetzle"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 4.00" descript="" itemname="Organic Hand-Cut French Fries"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 4.50" descript="" itemname="Organic Mashed Potatoes"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 4.00" descript="" itemname="Grilled Zucchini (V)"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 5.00" descript="" itemname="Sautéed Carrots (V)"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 5.00" descript="" itemname="Grilled Asparagus (V)"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 4.00" descript="" itemname="Organic Greens Side Salad (V)"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 5.00" descript="" itemname="Mac And Cheese"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 5.00" descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Take Out" category="Sides" price=" 5.00" descript="" itemname="Ratatouille"><extra type="sub" price=" .50" descript="add when added to an entrée"></extra>
+</menu_item>
+<menu_item type="Take Out" category="Lunch Special" price=" 8.95" descript="except burger or steak" itemname="Any Half Sandwich, Soup &amp;amp; 1 Side"></menu_item>
+<menu_item type="Take Out" category="Lunch Special" price=" 9.95" descript="except burger or steak" itemname="Any Half Sandwich &amp;amp; 2 Sides"></menu_item>
+<menu_item type="Take Out" category="Kids Menu" price=" 6.95" descript="" itemname="Organic Chicken Strips"></menu_item>
+<menu_item type="Take Out" category="Kids Menu" price=" 7.95" descript="fresh daily salmon" itemname="Fresh Grilled Salmon"></menu_item>
+<menu_item type="Take Out" category="Kids Menu" price=" 6.95" descript="with tar-tar sauce" itemname="Fresh Tilapia Sticks"></menu_item>
+<menu_item type="Take Out" category="Desserts $5" price=" " descript="" itemname="Paris Cheese Cake"></menu_item>
+<menu_item type="Take Out" category="Desserts $5" price=" " descript="" itemname="Rockefeller Mud Pie"></menu_item>
+<menu_item type="Take Out" category="Desserts $5" price=" " descript="" itemname="Caramel Pecan Pie"></menu_item>
+</root>

@@ -1,0 +1,81 @@
+<root>
+<menu_item type="default" category="Breakfast" price=" 2.00" descript="" itemname="Egg On A Roll"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 7.00" descript="2 eggs cooked to order, organic potatoes, your choice of meat, your choice of bread and roasted tomatoes." itemname="Breakfast Platter"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 2.50" descript="" itemname="Egg On A Biscuit"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 7.00" descript="a toasted bagel with your choice of cream cheese, lox, cucumber, a slice of tomato, red onion, and capers." itemname="The Standard Lox Bagel"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Plain"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Everything"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Whole Wheat"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Whole Wheat Everything"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Pumpernickel"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Pumpernickel Everything"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Cinnamon Raisin"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Onion"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Salt"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Poppy Seed"></menu_item>
+<menu_item type="default" category="Bagel $1.75" price=" " descript="" itemname="Sesame Seed"></menu_item>
+<menu_item type="default" category="Bagel Toppings" price=" .25" descript="" itemname="Butter"></menu_item>
+<menu_item type="default" category="Bagel Toppings" price=" .95" descript="" itemname="Tofu Cream Cheese"></menu_item>
+<menu_item type="default" category="Bagel Toppings" price=" 2.50" descript="" itemname="Lox"></menu_item>
+<menu_item type="default" category="Bagel Toppings" price=" .50" descript="" itemname="Cream Cheese"></menu_item>
+<menu_item type="default" category="Bagel Toppings" price=" .50" descript="" itemname="Tomato"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Pastas" price=" lg 5.00" descript="with red potatoes, carrots, red onion, celery, dill and house made pickles." itemname="Potato Salad &amp;#45; Vegan"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Pastas" price=" lg 5.00" descript="with tomato, basil, garlic, and homemade cashew pesto sauce." itemname="Pesto Pasta Salad &amp;#45; Vegan"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Pastas" price=" lg 5.00" descript="with dried apricots, cranberries, lemon-mango vinaigrette, lavender oil, green beans and parsley." itemname="Quinoa Salad &amp;#45; Vegan"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Pastas" price=" lg 5.00" descript="with tuna, lemon, thyme, olives, tomato and cucumber." itemname="Israeli Couscous Salad"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Pastas" price=" lg 6.00" descript="with fennel pollen, red potatoes, haricot vert and herbed pesto." itemname="Gluten Free Pasta Salad &amp;#45; Vegan"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Pastas" price=" 5.00" descript="with toasted cashews, green onions, snap peas, flax seeds, tamari sesame oil and tahini." itemname="Soba Noodle With Tofu &amp;#45; Vegan"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Pastas" price=" 5.00" descript="large red beets tossed with white truffle oil, red onion, olive oil and garlic." itemname="Beet Salad &amp;#45; Vegan"></menu_item>
+<menu_item type="default" category="Salads &amp;amp; Pastas" price=" 6.00" descript="with feta, olives, tomato, cucumber, and roasted red pepper. comes with house dressing on the side." itemname="Greek Salad"></menu_item>
+<menu_item type="default" category="Meat Sandwiches $7.95" price=" " descript="ham, broccolini, fresh arugula, pepper jack cheese, and arugula oil on grilled foccacia." itemname="The Greenpoint"></menu_item>
+<menu_item type="default" category="Meat Sandwiches $7.95" price=" " descript="turkey, half an avocado, provolone and roasted red pepper remoulade on toasted foccacia." itemname="Turkey Avocado"></menu_item>
+<menu_item type="default" category="Meat Sandwiches $7.95" price=" " descript="a fried egg on top of 2 strips of bacon, cabot sharp white cheddar cheese, tomato gastrique, caramelized onions, oven dried cherry tomatoes, and mayo. served on grilled focaccia." itemname="The Killer"></menu_item>
+<menu_item type="default" category="Meat Sandwiches $7.95" price=" " descript="ham, turkey, pepper jack cheese, pickled jalape–os, onions and horseradish aioli on toasted focaccia" itemname="Cubano Jalape&amp;ntilde;o"></menu_item>
+<menu_item type="default" category="Meat Sandwiches $7.95" price=" " descript="bacon, cheddar, half an avocado, tomato, caramelized onions, mayo and mustard on grilled foccacia" itemname="The Classic"></menu_item>
+<menu_item type="default" category="Vegan&amp;#44; Vegetarian Sandwiches" price=" 7.50" descript="crispy fried tofu topped with a pickled daikon-carrot mixture, cilantro aioli and a drizzle of birds eye chili. served on a grilled whole wheat multigrain baguette." itemname="Banh Mi"></menu_item>
+<menu_item type="default" category="Vegan&amp;#44; Vegetarian Sandwiches" price=" 7.75" descript="half an avocado, sweet and spicy mango sauce, smoked red peppers, grilled red onion and lettuce, on a toasted whole wheat multigrain baguette." itemname="Avocado"></menu_item>
+<menu_item type="default" category="Vegan&amp;#44; Vegetarian Sandwiches" price=" 7.50" descript="barbeque marinated slices of tofu, chipotle aioli, grilled red onions, and a hearty slathering of brooklyn standardÕs own vegan potato salad. served on a toasted whole wheat multigrain baguette." itemname="Grilled Barbeque Tofu"></menu_item>
+<menu_item type="default" category="Vegan&amp;#44; Vegetarian Sandwiches" price=" 7.50" descript="homemade kalamata olive and garlic tapenade, grilled sweet peppers, pea sprouts, scallion feta cheese and sweet saffron spread on a grilled whole wheat baguette. *tell us to &quot;make it vegan&quot; and weÕll leave off the cheese." itemname="Olive Tapenade"></menu_item>
+<menu_item type="default" category="Vegan&amp;#44; Vegetarian Sandwiches" price=" 7.75" descript="seitan marinated in a moroccan spice rub, grilled and then topped with caramelized onions, swiss cheese, and horseradish aioli . served on a toasted multigrain baguette with mushroom jus on the side for dipping. *tell us to &quot;make it vegan&quot; and weÕll leave off the cheese." itemname="French Dip"></menu_item>
+<menu_item type="default" category="Vegan&amp;#44; Vegetarian Sandwiches" price=" 7.75" descript="a marinated and grilled portobello mushroom with pea sprouts, tomato gastrique, chevre, oven dried tomatoes and asparagus spread. served on a toasted whole wheat multigrain baguette. *tell us to &quot;make it vegan&quot; and weÕll leave off the cheese." itemname="Portobello"></menu_item>
+<menu_item type="default" category="Vegan&amp;#44; Vegetarian Sandwiches" price=" 7.75" descript="jamaican jerk marinated seitan, pickled red cabbage, caramelized sweet onions, romaine lettuce and smoked red pepper remoulade on a toasted multigrain baguette." itemname="Jerked Seitan"></menu_item>
+<menu_item type="default" category="Vegan&amp;#44; Vegetarian Sandwiches" price=" 7.50" descript="brooklyn standardÕs own homemade hummus, tomato, cucumber, pickled red cabbage, romaine lettuce and a birds eye chili drizzle on grilled foccacia." itemname="The BQE"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 1.35" descript="kettle chips choice  (choose one) lightly salted, jalape–o, barbeque, new york cheddar" itemname="Kettle Chips &amp;#40;2oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 3.99" descript="humbles hummus chips choice  (choose one) sesame garlic, roasted red pepper, olive oil, lemon &amp; feta" itemname="Humbles Hummus Chips &amp;#40;3.5oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" " descript="madhouse potato chips choice  (choose one), mesquite bbq (1.5 oz), sea salted (5 oz), sea salt &amp; vinegar (5 oz), mesquite bbq (5 oz)" itemname="Madhouse Potato Chips"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 1.35" descript="" itemname="mesquite bbq &amp;#40;1.5 oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 3.45" descript="" itemname="sea salt &amp;amp; vinegar &amp;#40;5 oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 3.45" descript="" itemname="sea salted &amp;#40;5 oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 3.45" descript="" itemname="mesquite bbq &amp;#40;5 oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 3.79" descript="MiguelÕs choice  (choose one) vegetable &amp; seed tortilla dippers, everything tortilla dippers" itemname="MiguelÕs Tortilla Dippers &amp;#40;7.5oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 1.35" descript="deep river potato chips choice  (choose one) original salted, rosemary &amp; olive oil, maui sweet onion, salt &amp; vinegar,  zesty jalape–o" itemname="Deep River Potato Chips &amp;#40;2oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 3.45" descript="" itemname="Avocado Oil Potato Chips &amp;#45; Barbecue &amp;#40;5oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Chips &amp;amp; Snacks" price=" 4.30" descript="madhouse tortilla chips choice  (choose one) white corn tortilla chips, blue corn tortilla chips" itemname="Madhouse Tortilla Chips &amp;#40;8oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.50" descript="the classic cookie, but made with big chunks of chocolate." itemname="Chocolate Chunk Cookie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.50" descript="an oatmeal cookie with white chocolate, coconut and dried cherries." itemname="Oatmeal Cookie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.00" descript="a dark chocolate brownie with the perfect cakey-fudgy texture." itemname="Deep Dark Chocolate Brownie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.50" descript="chocolate cookie with a soft chocolate center." itemname="Cloud Cookie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.50" descript="a big soft cookie made with peanut butter, oatmeal and m&amp;m's." itemname="Monster Cookie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.00" descript="dark chocolate mixed with chunky peanut butter." itemname="Peanut Butter Brownie"></menu_item>
+<menu_item type="default" category="Stumptown Coffee" price=" 2.00" descript="regular or decaf" itemname="Hot Coffee &amp;#40;16oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Stumptown Coffee" price=" 4.50" descript="" itemname="Iced Latt&amp;eacute; &amp;#40;16oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Stumptown Coffee" price="(24oz) 4.00" descript="cold-brewed." itemname="Iced Coffee"></menu_item>
+<menu_item type="default" category="Stumptown Coffee" price=" 4.50" descript="" itemname="Iced Chai Latt&amp;eacute; &amp;#40;16oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="coca cola, diet coke" itemname="Canned Soda &amp;#40;12oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price="(33.8oz) 2.00" descript="" itemname="Smart Water"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.75" descript="" itemname="San Pellegrino Mineral Water &amp;#40;33.8 Oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.75" descript="" itemname="MartinelliÕs 100% Apple Juice &amp;#40;10 Oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 4.45" descript="botanic no. 3, citrus, gingerade, gingerberry, guava goddess, mystic mango, passionberry bliss, raspberry rush, strawberry serenity, superfruits" itemname="GT&amp;#39;s Synergy Kombucha &amp;#40;16 oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.50" descript="" itemname="VirgilÕs Root Beer &amp;#40;12oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="dry cola, dry meyer lemon, dry pomegranate, dry valencia orange, extra dry ginger ale, star ruby grapefruit" itemname="Gus Soda &amp;#40;12oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.50" descript="cranberry lemonade, orange mango, limeade, pomegranate blue" itemname="Honest Ade &amp;#40;16.9oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.00" descript="banana, blackberry, mango, peach, strawberry, blueberry pomegranate" itemname="Ronnybrook Drinkable Yogurt &amp;#40;12oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="coca cola, diet coke" itemname="Bottled Soda &amp;#40;20oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="limonata, aranciata" itemname="San Pellegrino &amp;#40;11.5oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.50" descript="orange juice, grapefruit juice" itemname="Orchid Island Juice &amp;#40;16oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.75" descript="" itemname="MartinelliÕs Sparkling Apple Juice &amp;#40;10oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.50" descript="" itemname="ReedÕs Gingerbrew &amp;#40;12oz&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="cola, black cherry, creamy root beer, dr. becker" itemname="Blue Sky Soda &amp;#40;12oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.50" descript="honey green tea, mango green tea, lemon black tea, peach white tea, pomegranate white tea" itemname="Honest Tea &amp;#40;16.9oz.&amp;#41;"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="defense, energy, essential, multi v, rescue, sync, xxx" itemname="Vitamin Water &amp;#40;20oz.&amp;#41;"></menu_item>
+</root>

@@ -1,0 +1,45 @@
+<root>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 9.50" descript="crispy &amp; light topped with fresh seasonal fruit, plugra butter, pure maple syrup and fresh whipped cream" itemname="Cast Iron Waffle"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 9.00" descript="thick slice of greenpoint baked challah bread, cinnamon, cranberry-pecan butter and pure maple syrup" itemname="Greenpoint Challah French Toast"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 10.00" descript="roasted organic firm tofu, baked with light curry spices, then sauteed with potato, green onion, tomatoes, and broccoli topped with provolone cheese and homemade pico de gallo (vegetarian, can be served vegan)" itemname="Organic Tofu And Potatoes"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 12.00" descript="roasted beets, potatoes and onions served with two eggs poached, hollandaise and toast (vegetarian)" itemname="Red Flannel Hash"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 6.75" descript="served with real hashbrowns and toast" itemname="Two Eggs Any Style"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 8.75" descript="three eggs with lots of aged gruyere cheese, topped with a tarragon-tomato sauce and served with hashbrowns and toast (vegetarian)" itemname="Brooklyn Label Scramble"><extra type="sub" price=" 1.00" descript="add ham"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 11.00" descript="three eggs with lots of aged gruyere cheese, topped with a tarragon-tomato sauce and served with hashbrowns and toast (vegetarian)" itemname="Gruyere Omelet"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 14.00" descript="6oc prime black angus beef, grilled onions, two eggs the way you want 'em, served with hashbrowns and toast" itemname="Steak N&amp;#39; Eggs"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 10.00" descript="three eggs cooked soft with lots of baby spinach and homemade arugula pesto, served atop grilled challah bread and thick cut bacon, garnished with parmesan reggiano (vegetarian, contains nuts )" itemname="&amp;quot;Green Eggs And Ham&amp;quot;"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 11.00" descript="homemade buttermilk biscuits topped with two fried eggs and sausage gravy pr make it veggie with a hearty mushroom-based gravy" itemname="Homemade Biscuits And Sausage Gravy"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 5.50" descript="organic steel cut oatmeal, toasted pecans, dried cranberries, golden raisins, brown sugar and cinnamon, topped with milk, cream or soy milk" itemname="Homemade Oatmeal"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 8.00" descript="toasted bagel of your choice with cream cheese, lox, sliced tomato, onion, capers and shaved egg" itemname="Salmon Lox"></menu_item>
+<menu_item type="Breakfast" category="Mornin&amp;#39; Menu" price=" 6.00" descript="toasted organic oats, pumpkin seeds, cranberries, raisins chopped walnuts and sunflower seeds, served with fresh fruit and yogurt, milk or soy" itemname="Brooklyn Label Granola"></menu_item>
+<menu_item type="Breakfast" category="Etc" price=" 6.00" descript="" itemname="Seasonal Fruit Plate"></menu_item>
+<menu_item type="Breakfast" category="Etc" price=" 3.00" descript="the real deal" itemname="Hashbrowns"></menu_item>
+<menu_item type="Breakfast" category="Etc" price=" 4.00" descript="" itemname="Thick&amp;#45;Cut Bacon"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 10.75" descript="8 oz. prime ground sirloin on a toasted brioche bun with house mayo, lettuce, tomato, pickle, onion and cheddar served with fries" itemname="Brooklyn Cheeseburger"><extra type="sub" price=" 1.00" descript="add bacon or avocado"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.00" descript="on toasted brioche bun with provolone, arugula, sundried tomato pesto, crisp cucumber and pickled red onion-served with fries" itemname="B.L. Grilled Chicken Breast Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.00" descript="classic blt, except ours is topped with a mound of crispy, slab cut bacon, and drizzled with herb mayo on toasted brioche bun, with mixed green salad," itemname="Big B.L.T"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.00" descript="on a toasted brioche bun with avocado spread, lettuce, pickle, tomato, onion and cheddar-served with mixed greens salad" itemname="B.L. Homemade Veggie Burger"><extra type="sub" price=" 1.00" descript="sub soy cheese"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.25" descript="on grilled polish rye with swiss cheese, sauerkraut, spicy mayo and mustard-served with mixed green salad" itemname="Marinated Tempeh Rueben"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 8.00" descript="organic shell pasta in our own cheese sauce. the classic comfort food" itemname="Mac &amp;amp; Cheese"><extra type="sub" price=" 1.00" descript="add bacon or sausage"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.50" descript="grilled soft white plain de mie with bl roasted turkey piled high, provolone avocado and house mayo, served with mixed green salad" itemname="Turkey Avocado"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.00" descript="a toasted pita with white water-packed tuna mixed with pickle, celery and red onion and a tomato slice topped with melted white cheddar-served with mixed green salad" itemname="Tuna Melt"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.50" descript="we make it south carolina style, with slow roasted, shredded pork in a bbq sauce that has just a pinch of punch served with our housemade cole slaw" itemname="Pulled Pork Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 12.00" descript="our own, house-smoked duck, sliced thin and served on polish rye with melted swiss cheese, sauerkraut and our chipotle mayo with homemade cole slaw" itemname="The Duck Rueben"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 10.00" descript="our &quot;cubano&quot; has roast pork and cured ham, sliced pickles, our special garlic sauce, and swiss cheese served hot grilled on toasted roll. served with house cole slaw" itemname="Classic Cuban Sandwich"></menu_item>
+<menu_item type="Lunch" category="Big Salads" price=" 9.00" descript="fresh seasonal greens with feta, olives, chickpeas, pepperoncinis, cucumbers, tomatoes and herbed vinaigrette, served with pita bread" itemname="Greek Salad"></menu_item>
+<menu_item type="Lunch" category="Big Salads" price=" 12.00" descript="our take on the classic french salad. roasted vegetables, house smoked mahi tuna, black-eyed pea salad, tomato, black olives tossed with classic french vinaigrette." itemname="Salad Nicoise"><extra type="sub" price=" 10.00" descript="vegetarian"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Big Salads" price=" 10.00" descript="our chopped salad with smoked bacon, chopped iceberg lettuce, vietnamese preserved vegetables, chunky blue cheese dressing, topped with grated hard boiled egg" itemname="B.L. Chopped Salad"><extra type="sub" price=" 3.00" descript="add chicken&amp;#44; tempeh or tuna salad"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Big Salads" price=" 8.00" descript="traditional caesar salad with homemade cornbread crumbs, classic dressing, topped with shaved parmesan cheese" itemname="Caesar Salad"><extra type="sub" price=" 3.00" descript="add chicken&amp;#44; tempeh or tuna salad"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Big Salads" price=" 8.50" descript="roasted beets sliced thin and topped with an herb pesto, red-wine marinated onions and mixed salad greens" itemname="Beet Salad Carpaccio"></menu_item>
+<menu_item type="Lunch" category="Big Salads" price=" 16.00" descript="a generous serving of the sweetest crabmeat, mixed in our dressing and served with two, ripe avocado halves and a bed of mixed greens with orange dill vinaigrette dressing" itemname="Crab Avocado Salad"></menu_item>
+<menu_item type="Lunch" category="Big Salads" price=" 9.00" descript="baby spinach, pan fried apples, goat cheese crusted with spiced walnuts, red wine soaked onion, in a orange dill vinaigrette" itemname="Spinach Salad"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 4.75" descript="" itemname="Side Salad"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 3.00" descript="" itemname="Fresh Hand &amp;#45; Cut Fries"></menu_item>
+</root>

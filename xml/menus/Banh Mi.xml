@@ -1,0 +1,31 @@
+<root>
+<menu_item type="default" category="Appetizer" price=" 6.00" descript="shrimp, pork, vegetable &amp; glass noodles wrapped in rice paper then fried" itemname="Spring Roll"></menu_item>
+<menu_item type="default" category="Appetizer" price=" 5.00" descript="shrimp, lettuce, bean sprout, cucumber &amp; rice vermicelli rolled in rice paper" itemname="Summer Roll"></menu_item>
+<menu_item type="default" category="Appetizer" price=" 5.00" descript="sauteed baby portabella mushrooms, tofu, sprouts, carrot, lettuce, mint &amp; rice vermicelli wrapped in rice paper" itemname="Veggie Roll"></menu_item>
+<menu_item type="default" category="Appetizer" price=" 7.00" descript="white meat chicken marinated in wine, basil &amp; spices" itemname="Basil Chicken Tenders"></menu_item>
+<menu_item type="default" category="Appetizer" price=" 6.00" descript="shredded green papaya, shrimp, roasted peanuts, mint" itemname="Papaya Salad"></menu_item>
+<menu_item type="default" category="Soup $8" price=" " descript="flat rice noodle in aromatic beef stock, topped with flank steak, brisket, onions, sprouts &amp; basil" itemname="Pho Classic"></menu_item>
+<menu_item type="default" category="Soup $8" price=" " descript="rice noodles in chicken stock with shredded chicken, bean sprouts, lettuce, chives &amp; fresh herbs" itemname="Chicken Pho"></menu_item>
+<menu_item type="default" category="Rice Dishes" price=" 8.00" descript="" itemname="Grilled Marinated Pork Slices"></menu_item>
+<menu_item type="default" category="Rice Dishes" price=" 9.00" descript="" itemname="Grilled Pork Chop"></menu_item>
+<menu_item type="default" category="Rice Dishes" price=" 12.00" descript="with sugarsnap peas &amp; sweet lemongrass sauce" itemname="Grilled Salmon"></menu_item>
+<menu_item type="default" category="Rice Dishes" price=" 10.00" descript="marinated with vietnamese spices" itemname="Grilled Chicken"></menu_item>
+<menu_item type="default" category="Rice Vermicelli &amp;amp; Bun" price=" 8.00" descript="" itemname="Spring Roll"></menu_item>
+<menu_item type="default" category="Rice Vermicelli &amp;amp; Bun" price=" " descript="sauteed in spicy lemongrass. served over lettuce, mint, crushed peanut, sprouts, onion &amp; rice vermicelli" itemname="Spicy Lemongrass Vermicelli"></menu_item>
+<menu_item type="default" category="Rice Vermicelli &amp;amp; Bun" price=" 10.00" descript="" itemname="chicken"></menu_item>
+<menu_item type="default" category="Rice Vermicelli &amp;amp; Bun" price=" 11.00" descript="" itemname="beef"></menu_item>
+<menu_item type="default" category="Rice Vermicelli &amp;amp; Bun" price=" 12.00" descript="" itemname="shrimp"></menu_item>
+<menu_item type="default" category="Rice Vermicelli &amp;amp; Bun" price=" 11.00" descript="" itemname="tofu &amp;amp; mushroom"></menu_item>
+<menu_item type="default" category="Banh Mi" price=" 5.00" descript="pork roll, brawn, ham &amp; pate" itemname="Vietnamese Cold Cut"></menu_item>
+<menu_item type="default" category="Banh Mi" price=" 5.50" descript="pork roll, brawn, roasted ground pork &amp; pate" itemname="Classic"></menu_item>
+<menu_item type="default" category="Banh Mi" price=" 5.50" descript="" itemname="Vietnamese Meatball"></menu_item>
+<menu_item type="default" category="Banh Mi" price=" 5.50" descript="" itemname="Lemongrass Chicken"></menu_item>
+<menu_item type="default" category="Banh Mi" price=" 5.50" descript="" itemname="BBQ Pork"></menu_item>
+<menu_item type="default" category="Banh Mi" price=" 5.50" descript="" itemname="Fishcake"></menu_item>
+<menu_item type="default" category="Banh Mi" price=" 6.00" descript="no mayo" itemname="Vegetarian"></menu_item>
+<menu_item type="default" category="Banh Mi" price=" 9.00" descript="catfish marinated with ginger, vietnamese spices &amp; dill" itemname="Hanoi Catfish"></menu_item>
+<menu_item type="default" category="Drinks" price=" 2.50" descript="" itemname="Coffee"></menu_item>
+<menu_item type="default" category="Drinks" price=" 3.50" descript="" itemname="Ice Coffee"></menu_item>
+<menu_item type="default" category="Drinks" price=" 2.50" descript="" itemname="Limeade"></menu_item>
+<menu_item type="default" category="Drinks" price=" 2.50" descript="" itemname="Ice Tea"></menu_item>
+</root>

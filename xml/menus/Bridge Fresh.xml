@@ -1,0 +1,148 @@
+<root>
+<menu_item type="default" category="Breakfast Specials" price=" 2.00" descript="" itemname="2 Eggs On A Roll"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" 2.50" descript="with bacon, sausage or cheese" itemname="2 Eggs"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" 3.00" descript="" itemname="B L T"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" 3.75" descript="with ham &amp; cheese on croissant" itemname="2 Eggs"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" 2.50" descript="" itemname="3 Eggs Whites On A Roll"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" 3.50" descript="2 eggs spinach, goat cheese in a wrap of your choice" itemname="Omelet Wrap"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" 1.00" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" 1.50" descript="" itemname="French Fries"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" .50" descript="" itemname="Extra Egg"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" .75" descript="" itemname="Extra Bacon"></menu_item>
+<menu_item type="default" category="Breakfast Specials" price=" .50" descript="" itemname="Extra Cheese"></menu_item>
+<menu_item type="default" category="Omelet Platters" price=" 4.00" descript="3 eggs any style with american cheese, home fries &amp; toast" itemname="American"></menu_item>
+<menu_item type="default" category="Omelet Platters" price=" 4.50" descript="3 eggs any style with feta cheese, home fries, toast &amp; black olives" itemname="Greek"></menu_item>
+<menu_item type="default" category="Omelet Platters" price=" 4.50" descript="3 eggs any style with fresh mozzarella, basil, home fries &amp; toast" itemname="Italian"></menu_item>
+<menu_item type="default" category="Omelet Platters" price=" 4.50" descript="3 eggs any style, pepper jack cheese, salsa, home fries &amp; toast" itemname="Spanish"></menu_item>
+<menu_item type="default" category="Omelet Platters" price=" 4.50" descript="with home fries &amp; toast" itemname="Western"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price=" 2.00" descript="" itemname="3 Pancakes"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price=" 4.00" descript="" itemname="with seasonal fruits"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price=" 4.00" descript="" itemname="with eggs"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price=" 3.00" descript="" itemname="4 Belgian Waffles"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price=" 4.50" descript="" itemname="with seasonal fruits"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price="(12 oz cup) 1.50" descript="" itemname="Oatmeal"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price="(12 oz cup) 1.75" descript="most brands with milk" itemname="Cold Cereal"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price="each .50" descript="" itemname="Bagels, Assorted"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price=" .50" descript="" itemname="with cream cheese"></menu_item>
+<menu_item type="default" category="Pancakes &amp;amp; Waffles" price=" " descript="plain, vegetables, scallion &amp; lox cream cheese, peanut butter, jelly &amp; butter" itemname="Spreads"></menu_item>
+<menu_item type="default" category="Fresh Squeezed Juices" price="(16 oz) 3.00" descript="" itemname="Orange Juice"></menu_item>
+<menu_item type="default" category="Fresh Squeezed Juices" price="(16 oz) 3.00" descript="" itemname="Carrot Juice"></menu_item>
+<menu_item type="default" category="Fresh Squeezed Juices" price="(16 oz) 3.00" descript="" itemname="Veggie Juice"></menu_item>
+<menu_item type="default" category="Fresh Squeezed Juices" price=" " descript="" itemname="Apple, Celery &amp;amp; Ginger"></menu_item>
+<menu_item type="default" category="Fresh Squeezed Juices" price=" 1.75" descript="" itemname="Rice, Tapioca Or Chocolate Pudding"></menu_item>
+<menu_item type="default" category="Fresh Squeezed Juices" price=" 2.50" descript="" itemname="Cakes Or Pies, Slice"></menu_item>
+<menu_item type="default" category="Soups" price="(12 oz) 1.50" descript="" itemname="Miso"></menu_item>
+<menu_item type="default" category="Soups" price="(12 oz) 2.50" descript="" itemname="Shrimp Shumai"></menu_item>
+<menu_item type="default" category="Soups" price="(32 oz) 5.99" descript="udon or soba" itemname="Vegetable"></menu_item>
+<menu_item type="default" category="Soups" price="(32 oz) 6.75" descript="udon or soba" itemname="Beef"></menu_item>
+<menu_item type="default" category="Soups" price="(32 oz) 6.75" descript="udon or soba" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Soups" price="(32 oz) 7.50" descript="udon or soba" itemname="Shrimp"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Cherry Tomato"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Fresh Mozzarella"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Mushrooms"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Roasted Red Peppers"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Carrots"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Cranberries"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Dry Tuna"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Grilled Chicken"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Pinto Beans"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Fresh Tomato"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Artichoke Heart"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Mixed Nuts"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Parmesan Cheese"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Cucumber"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="String Beans"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Cashew Nut"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Hearts Of Palm"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Roasted Turkey"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Chick Peas"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Feta Cheese"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Broccoli"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Beets"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Celery"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Croutons"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Sprouts"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Avocado"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Olives"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Onion"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Egg"></menu_item>
+<menu_item type="default" category="Salads $5" price=" " descript="" itemname="Corn"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="ham, swiss, pickles &amp; mustard" itemname="Cuban"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="fresh tuna, cheddar, lettuce, &amp; tomato" itemname="Tuna Melt"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="honey glazed turkey, swiss, cole slaw &amp; honey mustard" itemname="Delightful"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="prosciutto, ham, mozzarella, sun-dried tomato, arugula &amp; creamy balsamic vinaigrette" itemname="Siciliano"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="bread chicken, fresh mozzarella, marinara sauce, basil &amp; parmesan cheese" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="pastrami, corned beef, provolone, lettuce, tomato, mustard &amp; house dressing" itemname="The Combo"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="fresh mozzarella, tomato, basil, spinach &amp; sun - dried tomato" itemname="Meatless"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="grilled chicken, cheddar, roasted peppers, caramelized onions &amp; salsa" itemname="Chicken Fajita"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="roasted beef, muenster, caramelized onions, lettuce, tomato &amp; russian dressing" itemname="Russian"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="grilled chicken, roasted peppers, mozzarella &amp; pesto sauce" itemname="The Italiano"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="grilled vegetables, zucchini, eggplant &amp; mozzarella" itemname="Vegetarian"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="roasted eggplant, mozzarella basil marinara sauce &amp; parmesan cheese" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="default" category="Panini $5" price=" " descript="grilled chicken, smoked bacon, brie plum tomato &amp; house dressing" itemname="Chicken Club"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Marinated Grilled Chicken"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Rice"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Beans,"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Guacamole"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Pico De Gallo"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Sour Cream"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Cheese &amp;amp; Salsa"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Whole Wheat"></menu_item>
+<menu_item type="default" category="Burritos &amp;amp; Wraps $5" price=" " descript="" itemname="Plain Or Spinach Tortilla"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="ham, salami, pepperoni, provolone, lettuce, tomato, onion &amp; mayo" itemname="Godfather"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="roast beef, turkey, ham, swiss, lettuce, tomato pickles &amp; mayo" itemname="Americana"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="hot ham &amp; turkey with bacon, swiss, lettuce, tomato on a toasted hero" itemname="Monte Cristo"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="virginia ham, salami, pepperoni, topped with melted muenster, lettuce &amp; tomato" itemname="N.Y.P.D"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="peppercorn turkey, pepper, jack, lettuce, tomato, roast peppers &amp; mayo" itemname="Dumbo Combo"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="tuna with melted american cheese, lettuce, tomato on a toasted hero" itemname="Tuna Melt"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="philly cheesesteak, onion, pepper, american cheese &amp; our secret sauce" itemname="Cheese Steak"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="hot roast beef topped with cheddar, pepper, onions &amp; bbq sauce" itemname="Tex Mex"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="fresh mozzarella, tomato, basil , organic mixed greens &amp; balsamic vinegar" itemname="Meatless"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="chicken salad, lettuce &amp; tomato" itemname="Chicken Salad"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="egg salad, lettuce &amp; tomato" itemname="Egg Salad"></menu_item>
+<menu_item type="default" category="Combination Subs $5" price=" " descript="prosciutto, salami, provolone, lettuce, tomato, basil &amp; mayo" itemname="Italiano"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 4.00" descript="" itemname="Plain Burger On A Roll"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 4.00" descript="" itemname="Turkey Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 4.00" descript="deluxe, french fries, lettuce, tomato, onion &amp; pickles" itemname="Vegetarian Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 6.50" descript="brie, lettuce, tomato, pickles &amp; fries" itemname="French Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 6.50" descript="cheddar, avocado, lettuce, tomato, pickles &amp; fries" itemname="California Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 6.50" descript="american cheese, bacon, lettuce, tomato, pickles &amp; fries" itemname="American Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 6.50" descript="provolone, salsa, lettuce, tomato, pickles &amp; fries" itemname="Tex - Mex Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 6.50" descript="vegetarian burger mozzarella, lettuce, tomato, pickles &amp; fries" itemname="Meatless Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 6.50" descript="spices, muenster, lettuce, tomato, pickles &amp; fries" itemname="Moroccan Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 6.50" descript="hummus, lettuce, tomato, roasted pepper, &amp; fries" itemname="Mediterranean Burger"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 5.00" descript="onion, peppers, melted american cheese on a hoagie" itemname="Philly Cheesesteak"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 2.50" descript="" itemname="Grilled Cheese Sandwich"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 5.00" descript="on a roll, lettuce, &amp; tomato" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="default" category="From The Grill" price=" 5.00" descript="melted cheddar, lettuce and tomato on hero" itemname="Hot Roast Beef Sandwich"></menu_item>
+<menu_item type="default" category="The Sushi Bar" price=" 3.50" descript="" itemname="California"></menu_item>
+<menu_item type="default" category="The Sushi Bar" price=" 3.75" descript="" itemname="with masago"></menu_item>
+<menu_item type="default" category="The Sushi Bar" price=" 3.50" descript="" itemname="Avocado"></menu_item>
+<menu_item type="default" category="The Sushi Bar" price=" 4.95" descript="" itemname="Salmon"></menu_item>
+<menu_item type="default" category="The Sushi Bar" price=" 4.95" descript="" itemname="Eel"></menu_item>
+<menu_item type="default" category="The Sushi Bar" price=" 3.50" descript="" itemname="Vegetable"></menu_item>
+<menu_item type="default" category="The Sushi Bar" price=" 3.50" descript="" itemname="Cucumber"></menu_item>
+<menu_item type="default" category="The Sushi Bar" price=" 4.95" descript="" itemname="Tuna"></menu_item>
+<menu_item type="default" category="Sushi Combo" price=" 7.95" descript="4pc tuna, 8 pc tuna roll" itemname="Tuna Box"></menu_item>
+<menu_item type="default" category="Sushi Combo" price=" 7.95" descript="4pc salmon, 8pc salmon roll" itemname="Salmon Box"></menu_item>
+<menu_item type="default" category="Sushi Combo" price=" 7.95" descript="2pc tuna, 2pc salmon, 8pc mix rolls" itemname="Tuna &amp;amp; Salmon Box"></menu_item>
+<menu_item type="default" category="Sushi Combo" price=" 6.50" descript="8ps tuna roll, 8 pc salmon roll" itemname="Tuna &amp;amp; Salmon Rolls"></menu_item>
+<menu_item type="default" category="Sushi Combo" price=" 6.75" descript="8pc california roll, 4pc salmon, 4pc tuna" itemname="Roll Combo"></menu_item>
+<menu_item type="default" category="Sides" price=" 1.50" descript="" itemname="Edamame"></menu_item>
+<menu_item type="default" category="Sides" price=" 2.50" descript="" itemname="Seaweed Salad"></menu_item>
+<menu_item type="default" category="Teriyaki $7.95" price=" " descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Teriyaki $7.95" price=" " descript="" itemname="Beef"></menu_item>
+<menu_item type="default" category="Teriyaki $7.95" price=" " descript="" itemname="Salmon"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 5.99" descript="" itemname="Moroccan Couscous"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 5.99" descript="" itemname="Penne Marinara"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 5.99" descript="" itemname="Cheese Tortellini A La Pesto"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 4.99" descript="" itemname="Spiral Pasta"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 5.99" descript="" itemname="Sesame Noodles"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 5.99" descript="" itemname="Chick Pea Salad"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 5.99" descript="" itemname="Saffron Orzo"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 3.99" descript="" itemname="Potato Salad"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 3.99" descript="" itemname="Macaroni Salad"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 2.99" descript="" itemname="Cole Slaw"></menu_item>
+<menu_item type="default" category="Beverages" price=" " descript="regular, hazelnut, french roast (dark), french vanilla &amp; decaf" itemname="Coffee"></menu_item>
+<menu_item type="default" category="Beverages" price=" " descript="" itemname="Teas Selection Of Regular &amp;amp; Herbal"></menu_item>
+</root>

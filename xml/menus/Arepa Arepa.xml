@@ -1,0 +1,30 @@
+<root>
+<menu_item type="default" category="Distinctive Arepas" price=" 5.00" descript="seasonal wild mushrooms, garlic, fresh herbs and white wine" itemname="1. De Champinones"></menu_item>
+<menu_item type="default" category="Distinctive Arepas" price=" 5.50" descript="roasted eggplant, zucchini, mushrooms and caramelized cipollini onions" itemname="2. La Vegetal"></menu_item>
+<menu_item type="default" category="Distinctive Arepas" price=" 5.00" descript="hearts of palm, watercress, avocado, extra virgin olive oil and red wine vinegar" itemname="3. De Corazones"></menu_item>
+<menu_item type="default" category="Distinctive Arepas" price=" 6.00" descript="sauteed rock shrimp, chipotle sauce, white aged cheese, pico de gallo and nata" itemname="4. De Camarones"></menu_item>
+<menu_item type="default" category="Distinctive Arepas" price=" 6.50" descript="fresh market fish marinated in fresh lime and organic juice, cilantro, red onion, pickled jalapeño and pineapple segments" itemname="5. Playa El Agua (Ceviche)"></menu_item>
+<menu_item type="default" category="Distinctive Arepas" price=" 5.00" descript="guayanes cheese, sliced tomato, plantains and home made pesto sauce" itemname="6. Italo- Venezolana"></menu_item>
+<menu_item type="default" category="Distinctive Arepas" price=" 6.50" descript="smoked salmon with watercress, avocado and home made wasabi mayonnaise" itemname="7. De Salmon"></menu_item>
+<menu_item type="default" category="Classic Venezuelan Arepas" price=" 5.50" descript="braised shredded beef, fresh peppers, herbs and tomatoes" itemname="8. Carne Mechada"></menu_item>
+<menu_item type="default" category="Classic Venezuelan Arepas" price=" 6.00" descript="carne mechada, black beans, sweet plantains and white venezuelan cheese" itemname="9. De Pabellon"></menu_item>
+<menu_item type="default" category="Classic Venezuelan Arepas" price=" 4.00" descript="black beans with white venezuelan aged cheese" itemname="10. Domino"></menu_item>
+<menu_item type="default" category="Classic Venezuelan Arepas" price=" 5.00" descript="shredded roasted chicken, avocado and home made roasted garlic aioli" itemname="11. Reyna Pepiada"></menu_item>
+<menu_item type="default" category="Classic Venezuelan Arepas" price=" 5.00" descript="market fish sauteed with chopped tomatoes, onions and peppers" itemname="12. De Pescado"></menu_item>
+<menu_item type="default" category="Classic Venezuelan Arepas" price=" 4.00" descript="scrambled eggs with chopped tomatoes and yellow cheese" itemname="13. De Perico"></menu_item>
+<menu_item type="default" category="Classic Venezuelan Arepas" price=" 5.00" descript="shredded roasted chicken, sliced tomato and yellow cheese" itemname="14. La Catrira"></menu_item>
+<menu_item type="default" category="Classic Venezuelan Arepas" price=" 5.00" descript="guayanes cheese (smooth and creamy venezuelan white cheese)" itemname="15. El Guayanes"></menu_item>
+<menu_item type="default" category="In Addition" price=" 3.00" descript="sweet plantains topped with white venezuelan cheese" itemname="Plantanos"></menu_item>
+<menu_item type="default" category="In Addition" price=" 7.00" descript="black beans, sweet plantains, carne mechada and white rice" itemname="Pabellon"></menu_item>
+<menu_item type="default" category="In Addition" price=" 6.00" descript="mixed greens, walnuts, tomatoes, onions, apples and tangerine segments in a citrus vinaigrette" itemname="Ensalada Mixta"></menu_item>
+<menu_item type="default" category="In Addition" price=" 1.00" descript="" itemname="add chicken"></menu_item>
+<menu_item type="default" category="In Addition" price=" 3.00" descript="" itemname="Black Bean Soup"></menu_item>
+<menu_item type="default" category="In Addition" price=" 4.00" descript="" itemname="Soup Of The Day (Seasonal)"></menu_item>
+<menu_item type="default" category="Desserts" price=" 4.00" descript="" itemname="Flourless Chocolate Cake"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.00" descript="" itemname="Coconut Flan"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.00" descript="with soy milk" itemname="Cafe Con Leche"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.50" descript="" itemname="Mango Basil Juice"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.50" descript="" itemname="Melon And Lime Juice"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.50" descript="" itemname="Pineapple Juice"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.50" descript="" itemname="Ginger Honey Green Iced Tea"></menu_item>
+</root>

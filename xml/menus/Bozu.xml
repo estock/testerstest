@@ -1,0 +1,41 @@
+<root>
+<menu_item type="Sake - Glass" category="Seasonal" price=" 10.00" descript="slightly acidic &amp; bitter for a smooth dry finish" itemname="Choshu Roman"><extra type="sub" price="bottle 47.00" descript="tokubetsu junmai (720ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Seasonal" price=" 10.00" descript="dry, sharp and smooth, a classic yamaha" itemname="Tedorigawa"><extra type="sub" price="carafe 33.00" descript="yamahai junmai (500ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Smooth &amp;amp; Light" price=" 8.00" descript="gorgeous aroma and finish" itemname="Kaori"><extra type="sub" price="carafe 26.00" descript="junmai ginjyo (500ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Smooth &amp;amp; Light" price=" 8.00" descript="an altogether new style of sake relaxed &amp; expressive" itemname="Hoyo Genji *"><extra type="sub" price="carafe 26.00" descript="todubetsu junmai (500ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Smooth &amp;amp; Light" price=" 10.00" descript="tropical with layers of mellow fruitiness" itemname="Yuki No Bosha"><extra type="sub" price="carafe 33.00" descript="junmai ginjyo (500ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Smooth &amp;amp; Light" price=" 9.00" descript="smooth and gentle with a hint of wild plum" itemname="Miyasaka"><extra type="sub" price="bottle 44.00" descript="yawaraka junmai 55 (720ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Dry" price=" 8.00" descript="dry &amp; mellow richness - delightful sake" itemname="Masumi Okuden"><extra type="sub" price="carafe 26.00" descript="junmai (500ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Dry" price=" 8.00" descript="dry &amp; sharp with full body" itemname="Suijin"><extra type="sub" price="carafe 26.00" descript="junmai (500ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Dry" price=" 8.00" descript="produced with the yamahai method - dry &amp; rich" itemname="Suehiro"><extra type="sub" price="carafe 26.00" descript="yamahai junmai (500ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Classic Umami" price=" 10.00" descript="mild modest aroma - pleasant lingering effect" itemname="Omachi *"><extra type="sub" price="bottle 47.00" descript="tokubetsu junmai (720ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Classic Umami" price=" 11.00" descript="dry yet fruity notes of white peaches and apples" itemname="Chiyomusubi *"><extra type="sub" price="bottle 50.00" descript="tokubetsu junmai (720ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Classic Umami" price=" 12.00" descript="earthy, dry yet balanced with hints of fruit" itemname="Kasumitsuru *"><extra type="sub" price="bottle 55.00" descript="yamahai junmai (720ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Nigori-Unfiltered" price=" 11.00" descript="fresh, rich &amp; mellow goes well with all foods" itemname="Koikawa *"><extra type="sub" price="bottle 50.00" descript="junmai ginjyo (720ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Nigori-Unfiltered" price=" 11.00" descript="lively, voluptuous, great aperitif" itemname="Kamoizumi"><extra type="sub" price="carafe 33.00" descript="junmai ginjyo (500ml)"></extra>
+</menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 100.00" descript="daiginjyo (720ml). perfectly balanced between fragrant &amp; umami tastes, yamadanishiki, rice millted to 32%" itemname="Taiten Shiragiku"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 90.00" descript="daiginjyo (720ml). the brewer's masterpiece, aged 2 years in the bottle" itemname="Suirakuten"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 70.00" descript="junmai daiginjyo (720ml). mellow with a hint of furits yet dry finish - delightful" itemname="Matsu No Midori"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 50.00" descript="junmai daiginjyo (500ml). delightful and fine witha a hint of sweetness" itemname="Kura No Hana"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 60.00" descript="junmai gingyo (720ml). refreshing and elegant sake with full aroma" itemname="Bichuwajyo"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 60.00" descript="junmai ginjyo (720ml). smooth, the refined fragrance of ginjyo" itemname="Ugo No Tsuki"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 60.00" descript="yamahai 50 nama - ginjyo (720ml). savory with vibrant flavor notes throughout" itemname="Miyasaka"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 50.00" descript="junmai ginjyo (720). wonderfully clean and smooth balanced sake" itemname="Dassai 50"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 50.00" descript="ginjyo (720ml). clean &amp; smooth, rich aroma best with fattier fish" itemname="Okunomatsu"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 50.00" descript="junmai (720ml). smooth and mellow with the aroma of pure rice" itemname="Kitaya"></menu_item>
+<menu_item type="Sake - Glass" category="Sake - By The Bottle" price=" 45.00" descript="junmai (720ml). gentle flavor &amp; smooth taste great with our bombs" itemname="Denshin &quot;Ine&quot;"></menu_item>
+</root>

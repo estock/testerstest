@@ -1,0 +1,184 @@
+<root>
+<menu_item type="default" category="Breakfast" price=" 2.50" descript="made to order with two farm-fresh eggs, fried or scrambled, &amp; served on a bagel, roll, wrap, sliced bread or as a platter" itemname="Egg Sandwiches"></menu_item>
+<menu_item type="default" category="Breakfast" price="each .75" descript="" itemname="add bacon, turkey sausage, ham, cheese or home fries"></menu_item>
+<menu_item type="default" category="Breakfast" price="each .75" descript="" itemname="served on a croissant"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 4.25" descript="this classic is good for breakfast or lunch" itemname="BLT Sandwich"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 3.95" descript="made to order with three farm-fresh eggs &amp; two add-ins of your choice. served as a platter or in a wrap, with home fries or fresh fruit" itemname="Omelettes"></menu_item>
+<menu_item type="default" category="Breakfast" price="each .75" descript="" itemname="add-ins, vegetables: tomatoes, onions, bell peppers, mushrooms cheeses: american, cheddar, swiss, muenster meats: bacon, ham, turkey sausage"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 2.50" descript="" itemname="Side of Home Fries"></menu_item>
+<menu_item type="default" category="Breakfast" price="each .85" descript="plain, cinnamon raisin, whole wheat, poppy, sesame, everything, egg, pumpernickel" itemname="Bagels"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 1.25" descript="" itemname="with butter"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 1.95" descript="" itemname="with plain cream cheese"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 2.25" descript="" itemname="with scallion or vegetable cream cheese"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 3.95" descript="" itemname="with nova spread"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 6.95" descript="" itemname="nova &amp;amp; cream cheese"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 1.95" descript="lemon poppyseed, banana nut, apple crumb, coconut, orange, carrot, cranberry, corn, blueberry bran, honey bran, chocolate chip, double chocolate chip, butter rum, low-fat cranberry, low-fat blueberry" itemname="Muffins"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 1.00" descript="" itemname="Muffin Tops"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 2.25" descript="apple, black cherry, blueberry, pear, peach, prune" itemname="Danish"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 2.25" descript="" itemname="Apple Turnover or Strudel"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 1.75" descript="" itemname="Plain Croissant"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 2.25" descript="almond, chocolate, strawberry &amp; cheese, blueberry &amp; cheese" itemname="Filled Croissant"></menu_item>
+<menu_item type="default" category="Breakfast" price=" 1.25" descript="" itemname="Roll with Butter"></menu_item>
+<menu_item type="default" category="Breakfast" price="lg 5.25" descript="non-fat vanilla yogurt with granola &amp; fresh fruit" itemname="Yogurt Parfait"></menu_item>
+<menu_item type="default" category="Breakfast" price="each 3.50" descript="add-ins: granola, raisins, dried cranberries, fresh fruit, brown sugar, cinnamon, nuts" itemname="Hot Homemade Oatmeal"></menu_item>
+<menu_item type="default" category="Soups Of The Day $4.50 (Pint)" price=" " descript="butternut squash, chicken noodle, corn chowder, cream of mushroom, tomato bisque, vegetable beef barley" itemname="Monday"></menu_item>
+<menu_item type="default" category="Soups Of The Day $4.50 (Pint)" price=" " descript="green pea, chicken noodle, cream of asparagus, cream of chicken with rice, shrimp &amp; corn chowder, winter vegetable" itemname="Tuesday"></menu_item>
+<menu_item type="default" category="Soups Of The Day $4.50 (Pint)" price=" " descript="chicken noodle, cream of broccoli, italian wedding, manhattan clam chowder, roasted vegetable chowder, turkey &amp; rice" itemname="Wednesday"></menu_item>
+<menu_item type="default" category="Soups Of The Day $4.50 (Pint)" price=" " descript="black bean &amp; sausage, chicken noodle, chunky potato leek, curry chicken chowder, mushroom barley, pasta fagioli" itemname="Thursday"></menu_item>
+<menu_item type="default" category="Soups Of The Day $4.50 (Pint)" price=" " descript="chicken noodle, lentil, minestrone, new england clam chowder, seafood bisque, turkey gumbo" itemname="Friday"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 6.95" descript="iceberg &amp; romaine with fresh vegetables" itemname="Tossed"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 6.95" descript="romaine with tomato, cucumber, croutons &amp; parmesan" itemname="Caesar"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="romaine with feta cheese, olives, stuffed grape leaves, radishes, tomatoes, peppers &amp; onions" itemname="Greek"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="" itemname="Chicken Salad Platter"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="" itemname="Waldorf Salad Platter"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="" itemname="Fresh Mozzarella Salad Platter"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.25" descript="with bleu cheese" itemname="Field Greens"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="" itemname="with cashews &amp;amp; cranberries"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="" itemname="with goat cheese &amp;amp; walnuts"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 8.95" descript="" itemname="with walnuts, goat cheese, raspberries &amp;amp; mandarin oranges"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="" itemname="with tuna salad, mayo-free tuna salad, chicken salad, or sliced grilled chicken"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 9.95" descript="" itemname="with bleu cheese &amp;amp; sliced steak"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="with bleu cheese, apples &amp; grapes" itemname="Frisee &amp;amp; Arugula"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.50" descript="with sliced mushrooms &amp; red onions" itemname="Northwest Spinach"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="on field greens with grilled vegetables" itemname="Portobello Mushroom"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 8.95" descript="" itemname="Grilled Chicken Caesar"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 9.95" descript="" itemname="Salmon Steak Caesar"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 9.95" descript="" itemname="Grilled Chicken Greek"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 7.95" descript="crisp lettuce topped with sliced ham, turkey &amp; swiss cheese" itemname="Chef"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 9.95" descript="crisp lettuce topped with grilled chicken, crumbled bacon, sliced egg &amp; avocado" itemname="Cobb"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 8.95" descript="with kidney beans, corn &amp; cheddar cheese" itemname="Grilled Chicken Baja"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 8.95" descript="on field greens with almonds &amp; mandarin oranges" itemname="Chinese Chicken"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 8.95" descript="on field greens with cashews &amp; chinese noodles" itemname="Oriental Chicken"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 10.95" descript="on field greens with almonds &amp; mandarin oranges" itemname="Sushi-Grade Seared Tuna"></menu_item>
+<menu_item type="default" category="Green Salads" price=" 10.95" descript="on field greens with potatoes, string beans, kalamata olives &amp; capers" itemname="Tuna Nicoise"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 6.99" descript="" itemname="Fresh Fruit Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 4.19" descript="" itemname="Cole Slaw"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 4.19" descript="" itemname="Macaroni Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 4.19" descript="" itemname="Potato Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 9.19" descript="" itemname="Fresh Mozzarella &amp;amp; Cherry Tomato Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 6.19" descript="" itemname="Tomato &amp;amp; Cucumber Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 5.59" descript="with onion &amp; basil" itemname="Sweet Corn Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 5.19" descript="with fresh dill" itemname="Pickled Beets"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 6.59" descript="with feta cheese &amp; cherry tomatoes" itemname="Spinach &amp;amp; Bowtie Pasta Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 6.19" descript="with diced peppers &amp; onions" itemname="Orzo Pasta Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 8.19" descript="" itemname="Pesto Tortellini Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 6.59" descript="with sundried tomatoes, black olives &amp; parmesan cheese" itemname="Pasta Promenade"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 5.29" descript="with red-skinned potatoes, onion, basil &amp; italian dressing" itemname="Italian Potato Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 6.19" descript="with roasted potatoes &amp; bacon" itemname="Caesar Potato Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 7.19" descript="with spinach, roasted peppers &amp; sundried tomatoes" itemname="Grilled Chicken Pasta Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 7.19" descript="with penne, tomatoes, cucumbers, peppers &amp; ranch dressing" itemname="Rotisserie Chicken Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 7.59" descript="with onion, peppers &amp; cabbage" itemname="Wild Rice Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 7.59" descript="with green peppers, scallions, cashews &amp; raisins" itemname="Brown Rice Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 7.19" descript="with tomatoes, scallions &amp; basil" itemname="Green Lentil Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 7.19" descript="with corn, peppers &amp; onions" itemname="Black Bean Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 6.19" descript="with kidney beans, tomatoes &amp; cilantro" itemname="Tex-mex Rice Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 6.59" descript="with corn, scallions &amp; lime-chipotle vinaigrette" itemname="Sweet Potato Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 9.19" descript="with wild rice &amp; green grapes" itemname="Curry Turkey Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 9.89" descript="with peppers, pecans &amp; blush wine vinaigrette" itemname="Grilled Chicken &amp;amp; Mango Salad"></menu_item>
+<menu_item type="default" category="Deli Salads" price=" 8.19" descript="with peas, peppers &amp; french dressing" itemname="Crab Louis Pasta Salad"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.95" descript="tabouli salad with hummus &amp; tomatoes in a wrap" itemname="Atlantic Avenue"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.95" descript="fresh turkey with cranberry sauce, red onion, lettuce, tomato &amp; mayo on a honey raisin roll" itemname="Boerum Hill"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.25" descript="broccoli rabe with grilled vegetables &amp; roasted peppers in a wrap" itemname="Cobble Hill"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.95" descript="mango chicken salad with green leaf lettuce in a whole wheat wrap" itemname="Dumbo"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.50" descript="roast beef with field greens, bleu cheese, tomato, red onion, &amp; tangy horseradish dressing on multi-grain bread" itemname="Fort Greene"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.25" descript="grilled chicken &amp; tabouli salad in a wrap" itemname="Pacific Street"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.25" descript="hummus with shredded carrots, tomatoes, red onion, alfalfa sprouts, &amp; romaine lettuce in a wrap" itemname="Smith Street"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="fresh mozzarella with tomatoes, roasted peppers, basil, oil &amp; vinegar on a ciabatta" itemname="Botanical Garden"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.50" descript="barbeque-style chicken cutlet with tomatoes, sweet peppers, sliced pickles &amp; mustard on a roll" itemname="Brooklyn Bridge"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="hot, lean roast beef with melted mozzarella, lettuce &amp; tomato on a hero" itemname="Brooklyn Heights"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="turkey breast with hot bread stuffing &amp; cranberry sauce on a roll" itemname="Cranberry Park"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="hot, lean roast beef with melted cheddar &amp; onion on a hero" itemname="Dumont"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="smoked turkey with swiss cheese &amp; dijon mustard on a freshly-baked croissant" itemname="Eiffel Tower"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="assorted italian cold cuts with lettuce, tomato, oil &amp; vinegar on a hero" itemname="Flushing Heights"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.50" descript="portobello mushrooms, spinach, tomato" itemname="Garden Place"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="lean pastrami, muenster cheese, coleslaw &amp; mustard on a freshly baked croissant (served hot or cold)" itemname="Grand Jury"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="hot, lean pastrami, corned beef or brisket with mustard on jewish rye" itemname="Heavyweight"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="roasted turkey, virginia ham &amp; melted cheddar on a hero" itemname="Jackson Heights"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.50" descript="fresh, homemade chicken salad with bacon, lettuce &amp; tomato on a roll" itemname="Jamaica Heights"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="breaded chicken cutlet with melted muenster cheese, bacon, lettuce, tomato &amp; ranch dressing on a roll" itemname="Knickerbocker"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="hot, lean roast beef with melted smoked cheddar, bacon, lettuce, tomato &amp; russian dressing on a roll" itemname="L &amp;amp; H Express"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="soppressata &amp; fresh mozzarella with tomatoes, roasted peppers, oil &amp; vinegar on a hero" itemname="Love Lane"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="virginia ham, genoa salami, sweet cappicola, provolone cheese, lettuce, tomato, onion, oil &amp; vinegar on a hero" itemname="Majestic Court"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="italian marinated chicken cutlet with melted mozzarella &amp; tomato on a roll" itemname="Mr. Montague"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="italian marinated chicken cutlet with bacon, melted cheddar cheese, lettuce &amp; tomato on a roll" itemname="Park Place"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.95" descript="roasted turkey with bacon, lettuce, tomato &amp; mayo" itemname="Pierrepont"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="breaded chicken cutlet, black forest ham, swiss cheese, lettuce, tomato &amp; russian dressing on a hero" itemname="Promenade"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="lean pastrami or corned beef with sauerkraut &amp; melted swiss cheese on a hero" itemname="Roslyn Heights"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 8.50" descript="smoked turkey, black forest ham, smoked cheddar, bacon, lettuce, tomato &amp; russian dressing" itemname="Smokin' Henry"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.50" descript="fresh, homemade tuna salad with tomatoes on a freshly baked croissant" itemname="Tuna Parisian"></menu_item>
+<menu_item type="default" category="Signature Sandwiches" price=" 6.50" descript="fresh mozzarella cheese, roasted peppers, onion, sliced cucumber, tomatoes, oil &amp; vinegar on a roll" itemname="Vegetarian Delight"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="with roasted peppers, sliced olives &amp; tomatoes" itemname="California Chicken"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="grilled chicken, broccoli, onion, red peppers, &amp; creamy caesar dressing" itemname="Chicken Caesar"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="turkey, swiss cheese, tomato &amp; lettuce" itemname="Deli"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="with lettuce &amp; tomato" itemname="Grilled Chicken"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="with lettuce &amp; roasted peppers" itemname="Mayo-Free Tuna Salad"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="roast beef, cheddar cheese, lettuce &amp; horseradish sauce" itemname="Old English"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="smoked ham, cheddar cheese &amp; sliced apples" itemname="Old Smokey"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="portobello mushrooms, grilled vegetables, &amp; hummus" itemname="Provencal"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="with roasted peppers, alfalfa sprouts &amp; lettuce" itemname="Portobello"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="with swiss cheese, cranberry sauce, red onion &amp; lettuce" itemname="Roasted Turkey"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="fresh mozzarella, roasted red peppers, fresh basil, lettuce &amp; italian dressing" itemname="Roma"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="with lettuce &amp; tomato" itemname="Tuna Salad"></menu_item>
+<menu_item type="default" category="Wraps $6.50" price=" " descript="chicken, walnuts, sliced apples, raisins, celery &amp; mayo" itemname="Waldorf"></menu_item>
+<menu_item type="default" category="Quick Pick-Up Sandwiches" price=" 5.95" descript="swiss cheese, tomatoes &amp; alfalfa sprouts on whole wheat bread" itemname="Avocado"></menu_item>
+<menu_item type="default" category="Quick Pick-Up Sandwiches" price=" 6.95" descript="with roasted peppers, tomatoes, onion &amp; basil on focaccia" itemname="Fresh Mozzarella"></menu_item>
+<menu_item type="default" category="Quick Pick-Up Sandwiches" price=" 7.25" descript="with roasted peppers, pesto sauce &amp; tomatoes on focaccia" itemname="Grilled Chicken Cutlet"></menu_item>
+<menu_item type="default" category="Quick Pick-Up Sandwiches" price=" 5.95" descript="with grilled vegetables &amp; roasted peppers on a club roll" itemname="Peppermill Turkey"></menu_item>
+<menu_item type="default" category="Quick Pick-Up Sandwiches" price=" 6.25" descript="with brie, lettuce, tomatoes &amp; honey mustard on a baguette" itemname="Roasted Turkey"></menu_item>
+<menu_item type="default" category="Quick Pick-Up Sandwiches" price=" 6.25" descript="" itemname="with lettuce, tomatoes on whole wheat bread"></menu_item>
+<menu_item type="default" category="Quick Pick-Up Sandwiches" price=" 6.50" descript="with scallion cream cheese &amp; cucumber on pumpernickel" itemname="Smoked Norwegian Salmon"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.50" descript="" itemname="Rice Pudding"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.25" descript="" itemname="Vanilla Custard"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.95" descript="" itemname="Fresh Strawberries &amp;amp; Cream Cup"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.95" descript="" itemname="Chocolate Mousse Cup"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.25" descript="" itemname="Black &amp;amp; White Cookie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 1.95" descript="" itemname="Chocolate Chip Cookie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.50" descript="" itemname="Cupcake"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.00" descript="" itemname="Mini Fruit Tart"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.25" descript="" itemname="Chocolate Eclair"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.25" descript="devil's food topped with cheesecake &amp; chocolate chips" itemname="Uglies"></menu_item>
+<menu_item type="default" category="Desserts" price=" 4.25" descript="choose: cheesecake, cheesecake with fruit topping, strawberry shortcake, carrot cake, chocolate mousse, all-chocolate layer" itemname="Sliced Cake"></menu_item>
+<menu_item type="default" category="Desserts" price="lb 13.99" descript="" itemname="Assorted Butter Cookies"></menu_item>
+<menu_item type="default" category="Desserts" price=" .85" descript="" itemname="Apple"></menu_item>
+<menu_item type="default" category="Desserts" price=" .85" descript="" itemname="Orange"></menu_item>
+<menu_item type="default" category="Desserts" price=" .75" descript="" itemname="Banana"></menu_item>
+<menu_item type="default" category="Beverages" price="(lg) 2.95" descript="iced coffee (regular, decaf &amp; flavored); iced cappuccino; fresh iced tea (sweet or unsweetened); red zinger iced tea; fresh lemonade; crystal light sugar-free raspberry drink" itemname="Fountain Drinks"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.19" descript="0.5 liter" itemname="Poland Spring Water"></menu_item>
+<menu_item type="default" category="Beverages" price="(20oz) 2.29" descript="coke, pepsi, sprite, sierra mist, ginger ale, root beer, cream soda, orange soda, plain/orange/lemon-lime seltzer (regular &amp; diet available)" itemname="Soda"></menu_item>
+<menu_item type="default" category="Beverages" price="(12oz) 1.75" descript="black cherry, sugar cane cola, birch beer, root beer, cream soda, or soda, grape soda, ginger ale, pure seltzer, orange seltzer, lemon-lime seltzer, (regular &amp; diet available)" itemname="Boylan's Brand Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.75" descript="pint" itemname="Fresh Squeezed Orange Juice"></menu_item>
+<menu_item type="default" category="Beverages" price="(lg) 1.85" descript="coffee (regular, decaf, flavored); tea (regular, decaf, flavored, herbal); hot cocoa" itemname="Hot Beverages"></menu_item>
+<menu_item type="default" category="Bakery" price="(4&quot;) 14.95(6&quot;) 22.95(8&quot;) 32.95(10&quot;) 49.00" descript="we have recently added this amazingly moist american classic to our repertoire, and boy is it a hit! bright red sponge cake flavored with a little cocoa, &amp; layered with luscious cream cheese icing." itemname="Red Velvet Cake"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 17.50(8&quot;) 29.95(10&quot;) 49.00(12&quot;) 69.00" descript="the classic! smooth, creamy, new york style cheesecake with a graham cracker crust. available plain or with fruit topping.." itemname="Cheesecake"></menu_item>
+<menu_item type="default" category="Bakery" price="    10.00" descript="" itemname="with fruit topping, extra"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 17.50(8&quot;) 29.95(10&quot;) 45.00(12&quot;) 55.00" descript="an old-time favorite! spice cake with shredded carrots, walnuts &amp; raisins, layered with cream cheese icing." itemname="Carrot Cake"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 19.95(8&quot;) 30.00(10') 45.00(12&quot;) 65.00" descript="delicious! vanilla sponge layered with coconut cream &amp; coconut icing, sprinkled with coconut flakes." itemname="Coconut Layer"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 22.95(8&quot;) 32.50(10&quot;) 49.00(12&quot;) 65.00" descript="designed for the lemon lover. vanilla sponge layered with lemon buttercream &amp; topped with lemon cream icing." itemname="Lemon Buttercream"></menu_item>
+<menu_item type="default" category="Bakery" price="(6') 22.95(8&quot;) 32.95(10&quot;) 49.00(12&quot;) 69.00" descript="short &amp; sweet! vanilla sponge layered with fresh strawberries &amp; fresh whipped cream." itemname="Strawberry Shortcake"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 25.00(8&quot;) 39.00(10') 59.00(12&quot;) 79.00" descript="an elegant choice! chocolate sponge and espresso-soaked ladyfingers layered with mascarpone, whipped cream, custard &amp; ganache." itemname="Tiramisu"></menu_item>
+<menu_item type="default" category="Bakery" price="(6') 21.95(8&quot;) 36.95(10&quot;) 49.00(12&quot;) 65.00" descript="the baker's favorite! vanilla sponge layered with mocha cream &amp; a fresh whipped cream exterior! sprinkled with toasted almonds." itemname="Mocha Whip Cream"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 21.95(8&quot;) 36.95(10') 49.00(12&quot;) 65.00" descript="for coffee lovers! vanilla sponge soaked in espresso, layered with mocha cream inside &amp; out. topped with toasted almonds." itemname="Mocha Buttercream"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 21.95(8&quot;) 36.25(10&quot;) 43.95(12&quot;) 59.00" descript="a timeless favorite. vanilla sponge layered &amp; iced with chocolate cream &amp; rich chocolate buttercream." itemname="Sachetorte"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 21.95(8&quot;) 36.95(10&quot;) 49.00(12&quot;) 65.00" descript="it's not just for cookies! vanilla sponge layered with chocolate mousse &amp; sprinkled with chocolate chips!" itemname="Chocolate Chip"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 18.95(8&quot;) 29.50(10&quot;) 49.00(12&quot;) 65.00" descript="delightful! silky-smooth, chocolate mousse, supported by a single layer of chocolate sponge, smothered in ganache." itemname="Chocolate Mousse"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 19.75(8&quot;) 29.95(10&quot;) 38.50(12&quot;) 65.00" descript="a magnificent design! chocolate &amp; raspberry mousses delicately layered over a base of classic chocolate sponge." itemname="Raspberry Chocolate Mousse"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 21.95(8&quot;) 36.25(10&quot;) 49.00(12&quot;) 69.00" descript="intensely chocolate! chocolate sponge layered with chocolate cream, smothered in chocolate fudge icing." itemname="Chocolate Layer"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 21.95(8&quot;) 36.25(10&quot;) 49.00(12&quot;) 69.00" descript="a chocolate paradise! chocolate sponge layered with chocolate mousse, wrapped in a rich chocolate buttercream exterior" itemname="Chocolate Decadence"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 19.95(8') 34.95(10&quot;) 49.00(12&quot;) 69.00" descript="the richest cake on our menu! chocolate sponge layered with chocolate fudge, chocolate buttercream &amp; raspberry - draped in chocolate ganache." itemname="Raspberry Chocolate Fudge"></menu_item>
+<menu_item type="default" category="Bakery" price="(6&quot;) 21.95(8&quot;) 36.25(10&quot;) 49.00(12&quot;) 69.00" descript="a gorgeous creation! chocolate sponge layered with fresh whipped cream, chocolate cream, &amp; a hint of raspberry. heaped with dramatic chocolate shavings." itemname="Black Or White Forest"></menu_item>
+<menu_item type="default" category="Bakery" price="  (3&quot;) 4.95(9&quot;) 35.00" descript="for the romantic! hazelnut sponge layered with mocha buttercream, raspberry &amp; chocolate ganache." itemname="Opera"></menu_item>
+<menu_item type="default" category="Bakery" price="  (3') 4.95(9') 35.00" descript="a traditional patisserie standard! almond sponge layered with vanilla buttercream, dusted in powdered sugars" itemname="Miserables"></menu_item>
+<menu_item type="default" category="Bakery" price="  (3&quot;) 4.50(9') 29.00" descript="a classic favorite! flaky puff pastry with a sweet custard filling, topped with vanilla glaze." itemname="Napoleon"></menu_item>
+<menu_item type="default" category="Bakery" price="  mini 2.50sm 3.95" descript="melts in your mouth - 100% flourless. choose mocha buttercream or chocolate buttercream filling." itemname="French Macaroons"></menu_item>
+<menu_item type="default" category="Bakery" price="   (10&quot;) 16.95" descript="a must-have for holidays, or any time! our all-butter pie shell is bursting with the finest fillings - choose: apple, pumpkin, blueberry, peach, or coconut custard." itemname="Classic Pies"></menu_item>
+<menu_item type="default" category="Bakery" price="  (8') 19.95(10&quot;) 27.95" descript="light &amp; lovely! a sweet lemon curd topped with airy meringue, in our all-butter tart shell." itemname="Lemon Meringue Tart"></menu_item>
+<menu_item type="default" category="Bakery" price="  (4') 3.95(10&quot;) 29.95" descript="just like mom used to make! layers &amp; layers of puff pastry, filled with granny smith apples, &amp; drizzled with a sweet honey glaze." itemname="Rustic Apple Tart"></menu_item>
+<menu_item type="default" category="Bakery" price="  (8&quot;) 29.95(10') 39.00" descript="as beautiful as it is scrumptious! our all-butter pie shell is filled with fresh, homemade cream, and heaped with seasonal fresh fruit." itemname="Fresh Fruit Tart"></menu_item>
+<menu_item type="default" category="Bakery" price="  (8&quot;) 19.95(10') 29.95" descript="a home-style classic! our all-butter tart shell is filled &amp; baked with the best ingredients - choose: pecan, apple, black cherry, pear, apricot or peach" itemname="Baked Tarts"></menu_item>
+<menu_item type="default" category="Bakery" price="  mini 2.50sm 4.95" descript="when you need your treats in single servings! same selection as the fresh fruit or baked tarts. we'll give you a variety, or you can choose your own." itemname="Individual Tarts"></menu_item>
+<menu_item type="default" category="Bakery" price="   lb 15.99" descript="lassen's very own, made on the premises! all the classic italian styles and more - made with real butter &amp; the finest ingredients." itemname="Butter Cookies"></menu_item>
+<menu_item type="default" category="Bakery" price="  mini 1.25reg 2.25" descript="perfect for kids of all ages! please place your custom order at least one day in advance." itemname="Cupcakes"></menu_item>
+<menu_item type="default" category="Bakery" price="   ea 2.50" descript="" itemname="red velvet"></menu_item>
+<menu_item type="default" category="Bakery" price="(qt sheet) 55.00(half sheet) 100.00(14&quot;) 100.00(full sheet) 175.00" descript="please order 5 days in advance. strawberry shortcake, lemon buttercream, carrot cake, coconut layer, chocolate mousse, mocha whip, opera, napoleon, miserables" itemname="Sheet Cakes"></menu_item>
+<menu_item type="default" category="Bakery" price="(qt sheet) 65.00(half sheet) 125.00(14&quot;) 125.00(full sheet) 225.00" descript="" itemname="please order 5 days in advance. sachetorte, mocha buttercream, chocolate chip, chocolate layer, chocolate decadence, raspberry chocolate fudge, black or white forest"></menu_item>
+</root>

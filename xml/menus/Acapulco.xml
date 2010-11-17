@@ -1,0 +1,155 @@
+<root>
+<menu_item type="Breakfast" category="Breakfast Breads" price=" .85" descript="" itemname="With Butter"></menu_item>
+<menu_item type="Breakfast" category="Breakfast Breads" price=" 1.00" descript="" itemname="Butter Jelly"></menu_item>
+<menu_item type="Breakfast" category="Breakfast Breads" price=" 1.50" descript="" itemname="Cream Cheese"></menu_item>
+<menu_item type="Breakfast" category="Breakfast Breads" price=" 1.65" descript="" itemname="Cream Cheese, Jelly, Bagel, Roll, Toast"></menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 4.25" descript="" itemname="Pancakes Plain"></menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 4.50" descript="with banana" itemname="Pancakes"><extra type="sub" price=" 4.50" descript="with strawberries"></extra>
+<extra type="sub" price=" 5.25" descript="with strawberries &amp;amp; banana"></extra>
+<extra type="sub" price=" 4.95" descript="with apple-cinnamon"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="French Toast" price=" 4.25" descript="" itemname="French Toast Plain"></menu_item>
+<menu_item type="Breakfast" category="French Toast" price=" 4.50" descript="with banana" itemname="French Toast"><extra type="sub" price=" 4.50" descript="with strawberries"></extra>
+<extra type="sub" price=" 4.95" descript="with apple, cinnamon"></extra>
+<extra type="sub" price=" 5.25" descript="with strawberries &amp;amp; banana"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Crunch French Toast" price=" 4.75" descript="" itemname="Crunch French Toast Plain"></menu_item>
+<menu_item type="Breakfast" category="Crunch French Toast" price=" 5.25" descript="with strawberries" itemname="Crunch French Toast"><extra type="sub" price=" 5.25" descript="with banana"></extra>
+<extra type="sub" price=" 5.75" descript="with strawberries &amp;amp; banana"></extra>
+<extra type="sub" price=" 5.25" descript="with apple, cinnamon"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Breakfast Platters" price=" 3.50" descript="" itemname="Two Eggs Cooked Any Style"></menu_item>
+<menu_item type="Breakfast" category="Breakfast Platters" price=" 4.25" descript="with ham" itemname="Two Eggs"><extra type="sub" price=" 4.25" descript="with bacon"></extra>
+<extra type="sub" price=" 4.25" descript="with cheese"></extra>
+<extra type="sub" price=" 4.50" descript="with sausages"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Breakfast Platters" price=" 4.00" descript="" itemname="Two Egg Whites"></menu_item>
+<menu_item type="Breakfast" category="Omelette Platter" price=" 4.25" descript="" itemname="Plain Omelette"></menu_item>
+<menu_item type="Breakfast" category="Omelette Platter" price=" 4.50" descript="" itemname="Cheese Omelette"></menu_item>
+<menu_item type="Breakfast" category="Omelette Platter" price=" 4.95" descript="" itemname="Western Omelette"></menu_item>
+<menu_item type="Breakfast" category="Omelette Platter" price=" 4.95" descript="" itemname="Mozzarella, Tomato, Basil Omelette"></menu_item>
+<menu_item type="Breakfast" category="Omelette Platter" price=" 4.95" descript="" itemname="Bacon, Cheddar, Tomato Omelette"></menu_item>
+<menu_item type="Breakfast" category="Omelette Platter" price=" 4.95" descript="" itemname="Pepper, Onion and Sausage Omelette"></menu_item>
+<menu_item type="Breakfast" category="Mexican Omelette Platters" price=" 5.50" descript="" itemname="Chorizo Omelette"></menu_item>
+<menu_item type="Breakfast" category="Mexican Omelette Platters" price=" 5.50" descript="" itemname="Mexican Omelette"></menu_item>
+<menu_item type="Breakfast" category="Mexican Omelette Platters" price=" 5.25" descript="" itemname="Huevos Rancheros"></menu_item>
+<menu_item type="Breakfast" category="Mexican Omelette Platters" price=" 5.50" descript="" itemname="Breakfast Burrito"></menu_item>
+<menu_item type="Breakfast" category="Mexican Omelette Platters" price=" 5.50" descript="" itemname="Acapulco Breakfast"></menu_item>
+<menu_item type="Breakfast" category="Egg Sandwiches" price=" 2.00" descript="" itemname="Eggs On a Roll"><extra type="sub" price=" 2.50" descript="with ham"></extra>
+<extra type="sub" price=" 2.50" descript="with bacon"></extra>
+<extra type="sub" price=" 2.50" descript="with cheese"></extra>
+<extra type="sub" price=" 3.00" descript="with sausage"></extra>
+</menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 7.25" descript="served with turkey, ham, cheese, and hard boiled eggs, served over mixed greens" itemname="Chef Salad"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 4.50" descript="served mixed greens and avocados" itemname="Avocado Salad"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 8.50" descript="served with chicken breast, bacon, mexican cheese, eggs. over mixed greens" itemname="Cobb Salad"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 9.50" descript="" itemname="Ceviche De Camarones"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 3.50" descript="" itemname="House Salad"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Salads" price=" 9.50" descript="" itemname="Shrimp Cocktail"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 6.50" descript="with cheese" itemname="Nachos"><extra type="sub" price=" 8.50" descript="with chicken"></extra>
+</menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 8.50" descript="served with refried beans, cheese and jalapeño" itemname="Nachos With Beef"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 5.50" descript="with homemade guacamole" itemname="Chips"><extra type="sub" price=" 5.25" descript="with red homemade sauce"></extra>
+</menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 2.50" descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 2.50" descript="" itemname="French Fries"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Appetizers" price=" 3.50" descript="" itemname="Fruit Salad"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Charbroiled Burgers Deluxe" price=" 4.50" descript="" itemname="Beef Burger"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Charbroiled Burgers Deluxe" price=" 5.50" descript="" itemname="Chili Burger"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Charbroiled Burgers Deluxe" price=" 5.00" descript="" itemname="Cheese Burger"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Charbroiled Burgers Deluxe" price=" 5.50" descript="" itemname="Bacon Cheeseburger"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Charbroiled Burgers Deluxe" price=" 5.00" descript="" itemname="B.B.Q. Burger"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Cold Sandwiches" price=" 5.25" descript="served with avocado, cucumber, cheddar cheese and mayonnaise" itemname="Garden Club Sandwich"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Cold Sandwiches" price=" 6.25" descript="with french fries served with smoked turkey breast, bacon, lettuce, tomato and mayonnaise" itemname="Turkey Club Sandwich"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Cold Sandwiches" price=" 4.50" descript="" itemname="Ham And Cheese"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Cold Sandwiches" price=" 5.50" descript="lettuce, tomatoes" itemname="Smoked Turkey"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Cold Sandwiches" price=" 4.95" descript="" itemname="Fresh Tuna Salad"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Grilled Sandwiches" price=" 3.50" descript="" itemname="Grilled Cheese"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Grilled Sandwiches" price=" 4.50" descript="" itemname="B.L.T."></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Grilled Sandwiches" price=" 4.50" descript="" itemname="Mozzarella, Tomato and Basil"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Grilled Sandwiches" price=" 4.50" descript="" itemname="Pastrami"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Grilled Sandwiches" price=" 5.50" descript="" itemname="Tuna Melt"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Grilled Sandwiches" price=" 5.50" descript="" itemname="Chicken Reuben"></menu_item>
+<menu_item type="Lunch &amp;amp; Dinner" category="Grilled Sandwiches" price=" 5.50" descript="onions and pepper" itemname="Grilled Chicken With B.B.Q. Sauce"></menu_item>
+<menu_item type="Foods From Mexico" category="Quesadillas" price=" 6.50" descript="pollo" itemname="Chicken"></menu_item>
+<menu_item type="Foods From Mexico" category="Quesadillas" price=" 6.50" descript="bistec" itemname="Beef"></menu_item>
+<menu_item type="Foods From Mexico" category="Quesadillas" price=" 5.50" descript="" itemname="Vegetables"></menu_item>
+<menu_item type="Foods From Mexico" category="Quesadillas" price=" 7.50" descript="camarones" itemname="Shrimp"></menu_item>
+<menu_item type="Foods From Mexico" category="Quesadillas" price=" 6.50" descript="chorizo" itemname="Sausage"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 6.50" descript="" itemname="Acapulco Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 5.50" descript="" itemname="Vegetable Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 6.50" descript="" itemname="Guacamole Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 6.50" descript="" itemname="Chicken Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 6.50" descript="" itemname="Grilled Steak Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 6.50" descript="" itemname="Chile Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 7.50" descript="" itemname="Shrimp Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 7.50" descript="" itemname="Fish Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 6.50" descript="" itemname="Chorizo Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Burritos" price=" 6.50" descript="" itemname="Roast Pork Burrito"></menu_item>
+<menu_item type="Foods From Mexico" category="Tostadas $5.50" price=" " descript="" itemname="Chicken"></menu_item>
+<menu_item type="Foods From Mexico" category="Tostadas $5.50" price=" " descript="" itemname="Beef"></menu_item>
+<menu_item type="Foods From Mexico" category="Tostadas $5.50" price=" " descript="" itemname="Vegetables"></menu_item>
+<menu_item type="Foods From Mexico" category="Tostadas $5.50" price=" " descript="" itemname="Pork"></menu_item>
+<menu_item type="Foods From Mexico" category="Tostadas $5.50" price=" " descript="" itemname="Chorizo"></menu_item>
+<menu_item type="Foods From Mexico" category="Huaraches" price=" 7.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="Foods From Mexico" category="Huaraches" price=" 7.00" descript="" itemname="Steak"></menu_item>
+<menu_item type="Foods From Mexico" category="Huaraches" price=" 7.00" descript="chorizo" itemname="Sausage"></menu_item>
+<menu_item type="Foods From Mexico" category="Huaraches" price=" 6.50" descript="" itemname="Vegetables"></menu_item>
+<menu_item type="Foods From Mexico" category="Huaraches" price=" 7.00" descript="" itemname="Pork"></menu_item>
+<menu_item type="Foods From Mexico" category="Huaraches" price=" 8.00" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="Foods From Mexico" category="Tacos" price=" 5.50" descript="al carbon" itemname="Slice Steak"></menu_item>
+<menu_item type="Foods From Mexico" category="Tacos" price=" 5.50" descript="carnitas" itemname="Roast Pork"></menu_item>
+<menu_item type="Foods From Mexico" category="Tacos" price=" 5.50" descript="bistec" itemname="Steak"></menu_item>
+<menu_item type="Foods From Mexico" category="Tacos" price=" 6.00" descript="spicy meat" itemname="Carne Enchilada"></menu_item>
+<menu_item type="Foods From Mexico" category="Tacos" price=" 5.50" descript="pollo" itemname="Chicken"></menu_item>
+<menu_item type="Foods From Mexico" category="Tacos" price=" 6.00" descript="rancheros" itemname="Country Style"></menu_item>
+<menu_item type="Foods From Mexico" category="Tacos" price=" 5.50" descript="sausage" itemname="Chorizo"></menu_item>
+<menu_item type="Foods From Mexico" category="Tacos" price=" 6.00" descript="" itemname="Cecina"></menu_item>
+<menu_item type="Foods From Mexico" category="Hard Shell Tacos" price=" 5.50" descript="al carbon" itemname="Slice Steak"></menu_item>
+<menu_item type="Foods From Mexico" category="Hard Shell Tacos" price=" 5.50" descript="carnitas" itemname="Roast Pork"></menu_item>
+<menu_item type="Foods From Mexico" category="Hard Shell Tacos" price=" 5.50" descript="bistec" itemname="Steak"></menu_item>
+<menu_item type="Foods From Mexico" category="Hard Shell Tacos" price=" 6.00" descript="spicy meat" itemname="Carne Enchilada"></menu_item>
+<menu_item type="Foods From Mexico" category="Hard Shell Tacos" price=" 5.50" descript="pollo" itemname="Chicken"></menu_item>
+<menu_item type="Foods From Mexico" category="Hard Shell Tacos" price=" 6.00" descript="rancheros" itemname="Country Style"></menu_item>
+<menu_item type="Foods From Mexico" category="Hard Shell Tacos" price=" 5.50" descript="sausage" itemname="Chorizo"></menu_item>
+<menu_item type="Foods From Mexico" category="Hard Shell Tacos" price=" 6.00" descript="" itemname="Cecina"></menu_item>
+<menu_item type="Foods From Mexico" category="Fajitas" price=" 9.50" descript="" itemname="Chicken"></menu_item>
+<menu_item type="Foods From Mexico" category="Fajitas" price=" 9.50" descript="" itemname="Steak"></menu_item>
+<menu_item type="Foods From Mexico" category="Fajitas" price=" 8.50" descript="" itemname="Chorizo"></menu_item>
+<menu_item type="Foods From Mexico" category="Fajitas" price=" 7.50" descript="" itemname="Vegetables"></menu_item>
+<menu_item type="Foods From Mexico" category="Fajitas" price=" 8.50" descript="" itemname="Pork"></menu_item>
+<menu_item type="Foods From Mexico" category="Fajitas" price=" 11.50" descript="" itemname="Shrimp"></menu_item>
+<menu_item type="Foods From Mexico" category="Fajitas" price=" 9.50" descript="" itemname="Mix Fajita Chicken and Steak"></menu_item>
+<menu_item type="Foods From Mexico" category="Tortas" price=" 5.50" descript="mexican cheese and ham" itemname="Acapulco Torta"></menu_item>
+<menu_item type="Foods From Mexico" category="Tortas" price=" 5.50" descript="" itemname="Steak"></menu_item>
+<menu_item type="Foods From Mexico" category="Tortas" price=" 5.50" descript="" itemname="Milanesa"></menu_item>
+<menu_item type="Foods From Mexico" category="Tortas" price=" 5.50" descript="" itemname="Chicken"></menu_item>
+<menu_item type="Foods From Mexico" category="Tortas" price=" 5.50" descript="" itemname="Pernil"></menu_item>
+<menu_item type="Foods From Mexico" category="Tortas" price=" 5.75" descript="" itemname="Pernil Enchilado"></menu_item>
+<menu_item type="Foods From Mexico" category="Jugos - Juice" price=" 3.00" descript="" itemname="Fresh Squeezed Orange Juice"></menu_item>
+<menu_item type="Foods From Mexico" category="Jugos - Juice" price=" 3.00" descript="" itemname="Fresh Carrot Juice"></menu_item>
+<menu_item type="Foods From Mexico" category="Jugos - Juice" price=" 3.50" descript="orange juice with milk" itemname="Morir Soñando"></menu_item>
+<menu_item type="Foods From Mexico" category="Fruit Shakes $3.50" price=" " descript="" itemname="Strawberry"></menu_item>
+<menu_item type="Foods From Mexico" category="Fruit Shakes $3.50" price=" " descript="" itemname="Mango"></menu_item>
+<menu_item type="Foods From Mexico" category="Fruit Shakes $3.50" price=" " descript="" itemname="Banana"></menu_item>
+<menu_item type="Foods From Mexico" category="Fruit Shakes $3.50" price=" " descript="" itemname="Papaya"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas $3.50" price=" " descript="" itemname="Corona"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas $3.50" price=" " descript="" itemname="Bohemia"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas $3.50" price=" " descript="can" itemname="Tecate"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas $3.50" price=" " descript="" itemname="Negra Modelo"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas $3.50" price=" " descript="can" itemname="Modelo Especial"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas $3.50" price=" " descript="" itemname="Dos Equis"></menu_item>
+<menu_item type="Foods From Mexico" category="Hot Drinks" price=" 1.00" descript="" itemname="Coffee, Sanka or Tea"></menu_item>
+<menu_item type="Foods From Mexico" category="Hot Drinks" price=" 1.50" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas" price=" 3.50" descript="" itemname="Heineken"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas" price=" 3.00" descript="" itemname="Budweiser"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas" price=" 3.00" descript="" itemname="Miller"></menu_item>
+<menu_item type="Foods From Mexico" category="Cervezas Mexicanas" price="can 3.00" descript="" itemname="Budweiser"></menu_item>
+<menu_item type="Foods From Mexico" category="Mexican Sodas" price=" " descript="" itemname="Coca Cola"></menu_item>
+<menu_item type="Foods From Mexico" category="Mexican Sodas" price=" " descript="" itemname="Jarritos"></menu_item>
+<menu_item type="Foods From Mexico" category="Mexican Sodas" price=" " descript="" itemname="Limón"></menu_item>
+<menu_item type="Foods From Mexico" category="Mexican Sodas" price=" " descript="" itemname="Tamarindo"></menu_item>
+<menu_item type="Foods From Mexico" category="Mexican Sodas" price=" " descript="" itemname="Mandarina"></menu_item>
+<menu_item type="Foods From Mexico" category="Mexican Sodas" price=" " descript="" itemname="Sidral"></menu_item>
+<menu_item type="Foods From Mexico" category="Mexican Sodas" price=" " descript="" itemname="Sangría"></menu_item>
+</root>

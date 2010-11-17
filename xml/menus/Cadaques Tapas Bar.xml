@@ -1,0 +1,39 @@
+<root>
+<menu_item type="default" category="Sopa Fria" price=" 5.00" descript="" itemname="Tradicional Gazpacho"></menu_item>
+<menu_item type="default" category="Sopa Fria" price=" 6.00" descript="roasted beets, cherries and mint" itemname="Gazpacho De Verano"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 8.00" descript="endives, serrano ham, cabrolex cheese, dry apricots, pinenuts with raspberry vinaigrette" itemname="Ensalada De Endivias"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 6.00" descript="almonds, calamata olives, red onions, sundried tomato, pedro ximenez sherry vinaigrette" itemname="Ensalada De Almendras"></menu_item>
+<menu_item type="default" category="Ensaladas" price=" 7.00" descript="roasted beets, pinenuts, watercress leaves, crispy idiazabal cheese." itemname="Ensalada De Las Remolachas"></menu_item>
+<menu_item type="default" category="Tapas Frios" price=" 8.00" descript="poached shrimp, shaved fennel, ginger aromatic" itemname="Confit Del Camaron"></menu_item>
+<menu_item type="default" category="Tapas Frios" price=" 7.00" descript="beets, goat cheese, sherry truffle reduction" itemname="Terrine De Las Remoulachas"></menu_item>
+<menu_item type="default" category="Tapas Frios" price=" 6.00" descript="white anchovies, croutons, eggplant" itemname="Tartina De Boquerones"></menu_item>
+<menu_item type="default" category="Tapas Frios" price=" 8.00" descript="croutons, sardine and pickle onion" itemname="Sardina Escabeche"></menu_item>
+<menu_item type="default" category="Tapas Frios" price=" 7.00" descript="mussels, pepper, tomato, saffron oil" itemname="Ceviche De Mejillones"></menu_item>
+<menu_item type="default" category="Tapas Frios" price=" 9.00" descript="stuffed piquillo pepper with seafood salad" itemname="Piquillo Relleno Mariscos"></menu_item>
+<menu_item type="default" category="Tapas Frios" price="(6) 18.00" descript="choice of selection: lomo, morcilla, sobrassada, serrano ham, salchichon, spicy chorizo, mild chorizo" itemname="Placa De Charcuteria"></menu_item>
+<menu_item type="default" category="Tapas Frios" price="add per oz 5.00" descript="" itemname="iberico ham and mangalica ham"></menu_item>
+<menu_item type="default" category="Tapas Frios" price="(6) 17.00" descript="choice of selection: manchego, castellano, tetilla, cabrales, mahan, iberico, st marcellin, mantenebro, rustic black pepper, rancari-blue" itemname="Placa De Queso"></menu_item>
+<menu_item type="default" category="Tapas Frios" price="(4) 18.00" descript="" itemname="Mezcla De Charcuteria Y Queso"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 4.00" descript="toasted bread with garlic and local jersey tomatoes." itemname="Pan Con Tomate"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price="(per oz) 5.00" descript="" itemname="iberico ham and mangalica ham extra"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price="(3 pcs) 8.00" descript="cod fish fritters, capers aioli" itemname="Croquetas De Bacalao"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price="(3 pcs) 7.00" descript="serrano ham fritters" itemname="Croquetas De Jamon"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price="(3 pcs) 7.00" descript="tetilla cheese fritters" itemname="Croquetas De Queso"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 5.00" descript="spanish potatoes omelette with aioli" itemname="Tortilla De Patatas"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 7.00" descript="fried artichokes, fennel pollen aioli" itemname="Alcachofas Alevines"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 6.00" descript="fried potatoes with piquillo pepper aioli" itemname="Potatas Bravas"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 10.00" descript="steamed manila clams, chorizo, white wine" itemname="Chorizo Con Almejas"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 12.00" descript="crispy pinto beans, watercress, lemon, paprika oil" itemname="Camarones A La Plancha"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 9.00" descript="plancha asparagus with romesco sauce" itemname="Esparragos Ramesco"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 6.00" descript="fried padrones pepper with sea salt (1/10 spicy)" itemname="Padrones"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 7.00" descript="sauteed romesco cauliflower, bacon herbs seasoning" itemname="Coles Romesco"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 13.00" descript="grilled hanger steak, zucchini, eggplant, yellow squash and tomato confit" itemname="Escalibada Del Filete"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 12.00" descript="baby spare ribs with spanish bbq sauce" itemname="Spanish Costillas"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 10.00" descript="plancha octopus, roasted sherry tomatoes, squid ink, fig balsamic" itemname="Pulpo En Su Tinta"></menu_item>
+<menu_item type="default" category="Tapas Calientes" price=" 11.00" descript="stuffed calamari with chorizo paella" itemname="Calamares Rellenado"></menu_item>
+<menu_item type="default" category="Postre" price=" 7.00" descript="with sea salted chocolate, raspberry rosemary jam and white chocolate" itemname="Churros"></menu_item>
+<menu_item type="default" category="Postre" price=" 6.00" descript="creamy creme brulee" itemname="Crema Catalana"></menu_item>
+<menu_item type="default" category="Postre" price=" 6.00" descript="apple empanadas" itemname="Empanada A Las Manzanas"></menu_item>
+<menu_item type="default" category="Postre" price=" 5.00" descript="traditional spanish flan" itemname="Tonicillo De Cielo"></menu_item>
+<menu_item type="default" category="Postre" price=" 5.00" descript="raspberry, strawberry, peach, pineapple" itemname="Seasonal Fruits In Red Wine"></menu_item>
+</root>

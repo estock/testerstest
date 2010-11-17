@@ -1,0 +1,8 @@
+<root>
+<menu_item type="default" category="Frozen Yogurt" price=" 6.45" descript="" itemname="Original"></menu_item>
+<menu_item type="default" category="Toppings" price=" 1.00" descript="" itemname="One Toppings"></menu_item>
+<menu_item type="default" category="Toppings" price=" 1.25" descript="" itemname="Two Toppings"></menu_item>
+<menu_item type="default" category="Toppings" price=" 1.50" descript="" itemname="Three Toppings"></menu_item>
+<menu_item type="default" category="Green Tea" price=" 7.45" descript="" itemname="Green Tea"></menu_item>
+<menu_item type="default" category="Blenders (Smoothies)" price=" 5.95" descript="including up to 3 toppings" itemname="Original"></menu_item>
+</root>

@@ -1,0 +1,25 @@
+<root>
+<menu_item type="Lunch Menu" category="10&amp;quot; Pitza" price=" 7.50" descript="" itemname="Sundried Tomato"></menu_item>
+<menu_item type="Lunch Menu" category="10&amp;quot; Pitza" price=" 7.00" descript="" itemname="Lahmbajin"></menu_item>
+<menu_item type="Lunch Menu" category="10&amp;quot; Pitza" price=" 7.00" descript="" itemname="Vegetable"></menu_item>
+<menu_item type="Lunch Menu" category="10&amp;quot; Pitza" price=" 7.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="Lunch Menu" category="10&amp;quot; Pitza" price=" 7.00" descript="" itemname="Beef"></menu_item>
+<menu_item type="Lunch Menu" category="10&amp;quot; Pitza" price=" 7.00" descript="" itemname="Leek"></menu_item>
+<menu_item type="Lunch Menu" category="10&amp;quot; Pitza" price=" 5.25" descript="" itemname="Italian"></menu_item>
+<menu_item type="Lunch Menu" category="Sandwiches" price=" 4.50" descript="" itemname="Falafel"></menu_item>
+<menu_item type="Lunch Menu" category="Sandwiches" price=" 5.75" descript="" itemname="Chicken Kebab"></menu_item>
+<menu_item type="Lunch Menu" category="Sandwiches" price=" 5.75" descript="" itemname="Shish Kebab"></menu_item>
+<menu_item type="Lunch Menu" category="Sandwiches" price=" 5.75" descript="" itemname="Kafta Kebab"></menu_item>
+<menu_item type="Lunch Menu" category="Sandwiches" price=" 5.75" descript="" itemname="Gyro"></menu_item>
+<menu_item type="Lunch Menu" category="Sandwiches" price=" 5.75" descript="" itemname="Vegetable Kebab"></menu_item>
+<menu_item type="Lunch Menu" category="Sandwiches" price=" 6.50" descript="" itemname="Shrimp Kebab"></menu_item>
+<menu_item type="Lunch Menu" category="Sandwiches" price=" 6.50" descript="" itemname="Fish Kebab"></menu_item>
+<menu_item type="Lunch Menu" category="Bread and Pies" price=" 6.00" descript="spinach, onions, olive oil, spices and cheese wrapped in a calzone like pie." itemname="Spinach Pie"></menu_item>
+<menu_item type="Lunch Menu" category="Bread and Pies" price=" 6.00" descript="mixed vegetables, spices and cheese rapped in a calzone like pie." itemname="Vegetable Pie"></menu_item>
+<menu_item type="Lunch Menu" category="Bread and Pies" price=" 6.50" descript="ground, beef, vegetables, spices and cheese wrapped in a calzone like pie." itemname="Meat Pie"></menu_item>
+<menu_item type="Lunch Menu" category="Bread and Pies" price=" 4.00" descript="a mixture of thyme, middle eastern spices and olive oil." itemname="Zattar Bread"></menu_item>
+<menu_item type="Lunch Menu" category="Bread and Pies" price=" 1.00" descript="" itemname="Fresh Pita Bread"></menu_item>
+<menu_item type="Lunch Menu" category="Desserts" price=" 3.00" descript="multi-layered fillo dough stuffed with minced walnuts, honey and cinnamon." itemname="Baklawa"></menu_item>
+<menu_item type="Lunch Menu" category="Desserts" price=" 2.00" descript="variety of wheat flour with honey." itemname="Basbousa"></menu_item>
+<menu_item type="Lunch Menu" category="Desserts" price=" 2.50" descript="multi-layered fillo dough stuffed with minced walnuts and honey." itemname="Lady&amp;#39;s Fingers"></menu_item>
+</root>

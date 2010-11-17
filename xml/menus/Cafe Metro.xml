@@ -1,0 +1,280 @@
+<root>
+<menu_item type="Breakfast" category="Fresh New York Hand Rolled Bagels $0.99" price=" " descript="" itemname="Plain Bagel"></menu_item>
+<menu_item type="Breakfast" category="Fresh New York Hand Rolled Bagels $0.99" price=" " descript="" itemname="Poppy Seed Bagel"></menu_item>
+<menu_item type="Breakfast" category="Fresh New York Hand Rolled Bagels $0.99" price=" " descript="" itemname="Sesame Seed Bagel"></menu_item>
+<menu_item type="Breakfast" category="Fresh New York Hand Rolled Bagels $0.99" price=" " descript="" itemname="Cinnamon Raisin Bagel"></menu_item>
+<menu_item type="Breakfast" category="Fresh New York Hand Rolled Bagels $0.99" price=" " descript="" itemname="Everything Bagel"></menu_item>
+<menu_item type="Breakfast" category="Fresh New York Hand Rolled Bagels $0.99" price=" " descript="" itemname="Whole Wheat Bagel"></menu_item>
+<menu_item type="Breakfast" category="Regular &amp;amp; Low Fat Muffins $1.89" price=" " descript="all-natural homemade muffins." itemname="Muffins"></menu_item>
+<menu_item type="Breakfast" category="Regular &amp;amp; Low Fat Muffins $1.89" price=" " descript="low fat muffins are a great way to start your day" itemname="Low Fat Muffins"></menu_item>
+<menu_item type="Breakfast" category="Egg Sandwiches" price=" 2.49" descript="two farm fresh eggs prepared your way. add your favorite meat or cheese" itemname="Two Egg Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Egg Sandwiches" price=" 3.49" descript="farm fresh eggs, ham, peppers, and onions. add your favorite cheese" itemname="Western Omelette Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Egg Sandwiches" price=" 3.69" descript="a three egg omelette with your choice of cheese" itemname="Cheese Omelette Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Egg Sandwiches" price=" 3.69" descript="egg white omelette with your choice of fresh garden vegetables. add your favorite cheese" itemname="Egg White Veggie Omelette Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Egg Sandwiches" price=" 3.24" descript="three fluffy egg whites. add your choice of cheese" itemname="Three Egg White Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Griddle Originals" price=" 5.29" descript="whole wheat pancakes are whipped up big and fresh. add some eggs or breakfast meat for a real eye-opener" itemname="Whole Wheat Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Griddle Originals" price=" 3.99" descript="add eggs or breakfast meat for a hearty morning meal" itemname="Buttermilk Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Griddle Originals" price=" 4.29" descript="challah french toast makes a great breakfast. add eggs, bacon or sausage, for a hearty breakfast delivered to your office door" itemname="Challah French Toast"></menu_item>
+<menu_item type="Breakfast" category="Cereal Bar" price=" 2.79" descript="hearty oatmeal, pick two complimentary toppings and enjoy" itemname="Hot Oatmeal"></menu_item>
+<menu_item type="Breakfast" category="Cereal Bar" price=" 2.99" descript="delicious crunchy honey granola served with non-fat yogurt and fresh seasonal berries" itemname="Homemade Granola &amp;amp; Yogurt Parfait"></menu_item>
+<menu_item type="Breakfast" category="Egg Platters" price=" 4.99" descript="a classic hearty breakfast served with potatoes and toast" itemname="Two Egg Platter"></menu_item>
+<menu_item type="Breakfast" category="Egg Platters" price=" 2.25" descript="add a side of homefries to your breakfast order" itemname="Homefries"></menu_item>
+<menu_item type="Breakfast" category="Egg Platters" price=" .75" descript="single boiled egg" itemname="Boiled Egg"></menu_item>
+<menu_item type="Breakfast" category="Today&amp;#39;s Specials" price=" 5.00" descript="sandwich of the month. fresh turkey, ripe avocado, peppadew salsa and roasted pepper aioli" itemname="Peppadew Salsa Turkey"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price=" 2.99" descript="" itemname="Cantaloupe"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price="med 4.59" descript="" itemname="Mixed Fruit Salad"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price="med 4.59" descript="" itemname="Honeydew Melon"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price="med 4.59" descript="" itemname="Pineapple Salad"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price=" .85" descript="gala apple" itemname="Apple"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price=" .85" descript="" itemname="Orange"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price=" .50" descript="" itemname="Banana"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price=" 2.99" descript="delicious crunchy honey granola served with non-fat yogurt and fresh seasonal berries" itemname="Homemade Granola &amp;amp; Yogurt Parfait"></menu_item>
+<menu_item type="Breakfast" category="Fruit &amp;amp; Yogurt" price=" 2.99" descript="" itemname="Fage Plain Greek Yogurt"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Lunch Combos $6.99" price=" " descript="choose any 1/2 Pressini and a cup of soup" itemname="Half Pressini &amp;amp; Soup Combo"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Lunch Combos $6.99" price=" " descript="choose any 1/2 sandwich and cup of soup" itemname="Half Cutting Edge Sandwich &amp;amp; Soup"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Lunch Combos $6.99" price=" " descript="choose any pita sandwich and a cup of soup" itemname="Half Pita &amp;amp; Soup Combo"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Lunch Combos $6.99" price=" " descript="choose any wrap sandwich and a cup of soup" itemname="Half Wrap &amp;amp; Soup Combo"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Pasta" price=" 7.79" descript="artichokes, spinach, cherry tomato, capers, and sun-dried tomato pesto" itemname="Pasta Of The Month"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Quesadillas" price=" 5.99" descript="classic quesadilla with three types of cheese" itemname="Cheese Quesadilla"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Quesadillas" price=" 6.99" descript="with fire roasted tomatoes, mushrooms, roasted peppers and caramelized onions" itemname="Santa Fe Wild Mushroom"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Quesadillas" price=" 6.99" descript="chipotle spiced bbq chicken" itemname="Chicken Habanero"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Quesadillas" price=" 6.99" descript="chili-rubbed rock shrimp" itemname="Spicy Shrimp Quesadilla"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 7.49" descript="turkey, smoked ham, swiss &amp; american cheese, hard boiled egg &amp; tomatoes on mixed greens. served with a wedge of hearth-baked bread" itemname="Traditional Chef&amp;#39;s Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 6.99" descript="goat cheese, grape tomatoes and toasted almonds with sherry shallot vinaigrette. includes a wedge of hearth-baked bread" itemname="Soleil Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 6.99" descript="grilled vegetables, hummus, eggplant salad and toasted pita points. served with a wedge of hearth-baked bread" itemname="Mediterranean Grill"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 7.49" descript="sweet and spicy chili sauce and whole wheat thai noodles. served with a wedge of hearth-baked bread" itemname="Asian Chili Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 6.99" descript="albacore tuna salad over a garden salad. served with a wedge of hearth-baked bread" itemname="Dolphin&amp;#45;Free Tuna Garden Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 6.99" descript="blue cheese, caramelized pears, raisins, grapes, candied walnuts and field greens with white wine vinaigrette. served with a wedge of hearth-baked bread" itemname="Bistro Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 7.49" descript="grilled breast of chicken (96% fat free) over our crisp caesar salad. served with a wedge of hearth-baked bread" itemname="Grilled Chicken Caesar Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 6.99" descript="crisp lettuce, feta cheese, stuffed grape leaves, tomato and kalamata olives over salad greens. served with a wedge of hearth-baked bread" itemname="Greek Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 7.49" descript="oven roasted turkey, crumbled blue cheese, mushrooms, carrots, cucumber, ham and avocado over organic greens. served with a wedge of hearth-baked bread" itemname="Classic Cobb Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 8.99" descript="over organic greens with japanese soba noodles. served with a wedge of hearth-baked bread" itemname="Wasabi Sesame Crusted Salmon"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Entree Salads" price=" 2.99" descript="includes a wedge of hearth-baked bread" itemname="Caesar Or Garden Salad"><extra type="add" price=" 2.00" descript="get a large salad for just&amp;#44; extra"></extra>
+</menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 2.99" descript="" itemname="Organic Lemon Chick Pea Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 4.99" descript="free range rotisserie turkey salad with cranberry, almonds and ginger" itemname="Cape Cod Turkey Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 2.99" descript="wagon wheels with southwestern dressing" itemname="Spicy Southwestern Pasta"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 2.99" descript="feta, olives, artichokes, grape tomatoes in lemon dill olive oil" itemname="Santorini Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 2.99" descript="sundried cranberries and peas" itemname="Moroccan Spiced Orzo"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 2.99" descript="made with olives and artichokes" itemname="Organic Penne With Sun Dried Tomato Pesto"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 2.99" descript="" itemname="Organic Spicy Sesame Ginger Thai Noodles"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 2.99" descript="with spinach and tomato" itemname="Organic Tuscan White Bean Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 4.59" descript="made with farm fresh eggs and mayo" itemname="Side Egg Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 4.99" descript="made with dolphin-free tuna with celery and mayo" itemname="Organic Tuna Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Metro Side Salads" price=" 2.99" descript="with scallion vinegrette" itemname="Organic Grilled Corn &amp;amp; Toasted Barley"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Chef Designed Salads $7.79" price=" " descript="with carrots, raisins, apples, chick peas, scallions, avocado, sliced almonds in a low fat moroccan dressing" itemname="The Moroccan"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Chef Designed Salads $7.79" price=" " descript="with carrots, peppers, peanuts, avocado, oranges and crispy noodles in a thai peanut dressing" itemname="Asian Thai Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Chef Designed Salads $7.79" price=" " descript="with eggs, sprouts, tomatoes, peppers, bacon and avocado in a savory low fat bbq ranch dressing" itemname="The BBQ Ranch"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Chef Designed Salads $7.79" price=" " descript="cajun chicken, romaine, avocado, fresh corn, jack &amp; cheddar cheese, tomato, onions and tortilla strips. we recommend our new smoky russian dressing" itemname="Baja Chicken Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Chef Designed Salads $7.79" price=" " descript="organic spinach, carrots, cucumber, tomato, red onion &amp; sesame noodles. we recommend our new carrot ginger dressing" itemname="Shanghai Shrimp Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Chef Designed Salads $7.79" price=" " descript="salad of the month: burrito steak, romaine lettuce, fresh corn, tomato, red onions and tortilla strips. we recommend our new chipotle low fat ranch dressing" itemname="Mexican Steak Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="cranberry-orange relish, leaf lettuce and herb dressing on seven-grain health bread" itemname="Fresh Roasted Turkey"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="cape cod turkey salad featuring free range white meat turkey salad with cranberries, almonds and ginger on seven-grain bread. all natural and preservative free. note: this is a pre-made item and cannot be altered or customized" itemname="Cape Cod Turkey Sandwich"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="with roasted peppers, mesclun and artichoke aioli in an olive pocket. note: this is a pre-made item and cannot be altered or customized" itemname="Tuscan Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="with vine ripe tomatoes and lettuce on seven grain baguette. note: this is a pre-made item and cannot be altered or customized" itemname="Organic Dolphin&amp;#45;Free Tuna Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="fresh mozzarella, roasted pepper aioli and fresh basil on a french baguette. note: this is a pre-made item and cannot be altered or customized" itemname="Prosciutto Di Parma"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="sandwich of the month. fresh turkey, ripe avocado, peppadew salsa and roasted pepper aioli" itemname="Peppadew Salsa Turkey"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="crisp red onion rings, cheddar cheese and zesty bistro sauce in an onion pocket. great hot. note: this is a pre-made item and cannot be altered or customized" itemname="Bistro Roast Beef"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="with pepperjack cheese, roasted peppers, onions and chipotle pepper spread on a telero roll. note: this is a pre-made item and cannot be altered or customized" itemname="Mardi Gras Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cutting Edge Sandwiches $5" price=" " descript="with pear slices, watercress and grain mustard on black russian bread. note: this is a pre-made item and cannot be altered or customized" itemname="Smoked Turkey &amp;amp; Brie"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="smoked turkey, prosciutto, sliced pickles, swiss cheese and russian dressing" itemname="Turkey Cuban"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="pan fried cutlet with pomodoro sauce, fresh mozzarella and parmesan cheese" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="carved turkey (97% fat free), hickory smoked bacon, cheddar cheese, lettuce, tomato and dijonnaise" itemname="Fresh Turkey BLT"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="mozzarella, provolone and swiss, plum tomatoes, fresh basil and a sun dried tomato spread" itemname="Three Cheese Caprese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="pesto grilled chicken (96% fat free), italian plum tomato, roasted peppers and fresh mozzarella" itemname="Chicken Calabrese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="italian eggplant with pesto-ricotta, mozzarella and melted tomatoes" itemname="Eggplant Milanese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="100% all natural beef with sautŽed peppers, onions, mushrooms and provolone cheese with roasted garlic aioli" itemname="Metro Steak &amp;amp; Cheese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="96% fat free with pepperjack cheese, roasted peppers, onions and chipotle pepper spread" itemname="Cajun Chicken Melt"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Hot Pressini Melts $5" price=" " descript="white tuna, cheddar cheese and tomato" itemname="Tuna Melt"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="hickory smoked bacon, leaf lettuce and ripe tomato" itemname="BLT"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="cape cod turkey salad featuring free range white meat turkey salad with cranberries, almonds and ginger on seven-grain bread. all natural and preservative free" itemname="Cape Cod Turkey Sandwich"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="choice of cheddar or swiss on white, rye or whole wheat" itemname="Grilled Cheese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="with lettuce, tomato and whole grain mustard on rye bread" itemname="Ham And Cheese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="genoa, cappicola, prosciutto, provolone, onions, hot peppers, lettuce, oil and vinegar on a hero" itemname="Italian Submarine"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="leaf lettuce and tomato on seeded rye" itemname="White Tuna Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="with lettuce, tomato and whole grain mustard on rye bread" itemname="Ham And Swiss"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="with lettuce, ripe tomato and russian dressing on whole wheat" itemname="Fresh Turkey Breast"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="farm fresh eggs with leaf lettuce on country whole wheat bread" itemname="Egg Salad Sandwich"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="NY Deli Style Classics $5" price=" " descript="with tomato, onions, mayo and dijon mustard on rye" itemname="Roast Beef And Cheddar"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Wrap Sandwiches $5" price=" " descript="grilled chicken (96% fat free), tossed with romaine hearts and caesar dressing in an herb wrap" itemname="Chicken Caesar Wrap"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Wrap Sandwiches $5" price=" " descript="grilled chicken (96% fat free) with avocado, bean &amp; corn salad and lettuce in a black bean wrap" itemname="Chicken Vera Cruz"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Wrap Sandwiches $5" price=" " descript="spicy chicken, blue cheese, carrots and celery in a southwest wrap" itemname="Buffalo Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Pita Sandwiches $5" price=" " descript="with low fat mayo, lettuce and tomato" itemname="Organic Tuna Pita"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Pita Sandwiches $5" price=" " descript="with tomato, low fat mayo and cracked black pepper" itemname="Fresh Turkey Pita"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Pita Sandwiches $5" price=" " descript="smoked turkey, avocado, cucumber, tomato, sprouts and lemon herb dressing" itemname="California Turkey Pita"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Pita Sandwiches $5" price=" " descript="avocado, tomato, sprouts, carrots and lettuce with chipotle pepper spread" itemname="Vegetarian Pita"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Homemade Soup" price=" 2.99" descript="choose one of our daily features" itemname="Soup Of The Day"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Classic Quiche $5.49" price=" " descript="savory quiche filled with melted cheddar and broccoli" itemname="Broccoli &amp;amp; Cheddar Quiche"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Classic Quiche $5.49" price=" " descript="savory quiche filled with sauteed spinach, shitake mushrooms and fresh feta cheese" itemname="Spinach&amp;#44; Wild Mushroom &amp;amp; Feta Quiche"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Classic Quiche $5.49" price=" " descript="savory quiche filled with ham and farmstead cheese" itemname="Quiche Lorraine"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Today&amp;#39;s Specials" price=" 5.00" descript="sandwich of the month. fresh turkey, ripe avocado, peppadew salsa and roasted pepper aioli" itemname="Peppadew Salsa Turkey"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cookies &amp;amp; Squares" price=" 2.29" descript="chocolate chunk, honey oatmeal raisin, black and white, peanut butter" itemname="Giant Cookies"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cookies &amp;amp; Squares" price=" 3.99" descript="chocolate decadence, oreo cookie, peanut butter, fluffer nutter bar, chocolate marshmallow bar" itemname="Brownies"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cookies &amp;amp; Squares" price=" 3.99" descript="delicious squares in two mouthwatering flavors" itemname="Squares &amp;amp; Treats"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cookies &amp;amp; Squares" price=" 2.99" descript="just like you remember them, in regular or chocolate" itemname="Rice Krispy Treats"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cupped Desserts" price=" 2.99" descript="creamy and sweet, our delicious rice pudding is swirled with cinnamon and raisins" itemname="Rice Pudding"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cupped Desserts" price=" 2.99" descript="decadent and delicious, this rich dark chocolate pudding is the perfect creamy treat" itemname="Chocolate Pudding"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cupped Desserts" price=" 2.59" descript="there is always room for jello! just like you remember it" itemname="Fruit Jello"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cakes &amp;amp; Pastries" price=" 4.79" descript="classic new york-style cheesecake" itemname="NY Cheesecake"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cakes &amp;amp; Pastries" price=" 4.79" descript="classic carrot cake with raisins and walnuts topped with cream cheese frosting" itemname="Carrot Cake"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Cakes &amp;amp; Pastries" price=" 3.99" descript="new york style cheesecake made with philly cream cheese, a graham-cracker crust and topped with fresh strawberries" itemname="Strawberry Cheesecake"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Fresh Fruit" price="med 4.59" descript="" itemname="Mixed Fruit Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Fresh Fruit" price="med 4.59" descript="" itemname="Honeydew Melon"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Fresh Fruit" price=" .85" descript="gala apple" itemname="Apple"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Fresh Fruit" price=" .85" descript="" itemname="Orange"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Fresh Fruit" price=" .50" descript="" itemname="Banana"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="Fresh Fruit" price=" 2.99" descript="" itemname="Cantaloupe"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="The Bakery" price=" 1.99" descript="the classic french pastry made with 100% butter" itemname="Butter Croissant"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="The Bakery" price=" 3.49" descript="ham and cheese on a flaky french pastry" itemname="Ham &amp;amp; Cheese Croissant"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="The Bakery" price=" 1.99" descript="a flaky french pastry topped with toasted almonds" itemname="Almond Croissant"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="The Bakery" price=" 2.49" descript="a flaky french pastry filled with rich belgium chocolate" itemname="Chocolate Croissant"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="The Bakery" price=" 1.99" descript="a flaky french pastry filled with strawberry preserves and cream cheese" itemname="Strawberry Cheese Croissant"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="The Bakery" price=" 1.99" descript="classic pastry filled with rich fruit preserves" itemname="Danish"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu" category="The Bakery" price=" 1.99" descript="0% trans fat, 100% taste" itemname="Pound Cake"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Pasta" price=" " descript="" itemname="Linguine"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Pasta" price=" 1.00" descript="add" itemname="Low&amp;#45;Carb Whole Wheat Pasta"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Pasta" price=" " descript="" itemname="Penne"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Pasta" price=" 1.00" descript="add" itemname="Tri Color Cheese Tortellini"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Pasta" price=" " descript="" itemname="Tri Color Spirale"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Sauce" price=" " descript="" itemname="Tomato Basil"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Sauce" price=" " descript="" itemname="Alla Vodka"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Sauce" price=" " descript="" itemname="Alfredo Romano"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Sauce" price=" " descript="" itemname="Fresh Basil Pesto"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Sauce" price=" " descript="" itemname="Spicy Arabiata"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Choose Your Sauce" price=" 1.00" descript="add" itemname="Beef Bolognese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Main Ingredient" price=" " descript="" itemname="Crispy Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Main Ingredient" price=" " descript="" itemname="Grilled Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Main Ingredient" price=" " descript="" itemname="Italian Sausage"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Main Ingredient" price=" " descript="" itemname="Portobello Mushrooms"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Main Ingredient" price=" " descript="" itemname="Spicy Shrimp"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Main Ingredient" price=" " descript="" itemname="Tuscan Meatballs"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Kalamata Olives"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Cherry Tomatoes"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Sun Dried Tomatoes"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Artichoke Hearts"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Sweet Peas"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Caramelized Onions"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Roasted Peppers"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Broccoli Florets"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Fresh Mozzarella"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Toss&amp;#45;Ins" price=" " descript="" itemname="Wild Mushrooms"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Parmesan Cheese" price=" " descript="" itemname="Parmesan Tossed In"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu &amp;#45; Create Your Own Pasta" category="Parmesan Cheese" price=" " descript="" itemname="Parmesan On The Side"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Greens" price=" " descript="" itemname="Baby Spinach"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Greens" price=" " descript="" itemname="Crispy Romaine"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Greens" price=" " descript="" itemname="Organic Field Greens"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Albacore Tuna"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Buffalo Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Cajun Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Crispy Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Grilled Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Grilled Skirt Steak"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Smoked Turkey"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Spicy Shrimp"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Thai Chicken"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Tofu"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Main Ingredient" price=" " descript="" itemname="Tuna Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Artichokes"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Baby Bello Mushrooms"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Bacon Bits"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Blue Cheese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Cheddar Cheese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Egg Whites"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Feta Cheese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Fresh Avocado"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Mozzarella"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Romano Cheese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Sun Dried Tomatoes"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Additional Main Ingredients" price=" " descript="" itemname="Walnuts"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Bell Peppers"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Boiled Egg"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Broccoli"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Carrots"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Chick Peas"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Chopped Tomatoes"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Croutons"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Cucumber"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Grapes"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Kalamata Olives"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Kidney Beans"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Mandarin Orange"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Mushrooms"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Pasta"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Raisins"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Red Onion"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Roasted Peppers"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Scallions"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Sesame Noodles"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Sliced Almonds"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Sliced Beets"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Sprouts"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Sunflower Seeds"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Sweet Corn"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Toppings" price=" " descript="" itemname="Sweet Peas"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="default" price=" " descript="" itemname="Tossed Or Chopped Salad"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Aged Balsamic Vinegar"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Balsamic Vinaigrette"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Blue Cheese"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Carb Free Roasted Garlic"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Carrot Ginger"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Catalina French"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Chipotle Lime Vinaigrette"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Chipotle Low Fat Ranch"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Extra Virgin Olive Oil"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Fat Free Lemon Herb"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Fat Free Raspberry Vinaigrette"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Fresh Lemon Juice"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Honey Balsamic Vinaigrette"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Lite Italian Vinaigrette"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Low Fat Honey Dijon"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Low Fat Moroccan Dressing"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Low Fat Ranch"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Oil &amp;amp; Lemon Juice"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Oil And Aged Balsamic Vinegar"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Oil And Red Wine Vinegar"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Organic Citrus Vinaigrette"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Organic Sesame Ginger"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Red Wine Vinegar"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Savory Low Fat BBQ Ranch"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Smokey Russian"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Thai Peanut Dressing"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Thousand Island"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing" price=" " descript="" itemname="Traditional Caesar"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing On The Side" price=" " descript="" itemname="Dressing On The Side"></menu_item>
+<menu_item type="Lunch&amp;#47;All Day Menu&amp;#45; Create Your Own Salad" category="Dressing On The Side" price=" " descript="" itemname="Dressing Mixed In"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Smoothies $3.99" price=" " descript="peaches and banana" itemname="Fuzzy Monkey"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Smoothies $3.99" price=" " descript="strawberry, raspberry and blueberry fresh fruit smoothie" itemname="Berry Crush"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Smoothies $3.99" price=" " descript="pineapple and coconut fresh fruit smoothie" itemname="Coco Bay"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Smoothies $3.99" price=" " descript="mandarin oranges and fresh cream fresh fruit smoothie" itemname="Orange Creamsicle"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Smoothies $3.99" price=" " descript="red ripe strawberries and banana fresh fruit smoothie" itemname="Strawberry Banana Blast"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Smoothies $3.99" price=" " descript="mango, guava and pineapple fresh fruit smoothie" itemname="Tropical Breeze"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 1.39" descript="" itemname="Cafe Metro Roast Coffee"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 1.39" descript="" itemname="Decaf Coffee"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 1.39" descript="" itemname="Flavored Coffee"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 1.39" descript="a selection of herbal and black teas for every taste" itemname="Brewed Leaf Tea"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 3.29" descript="rich espresso topped with or without frothed milk" itemname="Cappuccino Or Latte"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 2.59" descript="hot coffee with steamed frothed milk" itemname="Cafe Au Lait"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 1.99" descript="rich italian espresso beans ground and pressed to order" itemname="Espresso"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 3.49" descript="rich espresso and frothed milk, blended with chocolate and topped with a swirl of chocolate" itemname="Mochaccino"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Hot Beverages" price=" 2.29" descript="made with 100% milk" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 3.99" descript="frozen drinks in three popular flavors. a great way to cool down on a hot day" itemname="Caf&amp;eacute; Coolers"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 2.75" descript="choose your favorite flavor" itemname="Vitamin Water"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 3.99" descript="the finest florida oranges, squeezed fresh daily" itemname="Fresh Orange Juice"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 1.99" descript="our homemade lemonade is refreshingly tangy for the fresh taste of summer all year 'round" itemname="Lemonade"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 1.89" descript="choose your favorite 16 oz. bottled soft drink" itemname="Bottle Soda"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 1.69" descript="dasani fresh water in 16 oz. bottles" itemname="Water"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 2.25" descript="" itemname="Gatorade"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 2.75" descript="choose your favorite flavor" itemname="Honest Tea"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 2.39" descript="choose from a variety of delicious iced coffee flavors" itemname="Iced Flavored Coffee"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 3.29" descript="refreshing coffee drink prepared with espresso, hot milk, and steamed-milk foam" itemname="Iced Latte&amp;#44; Cappuccino"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 1.99" descript="all natural in assorted flavors" itemname="Snapple"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 1.99" descript="cool off with a delicious iced coffee or iced tea" itemname="Iced Coffee&amp;#44; Tea"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Cold Beverages" price=" 3.49" descript="just like an iced cappuccino, but with a bit of chocolate added" itemname="Iced Mochaccino"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Chips &amp;amp; Snacks" price=" 1.50" descript="gourmet brown rice chips" itemname="Rice Works"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Chips &amp;amp; Snacks" price=" 1.00" descript="" itemname="Lays Chips"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Chips &amp;amp; Snacks" price=" 1.79" descript="" itemname="Soy Crisps"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Chips &amp;amp; Snacks" price=" 1.00" descript="" itemname="Rold Gold Pretzels"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Chips &amp;amp; Snacks" price=" 1.79" descript="" itemname="Veggie Straws"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Chips &amp;amp; Snacks" price=" 1.00" descript="" itemname="Doritos Cool Ranch"></menu_item>
+<menu_item type="Drinks &amp;amp; Snacks" category="Chips &amp;amp; Snacks" price=" 1.25" descript="" itemname="Miss Vickie&amp;#39;s Chips"></menu_item>
+</root>

@@ -1,0 +1,43 @@
+<root>
+<menu_item type="default" category="Salads" price=" 4.50" descript="" itemname="House Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 6.50" descript="" itemname="Grilled Chicken Salad"></menu_item>
+<menu_item type="default" category="By The Slice" price=" 2.25" descript="" itemname="Round Slices"></menu_item>
+<menu_item type="default" category="By The Slice" price=" 2.25" descript="" itemname="Square Slice"></menu_item>
+<menu_item type="default" category="By The Slice" price=" 2.50" descript="" itemname="Supreme Slice"></menu_item>
+<menu_item type="default" category="By The Slice" price=" 2.50" descript="" itemname="Supreme Square Slice"></menu_item>
+<menu_item type="default" category="By The Slice" price=" 2.50" descript="" itemname="Garden Square Slice"></menu_item>
+<menu_item type="default" category="By The Slice" price=" .50" descript="" itemname="Each Slice Topping"></menu_item>
+<menu_item type="default" category="By The Slice" price=" 3.00" descript="" itemname="Chicken Slice"></menu_item>
+<menu_item type="default" category="By The Slice" price=" 2.50" descript="" itemname="White Slice"></menu_item>
+<menu_item type="default" category="By The Slice" price=" 4.00" descript="" itemname="Vegetable Slice"></menu_item>
+<menu_item type="default" category="Pies" price="(8 slices) 14.00" descript="" itemname="Round Pie"></menu_item>
+<menu_item type="default" category="Pies" price="(8 slices) 14.00" descript="" itemname="Sm Square Pie"></menu_item>
+<menu_item type="default" category="Pies" price="(12 slices) 19.00" descript="" itemname="Lg Square Pie"></menu_item>
+<menu_item type="default" category="Pies" price="whole 2.00" descript="" itemname="Round Pie Topping"></menu_item>
+<menu_item type="default" category="Pies" price="whole 2.00" descript="" itemname="Sm Square Topping"></menu_item>
+<menu_item type="default" category="Pies" price="whole 3.00" descript="" itemname="Lg Square Topping"></menu_item>
+<menu_item type="default" category="My Little Pizzeria Specials" price=" 20.00" descript="" itemname="Round Pie"></menu_item>
+<menu_item type="default" category="My Little Pizzeria Specials" price=" 20.00" descript="" itemname="Sm Square Pie"></menu_item>
+<menu_item type="default" category="My Little Pizzeria Specials" price=" 26.00" descript="" itemname="Lg Square Pie"></menu_item>
+<menu_item type="default" category="My Little Pizzeria Specials" price=" 20.00" descript="" itemname="Vegetable Pie"></menu_item>
+<menu_item type="default" category="Toppings" price=" 17.00" descript="" itemname="Supreme Round Pie"></menu_item>
+<menu_item type="default" category="Toppings" price=" 17.00" descript="" itemname="Supreme Sm Square Pie"></menu_item>
+<menu_item type="default" category="Toppings" price=" 23.00" descript="" itemname="Supreme Lg Square Pie"></menu_item>
+<menu_item type="default" category="Garden Pizza" price=" 17.00" descript="" itemname="Garden Sm Square"></menu_item>
+<menu_item type="default" category="Garden Pizza" price=" 23.00" descript="" itemname="Garden Lg Square"></menu_item>
+<menu_item type="default" category="The White Pie $17" price=" 4.50" descript="w/ mozz &amp; ricotta" itemname="Calzone"></menu_item>
+<menu_item type="default" category="The White Pie $17" price=" 4.00" descript="" itemname="Sausage Roll"></menu_item>
+<menu_item type="default" category="The White Pie $17" price=" 4.00" descript="" itemname="Eggplant Roll"></menu_item>
+<menu_item type="default" category="The White Pie $17" price=" 4.00" descript="" itemname="Spinach Roll"></menu_item>
+<menu_item type="default" category="The White Pie $17" price=" 4.00" descript="" itemname="Broccoli Roll"></menu_item>
+<menu_item type="default" category="The White Pie $17" price=" 4.50" descript="" itemname="Chicken Rolls"></menu_item>
+<menu_item type="default" category="The White Pie $17" price=" 3.00" descript="w/ fresh garlic per dozen" itemname="Garlic Knots"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.25" descript="" itemname="Cans"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Snapple"></menu_item>
+<menu_item type="default" category="Beverages" price="(20 oz) 1.50" descript="" itemname="Bottle"></menu_item>
+<menu_item type="default" category="Caffe" price=" 2.50" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="default" category="Caffe" price=" 2.00" descript="" itemname="Espresso"></menu_item>
+<menu_item type="default" category="Caffe" price=" 1.50" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="default" category="Caffe" price=" 1.00" descript="" itemname="Coffee"></menu_item>
+<menu_item type="default" category="Caffe" price=" 1.00" descript="" itemname="Tea"></menu_item>
+</root>

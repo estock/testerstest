@@ -1,0 +1,43 @@
+<root>
+<menu_item type="Entrees" category="Fish" price=" 24.95" descript="" itemname="Fried Shrimp"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 17.95" descript="" itemname="Fried Calamari"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 19.50" descript="" itemname="Calamari Casserole"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 23.95" descript="" itemname="Shrimp Francese"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 23.95" descript="baked with bread crumbs and white wine" itemname="Monk Fish Oreganata"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 25.95" descript="shrimp clams, mussels and calamari in a spicy tomato sauce" itemname="Seafood Fra Diavolo"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" " descript="" itemname="Two Broiled Lobster Tails"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 19.95" descript="" itemname="Broiled Sea Scallops"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 24.95" descript="" itemname="Broiled Shrimp Scampi"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 24.95" descript="" itemname="Shrimp Parmigiana"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 20.95" descript="with dijon sauce" itemname="Salmon"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 23.95" descript="with olives, onions, tomato and white wine" itemname="Monk Fish Livornese"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 24.95" descript="with clams" itemname="Shrimp Marinara"></menu_item>
+<menu_item type="Entrees" category="Fish" price=" 24.95" descript="" itemname="Broiled Shrimp Scampi"></menu_item>
+<menu_item type="Entrees" category="From The Grill" price=" " descript="" itemname="Broiled Lamb Chop"></menu_item>
+<menu_item type="Entrees" category="From The Grill" price=" " descript="" itemname="Steak Pizzaiola"></menu_item>
+<menu_item type="Entrees" category="From The Grill" price=" " descript="" itemname="Broiled Boneless Shell Steak"></menu_item>
+<menu_item type="Entrees" category="From The Grill" price=" 19.75" descript="with mushroom sauce" itemname="London Broil"></menu_item>
+<menu_item type="Entrees" category="From The Grill" price=" " descript="" itemname="Broiled Veal Chop"></menu_item>
+<menu_item type="Entrees" category="From The Grill" price=" 16.95" descript="" itemname="One Half Of Broiled Chicken"></menu_item>
+<menu_item type="Entrees" category="From The Grill" price=" " descript="" itemname="Broiled Filet Mignon"></menu_item>
+<menu_item type="Entrees" category="Fresh Vegetables" price=" 7.95" descript="" itemname="Broccoli Sauteed In Garlic &amp;amp; Oil"></menu_item>
+<menu_item type="Entrees" category="Fresh Vegetables" price=" 7.50" descript="" itemname="Escarole Sauteed In Garlic &amp;amp; Oil"></menu_item>
+<menu_item type="Entrees" category="Fresh Vegetables" price=" 14.95" descript="" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="Entrees" category="Fresh Vegetables" price=" 5.50" descript="" itemname="Long Hot Peppers, Sauteed"></menu_item>
+<menu_item type="Italian Specials" category="Veal" price=" 22.25" descript="with mushrooms" itemname="Veal Rollatini"></menu_item>
+<menu_item type="Italian Specials" category="Veal" price=" 20.50" descript="with peppers" itemname="Veal Cacciatore"></menu_item>
+<menu_item type="Italian Specials" category="Veal" price=" 21.95" descript="with mushrooms" itemname="Veal Scaloppine Marsala"></menu_item>
+<menu_item type="Italian Specials" category="Veal" price=" 21.95" descript="with lemon, butter and white wine" itemname="Veal Scaloppine Francese"></menu_item>
+<menu_item type="Italian Specials" category="Veal" price=" 10.75" descript="" itemname="Veal Cutlet Milanese"></menu_item>
+<menu_item type="Italian Specials" category="Veal" price=" 21.75" descript="" itemname="Veal Cutlet Parmigiana"></menu_item>
+<menu_item type="Italian Specials" category="Veal" price=" 21.95" descript="with mushrooms" itemname="Veal Scaloppine Pizzaiola"></menu_item>
+<menu_item type="Italian Specials" category="Chicken" price=" 19.95" descript="with mushrooms" itemname="Chicken Cacciatore"></menu_item>
+<menu_item type="Italian Specials" category="Chicken" price=" 19.50" descript="with mushrooms &amp; marsala wine" itemname="Breast Of Chicken Marsala"></menu_item>
+<menu_item type="Italian Specials" category="Chicken" price=" 19.95" descript="with mushrooms" itemname="Chicken Rollatini"></menu_item>
+<menu_item type="Italian Specials" category="Chicken" price=" 19.95" descript="with garlic, oil, lemon &amp; white wine" itemname="Chicken Scarpariello"></menu_item>
+<menu_item type="Italian Specials" category="Chicken" price=" 19.50" descript="with lemon, butter and white wine" itemname="Breast Of Chicken Francese"></menu_item>
+<menu_item type="Italian Specials" category="Chicken" price=" 19.95" descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Italian Specials" category="Pork" price=" 19.50" descript="" itemname="Broiled Pork Chop"></menu_item>
+<menu_item type="Italian Specials" category="Pork" price=" 19.95" descript="" itemname="Pork Chop Pizzaiola"></menu_item>
+<menu_item type="Italian Specials" category="Pork" price=" 19.95" descript="sauteed with hot or sweet vinegar peppers" itemname="Pork Chop Alla Bamonte"></menu_item>
+</root>

@@ -1,0 +1,27 @@
+<root>
+<menu_item type="Catering Menu" category="Pasta" price=" 45.00" descript="with tomato sauce" itemname="Spaghetti"><extra type="add" price=" 45.00" descript="with garlic &amp;amp; oil"></extra>
+</menu_item>
+<menu_item type="Catering Menu" category="Pasta" price=" 55.00" descript="" itemname="Baked Ziti"></menu_item>
+<menu_item type="Catering Menu" category="Pasta" price=" 55.00" descript="with broccoli and eggplant" itemname="Ziti"></menu_item>
+<menu_item type="Catering Menu" category="Pasta" price=" 55.00" descript="meat sauce with peas &amp; carrots" itemname="Rigatoni"></menu_item>
+<menu_item type="Catering Menu" category="Pasta" price=" 55.00" descript="" itemname="Stuffed Shells"></menu_item>
+<menu_item type="Catering Menu" category="Pasta" price=" 55.00" descript="" itemname="Pasta Primavera"></menu_item>
+<menu_item type="Catering Menu" category="Pasta" price=" 70.00" descript="with meat" itemname="Lasagna"></menu_item>
+<menu_item type="Catering Menu" category="Pasta" price=" 65.00" descript="" itemname="Vegetable Lasagna"></menu_item>
+<menu_item type="Catering Menu" category="Chicken" price=" 75.00" descript="with mushrooms" itemname="Chicken Marsala"></menu_item>
+<menu_item type="Catering Menu" category="Chicken" price=" 75.00" descript="" itemname="Chicken Francese"></menu_item>
+<menu_item type="Catering Menu" category="Chicken" price=" 65.00" descript="" itemname="Chicken Cacciatore"></menu_item>
+<menu_item type="Catering Menu" category="Chicken" price=" 65.00" descript="" itemname="Baked Chicken &amp;amp; Potatoes"></menu_item>
+<menu_item type="Catering Menu" category="Chicken" price=" 65.00" descript="with broccoli" itemname="Chicken"></menu_item>
+<menu_item type="Catering Menu" category="Chicken" price=" 75.00" descript="" itemname="Chicken Cutlet Parmigiana"></menu_item>
+<menu_item type="Catering Menu" category="Meat &amp;amp; Fish" price=" " descript="" itemname="Spare Ribs"></menu_item>
+<menu_item type="Catering Menu" category="Meat &amp;amp; Fish" price=" 75.00" descript="" itemname="Sausage &amp;amp; Peppers"></menu_item>
+<menu_item type="Catering Menu" category="Meat &amp;amp; Fish" price=" " descript="" itemname="Pepper Steak"></menu_item>
+<menu_item type="Catering Menu" category="Meat &amp;amp; Fish" price=" 70.00" descript="" itemname="Meatballs"></menu_item>
+<menu_item type="Catering Menu" category="Meat &amp;amp; Fish" price=" 85.00" descript="" itemname="Mussels Marinara"></menu_item>
+<menu_item type="Catering Menu" category="Meat &amp;amp; Fish" price=" 75.00" descript="with white or red clam sauce" itemname="Linguine"></menu_item>
+<menu_item type="Catering Menu" category="Vegetables" price=" 55.00" descript="" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="Catering Menu" category="Vegetables" price=" 55.00" descript="" itemname="Eggplant Rollatini"></menu_item>
+<menu_item type="Catering Menu" category="Vegetables" price=" 40.00" descript="" itemname="Sauteed Broccoli"></menu_item>
+<menu_item type="Catering Menu" category="Vegetables" price=" 30.00" descript="with dressing" itemname="House Salad"></menu_item>
+</root>

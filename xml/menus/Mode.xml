@@ -1,0 +1,29 @@
+<root>
+<menu_item type="default" category="Entrées" price="16.00" descript="with mash &amp;amp; ratatouille" itemname="Pan Seared Peppercorn Tuna">
+
+</menu_item>
+<menu_item type="default" category="Entrées" price="18.00" descript="shallots in white wine cream sauce w/mash &amp;amp; ratatouille" itemname="Roasted Jumbo Scallops">
+
+</menu_item>
+<menu_item type="default" category="Entrées" price="15.00" descript="with basil, garlic and olive oil w/mash &amp;amp; ratatouille" itemname="Roasted Salmon">
+
+</menu_item>
+<menu_item type="default" category="Entrées" price="15.00" descript="in garlic rosemary sauce with ratatouille" itemname="Seared Lamb Chops">
+
+</menu_item>
+<menu_item type="default" category="Entrées" price="25.00" descript="served with truffle oil" itemname="Rib Eye With French Fries">
+
+</menu_item>
+<menu_item type="default" category="Entrées" price="14.00" descript="with mash or rice" itemname="Roasted Chicken Aux Tomates">
+
+</menu_item>
+<menu_item type="default" category="Entrées" price="10.00" descript="with rice, zucchini, onions, apples, peppers in yellow curry" itemname="Chicken Curry">
+
+</menu_item>
+<menu_item type="default" category="Entrées" price="8.00" descript="with meat, tomato and basil" itemname="Spaghetti Bolognaise">
+
+</menu_item>
+<menu_item type="default" category="Entrées" price="8.00" descript="with parmesan sauce" itemname="Fussili Alfredo">
+
+</menu_item>
+</root>

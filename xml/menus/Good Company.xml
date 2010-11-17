@@ -1,0 +1,16 @@
+<root>
+<menu_item type="default" category="Snacks" price=" 5.00" descript="served with salsa verde" itemname="Homemade Pork Rinds"></menu_item>
+<menu_item type="default" category="Snacks" price=" 4.00" descript="tossed with sea salt &amp; rosemary" itemname="Hand Cut Potato Chips"></menu_item>
+<menu_item type="default" category="Snacks" price=" 5.00" descript="with pita bread" itemname="Homemade Hummus"></menu_item>
+<menu_item type="default" category="Snacks" price=" 4.00" descript="simple, delicious" itemname="Mac Salad"></menu_item>
+<menu_item type="default" category="Sausage 4 Ways $8" price=" " descript="with peppers &amp; onions" itemname="Coleman's Mustard"></menu_item>
+<menu_item type="default" category="Sausage 4 Ways $8" price=" " descript="" itemname="Charred Green Chili Salsa &amp;amp; Crispy"></menu_item>
+<menu_item type="default" category="Sausage 4 Ways $8" price=" " descript="" itemname="Cheddar Bacon Sauce &amp;amp; Grilled Onions"></menu_item>
+<menu_item type="default" category="Sausage 4 Ways $8" price=" " descript="" itemname="Pickled Cabbage &amp;amp; Wasabi Aioli"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="" itemname="Chicken Salad Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 8.00" descript="with crispy onions" itemname="BBQ Shredded Beef Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 8.00" descript="" itemname="BBQ Pulled Pork Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.00" descript="taylor ham, lettuce, tomato with kohlman's mustard" itemname="P.L.T."></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 8.00" descript="served with a red wine, mushroom gravy" itemname="Turkey Meatloaf Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="over rice with cheddar cheese and sour cream" itemname="Texas Chilli"></menu_item>
+</root>

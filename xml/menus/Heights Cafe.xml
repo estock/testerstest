@@ -1,0 +1,283 @@
+<root>
+<menu_item type="Lunch" category="Appetizers" price=" 4.95" descript="" itemname="Chef's Daily Soup"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.95" descript="trio of chipotle marinara, lemon garlic &amp; ancho chili dipping sauce" itemname="Crispy Calamari"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.95" descript="tabouleh, mediterranean tomato salad and pita bread" itemname="Hummus Platter"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 10.95" descript="with gorgonzola green chili sauce &amp; ancho chili aioli" itemname="Mussel Frites"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.95" descript="with choice of green curry lemongrass sauce or garlic plum tomato sauce." itemname="Steamed Mussels"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 10.95" descript="with beef &amp; bean chili, cheddar cheese, sour cream &amp; tomato salsa" itemname="Nachos"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.95" descript="tri colored corn tortilla chips" itemname="Warm Spinach Artichoke Dip"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.95" descript="whole wheat tortilla with pepperjack, sour cream &amp; tomato salsa" itemname="Grilled Vegetable &amp;amp; Goat Cheese Quesadilla"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.95" descript="sour cream &amp; guacamole" itemname="Three Cheese Quesadilla"><extra type="add" price=" 10.95" descript="with chicken"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads" price=" 7.95" descript="foccacia croutons" itemname="Caesar Salad"><extra type="add" price=" 11.95" descript="with grilled chicken"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads" price=" 7.95" descript="balsamic vinaigrette" itemname="Mixed Green Salad"><extra type="add" price=" 12.95" descript="with grilled shrimp"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads" price=" 9.95" descript="cranberries, toasted pine nuts, cherry tomatoes &amp; herb balsamic vinaigrette" itemname="Goat Cheese &amp;amp; Arugula Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 9.95" descript="sliced fresh mozzarella, tomatoes, roasted peppers &amp; infused basil oil" itemname="Caprese Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 9.95" descript="romaine, cucumber, olives, red onion, tomato, celery and feta yogurt dressing" itemname="Chopped Mediterranean Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 12.95" descript="mesclun greens, watercress, frisee, red onions, tomatoes, toasted pecans and cucumber yogurt dressing" itemname="Grilled Steak Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 11.95" descript="seared rare with marinated vegetables, sprouts, mesclun greens and wasabi vinaigrette" itemname="Sesame Crusted Salmon and Tuna Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 10.95" descript="orange peanut dressing, marinated vegetables, romaine, spiced candied peanuts &amp; crispy corn tortilla strips" itemname="Grilled Asian Chicken Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 10.95" descript="blue cheese dressing, romaine avocado, diced tomatoes, chopped bacon &amp; shredded boiled egg" itemname="Turkey Cobb Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 13.95" descript="grilled yellowfin tuna over mixed greens with stringbeans, potatoes, olives, tomatoes, red onions, and balsamic vinaigrette" itemname="Salade Nicoise"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 8.95" descript="on an onion baguette with lemon pepper mayo, arugula, roasted peppers, provolone cheese and heights fries" itemname="Grilled Marinated Chicken"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 9.95" descript="on a toasted roll with lettuce, tomato, onion, pickle and heights fries" itemname="Charbroiled Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 8.95" descript="on whole wheat bun with mixed greens" itemname="Grilled Turkey Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 9.95" descript="oven dried tomatoes, baby arugula, bacon &amp; melted mozzarella cheese &amp; height fries" itemname="Grilled Chicken Pesto Panini"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 9.95" descript="grilled apples, baby arugula &amp; cranberry mustard aioli &amp; height fries" itemname="Roasted Turkey &amp;amp; Brie Cheese Panini"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 10.95" descript="toasted whole wheat roll, cajun remoulade sauce &amp; mesclun greens" itemname="Salmon Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 8.95" descript="whole wheat bun, lemon tahini dressing, hummus and mixed greens" itemname="Vegetable Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 11.95" descript="with cherry tomato green salad &amp; chefs soup" itemname="Broccoli &amp;amp; Butternut Squash Quiche Tri"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 9.95" descript="on foccacia bread with sun dried tomato basil aioli, wilted spinach, fire roasted peppers, red onion, smoked mozzarella &amp; heights fries" itemname="Grilled Portobello Panini"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 9.95" descript="spicy sesame aioli, asian vegetable slaw, alfalfa sprouts, romaine &amp; heights fries" itemname="Grilled Ginger Teriyaki Chicken Wrap"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 8.95" descript="in pita bread with mixed greens" itemname="Curried Chicken Salad"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 8.95" descript="on multi-grain bread with grilled eggplant, roasted tomato, roasted peppers, basil pesto and heights fries" itemname="Fresh Mozzarella"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 10.95" descript="whole wheat roll and heights fries" itemname="Crabcake Tartar Sauce"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 9.95" descript="herb buttermilk dressing, seven grain bread and heights fries" itemname="Turkey BLT"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 12.95" descript="on an onion baguette with coffee barbecue sauce, sautéed peppers, onions, pepperjack cheese &amp; onion rings" itemname="Grilled Steak Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 9.95" descript="wrapped in bacon on a sour dough baguette with cumin mushroom gravy and onion rings" itemname="Texas Meatloaf Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 10.95" descript="chickpea buttermilk dressing, grilled onions, tomatoes, feta cheese, romaine and heights fries" itemname="Roasted Lamb Pita"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 8.95" descript="basil pesto mayo, chopped tomato salad, arugula, fresh mozzarella cheese and heights fries" itemname="Grilled Eggplant Wrap"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 8.95" descript="tandoori chicken, hummus , tabouleh, tomato salad, feta cheese and mixed greens" itemname="Mediterranean Wrap"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 10.95" descript="lemon garlic sauce, endive, arugula, red onion, tomatoes, avocado &amp; spicy potato chips" itemname="Crispy Tilapia Wrap"></menu_item>
+<menu_item type="Lunch" category="Sandwiches And Wraps" price=" 9.95" descript="served on toasted panini bread with house made coffee bbq sauce, coleslaw, sliced tomatoes &amp; heights fries" itemname="Pulled Smoked Chicken"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Cheddar"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Provolone"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Pepperjack"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Swiss"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Mozzarella"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Italian Sausage"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Bacon"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Proscuitto"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Caramelized Onions"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Mushrooms"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Asparagus"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Spinach"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Tomatoes"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Peppers"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Olives"></menu_item>
+<menu_item type="Lunch" category="Omelette $9.95" price=" " descript="" itemname="Artichokes"></menu_item>
+<menu_item type="Lunch" category="Pizza" price=" 9.95" descript="fresh mozzarella and basil" itemname="Plum Tomato Pizza"></menu_item>
+<menu_item type="Lunch" category="Pizza" price=" 11.95" descript="olive oil, parmesan gorgonzola, fresh mozzarella, cheddar &amp; tomato jalapeno salsa" itemname="Four Cheese Pizza"></menu_item>
+<menu_item type="Lunch" category="Pizza" price=" 12.95" descript="bolognese sauce, mortadella, pepperoni, shitake mushroom, ricotta &amp; provolone cheese" itemname="Italian Club Pizza"></menu_item>
+<menu_item type="Lunch" category="Pizza" price=" 11.95" descript="olive oil, sliced plum tomatoes, fresh garlic, parmesan &amp; smoked mozzarella" itemname="Olive Tapenade Pizza"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 9.95" descript="plum tomato sauce or vodka sauce" itemname="Penne"><extra type="add" price=" 14.95" descript="with shrimp"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 10.95" descript="green peas, parmesan cheese &amp; light pesto cream sauce." itemname="Farfalle"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 10.95" descript="sweet italian sausage, parmesan cheese &amp; bolognese sauce" itemname="Rigatoni"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 12.95" descript="sauteed chicken, artichokes, sun dried tomatoes, green peas &amp; marsala cream sauce" itemname="Fresh Pappardelle"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 12.95" descript="sautéed fire roasted eggplant, mushrooms, cherry tomatoes &amp; three cheese sauce" itemname="Potato Gnocchi"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Whipped Potatoes"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Basmati Wild Rice Blend"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Sauteed Spinach"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Roasted Red Bliss Potatoes"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Sauteed Stringbeans"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Heights Fries"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Grilled Vegetables"></menu_item>
+<menu_item type="Lunch" category="Sides $4.50" price=" " descript="" itemname="Sauteed Escarole"></menu_item>
+<menu_item type="Lunch" category="Dessert $6.50" price=" " descript="with blueberry compote and vanilla gelato" itemname="Caramelized Apple Pie"></menu_item>
+<menu_item type="Lunch" category="Dessert $6.50" price=" " descript="with raspberry swirl" itemname="New York Cheesecake"></menu_item>
+<menu_item type="Lunch" category="Dessert $6.50" price=" " descript="with caramel sauce and chocolate gelato" itemname="Warm Maple Syrup Pecan Bread Pudding"></menu_item>
+<menu_item type="Lunch" category="Dessert $6.50" price=" " descript="with strawberry coulis" itemname="Black And White Mascarpone Cheesecake"></menu_item>
+<menu_item type="Lunch" category="Dessert $6.50" price=" " descript="with vanilla gelato and whipped cream" itemname="Caramelized Banana Napoleon"></menu_item>
+<menu_item type="Lunch" category="Dessert $6.50" price=" " descript="flawless cake with brandy sauce and whipped cream" itemname="Warm Chocolate Torte"></menu_item>
+<menu_item type="Lunch" category="Dessert $6.50" price=" " descript="with whipped cream" itemname="Mississippi Mud Pie"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 4.95" descript="" itemname="Chef's Daily Soup"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.95" descript="trio of chipotle marinara, lemon garlic &amp; ancho chili dipping sauce" itemname="Crispy Calamari"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.95" descript="chopped mediterranean tomato salad &amp; pita bread" itemname="Hummus Platter Tabouleh"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 11.95" descript="with gorgonzola green chili sauce, ancho chili aioli &amp; heights fries" itemname="Mussel Frites"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.95" descript="with choice of green curry lemongrass sauce or garlic plum tomato" itemname="Steamed Mussels"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.95" descript="smoked green chili remoulade sauce &amp; wild rice-charred corn salad" itemname="Crabcake"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" " descript="with beef &amp; bean chili, cheddar cheese, sour cream &amp; tomato salsa" itemname="Nachos"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.95" descript="tri colored corn tortilla chips" itemname="Warm Spinach Artichoke Dip"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.95" descript="soy dipping sauce" itemname="Vegetable Spring Rolls"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.95" descript="tandoori peanut dipping sauce" itemname="Grilled Marinated Chicken Skewers"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.95" descript="whole wheat tortilla with pepperjack, sour cream &amp; tomato salsa" itemname="Grilled Vegetable &amp;amp; Goat Cheese Quesadilla"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.95" descript="sour cream &amp; guacamole" itemname="Three Cheese Quesadilla"><extra type="add" price=" 11.95" descript="with chicken"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Salads" price=" 7.95" descript="foccacia croutons" itemname="Caesar Salad"><extra type="add" price=" 11.95" descript="with grilled chicken"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Salads" price=" 7.95" descript="balsamic vinaigrette" itemname="Mixed Green Salad"><extra type="add" price=" 12.95" descript="with grilled shrimp"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Salads" price=" 9.95" descript="sliced fresh mozzarella, tomatoes, roasted peppers &amp; infused basil oil" itemname="Caprese Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 10.95" descript="lemon dijon dressing and walnut crusted goat cheese" itemname="Endive, Pear and Watercress Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 9.95" descript="feta cheese, romaine, cucumber, olives, red onion, tomato, celery and feta yogurt dressing" itemname="Chopped Mediterranean Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 13.95" descript="fire roasted pepper vinaigrette, chili cilantro oil &amp; avocado vegetable slaw" itemname="Grilled Marinated Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 11.95" descript="seared rare, assorted vegetables, alfalfa sprouts, mesclun greens &amp; wasabi dressing" itemname="Sesame Crusted Salmon and Tuna Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 10.95" descript="toasted almonds, gorgonzola &amp; citrus ginger vinaigrette" itemname="Arugula Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 14.95" descript="grilled yellowfin tuna, mixed greens, stringbeans, potatoes, olives, tomatoes, red onions and balsamic vinaigrette" itemname="Salade Nicoise"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 12.95" descript="orange peanut dressing, marinated vegetables, romaine and spiced candied peanuts &amp; crispy corn tortilla strips" itemname="Grilled Chicken Salad"></menu_item>
+<menu_item type="Dinner" category="Sandwiches &amp;amp; Wraps" price=" 10.95" descript="toasted seeded roll, lettuce, tomato, onion, pickle and heights fries" itemname="Charbroiled Burger"></menu_item>
+<menu_item type="Dinner" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="toasted whole wheat bun and mixed greens" itemname="Grilled Turkey Burger"></menu_item>
+<menu_item type="Dinner" category="Sandwiches &amp;amp; Wraps" price=" 11.95" descript="toasted whole wheat roll, cajun remoulade sauce &amp; mesclun greens" itemname="Salmon Burger"></menu_item>
+<menu_item type="Dinner" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="onion baguette, lemon pepper mayo, roasted peppers, arugula, provolone cheese &amp; heights fries" itemname="Grilled Marinated Chicken"></menu_item>
+<menu_item type="Dinner" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="whole wheat bun, lemon tahini dressing, hummus and mixed greens" itemname="Veggie Burger"></menu_item>
+<menu_item type="Dinner" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="grilled multigrain bread, roasted peppers, tomato, basil pesto, grilled eggplant and heights fries" itemname="Fresh Mozzarella Sandwich"></menu_item>
+<menu_item type="Dinner" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="served on toasted panini bread with house made coffee bbq sauce, coleslaw, sliced tomates &amp; height fries" itemname="Pulled Smoked Chicken"></menu_item>
+<menu_item type="Dinner" category="Pizza" price=" 10.95" descript="fresh mozzarella and basil" itemname="Plum Tomato Pizza"></menu_item>
+<menu_item type="Dinner" category="Pizza" price=" 11.95" descript="olive oil parmesan, gorgonzola, cheddar fresh mozzarella &amp; tomato jalapeno salsa" itemname="Four Cheese Pizza"></menu_item>
+<menu_item type="Dinner" category="Pizza" price=" 12.95" descript="bolognese sauce, mortadella, pepperoni, shiitake mushroom ricotta &amp; provolone cheese." itemname="Italian Club Pizza"></menu_item>
+<menu_item type="Dinner" category="Pizza" price=" 11.95" descript="olive oil sliced plum tomatoes, fresh garlic, parmesan &amp; smoked mozzarella cheese" itemname="Olive Tapenade Pizza"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 10.95" descript="plum tomato sauce and vodka sauce" itemname="Penne"><extra type="add" price=" 15.95" descript="with shrimp"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.95" descript="green peas, parmesan cheese &amp; light pesto cream sauce." itemname="Farfalle"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 12.95" descript="sweet italian sausage, parmesan cheese &amp; bolognese sauce" itemname="Rigatoni"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 15.95" descript="sautéed fire roasted eggplant, mushrooms, cherry tomatoes &amp; three cheeses sauce" itemname="Potato Gnocchi"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 15.95" descript="white wine garlic sauce, sauteed shrimp, tomatoes, oyster mushrooms &amp; asparagus" itemname="Tricolor Fresh Linguini"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 13.95" descript="sauteed chicken, artichokes, sun dried tomatoes, green peas &amp; marsala cream sauce." itemname="Fresh Pappardelle"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 17.95" descript="littleneck clams, mussels, calamari shrimp &amp; scallops" itemname="Seafood Linguini Fra Diavolo Sauce"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 18.95" descript="teriyaki sauce, grilled portobello, baby carrots, corn, fennel &amp; herb oil" itemname="Miso Glazed Salmon"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 19.95" descript="carrot coconut emulsion, seasonal vegetables slaw &amp; pancetta sofrito risotto stuffed calamari" itemname="Grilled Sea Scallops"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 18.95" descript="tomato beurre noisette, stir fry vegetable &amp; crispy lemon thyme polenta cake" itemname="Sautéed Shrimp"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 18.95" descript="smoked green chili remoulade sauce, caramelized ripe plantain &amp; wild rice charred corn salad" itemname="Crabcake Entree"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 19.95" descript="seared rare, spicy sweet sauce, crunchy vegetable saute &amp; fried scallion basmati rice" itemname="Sesame Crusted Tuna Steak"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 16.95" descript="stuffed with andouille sausage &amp; romano cheese, honey apricot vinaigrette &amp; cucumber apple green salad" itemname="Chicken Breast"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 16.95" descript="corn, shitake &amp; pearl onion sauce, whipped potatoes &amp; sauteed spinach." itemname="Pan Roasted Chicken"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 16.95" descript="wrapped in bacon, cumin mushroom gravy, sauteed string beans, whipped potatoes &amp; onion rings" itemname="Texas Meatloaf"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 23.95" descript="truffled horseradish blue cheese butter, grilled romaine heart &amp; vegetable moussaka" itemname="Grilled Black Angus New York Strip Steak"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 18.95" descript="red wine reduction, charred baby carrots, broccolini &amp; butternut squash potato gratin" itemname="Oven Roasted Marinated Hanger Steak"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Whipped Potatoes"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Basmati Wild Rice Blend"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Sauteed Spinach"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Roasted Red Bliss Potatoes"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Sauteed Stringbeans"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Heights Fries"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Grilled Vegetables"></menu_item>
+<menu_item type="Dinner" category="Sides $4.95" price=" " descript="" itemname="Sauteed Escarole"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 4.50" descript="" itemname="Chef's Daily Soup"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 6.95" descript="with fresh fruit and yogurt" itemname="Granola"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 9.95" descript="toasted almonds, gorgonzola &amp; citrus ginger vinaigrette" itemname="Arugula Salad"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 7.95" descript="foccacia croutons" itemname="Caesar Salad"></menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 7.95" descript="with balsamic vinaigrette" itemname="Mixed Green Salad"><extra type="add" price=" 11.95" descript="with grilled chicken"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Appetizers" price=" 8.95" descript="with tabouleh, mediterranean tomato salad and pita bread" itemname="Hummus Platter"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 8.95" descript="buttermilk" itemname="Pancakes"><extra type="add" price=" 9.95" descript="whole wheat blueberry"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 8.95" descript="buttermilk" itemname="Waffles"><extra type="add" price=" 9.95" descript="whole wheat blueberry"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 9.95" descript="with pear raisin compote" itemname="Brioche French Toast"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 9.95" descript="with canadian bacon and hollandaise on a toasted english muffin. home fries on the side" itemname="Eggs Benedict"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 10.95" descript="with andouille sausage, hominy, peppers and onions in a crisp tortilla cup with avocado coulis" itemname="Poached Eggs"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 9.95" descript="filled with scrambled eggs, mushrooms, peppers, onions, cheddar and bacon with roasted pepper coulis" itemname="Brunch Strudel"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 10.95" descript="with roasted tomatoes, sweet corn and pepperjack cheese" itemname="Chile Rock Shrimp Frittata"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 9.95" descript="with sauteed mushrooms, roasted peppers and smoked gouda cheese. home fries on the side" itemname="Grilled Marinated Zucchini Omelet"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 12.95" descript="with fresh tomato salsa" itemname="Grilled Sirloin Steak and Scrambled Eggs"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 9.95" descript="with tomato-asparagus salad and mixed greens" itemname="Spinach and Feta Cheese Tart"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 10.95" descript="with bacon, tomato and cheddar cheese. mixed greens on the side" itemname="Grilled Chicken and Asparagus Quiche"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 13.95" descript="grilled yellowfin tuna over mixed greens with string beans, potatoes, olives, tomatoes and red onions with balsamic vinaigrette" itemname="Salade Nicoise Grilled Yellowfin Tuna"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 9.95" descript="with fresh mozzarella and basil" itemname="Plum Tomato Pizza"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 8.95" descript="on an onion baguette with lemon pepper mayo, roasted peppers, arugula and provolone cheese. heights fries on the side" itemname="Grilled Marinated Chicken Sandwich"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 10.95" descript="with lemon caper mayo, tomato, red onion and cucumber. heights fries on the side" itemname="Smoked Salmon On 7-Grain Bread"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 8.95" descript="on a whole wheat bun with lemon tahini dressing, hummus and mixed greens" itemname="Vegetable Burger"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 8.95" descript="in pita bread with mixed greens" itemname="Curried Chicken Salad"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 9.95" descript="wrapped in bacon. served open faced on a sour dough baguette with cumin mushroom gravy. onion rings on the side" itemname="Texas Meatloaf Sandwich"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 9.95" descript="on a toasted roll with lettuce, tomato, onion, pickle and heights fries" itemname="Charbroiled Burger"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 8.95" descript="on a whole wheat bun with mixed greens on the side" itemname="Grilled Turkey Burger"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 3.95" descript="" itemname="Bacon"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 3.00" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.50" descript="" itemname="Heights Fries"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 3.95" descript="" itemname="House Made Sausage"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 2.50" descript="" itemname="English Muffins"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.50" descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 4.95" descript="" itemname="Chef's Daily Soup"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.95" descript="trio of chipotle marinara, lemon garlic &amp; ancho chili dipping sauce" itemname="Crispy Calamari"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.95" descript="chopped mediterranean tomato salad &amp; pita bread" itemname="Hummus Platter Tabouleh"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 11.95" descript="with gorgonzola green chili sauce, ancho chili aioli &amp; heights fries" itemname="Mussel Frites"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 10.95" descript="with choice of green curry lemongrass sauce or garlic plum tomato" itemname="Steamed Mussels"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 10.95" descript="smoked green chili remoulade sauce &amp; wild rice-charred corn salad" itemname="Crabcake"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" " descript="with beef &amp; bean chili, cheddar cheese, sour cream &amp; tomato salsa" itemname="Nachos"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.95" descript="tri colored corn tortilla chips" itemname="Warm Spinach Artichoke Dip"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.95" descript="soy dipping sauce" itemname="Vegetable Spring Rolls"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.95" descript="tandoori peanut dipping sauce" itemname="Grilled Marinated Chicken Skewers"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 10.95" descript="whole wheat tortilla with pepperjack, sour cream &amp; tomato salsa" itemname="Grilled Vegetable &amp;amp; Goat Cheese Quesadilla"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.95" descript="sour cream &amp; guacamole" itemname="Three Cheese Quesadilla"><extra type="add" price=" 11.95" descript="with chicken"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads" price=" 7.95" descript="foccacia croutons" itemname="Caesar Salad"><extra type="add" price=" 11.95" descript="with grilled chicken"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads" price=" 7.95" descript="balsamic vinaigrette" itemname="Mixed Green Salad"><extra type="add" price=" 12.95" descript="with grilled shrimp"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads" price=" 9.95" descript="sliced fresh mozzarella, tomatoes, roasted peppers &amp; infused basil oil" itemname="Caprese Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 10.95" descript="lemon dijon dressing and walnut crusted goat cheese" itemname="Endive, Pear and Watercress Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 9.95" descript="feta cheese, romaine, cucumber, olives, red onion, tomato, celery and feta yogurt dressing" itemname="Chopped Mediterranean Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 13.95" descript="fire roasted pepper vinaigrette, chili cilantro oil &amp; avocado vegetable slaw" itemname="Grilled Marinated Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 11.95" descript="seared rare, assorted vegetables, alfalfa sprouts, mesclun greens &amp; wasabi dressing" itemname="Sesame Crusted Salmon and Tuna Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 10.95" descript="toasted almonds, gorgonzola &amp; citrus ginger vinaigrette" itemname="Arugula Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 14.95" descript="grilled yellowfin tuna, mixed greens, stringbeans, potatoes, olives, tomatoes, red onions and balsamic vinaigrette" itemname="Salade Nicoise"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 12.95" descript="orange peanut dressing, marinated vegetables, romaine and spiced candied peanuts &amp; crispy corn tortilla strips" itemname="Grilled Chicken Salad"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Wraps" price=" 10.95" descript="toasted seeded roll, lettuce, tomato, onion, pickle and heights fries" itemname="Charbroiled Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="toasted whole wheat bun and mixed greens" itemname="Grilled Turkey Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Wraps" price=" 11.95" descript="toasted whole wheat roll, cajun remoulade sauce &amp; mesclun greens" itemname="Salmon Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="onion baguette, lemon pepper mayo, roasted peppers, arugula, provolone cheese &amp; heights fries" itemname="Grilled Marinated Chicken"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="whole wheat bun, lemon tahini dressing, hummus and mixed greens" itemname="Veggie Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="grilled multigrain bread, roasted peppers, tomato, basil pesto, grilled eggplant and heights fries" itemname="Fresh Mozzarella Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches &amp;amp; Wraps" price=" 9.95" descript="served on toasted panini bread with house made coffee bbq sauce, coleslaw, sliced tomates &amp; height fries" itemname="Pulled Smoked Chicken"></menu_item>
+<menu_item type="Lunch" category="Pizza" price=" 10.95" descript="fresh mozzarella and basil" itemname="Plum Tomato Pizza"></menu_item>
+<menu_item type="Lunch" category="Pizza" price=" 11.95" descript="olive oil parmesan, gorgonzola, cheddar fresh mozzarella &amp; tomato jalapeno salsa" itemname="Four Cheese Pizza"></menu_item>
+<menu_item type="Lunch" category="Pizza" price=" 12.95" descript="bolognese sauce, mortadella, pepperoni, shiitake mushroom ricotta &amp; provolone cheese." itemname="Italian Club Pizza"></menu_item>
+<menu_item type="Lunch" category="Pizza" price=" 11.95" descript="olive oil sliced plum tomatoes, fresh garlic, parmesan &amp; smoked mozzarella cheese" itemname="Olive Tapenade Pizza"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 10.95" descript="plum tomato sauce and vodka sauce" itemname="Penne"><extra type="add" price=" 15.95" descript="with shrimp"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 11.95" descript="green peas, parmesan cheese &amp; light pesto cream sauce." itemname="Farfalle"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 12.95" descript="sweet italian sausage, parmesan cheese &amp; bolognese sauce" itemname="Rigatoni"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 15.95" descript="sautéed fire roasted eggplant, mushrooms, cherry tomatoes &amp; three cheeses sauce" itemname="Potato Gnocchi"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 15.95" descript="white wine garlic sauce, sauteed shrimp, tomatoes, oyster mushrooms &amp; asparagus" itemname="Tricolor Fresh Linguini"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 13.95" descript="sauteed chicken, artichokes, sun dried tomatoes, green peas &amp; marsala cream sauce." itemname="Fresh Pappardelle"></menu_item>
+<menu_item type="Lunch" category="Pasta" price=" 17.95" descript="littleneck clams, mussels, calamari shrimp &amp; scallops" itemname="Seafood Linguini Fra Diavolo Sauce"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 18.95" descript="teriyaki sauce, grilled portobello, baby carrots, corn, fennel &amp; herb oil" itemname="Miso Glazed Salmon"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 19.95" descript="carrot coconut emulsion, seasonal vegetables slaw &amp; pancetta sofrito risotto stuffed calamari" itemname="Grilled Sea Scallops"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 18.95" descript="tomato beurre noisette, stir fry vegetable &amp; crispy lemon thyme polenta cake" itemname="Sautéed Shrimp"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 18.95" descript="smoked green chili remoulade sauce, caramelized ripe plantain &amp; wild rice charred corn salad" itemname="Crabcake Entree"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 19.95" descript="seared rare, spicy sweet sauce, crunchy vegetable saute &amp; fried scallion basmati rice" itemname="Sesame Crusted Tuna Steak"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 16.95" descript="stuffed with andouille sausage &amp; romano cheese, honey apricot vinaigrette &amp; cucumber apple green salad" itemname="Chicken Breast"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 16.95" descript="corn, shitake &amp; pearl onion sauce, whipped potatoes &amp; sauteed spinach." itemname="Pan Roasted Chicken"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 16.95" descript="wrapped in bacon, cumin mushroom gravy, sauteed string beans, whipped potatoes &amp; onion rings" itemname="Texas Meatloaf"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 23.95" descript="truffled horseradish blue cheese butter, grilled romaine heart &amp; vegetable moussaka" itemname="Grilled Black Angus New York Strip Steak"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 18.95" descript="red wine reduction, charred baby carrots, broccolini &amp; butternut squash potato gratin" itemname="Oven Roasted Marinated Hanger Steak"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Whipped Potatoes"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Basmati Wild Rice Blend"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Sauteed Spinach"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Roasted Red Bliss Potatoes"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Sauteed Stringbeans"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Heights Fries"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Grilled Vegetables"></menu_item>
+<menu_item type="Lunch" category="Sides $4.95" price=" " descript="" itemname="Sauteed Escarole"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 4.50" descript="" itemname="Chef's Daily Soup"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 6.95" descript="with fresh fruit and yogurt" itemname="Granola"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.95" descript="toasted almonds, gorgonzola &amp; citrus ginger vinaigrette" itemname="Arugula Salad"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.95" descript="foccacia croutons" itemname="Caesar Salad"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 7.95" descript="with balsamic vinaigrette" itemname="Mixed Green Salad"><extra type="add" price=" 11.95" descript="with grilled chicken"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.95" descript="with tabouleh, mediterranean tomato salad and pita bread" itemname="Hummus Platter"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 8.95" descript="buttermilk" itemname="Pancakes"><extra type="add" price=" 9.95" descript="whole wheat blueberry"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 8.95" descript="buttermilk" itemname="Waffles"><extra type="add" price=" 9.95" descript="whole wheat blueberry"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 9.95" descript="with pear raisin compote" itemname="Brioche French Toast"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 9.95" descript="with canadian bacon and hollandaise on a toasted english muffin. home fries on the side" itemname="Eggs Benedict"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 10.95" descript="with andouille sausage, hominy, peppers and onions in a crisp tortilla cup with avocado coulis" itemname="Poached Eggs"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 9.95" descript="filled with scrambled eggs, mushrooms, peppers, onions, cheddar and bacon with roasted pepper coulis" itemname="Brunch Strudel"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 10.95" descript="with roasted tomatoes, sweet corn and pepperjack cheese" itemname="Chile Rock Shrimp Frittata"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 9.95" descript="with sauteed mushrooms, roasted peppers and smoked gouda cheese. home fries on the side" itemname="Grilled Marinated Zucchini Omelet"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 12.95" descript="with fresh tomato salsa" itemname="Grilled Sirloin Steak and Scrambled Eggs"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 9.95" descript="with tomato-asparagus salad and mixed greens" itemname="Spinach and Feta Cheese Tart"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 10.95" descript="with bacon, tomato and cheddar cheese. mixed greens on the side" itemname="Grilled Chicken and Asparagus Quiche"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 13.95" descript="grilled yellowfin tuna over mixed greens with string beans, potatoes, olives, tomatoes and red onions with balsamic vinaigrette" itemname="Salade Nicoise Grilled Yellowfin Tuna"></menu_item>
+<menu_item type="Lunch" category="Entrees" price=" 9.95" descript="with fresh mozzarella and basil" itemname="Plum Tomato Pizza"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 8.95" descript="on an onion baguette with lemon pepper mayo, roasted peppers, arugula and provolone cheese. heights fries on the side" itemname="Grilled Marinated Chicken Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 10.95" descript="with lemon caper mayo, tomato, red onion and cucumber. heights fries on the side" itemname="Smoked Salmon On 7-Grain Bread"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 8.95" descript="on a whole wheat bun with lemon tahini dressing, hummus and mixed greens" itemname="Vegetable Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 8.95" descript="in pita bread with mixed greens" itemname="Curried Chicken Salad"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.95" descript="wrapped in bacon. served open faced on a sour dough baguette with cumin mushroom gravy. onion rings on the side" itemname="Texas Meatloaf Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.95" descript="on a toasted roll with lettuce, tomato, onion, pickle and heights fries" itemname="Charbroiled Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 8.95" descript="on a whole wheat bun with mixed greens on the side" itemname="Grilled Turkey Burger"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 3.95" descript="" itemname="Bacon"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 3.00" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 4.50" descript="" itemname="Heights Fries"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 3.95" descript="" itemname="House Made Sausage"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 2.50" descript="" itemname="English Muffins"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" 4.50" descript="" itemname="Onion Rings"></menu_item>
+</root>

@@ -1,0 +1,57 @@
+<root>
+<menu_item type="default" category="Appetizers" price=" 4.50" descript="grilled and served with peanut sauce and cucumber dip" itemname="Chicken or Beef State"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.50" descript="served with sweet chili garlic sauce" itemname="Fried Calamari"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.25" descript="seasoned mixed vegetables, served with sweet chili garlic sauce" itemname="Thai Spring Rolls (Fried)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.50" descript="served with sweet and sour tamarind sauce" itemname="Fresh Spring Rolls (Fresh)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.50" descript="minced king mixed with chili paste, served with cucumber sauce" itemname="Fish Cake"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.25" descript="with shallots, garlic, white wine and fresh herbs" itemname="Mussels a La Mariniere"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.50" descript="ground shrimp, chicken, waterchestnuts, served with thai soy sauce" itemname="Steamed Thai Dumplings"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.25" descript="filled with chicken, potato, onion, served with cucumber dip" itemname="Fried Wontons"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.50" descript="served with sweet plum sauce" itemname="Fried Thai Crab Rolls"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.25" descript="served with sweet chili garlic sauce and ground peanuts" itemname="Fried Bean Curd"></menu_item>
+<menu_item type="default" category="Salad" price=" 4.25" descript="green papaya with string beans, tomatoes, ground peanuts and fresh lemon juice" itemname="Green Papaya Salad"></menu_item>
+<menu_item type="default" category="Salad" price=" 3.50" descript="mixture of young mesculin greens with balsamic vinaigrette" itemname="Green Market Salad"></menu_item>
+<menu_item type="default" category="Salad" price=" 4.50" descript="lettuce, tomatoes, hard boiled egg and peanut dressing" itemname="House Salad"></menu_item>
+<menu_item type="default" category="Salad" price=" 6.95" descript="grilled chicken or beef on mixed salad with roasted chili paste and fresh lemon juice" itemname="Chicken or Beef Salad"></menu_item>
+<menu_item type="default" category="Salad" price=" 7.75" descript="grilled shrimps on mixed salad, roasted chili paste and fresh lemon juice" itemname="Naked Shrimp Salad"></menu_item>
+<menu_item type="default" category="Salad" price=" 6.50" descript="warm goat cheese on mixed salad with balsamic vinaigrette" itemname="Warm Goat Cheese Salad"></menu_item>
+<menu_item type="default" category="Soups" price=" 3.25" descript="chicken in coconut soup with galanga root and lemon grass" itemname="Tom Kha Kai"></menu_item>
+<menu_item type="default" category="Soups" price=" 3.95" descript="shrimps in hot and sour herb broth, with lemon grass and kaffir lime leaves" itemname="Tom Yam Kung"></menu_item>
+<menu_item type="default" category="Entree" price=" 7.25" descript="grilled marinated half chicken in thai herbs, served with sweet chili garlic sauce and black bean rice" itemname="BBQ Chicken"></menu_item>
+<menu_item type="default" category="Entree" price=" 8.25" descript="chicken breast with pommery mustard sauce, served with mashed potatoes and spring vegetables" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="default" category="Entree" price=" 7.75" descript="with red potato, onion, and whole peanut" itemname="Chicken Masaman Curry"></menu_item>
+<menu_item type="default" category="Entree" price=" 7.25" descript="choice of chicken or beef cooked in red curry sauce with coconut milk, basil and bamboo shoots" itemname="Chicken or Beef Curry"></menu_item>
+<menu_item type="default" category="Entree" price=" 7.25" descript="red curry cooked with mixed vegetables, coconut milk, tofu and fresh basil" itemname="Vegetable Curry"></menu_item>
+<menu_item type="default" category="Entree" price=" 7.25" descript="choice of chicken or beef sauteed with onion, pepper and fresh basil leaf in chili sauce" itemname="Chicken or Beef with Basil"></menu_item>
+<menu_item type="default" category="Entree" price=" 6.25" descript="sauteed chicken with fresh garlic and black pepper, served with vegetables" itemname="Garlic and Pepper Chicken"></menu_item>
+<menu_item type="default" category="Entree" price=" 12.95" descript="long island duck marinated in honey and ginger sauce, baked until crisp, served with mashed potatoes and spring vegetables" itemname="Crispy Duck"></menu_item>
+<menu_item type="default" category="Entree" price=" 7.25" descript="sauteed with mixed vegetables and fresh basil in sauce" itemname="Bean Curds with Basil"></menu_item>
+<menu_item type="default" category="Entree" price=" 7.25" descript="sauteed mixed fresh vegetables in ginger oyster sauce" itemname="Tofu and Vegetables"></menu_item>
+<menu_item type="default" category="Noodles and Rice" price=" 6.95" descript="rice noodles sauteed with chicken, crushed peanuts, egg and bean sprouts" itemname="Pad Thai Chicken"></menu_item>
+<menu_item type="default" category="Noodles and Rice" price=" 6.95" descript="rice noodles sauteed with mixed vegetables, crushed peanuts, egg and bean sprouts" itemname="Pad Thai Vegetables"></menu_item>
+<menu_item type="default" category="Noodles and Rice" price=" 7.25" descript="broad rice noodles sauteed with egg and broccoli" itemname="Pad See Ew Chicken or Beef"></menu_item>
+<menu_item type="default" category="Noodles and Rice" price=" 7.25" descript="broad rice noodles sauteed with fresh chili and sweet black bean sauce" itemname="Spicy Noodles Chicken or Beef"></menu_item>
+<menu_item type="default" category="Noodles and Rice" price=" 6.50" descript="sauteed rice with chicken or beef, egg, onion, tomato and scallion" itemname="Fried Rice Chicken or Beef"></menu_item>
+<menu_item type="default" category="Noodles and Rice" price=" 6.50" descript="sauteed rice with mixed fresh vegetables, egg, onion, tomato and scallion" itemname="Vegetable Fried Rice"></menu_item>
+<menu_item type="default" category="Noodles and Rice" price=" 7.25" descript="shrimp fried rice topped with spicy beef" itemname="Amarin Fried Rice"></menu_item>
+<menu_item type="default" category="Seafood" price=" 7.95" descript="red curry cooked with shrimps, coconut milk, basil and eggplant" itemname="Shrimp Curry"></menu_item>
+<menu_item type="default" category="Seafood" price=" " descript="fresh fish of the day blackened with seasoning, served with shiitake mushrooms and roasted chili, ginger and garlic sauce, (market prices)" itemname="Chili Fish"></menu_item>
+<menu_item type="default" category="Seafood" price=" 7.95" descript="sauteed shrimps with onion, pepper and fresh basil leaf in chili sauce" itemname="Basil Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 7.50" descript="sauteed squid with onion, pepper and fresh basil leaf in chili sauce" itemname="Basil Squid"></menu_item>
+<menu_item type="default" category="Seafood" price=" 7.50" descript="rice noodles sauteed with shrimps, crushed peanuts, egg and bean sprouts" itemname="Pad Thai Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 7.95" descript="broad rice noodles sauteed with shrimps, fresh chili and sweet black bean sauce" itemname="Spicy Noodles Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 6.95" descript="sauteed rice with shrimps, egg, onion, tomato and scallion" itemname="Shrimp Fried Rice"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 1.50" descript="" itemname="Brown Rice"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 1.50" descript="" itemname="Sticky Rice"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 1.00" descript="" itemname="Peanut Sauce"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 1.50" descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.95" descript="" itemname="Creme Brulee"></menu_item>
+<menu_item type="default" category="Desserts" price=" 2.95" descript="" itemname="Key Lime Pie"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.50" descript="" itemname="Chocolate Mousse"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.95" descript="" itemname="Thai Iced Coffee"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.95" descript="" itemname="Thai Iced Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.50" descript="" itemname="Thai Lemonade"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.95" descript="" itemname="Cranberry Juice"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Sodas"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Spring Water"></menu_item>
+</root>

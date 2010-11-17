@@ -1,0 +1,202 @@
+<root>
+<menu_item type="Breakfast" category="Cesi Cela Pastries" price=" 3.00" descript="" itemname="Croissant"></menu_item>
+<menu_item type="Breakfast" category="Cesi Cela Pastries" price=" 3.50" descript="" itemname="Choc Croissant"></menu_item>
+<menu_item type="Breakfast" category="Cesi Cela Pastries" price=" 3.50" descript="" itemname="Almond Croissant"></menu_item>
+<menu_item type="Breakfast" category="Cesi Cela Pastries" price=" 3.50" descript="" itemname="Assorted Fruit Danishes"></menu_item>
+<menu_item type="Breakfast" category="Sides" price=" 3.50" descript="" itemname="Avocado, Fried Tomatoes"></menu_item>
+<menu_item type="Breakfast" category="Sides" price=" 3.50" descript="" itemname="Sauteed Tuscan Kale"></menu_item>
+<menu_item type="Breakfast" category="Sides" price=" 3.50" descript="" itemname="Sauteed Mushrooms, Hash Browns"></menu_item>
+<menu_item type="Breakfast" category="Sides" price=" 3.50" descript="" itemname="Grilled Chorizo, Thick Cut Bacon"></menu_item>
+<menu_item type="Breakfast" category="Sides" price=" 3.50" descript="" itemname="House Made Baked Beans"></menu_item>
+<menu_item type="Breakfast" category="Sides" price=" 4.00" descript="" itemname="2 Organic Eggs Any Style"></menu_item>
+<menu_item type="Breakfast" category="Sides" price=" 8.00" descript="" itemname="Truffle Fries"></menu_item>
+<menu_item type="Breakfast" category="Sides" price=" 5.00" descript="" itemname="Fries"></menu_item>
+<menu_item type="Lunch" category="Starters" price=" 7.00" descript="" itemname="Seasonal Soup Of The Day"></menu_item>
+<menu_item type="Lunch" category="Starters" price=" 7.00" descript="dates wrapped in bacon served with dijon mustard." itemname="Devils On Horseback"></menu_item>
+<menu_item type="Lunch" category="Starters" price=" 10.00" descript="with figs, fresh thyme, honeycomb, maldon sea salt served with fruit &amp; nut bread." itemname="House Made Ricotta"></menu_item>
+<menu_item type="Lunch" category="Starters" price=" 11.00" descript="with shaved fennel, olives &amp; house made lavosh crackers." itemname="Pino's Prime Meat Plate"></menu_item>
+<menu_item type="Lunch" category="Starters" price=" 15.00" descript="with eppoisses, cashel blue, humboldt fog, 5yr gouda served with grilled fruit &amp; nut bread." itemname="Cheese Board"></menu_item>
+<menu_item type="Lunch" category="Starters" price=" 14.00" descript="with saffron coconut milk, chili, scallion &amp; grilled sourdough" itemname="Steamed Mussels"></menu_item>
+<menu_item type="Lunch" category="Starters" price=" 12.00" descript="freshly shucked &amp; served with rice wine mignonette &amp; virgin mary" itemname="1/2 Dozen Blue Point Oysters"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 6.00" descript="with house dressing" itemname="Baby Greens"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 9.00" descript="with organic poached egg, bacon lardon, shallot vinaigrette &amp; croutons." itemname="Frisee Lettuce"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 12.00" descript="with roasted acorn squash, feta &amp; red onion." itemname="Radicchio &amp;amp; Watercress"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 12.00" descript="sylvetta arugula, macadamia nuts &amp; goat's milk yogurt." itemname="Roasted Beet &amp;amp; Blood Orange"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 10.00" descript="with bacon, lettuce, avocado, tomato &amp; cumin, lime mayo." itemname="Blat"><extra type="sub" price=" 1.50" descript="add fried egg"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 11.00" descript="with roasted tomatoes, arugula, chipotle mayo, parmesan cheese &amp; anchovies." itemname="Warm Roast Organic Chicken"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 10.50" descript="with pepper, zucchini, eggplant, portobello mushrooms, tomato tapenade &amp; melted brie." itemname="Grilled Vegetables"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 13.00" descript="with roasted tomatoes, watercress, red onions &amp; tomato horseradish cream" itemname="Grilled Hanger Steak"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 14.00" descript="with grass red beef, fried pineapple ring, house made pickled beets, harissa mayo &amp; organic sunny up egg." itemname="Five Leaves Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 11.00" descript="with grass-fed beef &amp; harissa mayo." itemname="Burger"><extra type="sub" price=" 2.00" descript="add bacon"></extra>
+<extra type="sub" price=" 1.00" descript="add cheddar, gruyere or blue cheese."></extra>
+</menu_item>
+<menu_item type="In Between" category="Salads" price=" 6.00" descript="with house dressing" itemname="Baby Greens"></menu_item>
+<menu_item type="In Between" category="Salads" price=" 9.00" descript="with organic poached egg, bacon lardon, shallot vinaigrette &amp; croutons." itemname="Frisse Lettuce"></menu_item>
+<menu_item type="In Between" category="Salads" price=" 12.00" descript="with roasted acorn squash feta &amp; red onion." itemname="Radicchio &amp;amp; Watercress"></menu_item>
+<menu_item type="In Between" category="Salads" price=" 12.00" descript="sylvetta arugula, macadamia nuts &amp; goat's milk yogurt." itemname="Roasted Beet &amp;amp; Blood Orange"></menu_item>
+<menu_item type="In Between" category="Sides" price=" 8.00" descript="" itemname="Truffle Fries"></menu_item>
+<menu_item type="In Between" category="Sides" price=" 5.00" descript="" itemname="Fries"></menu_item>
+<menu_item type="In Between" category="Oysters" price=" 12.00" descript="freshly shucked &amp; served with rice wine mignonette &amp; virgin mary." itemname="1/2 Dozen Blue Points"></menu_item>
+<menu_item type="In Between" category="Small Plates" price=" 7.00" descript="" itemname="Seasonal Soup Of The Day"></menu_item>
+<menu_item type="In Between" category="Small Plates" price=" 7.00" descript="dates wrapped in bacon served with dijon mustard." itemname="Devils On Horseback"></menu_item>
+<menu_item type="In Between" category="Small Plates" price=" 10.00" descript="with figs, fresh thyme, honeycomb, maldon sea salt &amp; fruit bread." itemname="House Made Ricotta"></menu_item>
+<menu_item type="In Between" category="Small Plates" price=" 11.00" descript="with shaved fennel, olives &amp; house made lavosh crackers." itemname="Pino's Prime Meat Plate"></menu_item>
+<menu_item type="In Between" category="Small Plates" price=" 14.00" descript="with saffron coconut milk, chili, scallions &amp; grilled sourdough." itemname="Steamed Mussels"></menu_item>
+<menu_item type="In Between" category="Small Plates" price=" 15.00" descript="with epoisses, cashel blue, humboldt, fog 5yr gouda served with grilled fruit &amp; nut bread." itemname="Cheese Board"></menu_item>
+<menu_item type="In Between" category="Mains" price=" 15.00" descript="with grass-fed beef, fried pineapple, ring, house made pickled beets, harissa mayo, organic sunny-up egg, salad or fries." itemname="Five Leaves Burger"></menu_item>
+<menu_item type="In Between" category="Mains" price=" 13.00" descript="with grass-fed beef, harissa mayo, salad or fries." itemname="Burger"><extra type="sub" price=" 2.00" descript="add bacon"></extra>
+<extra type="sub" price=" 1.00" descript="add cheddar, gruyere or blue cheese."></extra>
+</menu_item>
+<menu_item type="Dinner" category="Salads" price=" 6.00" descript="with house dressing" itemname="Baby Greens"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 9.00" descript="with organic poached egg, bacon lardon, shallot vinaigrette &amp; croutons." itemname="Frisse Lettuce"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 12.00" descript="with roasted acorn squash feta &amp; red onion." itemname="Radicchio &amp;amp; Watercress"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 12.00" descript="sylvetta arugula, macadamia nuts &amp; goat's milk yogurt." itemname="Roasted Beet &amp;amp; Blood Orange"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 6.00" descript="with lemon &amp; bacon." itemname="Grilled Chilled Asparagus"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 6.00" descript="with anchovy butter" itemname="Sauteed Tuscan Kale"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 6.00" descript="with harissa butter" itemname="Celery Root Mash"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 8.00" descript="" itemname="Truffle Fries"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="" itemname="Fries"></menu_item>
+<menu_item type="Dinner" category="Oysters" price=" 12.00" descript="freshly shucked &amp; served with rice wine mignonette &amp; virgin mary." itemname="1/2 Dozen Blue Points"></menu_item>
+<menu_item type="Dinner" category="Oysters" price=" 13.00" descript="with smoked chili aioli &amp; cucumber relish" itemname="Flash Fried Oysters"></menu_item>
+<menu_item type="Dinner" category="Small Plates" price=" 7.00" descript="" itemname="Seasonal Soup Of The Day"></menu_item>
+<menu_item type="Dinner" category="Small Plates" price=" 7.00" descript="dates wrapped in bacon served with dijon mustard." itemname="Devils On Horseback"></menu_item>
+<menu_item type="Dinner" category="Small Plates" price=" 10.00" descript="with figs, fresh thyme, honeycomb, maldon sea salt &amp; fruit bread." itemname="House Made Ricotta"></menu_item>
+<menu_item type="Dinner" category="Small Plates" price=" 13.00" descript="with green apple mustard, radish celery salad." itemname="Spiced Pork Ribs"></menu_item>
+<menu_item type="Dinner" category="Small Plates" price=" 11.00" descript="with shaved fennel, olives &amp; house made lavosh crackers." itemname="Pino's Prime Meat Plate"></menu_item>
+<menu_item type="Dinner" category="Small Plates" price=" 13.00" descript="with green olive &amp; pistachio dressing." itemname="Grilled Octopus"></menu_item>
+<menu_item type="Dinner" category="Small Plates" price=" 14.00" descript="with saffron coconut milk, chili, scallions &amp; grilled sourdough." itemname="Steamed Mussels"></menu_item>
+<menu_item type="Dinner" category="Small Plates" price=" 15.00" descript="with epoisses, cashel blue, humboldt, fog 5yr gouda served with grilled fruit &amp; nut bread." itemname="Cheese Board"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 15.00" descript="with sage burnt butter sauce" itemname="House Made Beetroot Ravioli"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 18.00" descript="with honey roasted root vegetables." itemname="Organic Lamb Shepherd's Pie"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 19.00" descript="with sherry &amp; cookies served over chickpeas, broccoli rabe &amp; romesco sauce." itemname="Roasted Icelandic Cod"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 19.00" descript="with dark meat sausage, tuscan kale &amp; creamy semolina." itemname="Pan Roasted Amish Chicken Breast"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 19.00" descript="with harissa butter, carrots, braised cipollini onions &amp; celery root mash" itemname="Hanger Steak"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 21.00" descript="served over warm potato salad, with grilled asparagus, meyer lemon dressing &amp; crisp bacon." itemname="Grilled Whole Brook Trout"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 24.00" descript="on rye berry-celeriac salad with rhubarb &amp; young ginger" itemname="Liquorice Rub Duck Breast"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 15.00" descript="with grass-fed beef, fried pineapple ring, house made pickled beets, harissa mayo, organic sunny-up egg, salad or fries." itemname="Five Leave Burger"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 13.00" descript="with grass-fed beef, harissa mayo, salad or fries." itemname="Burger"><extra type="sub" price=" 2.00" descript="add bacon"></extra>
+<extra type="sub" price=" 1.00" descript="add cheddar, gruyere or blue cheese."></extra>
+</menu_item>
+<menu_item type="Dessert" category="Tea $3.25" price=" " descript="" itemname="Earl Grey Creme, Breakfast"></menu_item>
+<menu_item type="Dessert" category="Tea $3.25" price=" " descript="" itemname="Japanese Green, Chamomile"></menu_item>
+<menu_item type="Dessert" category="Tea $3.25" price=" " descript="" itemname="Masala Chai"></menu_item>
+<menu_item type="Dessert" category="Coffee" price=" 2.25" descript="" itemname="Espresso, Americano"></menu_item>
+<menu_item type="Dessert" category="Coffee" price=" 3.25" descript="" itemname="Cappuccino, Latte"></menu_item>
+<menu_item type="Dessert" category="Coffee" price=" 3.00" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Dessert" category="Coffee" price=" 3.25" descript="" itemname="Mocha"></menu_item>
+<menu_item type="Dessert" category="Coffee" price=" 2.25" descript="" itemname="Milk &amp;amp; Honey"><extra type="sub" price=" .75" descript="add ice"></extra>
+</menu_item>
+<menu_item type="Drinks" category="Refreshing" price=" 2.50" descript="" itemname="Coke, Diet Coke, Limonata"></menu_item>
+<menu_item type="Drinks" category="Refreshing" price=" 2.50" descript="" itemname="San Pellegrino Sparkling"></menu_item>
+<menu_item type="Drinks" category="Refreshing" price=" 2.75" descript="" itemname="Sanbitter"></menu_item>
+<menu_item type="Drinks" category="Refreshing" price=" 3.00" descript="" itemname="Fresh Squeezed Orange Juice"></menu_item>
+<menu_item type="Drinks" category="Refreshing" price=" 3.25" descript="" itemname="Iced Tea"></menu_item>
+<menu_item type="Drinks" category="Refreshing" price=" 3.25" descript="" itemname="Fresh House Made Lemonade"></menu_item>
+<menu_item type="Drinks" category="Coffee" price=" 2.25" descript="" itemname="Espresso, Americano"></menu_item>
+<menu_item type="Drinks" category="Coffee" price=" 3.25" descript="" itemname="Cappuccino, Latte"></menu_item>
+<menu_item type="Drinks" category="Coffee" price=" 3.00" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Drinks" category="Coffee" price=" 3.25" descript="" itemname="Mocha"></menu_item>
+<menu_item type="Drinks" category="Coffee" price=" 2.25" descript="" itemname="Milk &amp;amp; Honey"><extra type="sub" price=" .75" descript="add ice"></extra>
+</menu_item>
+<menu_item type="Drinks" category="Coffee" price=" 5.00" descript="with house made ice cream." itemname="Affogato"></menu_item>
+<menu_item type="Drinks" category="Beer Bottle" price="can 5.00" descript="" itemname="Dale's Pale Ale"></menu_item>
+<menu_item type="Drinks" category="Beer Bottle" price=" 5.00" descript="" itemname="Pacifico"></menu_item>
+<menu_item type="Drinks" category="Beer Bottle" price=" 5.00" descript="" itemname="Anchor Steam"></menu_item>
+<menu_item type="Drinks" category="Beer Bottle" price=" 6.00" descript="" itemname="Coopers Green"></menu_item>
+<menu_item type="Drinks" category="Beer Bottle" price=" 6.00" descript="" itemname="James Boags Lager"></menu_item>
+<menu_item type="Drinks" category="Tap Beer" price=" 4.00" descript="" itemname="Bud"></menu_item>
+<menu_item type="Drinks" category="Tap Beer" price=" 6.00" descript="" itemname="Stella"></menu_item>
+<menu_item type="Drinks" category="Tap Beer" price=" 6.00" descript="" itemname="Six Points"></menu_item>
+<menu_item type="Drinks" category="Tap Beer" price=" 6.00" descript="" itemname="Guinness"></menu_item>
+<menu_item type="Drinks" category="Tap Beer" price=" 8.00" descript="" itemname="Ayinger"></menu_item>
+<menu_item type="Drinks" category="Tap Beer" price=" 5.00" descript="1/2 tap, 1/2 sprite." itemname="Shandy"></menu_item>
+<menu_item type="Drinks" category="Tea $3.25" price=" " descript="" itemname="Earl Grey Creme, Breakfast"></menu_item>
+<menu_item type="Drinks" category="Tea $3.25" price=" " descript="" itemname="Japanese Green, Chamomile"></menu_item>
+<menu_item type="Drinks" category="Tea $3.25" price=" " descript="" itemname="Masala Chai"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 7.00" descript="" itemname="Maker's Mark"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 7.00" descript="" itemname="Jim Beam"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 7.00" descript="" itemname="Jack Daniels"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 7.00" descript="" itemname="Evan Williams"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 8.00" descript="" itemname="Basil Hayden"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 8.00" descript="" itemname="Blanton's"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 8.00" descript="" itemname="Bulleit"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 8.00" descript="" itemname="Knob Greek"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 8.00" descript="" itemname="Michter's"></menu_item>
+<menu_item type="Drinks" category="American Whisky" price=" 9.00" descript="" itemname="Woodford Reserve"></menu_item>
+<menu_item type="Drinks" category="Irish Whiskey" price=" 7.00" descript="" itemname="Powers"></menu_item>
+<menu_item type="Drinks" category="Irish Whiskey" price=" 8.00" descript="" itemname="Jameson"></menu_item>
+<menu_item type="Drinks" category="Irish Whiskey" price=" 8.00" descript="" itemname="Bushmills"></menu_item>
+<menu_item type="Drinks" category="Rye Whiskey" price=" 7.00" descript="" itemname="Rittenhouse 100"></menu_item>
+<menu_item type="Drinks" category="Rye Whiskey" price=" 9.00" descript="" itemname="Sazerac"></menu_item>
+<menu_item type="Drinks" category="Brandy &amp;amp; Cognac" price=" 7.00" descript="" itemname="Calvados Cardinal"></menu_item>
+<menu_item type="Drinks" category="Brandy &amp;amp; Cognac" price=" 8.00" descript="" itemname="Boulard Calvados"></menu_item>
+<menu_item type="Drinks" category="Brandy &amp;amp; Cognac" price=" 9.00" descript="" itemname="Henessy V.S.O.P"></menu_item>
+<menu_item type="Drinks" category="Brandy &amp;amp; Cognac" price=" 10.00" descript="" itemname="Laubade Armagnac"></menu_item>
+<menu_item type="Drinks" category="Ports" price=" 8.00" descript="" itemname="Presidential Ruby Port"></menu_item>
+<menu_item type="Drinks" category="Ports" price=" 8.00" descript="" itemname="Presidental Tawny Port"></menu_item>
+<menu_item type="Drinks" category="Ports" price=" 9.00" descript="" itemname="Sandeman Ruby"></menu_item>
+<menu_item type="Drinks" category="Ports" price=" 9.00" descript="" itemname="Sandeman Tawny"></menu_item>
+<menu_item type="Drinks" category="Ports" price=" 10.00" descript="" itemname="Broadbent Colheita"></menu_item>
+<menu_item type="Drinks" category="Ports" price=" 10.00" descript="" itemname="Madeira 1996"></menu_item>
+<menu_item type="Drinks" category="Ports" price=" 10.00" descript="" itemname="Presidental Porto"></menu_item>
+<menu_item type="Drinks" category="Ports" price=" 10.00" descript="" itemname="Late Bottled Vintage 2000"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 7.00" descript="" itemname="Dewars White Label"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 7.00" descript="" itemname="Johny Walker Red Label"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 12.00" descript="" itemname="Glenrothe's 10yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 12.00" descript="" itemname="Laphroaig 10yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 12.00" descript="" itemname="Ardbeg 10yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 12.00" descript="" itemname="Talisker 10yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 12.00" descript="" itemname="Balvenie 10yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 12.00" descript="" itemname="Macallan 10yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 12.00" descript="" itemname="Dalmore 12yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 12.00" descript="" itemname="Glenfiddich 12yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 13.00" descript="" itemname="Oban 14yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 14.00" descript="" itemname="Glenfiddich 15yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 15.00" descript="" itemname="Glenfiddich Solera Reserva 15yr"></menu_item>
+<menu_item type="Drinks" category="Scotch" price=" 15.00" descript="" itemname="Lagavulin 16yr"></menu_item>
+<menu_item type="Drinks" category="Vodka" price=" 7.00" descript="" itemname="Stolichnaya"></menu_item>
+<menu_item type="Drinks" category="Vodka" price=" 8.00" descript="" itemname="Grey Goose"></menu_item>
+<menu_item type="Drinks" category="Vodka" price=" 8.00" descript="" itemname="Kettle One"></menu_item>
+<menu_item type="Drinks" category="Gin" price=" 7.00" descript="" itemname="Bombay"></menu_item>
+<menu_item type="Drinks" category="Gin" price=" 7.00" descript="" itemname="Tanqueray"></menu_item>
+<menu_item type="Drinks" category="Gin" price=" 8.00" descript="" itemname="Plymouth"></menu_item>
+<menu_item type="Drinks" category="Gin" price=" 8.00" descript="" itemname="Bombay Sapphire"></menu_item>
+<menu_item type="Drinks" category="Gin" price=" 9.00" descript="" itemname="Hendrick's"></menu_item>
+<menu_item type="Drinks" category="Rum" price=" 7.00" descript="" itemname="Sailor Jerry"></menu_item>
+<menu_item type="Drinks" category="Rum" price=" 7.00" descript="" itemname="El. Dorado 5yr"></menu_item>
+<menu_item type="Drinks" category="Rum" price=" 8.00" descript="" itemname="Ron Zacapa 23yr"></menu_item>
+<menu_item type="Drinks" category="Rum" price=" 10.00" descript="" itemname="Barbancourt 15yr"></menu_item>
+<menu_item type="Drinks" category="Tequila" price=" 7.00" descript="" itemname="Hornitos Gold"></menu_item>
+<menu_item type="Drinks" category="Tequila" price=" 8.00" descript="" itemname="1800 Resposado"></menu_item>
+<menu_item type="Drinks" category="Tequila" price=" 8.00" descript="" itemname="Tres Generaciones Reposado"></menu_item>
+<menu_item type="Drinks" category="Tequila" price=" 9.00" descript="" itemname="Patron Silver"></menu_item>
+<menu_item type="Drinks" category="Pastis &amp;amp; Absinthe" price=" 8.00" descript="" itemname="Pernod"></menu_item>
+<menu_item type="Drinks" category="Pastis &amp;amp; Absinthe" price=" 8.00" descript="" itemname="Ricard"></menu_item>
+<menu_item type="Drinks" category="Pastis &amp;amp; Absinthe" price=" 9.00" descript="" itemname="Pernod Absinthe"></menu_item>
+<menu_item type="Drinks" category="Pastis &amp;amp; Absinthe" price=" 12.00" descript="" itemname="St. George Absinthe Verte"></menu_item>
+<menu_item type="Drinks" category="Aperitif &amp;amp; Digestif" price=" 7.00" descript="" itemname="Pimms No.1"></menu_item>
+<menu_item type="Drinks" category="Aperitif &amp;amp; Digestif" price=" 7.00" descript="" itemname="Campari"></menu_item>
+<menu_item type="Drinks" category="Aperitif &amp;amp; Digestif" price=" 8.00" descript="" itemname="Little Blanc"></menu_item>
+<menu_item type="Drinks" category="Aperitif &amp;amp; Digestif" price=" 8.00" descript="" itemname="Fernet-Branca"></menu_item>
+<menu_item type="Drinks" category="Aperitif &amp;amp; Digestif" price=" 8.00" descript="" itemname="Amaretto Dr Saronno"></menu_item>
+<menu_item type="Drinks" category="Aperitif &amp;amp; Digestif" price=" 8.00" descript="" itemname="Grand Marnier"></menu_item>
+<menu_item type="Drinks" category="Aperitif &amp;amp; Digestif" price=" 8.00" descript="" itemname="St. German"></menu_item>
+<menu_item type="Drinks" category="Aperitif &amp;amp; Digestif" price=" 9.00" descript="" itemname="Carpano Antica Formula"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="rye whiskey, absinthe, gomme syrup &amp; peychaud's bitters." itemname="Sazerac"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="tequila, fresh squeezed lemon &amp; lime juice, fresh muddled ginger &amp; orange zest." itemname="Ginger Margarita"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="rittenhouse 100rye, carpano antica formula &amp; campari served on the rocks." itemname="Old Pal"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 10.00" descript="hendrick's ging, honey syrup &amp; fresh squeezed lemon juice." itemname="Bee's Knees"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="tequila, liter blanc, velvet falernun, fresh squeezed lime juice &amp; cucumber, agave nectar puree." itemname="Tijuana Brass"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="spiced rum, fresh squeezed lime juice, creme de cassis." itemname="Cuban Sidecar"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="ging, lillet blanc, triple sec, fresh squeezed lemon juice &amp; absinthe" itemname="Corpse Reviver"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="pimm's #1, fresh squeezed lemon juice, muddled cucumber &amp; a splash of club soda." itemname="Pimm's Cup"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="sweet tea vodka, fresh squeezed lemon juice, simple syrup, fresh mint &amp; sparkling white wine." itemname="Southern Belle"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="five leaves blend of whiskeys, stirred &amp; served in a jar on the rocks." itemname="Whiskey In A Jar"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="calvados cardinal, fresh squeezed lemon juice, triple sec, simple syrup." itemname="Calvados Sidecar"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 10.00" descript="house made vanilla infused bourbon, muddled apples, fresh squeezed lime juice &amp; brown sugar." itemname="Farmer's Daughter (Served Hot)"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 9.00" descript="vodka, tomato juice, horseradish, celery seeds, fresh squeezed lemon juice, tabasco fresh ground pepper." itemname="Bloody Mary"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 8.00" descript="sparkling white wine, fresh squeezed orange juice." itemname="Mimosa"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 7.00" descript="white wine, creme de cassis" itemname="Kir"></menu_item>
+<menu_item type="Drinks" category="Five Leaves Cocktails" price=" 8.00" descript="sparkling white wine, creme de cassis" itemname="Kir Royale"></menu_item>
+</root>

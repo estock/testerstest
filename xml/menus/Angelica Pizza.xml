@@ -1,0 +1,72 @@
+<root>
+<menu_item type="Catering" category="Salads" price=" 35.00" descript="" itemname="House Salad"></menu_item>
+<menu_item type="Catering" category="Salads" price=" 75.00" descript="" itemname="Grilled Chicken Salad"></menu_item>
+<menu_item type="Catering" category="Salads" price=" 50.00" descript="" itemname="Caesar Salad"></menu_item>
+<menu_item type="Catering" category="Salads" price=" 75.00" descript="" itemname="Balsamic Grilled Chicken Salad"></menu_item>
+<menu_item type="Catering" category="Salads" price=" 75.00" descript="" itemname="Cold Antipasto Salad"></menu_item>
+<menu_item type="Catering" category="Vegetables" price=" 75.00" descript="" itemname="Sauteed Broccoli Rabe"></menu_item>
+<menu_item type="Catering" category="Vegetables" price=" 45.00" descript="" itemname="Sauteed Spinach"></menu_item>
+<menu_item type="Catering" category="Vegetables" price=" 45.00" descript="" itemname="Sauteed Broccoli"></menu_item>
+<menu_item type="Catering" category="Vegetables" price=" 10.00" descript="" itemname="Add Mozzarella Any Of The Above"></menu_item>
+<menu_item type="Catering" category="Vegetables" price=" 20.00" descript="" itemname="Add Grilled Chicken Or Chicken"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 50.00" descript="" itemname="Mozzarella Sticks"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 100.00" descript="" itemname="Shrimp Cocktail"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 80.00" descript="" itemname="Fried Calamari"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 100.00" descript="" itemname="Fried Shrimp"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 100.00" descript="" itemname="Baked Clams"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 75.00" descript="" itemname="Fresh Mozzarella &amp;amp; Tomato"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 75.00" descript="" itemname="Buffalo Wings"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 60.00" descript="" itemname="Mini Rice Balls"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 45.00" descript="" itemname="Roasted Potatoes"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 29.00" descript="" itemname="French Fries"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 50.00" descript="broccoli, spinach, sausage &amp; peppers, eggplant, pepperoni &amp; chicken" itemname="Baked Mini Rolls Your Choice"></menu_item>
+<menu_item type="Catering" category="Appetizers" price=" 80.00" descript="sticks, buffalo wings &amp; chicken fingers" itemname="Appetizers Sampler"></menu_item>
+<menu_item type="Catering" category="Chicken" price=" " descript="" itemname="Chicken Francaise"></menu_item>
+<menu_item type="Catering" category="Chicken" price=" " descript="" itemname="Chicken Marsala"></menu_item>
+<menu_item type="Catering" category="Chicken" price=" " descript="" itemname="Chicken Rollatini"></menu_item>
+<menu_item type="Catering" category="Chicken" price=" " descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Catering" category="Chicken" price=" " descript="" itemname="Chicken Pizzaiola"></menu_item>
+<menu_item type="Catering" category="Chicken" price=" " descript="" itemname="Chicken In Garlic Creamy Sauce"></menu_item>
+<menu_item type="Catering" category="Chicken" price=" 80.00" descript="" itemname="Chicken Roasted"></menu_item>
+<menu_item type="Catering" category="Meat" price=" 80.00" descript="" itemname="Sausage, Peppers &amp;amp; Onions"></menu_item>
+<menu_item type="Catering" category="Meat" price=" 85.00" descript="with broccoli rabe" itemname="Sausage"></menu_item>
+<menu_item type="Catering" category="Meat" price=" 85.00" descript="" itemname="Sausage Parmigiana"></menu_item>
+<menu_item type="Catering" category="Meat" price=" 75.00" descript="" itemname="Meatballs"></menu_item>
+<menu_item type="Catering" category="Meat" price=" 80.00" descript="" itemname="Meatballs Parmigiana"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 65.00" descript="" itemname="Baked Ziti"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 80.00" descript="with broccoli rabe" itemname="Pasta"><extra type="add" price=" 80.00" descript="with clam sauce red or white"></extra>
+<extra type="add" price=" 80.00" descript="with fresh tomatoes &amp;amp; mushrooms"></extra>
+</menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 85.00" descript="" itemname="Homemade Lasagna"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 75.00" descript="" itemname="Pasta Primavera"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 65.00" descript="" itemname="Manicotti"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 75.00" descript="with broccoli or spinach garlic &amp; oil" itemname="Pasta"><extra type="add" price=" 65.00" descript="with oil &amp;amp; garlic"></extra>
+<extra type="add" price=" 80.00" descript="with meat sauce"></extra>
+<extra type="add" price=" 50.00" descript="with tomato sauce"></extra>
+<extra type="add" price=" 70.00" descript="with vodka sauce"></extra>
+</menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 70.00" descript="" itemname="Ravioli"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 70.00" descript="" itemname="Stuffed Shells"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 70.00" descript="" itemname="Tortellini Or Fettuccini Alfredo"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 20.00" descript="" itemname="Add Grilled Chicken Or Chicken Cutlet"></menu_item>
+<menu_item type="Catering" category="Pasta Specialties" price=" 75.00" descript="with mushroom sauce" itemname="Pasta"></menu_item>
+<menu_item type="Catering" category="Eggplant" price=" 75.00" descript="" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="Catering" category="Eggplant" price=" 80.00" descript="" itemname="Eggplant Rollatini"></menu_item>
+<menu_item type="Catering" category="Seafood" price=" " descript="" itemname="Shrimp Parmigiana"></menu_item>
+<menu_item type="Catering" category="Seafood" price=" " descript="" itemname="Shrimp Marinara"></menu_item>
+<menu_item type="Catering" category="Seafood" price=" " descript="" itemname="Calamari Marinara"></menu_item>
+<menu_item type="Catering" category="Seafood" price=" " descript="" itemname="Shrimp Francaise"></menu_item>
+<menu_item type="Catering" category="3-6 Foot Heroes" price=" 13.95" descript="ham, salami, pepperoni, american cheese, lettuce &amp; tomato" itemname="Italian Hero"></menu_item>
+<menu_item type="Catering" category="3-6 Foot Heroes" price=" 15.95" descript="fresh mozzarella, roasted peppers, balsamic &amp; oil" itemname="Grilled Or Breaded Chicken"></menu_item>
+<menu_item type="Catering" category="3-6 Foot Heroes" price=" 14.95" descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Catering" category="Drinks" price=" 1.50" descript="" itemname="Coffee"></menu_item>
+<menu_item type="Catering" category="Drinks" price=" 1.50" descript="" itemname="Sanka"></menu_item>
+<menu_item type="Catering" category="Drinks" price=" 2.00" descript="" itemname="Orange Juice"></menu_item>
+<menu_item type="Catering" category="Drinks" price="(20 oz) 1.50" descript="" itemname="Pepsi"></menu_item>
+<menu_item type="Catering" category="Drinks" price=" 2.00" descript="" itemname="Cappuccinos"></menu_item>
+<menu_item type="Catering" category="Drinks" price=" 1.50" descript="" itemname="Tea"></menu_item>
+<menu_item type="Catering" category="Drinks" price=" 2.00" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Catering" category="Drinks" price=" 1.50" descript="" itemname="Herbal Tea"></menu_item>
+<menu_item type="Catering" category="Drinks" price="lg 1.75" descript="" itemname="Snapple"></menu_item>
+<menu_item type="Catering" category="Drinks" price=" 2.00" descript="" itemname="French Vanilla"></menu_item>
+</root>

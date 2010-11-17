@@ -1,0 +1,27 @@
+<root>
+<menu_item type="Dinner Menu" category="First Course" price=" 5.00" descript="" itemname="Insalata Verde"></menu_item>
+<menu_item type="Dinner Menu" category="First Course" price=" 7.50" descript="" itemname="Caesare"></menu_item>
+<menu_item type="Dinner Menu" category="First Course" price=" 6.50" descript="" itemname="Arugola"></menu_item>
+<menu_item type="Dinner Menu" category="First Course" price=" 10.00" descript="with tomatoes and roasted peppers" itemname="Buffalo Mozzarella"></menu_item>
+<menu_item type="Dinner Menu" category="First Course" price=" 9.00" descript="cracked black peppercorn with lemon and garlic" itemname="Mussels In Spicy Tomato Sauce or Impepata"></menu_item>
+<menu_item type="Dinner Menu" category="First Course" price=" 10.00" descript="with arugola and parmigiano" itemname="Carpaccio"></menu_item>
+<menu_item type="Dinner Menu" category="First Course" price=" 9.00" descript="with a wedge of lemon" itemname="Fried Calamari"></menu_item>
+<menu_item type="Dinner Menu" category="First Course" price=" 10.00" descript="with tomatoes served with garlic bread" itemname="Polopo (octopus) Stewed"></menu_item>
+<menu_item type="Dinner Menu" category="Pasta and Risotti" price=" 8.95" descript="" itemname="Capelli D'angelo Al Pomodoro"></menu_item>
+<menu_item type="Dinner Menu" category="Pasta and Risotti" price=" 11.95" descript="" itemname="Tagliatelle Bolognese"></menu_item>
+<menu_item type="Dinner Menu" category="Pasta and Risotti" price=" 10.00" descript="" itemname="Penne all Arrabiata Spicy Tomato Sauce"></menu_item>
+<menu_item type="Dinner Menu" category="Pasta and Risotti" price=" 11.00" descript="" itemname="Strozza Preti Alla Siciliana Eggplant, Tomato and Ricotta"></menu_item>
+<menu_item type="Dinner Menu" category="Pasta and Risotti" price=" 11.00" descript="" itemname="Linguine Alla Puttanesca"></menu_item>
+<menu_item type="Dinner Menu" category="Pasta and Risotti" price=" 12.95" descript="" itemname="Lasagna Bolognese"></menu_item>
+<menu_item type="Dinner Menu" category="Pasta and Risotti" price=" 11.00" descript="with butter and sage or al pomodoro" itemname="Gnocchi"></menu_item>
+<menu_item type="Dinner Menu" category="Pasta and Risotti" price=" " descript="" itemname="Risotto of The Day"></menu_item>
+<menu_item type="Dinner Menu" category="Grilled and Sauteed" price=" 11.95" descript="" itemname="Chicken Breast over mixed Green Salad"></menu_item>
+<menu_item type="Dinner Menu" category="Grilled and Sauteed" price=" 13.00" descript="served with pickled hot cherry peppers" itemname="Pork Chop"></menu_item>
+<menu_item type="Dinner Menu" category="Grilled and Sauteed" price=" 14.00" descript="" itemname="Calf's Liver Alla Veneziana"></menu_item>
+<menu_item type="Dinner Menu" category="Grilled and Sauteed" price=" 22.00" descript="" itemname="Filet Mignon"></menu_item>
+<menu_item type="Dinner Menu" category="Grilled and Sauteed" price=" 14.00" descript="with escarole and beans" itemname="Salmon Filet"></menu_item>
+<menu_item type="Dinner Menu" category="Roasted and Braised" price=" 22.00" descript="" itemname="Osso Buco Con Cremolata"></menu_item>
+<menu_item type="Dinner Menu" category="Roasted and Braised" price=" 16.00" descript="with potatoes, leek and pancetta" itemname="Half Roasted Chicken (organic)"></menu_item>
+<menu_item type="Dinner Menu" category="Roasted and Braised" price=" 17.00" descript="with tomatoes, garlic and fresh herbs" itemname="Coniglio Al'ischitana Rabbit Braised"></menu_item>
+<menu_item type="Dinner Menu" category="Roasted and Braised" price=" 40.00" descript="with spicy fried potatoes and rosemary" itemname="Tagliata Sliced Prime Rib"></menu_item>
+</root>

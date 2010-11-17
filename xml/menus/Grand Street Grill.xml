@@ -1,0 +1,93 @@
+<root>
+<menu_item type="default" category="Breakfast Platters" price=" 5.00" descript="with bacon, ham, or sausage" itemname="Two Eggs&amp;#44; Any Style"></menu_item>
+<menu_item type="default" category="Breakfast Platters" price=" 3.50" descript="three eggs" itemname="Omelette"></menu_item>
+<menu_item type="default" category="Breakfast Platters" price=" 1.50" descript="turkey, pork or corned beef" itemname="Bacon&amp;#44; Ham&amp;#44; Or Sausage"></menu_item>
+<menu_item type="default" category="Breakfast Platters" price=" .75" descript="swiss, parmesan cheese or pesto or jalapeno" itemname="Feta"></menu_item>
+<menu_item type="default" category="Breakfast Platters" price=" .50" descript="onion, peppers, scallion spinach or tomato" itemname="Mushrooms"></menu_item>
+<menu_item type="default" category="Breakfast Platters" price=" 4.50" descript="" itemname="Spanish Omelette"></menu_item>
+<menu_item type="default" category="Breakfast Platters" price=" 5.00" descript="" itemname="Western Omelette"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 2.50" descript="" itemname="Double Egg"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 3.00" descript="" itemname="Egg &amp;amp; Cheese"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 3.50" descript="" itemname="Sausage&amp;#44; Egg &amp;amp; Cheese"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 3.50" descript="" itemname="Ham&amp;#44; Egg &amp;amp; Cheese"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 3.50" descript="" itemname="Bacon&amp;#44; Egg &amp;amp; Cheese"></menu_item>
+<menu_item type="default" category="Breakfast Sandwiches" price=" 4.00" descript="" itemname="Western Egg"></menu_item>
+<menu_item type="default" category="Griddle Platters" price=" 4.00" descript="pancakes, or french toast" itemname="Stack Of Three"></menu_item>
+<menu_item type="default" category="Griddle Platters" price=" 4.50" descript="with whipped cream &amp; syrup" itemname="Belgian Waffle"></menu_item>
+<menu_item type="default" category="Griddle Platters" price=" 1.25" descript="" itemname="Extra Cake Or Slice"></menu_item>
+<menu_item type="default" category="Griddle Platters" price=" 1.25" descript="" itemname="Bacon&amp;#44; Ham Or Sausage"></menu_item>
+<menu_item type="default" category="Griddle Platters" price=" 2.25" descript="" itemname="Extra Waffle"></menu_item>
+<menu_item type="default" category="Griddle Platters" price=" 1.25" descript="any style" itemname="Two Eggs"></menu_item>
+<menu_item type="default" category="Griddle Platters" price=" 1.50" descript="toppings or filling banana, strawberry, or pineapple &amp; coconut" itemname="Fresh Fruit"></menu_item>
+<menu_item type="default" category="Griddle Platters" price=" 6.00" descript="stack of four pancakes or french toast bacon, ham or sausage &amp; two eggs, any style" itemname="Full Board"></menu_item>
+<menu_item type="default" category="Salad Platter" price=" 4.00" descript="mesclun &amp; mixed vegetables" itemname="Health Salad"></menu_item>
+<menu_item type="default" category="Salad Platter" price=" 6.00" descript="mesclun, tomato, onion  &amp; coleslaw" itemname="Egg Salad"></menu_item>
+<menu_item type="default" category="Salad Platter" price=" 6.50" descript="mesclun, tomato, onion &amp; coleslaw" itemname="Tuna Salad"></menu_item>
+<menu_item type="default" category="Salad Platter" price=" 6.50" descript="lettuce, croutons &amp; parmesan" itemname="Chicken Salad"></menu_item>
+<menu_item type="default" category="Salad Platter" price=" 7.50" descript="lettuce, croutons &amp; parmesan" itemname="Chef&amp;#39;s Salad"></menu_item>
+<menu_item type="default" category="Salad Sandwiches" price=" 2.50" descript="" itemname="Lettuce&amp;#44; Tomato &amp;amp; Onion"></menu_item>
+<menu_item type="default" category="Salad Sandwiches" price=" 3.50" descript="onion on request" itemname="B.L.T&amp;#44; Bacon Lettuce &amp;amp; Tomato"></menu_item>
+<menu_item type="default" category="Salad Sandwiches" price=" 3.50" descript="" itemname="Egg Salad"></menu_item>
+<menu_item type="default" category="Salad Sandwiches" price=" 4.50" descript="" itemname="Tuna Salad"></menu_item>
+<menu_item type="default" category="Salad Sandwiches" price=" 4.50" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="default" category="Warm Salad Platters" price=" 7.50" descript="" itemname="Grilled Chicken Breast Salad"></menu_item>
+<menu_item type="default" category="Warm Salad Platters" price=" 7.50" descript="" itemname="Chicken Cutlet Salad"></menu_item>
+<menu_item type="default" category="Warm Salad Platters" price=" 8.00" descript="" itemname="Pepper Steak Salad"></menu_item>
+<menu_item type="default" category="Wraps" price=" " descript="three egg whites with mushroom, onion, pepper, &amp; tomato" itemname="Grand Street Health Wrap"></menu_item>
+<menu_item type="default" category="Wraps" price=" " descript="" itemname="Fresh Turkey"></menu_item>
+<menu_item type="default" category="Wraps" price=" " descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="default" category="Wraps" price=" " descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="default" category="Wraps" price=" " descript="" itemname="Pepper Steak"></menu_item>
+<menu_item type="default" category="Wraps" price=" " descript="" itemname="Beef Steak"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Roast Turkey"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Pastrami"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Kosher Salami"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Corned Beef"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="" itemname="Meatballs"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.00" descript="battered filet of flounder" itemname="Fish"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.50" descript="" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.50" descript="" itemname="Cubano"></menu_item>
+<menu_item type="default" category="Hot Or Cold Sandwiches" price=" 5.50" descript="" itemname="Steak"></menu_item>
+<menu_item type="default" category="Cheese Sandwiches" price=" 3.25" descript="" itemname="American"></menu_item>
+<menu_item type="default" category="Cheese Sandwiches" price=" 3.50" descript="" itemname="Swiss Or Mozzarella"></menu_item>
+<menu_item type="default" category="Grand Street Burgers" price=" 7.00" descript="herbed &amp; marinated, stuffed with mushroom, onion &amp; pepper" itemname="Signature Grand Street Burger"></menu_item>
+<menu_item type="default" category="Grand Street Burgers" price=" 5.00" descript="" itemname="Beef Burger"></menu_item>
+<menu_item type="default" category="Grand Street Burgers" price=" 5.00" descript="" itemname="Vegetarian Burger"></menu_item>
+<menu_item type="default" category="Grand Street Burgers" price=" 5.75" descript="" itemname="Turkey Burger"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Fresh Turkey"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Pork Chop"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Beef Stew"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Pepper Steak"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Beef Steak"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Mondongo"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="default" category="Lunch Special Platters $6.50" price=" " descript="" itemname="Tuna Salad"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 2.00" descript="" itemname="French Fries"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 2.25" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 3.00" descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 3.50" descript="" itemname="Rice &amp;amp; Beans"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 5.00" descript="" itemname="Oatmeal"></menu_item>
+<menu_item type="default" category="Side Orders" price=" 6.00" descript="" itemname="Soup"></menu_item>
+<menu_item type="default" category="Juice &amp;amp; Smoothie Bar" price=" 4.00" descript="" itemname="Choose Three Fruits Or Vegetables"></menu_item>
+<menu_item type="default" category="Milkshakes &amp;amp; Orange Creams" price=" 2.00" descript="vanilla, chocolate or strawberry" itemname="Milkshake"></menu_item>
+<menu_item type="default" category="Milkshakes &amp;amp; Orange Creams" price=" .75" descript="" itemname="Each Additional Fruit Or Topping"></menu_item>
+<menu_item type="default" category="Milkshakes &amp;amp; Orange Creams" price=" 3.50" descript="vanilla ice cream &amp; orange syrup" itemname="Orange Cream"></menu_item>
+<menu_item type="default" category="Milkshakes &amp;amp; Orange Creams" price=" .75" descript="" itemname="Each Additional Fruit Or Topping"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 6.00" descript="" itemname="Chicken"></menu_item>
+<menu_item type="default" category="Quesadillas" price=" 7.00" descript="" itemname="Steak"></menu_item>
+<menu_item type="default" category="Beverages" price=" " descript="" itemname="Sodas &amp;amp; Juice"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Coffee&amp;#44; Decaf Or Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Iced Coffee Or Tea"></menu_item>
+<menu_item type="default" category="Beverages" price=" .75" descript="" itemname="Flavor Shot"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.50" descript="" itemname="Iced Vanilla Coffee On Cappuccino"></menu_item>
+</root>

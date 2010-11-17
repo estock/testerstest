@@ -1,0 +1,199 @@
+<root>
+<menu_item type="default" category="American Menu" price=" 3.25" descript="with potato and toast" itemname="Two Eggs Any Style"></menu_item>
+<menu_item type="default" category="American Menu" price=" 5.10" descript="with ham, bacon or sausage" itemname="Two Eggs"></menu_item>
+<menu_item type="default" category="American Menu" price=" 1.50" descript="" itemname="One Egg On Roll"></menu_item>
+<menu_item type="default" category="American Menu" price=" 2.50" descript="with ham, bacon or sausage" itemname="One Egg"></menu_item>
+<menu_item type="default" category="American Menu" price=" 6.85" descript="" itemname="Huevos Rancheros"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 3.95" descript="" itemname="Plain Omelette"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 5.95" descript="green pepper, ham and onion" itemname="Western Omelette"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 6.50" descript="green pepper, ham, onion and cheese" itemname="Texas Omelette"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 5.95" descript="feta cheese and tomato" itemname="Greek Omelette"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 7.49" descript="broccoli, mushrooms, cheddar cheese" itemname="Garden Omelette"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 6.99" descript="tomato, onion, green pepper, mushrooms" itemname="Vegetarian Omelette"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 6.75" descript="onion, pepper and tomato sauce" itemname="Spanish Omelette"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 8.99" descript="" itemname="Steak &amp;amp; Eggs"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 4.75" descript="" itemname="Swiss Cheese Omelette"></menu_item>
+<menu_item type="default" category="Omelettes" price=" 5.95" descript="" itemname="Corn Beef Hash &amp;amp; Eggs"></menu_item>
+<menu_item type="default" category="Omelettes" price=" .50" descript="extra" itemname="Pita, Bagel, English Muffin Or Roll"></menu_item>
+<menu_item type="default" category="Omelettes" price=" .75" descript="with egg white only extra" itemname="Orders Made"></menu_item>
+<menu_item type="default" category="French Toast" price=" 4.25" descript="" itemname="With Butter And Syrup"></menu_item>
+<menu_item type="default" category="French Toast" price=" 5.50" descript="" itemname="With Two Eggs"></menu_item>
+<menu_item type="default" category="French Toast" price=" 6.50" descript="" itemname="With Ham, Bacon Or Sausage"></menu_item>
+<menu_item type="default" category="French Toast" price=" 7.50" descript="" itemname="With Two Eggs And Ham, Bacon Or Sausage"></menu_item>
+<menu_item type="default" category="French Toast" price=" 8.50" descript="with ham, bacon and sausage" itemname="Golden Brown French Toast Deluxe"></menu_item>
+<menu_item type="default" category="French Toast" price=" 9.50" descript="with ham, bacon, sausage and eggs" itemname="He - Man"></menu_item>
+<menu_item type="default" category="Pancakes" price=" 4.25" descript="" itemname="Three Golden Brown Pancakes"></menu_item>
+<menu_item type="default" category="Pancakes" price=" 5.50" descript="" itemname="With Two Eggs"></menu_item>
+<menu_item type="default" category="Pancakes" price=" 6.50" descript="" itemname="With Ham, Bacon Or Sausage"></menu_item>
+<menu_item type="default" category="Pancakes" price=" 7.50" descript="" itemname="With Two Eggs &amp;amp; Ham, Bacon Or Sausage"></menu_item>
+<menu_item type="default" category="Pancakes" price=" 5.50" descript="" itemname="With Blueberry, Banana Or Strawberry"></menu_item>
+<menu_item type="default" category="Pancakes" price=" 4.50" descript="" itemname="Silver Dollar (10)"></menu_item>
+<menu_item type="default" category="Pancakes" price=" 8.50" descript="with ham, bacon &amp; sausage" itemname="Golden Brown Pancakes Deluxe"></menu_item>
+<menu_item type="default" category="Pancakes" price=" 9.50" descript="with ham, bacon, sausage and eggs" itemname="Lumber Jack"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 4.99" descript="" itemname="Gyro On Pita"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 4.95" descript="bacon, lettuce and tomato" itemname="B.L.T."></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 5.75" descript="" itemname="Tuna"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 5.99" descript="" itemname="Turkey Hot Or Cold"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 4.75" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 6.95" descript="" itemname="Hot Pastrami"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 5.50" descript="" itemname="Ham &amp;amp; Cheese"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 4.95" descript="" itemname="Chicken Nuggets"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 5.50" descript="" itemname="Buffalo Wings"></menu_item>
+<menu_item type="default" category="Lunch's Special" price=" 6.95" descript="" itemname="Fried Fillet Of Sole"></menu_item>
+<menu_item type="default" category="Tasty Sandwiches On Pita" price=" 5.99" descript="french fries &amp; soda" itemname="Gyro Vm"></menu_item>
+<menu_item type="default" category="Tasty Sandwiches On Pita" price=" 3.95" descript="lettuce &amp; tomatoes" itemname="Gyro Sandwich"></menu_item>
+<menu_item type="default" category="Tasty Sandwiches On Pita" price=" 3.95" descript="" itemname="Chicken Souvlaki Sandwich"></menu_item>
+<menu_item type="default" category="Tasty Sandwiches On Pita" price=" 3.95" descript="" itemname="Steak Gyro"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 3.50" descript="" itemname="Boiled Ham"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="" itemname="Turkey"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.00" descript="" itemname="Pastrami"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 3.75" descript="bacon, lettuce &amp; tomato" itemname="B.LT."></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 2.50" descript="" itemname="Grilled Cheese"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 3.50" descript="" itemname="With Bacon Or Ham"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 3.75" descript="" itemname="Tuna Salad"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 3.25" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 3.50" descript="" itemname="Ham &amp;amp; American Cheese"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 6.00" descript="" itemname="Cuban"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="" itemname="Steak"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.00" descript="" itemname="Pork ( Pernil)"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 5.50" descript="" itemname="Grilled Chicken"></menu_item>
+<menu_item type="default" category="Grilled Chicken Sandwiches" price=" 5.95" descript="" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="default" category="Grilled Chicken Sandwiches" price=" 6.95" descript="onion and green pepper" itemname="Grilled Chicken Oriental"></menu_item>
+<menu_item type="default" category="Grilled Chicken Sandwiches" price=" 6.25" descript="with american cheese" itemname="Grilled Chicken"></menu_item>
+<menu_item type="default" category="Grilled Chicken Sandwiches" price=" 6.75" descript="" itemname="with swiss cheese"></menu_item>
+<menu_item type="default" category="Triple Decker" price=" 6.75" descript="" itemname="Turkey Swiss"></menu_item>
+<menu_item type="default" category="Triple Decker" price=" 6.25" descript="" itemname="Boiled Ham, Cheese"></menu_item>
+<menu_item type="default" category="Triple Decker" price=" 6.99" descript="" itemname="Turkey, Bacon"></menu_item>
+<menu_item type="default" category="Triple Decker" price=" 6.50" descript="" itemname="Tuna, Salad"></menu_item>
+<menu_item type="default" category="Triple Decker" price=" 5.99" descript="" itemname="Chicken Salad, Bacon"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 6.25" descript="jalapeno and onions" itemname="Mexican Burger"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 6.95" descript="mushroom, fried onion and pepper" itemname="Grand Burger Deluxe"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 4.95" descript="" itemname="Beefburger"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 6.75" descript="with one egg on top" itemname="Texas Burger"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 5.95" descript="" itemname="Cheeseburger"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 6.25" descript="" itemname="Pizza Burger"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 6.25" descript="" itemname="Cheddar Cheese Burger"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 6.50" descript="" itemname="Turkey Burger"></menu_item>
+<menu_item type="default" category="Hamburger" price=" 6.00" descript="with lettuce and tomato" itemname="Vegetable Burger"></menu_item>
+<menu_item type="default" category="Soup - Sopas" price=" " descript="" itemname="Chicken - Pollo"></menu_item>
+<menu_item type="default" category="Soup - Sopas" price=" " descript="" itemname="Cream Of Broccoli - Crema de Brocoli"></menu_item>
+<menu_item type="default" category="Soup - Sopas" price=" " descript="" itemname="Lentil - Lenteja"></menu_item>
+<menu_item type="default" category="Side Orders - Ordenes Extra" price=" 2.75" descript="" itemname="Aguacate - Avocado"></menu_item>
+<menu_item type="default" category="Side Orders - Ordenes Extra" price=" 2.75" descript="" itemname="Papa De La Casa - Homefries"></menu_item>
+<menu_item type="default" category="Side Orders - Ordenes Extra" price=" 2.50" descript="" itemname="Papas Fritas - French Fries"></menu_item>
+<menu_item type="default" category="Side Orders - Ordenes Extra" price=" 2.99" descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="default" category="Side Orders - Ordenes Extra" price=" 3.50" descript="" itemname="Frijoles Y Arroz - Rice And Beans"></menu_item>
+<menu_item type="default" category="Side Orders - Ordenes Extra" price=" 2.00" descript="" itemname="Frijoles Y Arroz - Rice Or Beans"></menu_item>
+<menu_item type="default" category="Salads - Ensaladas" price=" 2.00" descript="" itemname="House Salad"></menu_item>
+<menu_item type="default" category="Salads - Ensaladas" price=" 6.50" descript="" itemname="Grilled Chicken Over Salad"></menu_item>
+<menu_item type="default" category="Salads - Ensaladas" price=" 3.99" descript="" itemname="Avocado Salad"></menu_item>
+<menu_item type="default" category="Salads - Ensaladas" price=" 3.25" descript="" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="Salads - Ensaladas" price="lg 3.99" descript="" itemname="Spring Salad"></menu_item>
+<menu_item type="default" category="Salad Platters" price=" 7.99" descript="" itemname="Fresh Tuna Salad Platter"></menu_item>
+<menu_item type="default" category="Salad Platters" price=" 6.95" descript="" itemname="Fresh Chicken Salad Platter"></menu_item>
+<menu_item type="default" category="Weekends Only" price=" 9.50" descript="servido con arroz &amp; frijoles - served with rice &amp; beans" itemname="Barbacoa - Goat Meat"></menu_item>
+<menu_item type="default" category="Weekends Only" price=" 2.99" descript="" itemname="Tacos De Barbacoa"></menu_item>
+<menu_item type="default" category="Weekends Only" price=" 7.50" descript="" itemname="Pozole Con Una Tostada"></menu_item>
+<menu_item type="default" category="Mexican Combos" price=" 8.99" descript="" itemname="Combo 1 Tostada &amp;amp; Burrito"></menu_item>
+<menu_item type="default" category="Mexican Combos" price=" 8.99" descript="" itemname="Combo 2 Taco &amp;amp; Enchilada"></menu_item>
+<menu_item type="default" category="Mexican Combos" price=" 8.99" descript="" itemname="Combo 3 Taco &amp;amp; Tostada"></menu_item>
+<menu_item type="default" category="Mexican Combos" price=" 9.50" descript="" itemname="Combo 4 Enchilada &amp;amp; Tostada"></menu_item>
+<menu_item type="default" category="Mexican Combos" price=" 8.75" descript="" itemname="Combo 5 Tamal &amp;amp; Burrito"></menu_item>
+<menu_item type="default" category="Sabor A Mexico Tortas" price=" 5.50" descript="bistec, lengua, cecina, quesillo, chorizo, milanesa, beef steak, beef tongue, salted beef, oaxaca cheese, sausage, breaded beef or chicken, jamon, tinga de pollo, carne enchilada, man, chicken mexican style, spicy y pork, ham, cheese and salami steak" itemname="Mexican Sandwiches"></menu_item>
+<menu_item type="default" category="Sabor A Mexico Tortas" price=" 6.00" descript="" itemname="Cubana - Cuban"></menu_item>
+<menu_item type="default" category="Sabor A Mexico Tortas" price=" 6.00" descript="" itemname="Hawaiian Style"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Bistec"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Lengua"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Vegetables"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Carne Asada"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Carne Enchilada"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Tinga"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Al Pastro"></menu_item>
+<menu_item type="default" category="Burritos $3.50" price=" " descript="" itemname="Carnitas"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Bistec"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Lengua"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Vegetariano"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Tinga"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Carnitas"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Carne Enchilada"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Al Pastor"></menu_item>
+<menu_item type="default" category="Tacos Suaves - Soft Tacos $2.50" price=" " descript="" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Cemitas $6.99" price=" " descript="" itemname="Bistec"></menu_item>
+<menu_item type="default" category="Cemitas $6.99" price=" " descript="" itemname="Quesillo"></menu_item>
+<menu_item type="default" category="Cemitas $6.99" price=" " descript="" itemname="Milanesa"></menu_item>
+<menu_item type="default" category="Cemitas $6.99" price=" " descript="" itemname="Beef Steak"></menu_item>
+<menu_item type="default" category="Cemitas $6.99" price=" " descript="" itemname="Cheese"></menu_item>
+<menu_item type="default" category="Cemitas $6.99" price=" " descript="" itemname="Breaded Beef Or Chicken"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Bistec"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Lengua"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Vegetables"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Carne Asada"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Carne Enchilada"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Tinga"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Al Pastor"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Carnitas"></menu_item>
+<menu_item type="default" category="Tostadas $3" price=" " descript="" itemname="Pernil"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 8.95" descript="" itemname="Bistec Encebollado - Beef Steak &amp;amp; Onions"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 8.95" descript="" itemname="Pollo A La Plancha O Frito - Grill Or Fried Chicken"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 8.99" descript="" itemname="Carne Enchilada - Spicy Pork"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 8.95" descript="" itemname="Cecina - Salted Beef"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 8.75" descript="" itemname="Lengua En Salsa - Beef Tongue In Green Sauce"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 8.99" descript="" itemname="Bistec A La Mexicana - Beef Steak, Tomato, Jalapeno, Onions"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 9.50" descript="" itemname="Bistec Ranchero - Beef Steak, Jalapeno, Onions, Oaxaca Cheese"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 9.99" descript="" itemname="Enchiladas De Pollo O Queso (2) - Chicken Or Cheese Enchilada"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 9.99" descript="" itemname="Flautas Nortenas De Pollo O Queso (3) - 3 Chicken Or Cheese Flautas"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 9.55" descript="" itemname="Camarones Empanizados - Breaded Shrimp"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 9.99" descript="" itemname="Fajitas De Pollo O Res -Chicken Or Beef Fajitas, Onion, Tomato, Green Pepper"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 10.95" descript="" itemname="Combo Fajitas -Steak &amp;amp; Chicken"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 11.95" descript="" itemname="Fajitas De Camarones - Shrimp"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 10.50" descript="" itemname="Camarones A La Mexicana - Shrimp, Tomato, Jalapeno"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 9.95" descript="" itemname="Plato Paisa - Cecina, Egg, Avocado"></menu_item>
+<menu_item type="default" category="Platos - Platters" price=" 8.95" descript="" itemname="Pechuga Empanizada - Breaded Chicken Breast Or Beef"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 7.25" descript="" itemname="Chilaquiles"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 8.50" descript="with egg" itemname="Con Hue Vo"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 8.99" descript="with meat" itemname="Con Carne"></menu_item>
+<menu_item type="default" category="Jugos Naturals - Natural Juices" price=" 3.50" descript="" itemname="Zanahoria - Carrot"></menu_item>
+<menu_item type="default" category="Jugos Naturals - Natural Juices" price=" 3.50" descript="" itemname="Naranja Fresca - Fresh Orange"></menu_item>
+<menu_item type="default" category="Jugos Naturals - Natural Juices" price=" 4.00" descript="" itemname="Combinado - Combination"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.50" descript="" itemname="Papaya"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.50" descript="" itemname="Mango"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.50" descript="" itemname="Mamey"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.50" descript="strawberry" itemname="Fresa"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.50" descript="" itemname="Platano Al Estilo Mexicano (Banana Mexican Style)"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.50" descript="" itemname="Guanabana ( Sour Sop)"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.50" descript="" itemname="Ice Cream Shakes"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.25" descript="" itemname="Vanilla"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.25" descript="" itemname="Chocolate"></menu_item>
+<menu_item type="default" category="Batidos - Shakes" price=" 3.25" descript="" itemname="Strawberry"></menu_item>
+<menu_item type="default" category="Bebidas - Drinks" price=" 1.50" descript="" itemname="Soda Mexicana - Mexican Soda"></menu_item>
+<menu_item type="default" category="Bebidas - Drinks" price=" 1.00" descript="" itemname="Soda En Lata - Soda In Can"></menu_item>
+<menu_item type="default" category="Bebidas - Drinks" price=" 1.50" descript="" itemname="Snapple"></menu_item>
+<menu_item type="default" category="Bebidas - Drinks" price=" 3.75" descript="" itemname="Pina Colada - No Alcohol"></menu_item>
+<menu_item type="default" category="Bebidas - Drinks" price=" 1.75" descript="" itemname="Iced Coffee"></menu_item>
+<menu_item type="default" category="Bebidas Calientes - Hot Drinks" price=" .80" descript="" itemname="Te - Tea"></menu_item>
+<menu_item type="default" category="Bebidas Calientes - Hot Drinks" price=" 1.25" descript="" itemname="Te De Hierbas - Herbal Tea"></menu_item>
+<menu_item type="default" category="Bebidas Calientes - Hot Drinks" price=" .80" descript="" itemname="Cafe - Coffee"></menu_item>
+<menu_item type="default" category="Bebidas Calientes - Hot Drinks" price=" 1.00" descript="" itemname="Sanka"></menu_item>
+<menu_item type="default" category="Bebidas Calientes - Hot Drinks" price=" 1.75" descript="" itemname="Expresso"></menu_item>
+<menu_item type="default" category="Bebidas Calientes - Hot Drinks" price=" 1.95" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="default" category="Postres - Desserts" price=" 2.95" descript="" itemname="Pastel 3 Leches"></menu_item>
+<menu_item type="default" category="Postres - Desserts" price=" 1.75" descript="" itemname="Flan Al Carmelo"></menu_item>
+<menu_item type="default" category="Postres - Desserts" price=" 1.75" descript="" itemname="Cheese Cake"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 4.50" descript="" itemname="Mozzarella Sticks (5)"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 3.95" descript="" itemname="Buffalo Wings (5)"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 4.50" descript="" itemname="Chicken Fingers (5)"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 4.00" descript="" itemname="Nachos"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 5.75" descript="" itemname="Sopes (3)"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 4.95" descript="" itemname="Quesadillas Con Queso (3)"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 5.75" descript="" itemname="Guacamole"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 7.95" descript="" itemname="Coctel De Camarones"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 1.50" descript="rajas, mole &amp; verde" itemname="Tamales"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 3.25" descript="" itemname="Tacos Dorados"></menu_item>
+<menu_item type="default" category="Steaks &amp;amp; Wings" price=" 6.99" descript="" itemname="Triple Appetizers ( Chicken Fingers, Buffalo Wings &amp;amp; Onion Rings)"></menu_item>
+</root>

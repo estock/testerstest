@@ -1,0 +1,82 @@
+<root>
+<menu_item type="default" category="Appetizers*" price=" 6.00" descript="topped with a tomato cumin sauce" itemname="Carrot or Spinach Rice Balls"></menu_item>
+<menu_item type="default" category="Appetizers*" price=" 8.00" descript="grilled eggplant with bulgogi sauce rolled in your choice of japanese or brown rice" itemname="Eggplant Maki"></menu_item>
+<menu_item type="default" category="Appetizers*" price=" 6.00" descript="slightly spicy with crispy shrimp" itemname="Thai Shrimp Rice Balls"></menu_item>
+<menu_item type="default" category="Appetizers*" price=" 3.00" descript="chicken with tomatillo sauce chicken mole spinach and piquillo peppers" itemname="Tamales"></menu_item>
+<menu_item type="default" category="Soup $6" price=" " descript="with avocado, tomato, corn, rice and cilantro" itemname="Mexican Chicken Soup"></menu_item>
+<menu_item type="default" category="Soup $6" price=" " descript="squash bisque with basmati rice, thyme and sour cream" itemname="Butternut Squash Chowder"></menu_item>
+<menu_item type="default" category="Soup $6" price=" " descript="in a light broth" itemname="Miso With Udon Noodles"></menu_item>
+<menu_item type="default" category="Soup $6" price=" " descript="corn and only corn liquefied and speckled with fresh dill" itemname="Chilled Summer Corn"></menu_item>
+<menu_item type="default" category="Soup $6" price=" " descript="classic spanish cold tomato soup with croutons and cucumber" itemname="Gazpacho"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.00" descript="mayonnaise free, shredded cabbage and carrots, with sautéed arame seaweed, toasted sesame seeds, lotus roots and asian carrot ginger dressing" itemname="Asian Slaw"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.50" descript="avocado, heart of palm, red pepper and your choice of dressing" itemname="Mesclun Salad With A Tropical Garnish"></menu_item>
+<menu_item type="default" category="Specials*" price=" 10.00" descript="on mixed greens with ginger hoisin vinaigrette and grilled scallion mayonnaise" itemname="Tea-Smoked Salmon Salad"></menu_item>
+<menu_item type="default" category="Specials*" price=" 10.00" descript="marinated tofu served with achara, rice, and mesclun greens with your choice of dressing" itemname="Grilled Tofu Steak"></menu_item>
+<menu_item type="default" category="Specials*" price="lg 11.00" descript="rice noodles with tofu, scallions, egg, bean sprouts, garlic and chili stir fried in a tamarind sauce and topped with peanuts and cilantro" itemname="Pad Thai (Chicken, Shrimp or Tofu)"></menu_item>
+<menu_item type="default" category="Specials*" price="lg 1.00" descript="extra charge fro shrimp" itemname="Pad Thai (Chicken, Shrimp Or Tofu)"></menu_item>
+<menu_item type="default" category="Specials*" price="lg 16.00" descript="marinated with tomato and rosemary, served with lebanese rice, steamed vegetables and grilled pita bread" itemname="Chicken Kebab"></menu_item>
+<menu_item type="default" category="Rices" price=" " descript="sushi style rice, moist &amp; tender" itemname="Japanese"></menu_item>
+<menu_item type="default" category="Rices" price=" " descript="highest grade basmati, white, very long grain" itemname="Basmati"></menu_item>
+<menu_item type="default" category="Rices" price=" " descript="short grain, tender with a light nut flavor" itemname="Brown"></menu_item>
+<menu_item type="default" category="Rices" price=" " descript="translucent, not sweet but typically a thai dessert rice" itemname="Sticky"></menu_item>
+<menu_item type="default" category="Special Rices" price=" " descript="sticky, black skinned grain with white flesh, rich distinctive flavor, steamed in coconut milk" itemname="Thai Black Rice"></menu_item>
+<menu_item type="default" category="Special Rices" price=" " descript="infused with cilantro, parsley &amp; spinach" itemname="Green Rice"></menu_item>
+<menu_item type="default" category="Special Rices" price=" " descript="with roasted vermicelli and laurel" itemname="Lebanese Rice"></menu_item>
+<menu_item type="default" category="Special Rices" price=" " descript="steamed in coconut milk, with red beans" itemname="Rice &amp;amp; Peas"></menu_item>
+<menu_item type="default" category="Special Rices" price=" " descript="with edamame peas" itemname="Thai Black Rice"></menu_item>
+<menu_item type="default" category="Special Rices" price=" " descript="grown at high altitudes, high in mineral content, light nutty flavor" itemname="Bhutanese Red Rice"></menu_item>
+<menu_item type="default" category="Classics*" price=" 9.00" descript="with tomato and a medley of mexican chiliճ, served with sour cream" itemname="Baked Black Beans"></menu_item>
+<menu_item type="default" category="Classics*" price=" 9.00" descript="green french lentils with carrots, celery and fresh herbs" itemname="Warm Lentil Stew"></menu_item>
+<menu_item type="default" category="Classics*" price=" 10.50" descript="tofu balls with miso, soy, scallions and red peppers, with sweet or spicy chili sauce" itemname="Vegetarian Meatballs"></menu_item>
+<menu_item type="default" category="Classics*" price=" 10.50" descript="classic french country vegetable stew with zucchini, eggplant, red peppers and onions" itemname="Ratatouille"></menu_item>
+<menu_item type="default" category="Classics*" price=" 10.50" descript="marinated beef, grilled medium rare, tossed with lettuce, pickled carrots, and lemongrass dressing" itemname="Thai Beef Salad"></menu_item>
+<menu_item type="default" category="Classics*" price=" 10.50" descript="" itemname="Jerk Chicken Wings"></menu_item>
+<menu_item type="default" category="Classics*" price="lg 19.00" descript="grilled chicken wings marinated in caribbean spices, served with salsa fresca and toasted coconut flakes. &quot;party pack&quot; - 20 wings" itemname="Party Pack"></menu_item>
+<menu_item type="default" category="Classics*" price=" 11.00" descript="marinated chicken, shrimp or tofu, served with a warm satay sauce of roasted almonds and peanuts" itemname="Satay"></menu_item>
+<menu_item type="default" category="Classics*" price=" 1.00" descript="" itemname="extra charge for shrimp"></menu_item>
+<menu_item type="default" category="Classics*" price=" 10.50" descript="lemongrass marinated grilled chicken, sliced and tossed with lettuce, pickled carrot, mint &amp; lemongrass dressing" itemname="Vietnamese Lemongrass Chicken Salad"></menu_item>
+<menu_item type="default" category="Classics*" price=" 12.00" descript="chicken or shrimp or tofu stir fried with vegetables in a mild red coconut curry sauce" itemname="Thai Coconut Curry"></menu_item>
+<menu_item type="default" category="Classics*" price=" 1.00" descript="" itemname="extra charge for shrimp"></menu_item>
+<menu_item type="default" category="Classics*" price=" 12.00" descript="chicken and mushrooms in a luxurious, creamy, mild curry topped with yogurt, almonds, raisins and banana, mango chutney served on the side" itemname="Indian Chicken Curry"></menu_item>
+<menu_item type="default" category="Sides" price=" 4.00" descript="" itemname="Edamame"></menu_item>
+<menu_item type="default" category="Sides" price=" 5.50" descript="" itemname="Greens"></menu_item>
+<menu_item type="default" category="Sides" price=" 4.00" descript="with warm pita" itemname="Edamame Hummus"></menu_item>
+<menu_item type="default" category="Sides" price=" 4.00" descript="with sriracha mayo" itemname="Lotus Root Chips"></menu_item>
+<menu_item type="default" category="Sides" price=" 4.00" descript="beef or chicken" itemname="Malaysian Jerky"></menu_item>
+<menu_item type="default" category="Dressings $1" price=" " descript="rich, a little spicy" itemname="Avocado Y Poblano"></menu_item>
+<menu_item type="default" category="Dressings $1" price=" " descript="smoky, spicy" itemname="Chipotle &amp;amp; Roasted Peppers"></menu_item>
+<menu_item type="default" category="Dressings $1" price=" " descript="with roasted red pepper and lemon" itemname="Garlic Wow!"></menu_item>
+<menu_item type="default" category="Dressings $1" price=" " descript="lightly sweet and sour" itemname="Asian Carrot Ginger"></menu_item>
+<menu_item type="default" category="Dressings $1" price=" " descript="mustard free vinaigrette" itemname="Delicious Balsamic"></menu_item>
+<menu_item type="default" category="Dressings $1" price=" " descript="rich, with a hint of lemon" itemname="Miso"></menu_item>
+<menu_item type="default" category="Dressings $1" price=" " descript="with ginger and a little garlic" itemname="Ginger Hoisin"></menu_item>
+<menu_item type="default" category="Sauces" price=" 1.00" descript="cooling and pungent" itemname="Aleppo Yogurt"></menu_item>
+<menu_item type="default" category="Sauces" price=" 1.00" descript="sweet and sour" itemname="Mango Chutney"></menu_item>
+<menu_item type="default" category="Sauces" price=" 1.00" descript="spicy relish" itemname="Thai Sweet Chili"></menu_item>
+<menu_item type="default" category="Sauces" price=" 1.00" descript="spicy and strong" itemname="Thai Chili &amp;amp; Garlic"></menu_item>
+<menu_item type="default" category="Sauces" price=" 1.00" descript="spicy and smooth" itemname="Chipotle Mayonnaise"></menu_item>
+<menu_item type="default" category="Sauces" price=" 1.00" descript="sweetened soy with scallions" itemname="Bulgogi"></menu_item>
+<menu_item type="default" category="Sauces" price=" 2.00" descript="classic with a hint of jalapeño" itemname="Avocado Salsa"></menu_item>
+<menu_item type="default" category="Sauces" price=" 2.00" descript="classic mexican" itemname="Salsa Fresca"></menu_item>
+<menu_item type="default" category="Sweets" price="pt 5.50" descript="sorbets &amp; gelato" itemname="Ciao Bella"></menu_item>
+<menu_item type="default" category="Sweets" price=" 4.00" descript="indian rice pudding" itemname="Kheer"></menu_item>
+<menu_item type="default" category="Sweets" price=" 2.50" descript="sweet plantain in sticky rice" itemname="Thai Banana Leaf Wrap"></menu_item>
+<menu_item type="default" category="Sweets" price=" 4.00" descript="with cranberries or apricots" itemname="Rice Krispie Treats"></menu_item>
+<menu_item type="default" category="Non-Alcoholic" price=" 2.00" descript="birch beer, ginger ale, black cherry" itemname="Boylan's"></menu_item>
+<menu_item type="default" category="Non-Alcoholic" price=" 1.50" descript="" itemname="Sparkling Water"></menu_item>
+<menu_item type="default" category="Non-Alcoholic" price=" 1.50" descript="" itemname="Still Water"></menu_item>
+<menu_item type="default" category="Non-Alcoholic" price=" 1.50" descript="" itemname="Coke, Diet Coke, 7up"></menu_item>
+<menu_item type="default" category="Non-Alcoholic" price=" 2.00" descript="" itemname="Orangina"></menu_item>
+<menu_item type="default" category="Non-Alcoholic" price=" 2.50" descript="" itemname="Ginger Lemonade"></menu_item>
+<menu_item type="default" category="Non-Alcoholic" price=" 3.50" descript="" itemname="Watermelon Juice"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.50" descript="japanese green tea with roasted rice grains" itemname="Gen Mai Cha Tea"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.50" descript="made from ginger root, lightly sweetened" itemname="Iced or Hot Ginger Tea (Herbal)"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.50" descript="" itemname="Hibiscus Iced Tea (Herbal)"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.50" descript="" itemname="Dragon Eyes Iced Tea"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.50" descript="" itemname="Wild Mint Iced Tea"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.50" descript="" itemname="Thai Iced Coffee"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.25" descript="" itemname="Espresso"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.50" descript="" itemname="Cafe Con Leche"></menu_item>
+<menu_item type="default" category="Tea and Coffee" price=" 2.50" descript="" itemname="Vietnamese Coffee"></menu_item>
+<menu_item type="default" category="Fresh Juices" price="lg 4.50" descript="please ask about our daily juices!" itemname="Fresh Pressed Juices"></menu_item>
+</root>

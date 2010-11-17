@@ -1,0 +1,31 @@
+<root>
+<menu_item type="Lunch Special" category="Bento $9" price=" " descript="choice of chicken, beef, salmon shrimp, veg. or tofu." itemname="A. Teriyaki"></menu_item>
+<menu_item type="Lunch Special" category="Bento $9" price=" " descript="mixed or vegetable" itemname="B. Tempura"></menu_item>
+<menu_item type="Lunch Special" category="Bento $9" price=" " descript="beef" itemname="C. Negimaki"></menu_item>
+<menu_item type="Lunch Special" category="Bento $9" price=" " descript="pork or chicken" itemname="D.. Katsu"></menu_item>
+<menu_item type="Lunch Special" category="Bento $9" price=" " descript="" itemname="E. Sushi Or Sashimi"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Tuna"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Salmon"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="California"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Yellowtail Scallion"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Spicy Tuna"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Crunchy Spicy Salmon"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Salmon Avocado"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Salmon Mango"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="White Tuna Jalapeno"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Shrimp Avocado"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Salmon Skin"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Eel Cucumber"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Eel Avocado"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Sweet Potato Tempura"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Veggie Tempura"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Cucumber"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Avocado"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Shiitake Cucumber"></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="A.A.C."></menu_item>
+<menu_item type="Lunch Special" category="Rolls" price=" " descript="" itemname="Zen&amp;#45;Zen"></menu_item>
+<menu_item type="Lunch Special" category="Simple Choice" price=" 10.00" descript="5 pcs sushi, california roll." itemname="Sushi Lunch"></menu_item>
+<menu_item type="Lunch Special" category="Simple Choice" price=" 12.00" descript="10pcs. assorted fish" itemname="Sashimi Lunch"></menu_item>
+<menu_item type="Lunch Special" category="Simple Choice" price=" 14.00" descript="" itemname="Sushi &amp;amp; Sashimi Lunch"></menu_item>
+<menu_item type="Lunch Special" category="Simple Choice" price=" 13.00" descript="" itemname="Chirashi"></menu_item>
+</root>

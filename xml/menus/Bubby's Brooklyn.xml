@@ -1,0 +1,164 @@
+<root>
+<menu_item type="Lunch" category="Appetizers $9" price=" " descript="tortilla chips, salsa roja, pico de gallo, locally grown organic black beans, sharp white cheddar cheese" itemname="Nachos"></menu_item>
+<menu_item type="Lunch" category="Appetizers $9" price=" " descript="with maytag blue cheese sauce" itemname="Warm Housemade Potato Chips"></menu_item>
+<menu_item type="Lunch" category="Soups" price=" 8.00" descript="shredded chicken fresh herbs and  vegetables" itemname="Alphabet Chicken Soup"></menu_item>
+<menu_item type="Lunch" category="Soups" price=" 8.00" descript="zucchini, carrots, onions, garlic, red beans, sharp white cheddar cheese, served with housemade corn chips and sour cream" itemname="Roasted Vegetable Chili"></menu_item>
+<menu_item type="Lunch" category="Soups" price=" 9.00" descript="" itemname="Matzo Ball"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 7.00" descript="iceberg, local romaine, red leaf, local spinach and arugula (balsamic, maytag blue cheese, buttermilk ranch, red wine vinaigrette)" itemname="House Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 11.00" descript="iceberg, tomatoes, salad bacon bits, red onion, maytag blue cheese dressing" itemname="Classic Wedge"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 18.00" descript="chopped lettuce, roasted chicken, bacon, avocado, boiled egg, tomato, maytag blue cheese served with cobb vinaigrette" itemname="The Brown Derby&amp;#39;s Cobb Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 9.00" descript="local romaine, sourdough croutons, reggiano parmesan, caesar dressing" itemname="Mr. Cardini&amp;#39;s Caesar Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 12.00" descript="with slab bacon bits, red onions, sourdough croutons and buttermilk ranch" itemname="Spinach Salad"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 16.00" descript="local romaine, sourdough croutons, reggiano parmesan, crispy skin chicken breast" itemname="Chicken Caesar Salad"></menu_item>
+<menu_item type="Lunch" category="Lunch Entrees" price=" 18.00" descript="grass-fed beef and pastured pork meatloaf" itemname="Bacon Wrapped Meatloaf"></menu_item>
+<menu_item type="Lunch" category="Lunch Entrees" price=" 16.00" descript="macaroni with sharp white cheddar cheese &amp; cornflake crumb crust" itemname="Macaroni And Cheese"></menu_item>
+<menu_item type="Lunch" category="Lunch Entrees" price=" 16.00" descript="3 tacos with green rice and locally grown organic black beans on a homemade, freshly ground corn tortilla cochinita pibil pork or pollo a la tinga 'chicken' or mix &amp; match" itemname="Taco Platter"></menu_item>
+<menu_item type="Lunch" category="Burgers $15" price=" " descript="grass-fed beef on a grilled parker house bun" itemname="Bubby&amp;#39;s Burger"></menu_item>
+<menu_item type="Lunch" category="Burgers $15" price=" " descript="grass-fed slope farms beef on a garlicky parker house bun" itemname="Garlic Burger"></menu_item>
+<menu_item type="Lunch" category="Burgers $15" price=" " descript="turkey combined with zucchini and carrots on a grilled parker house bun" itemname="Grilled Turkey Burger"></menu_item>
+<menu_item type="Lunch" category="Burgers $15" price=" " descript="served on a whole wheat bun" itemname="Housemade Veggie Burger"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 16.00" descript="avocado, bacon, desert glory tomato mayo on warm turkish bread, not available with combo" itemname="Grilled Chicken Club *"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 15.00" descript="fried chicken breast caramelized onions, lettuce, tomato, mayo, not available with combo" itemname="Chicken Fried Chicken Sandwich *"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 14.00" descript="house smoked, tossed with grapes, pecans, and a little mayo on 7 grain" itemname="Smoked Bell &amp;amp; Evans Chicken Salad Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 16.00" descript="thick cut smokehouse slab bacon, ripe tomatoes, and mayo on thick hand cut slices of bread" itemname="House Smoked Turkey BLT"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 15.00" descript="thick cut smokehouse slab bacon, lettuce, tomato on thickly sliced filone" itemname="Hickory&amp;#45;Smoked BLT"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 8.00" descript="on toasted 7 grain bread" itemname="PB &amp;amp; J"><extra type="add" price=" 1.00" descript="add banana"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 14.00" descript="with local apples, the crispest, tartest ones, available at the moment on 7 grain" itemname="Tuna Apple Salad Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 11.00" descript="sharp white cheddar cheese on 7-grain" itemname="Grilled Cheese Sandwich"><extra type="add" price=" 2.00" descript="add bacon"></extra>
+<extra type="add" price=" 1.00" descript="tomato"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Combos" price=" 13.00" descript="house, caesar salad" itemname="Cup Of Soup &amp;amp; Select Half Sandwiches"></menu_item>
+<menu_item type="Lunch" category="Combos" price=" 15.00" descript="house, caesar salad" itemname="Bowl Of Soup &amp;amp; Select Half Sandwiches"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="" itemname="French Fries"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="" itemname="Crusty Mac &amp;amp; Cheese"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="carrots, zucchini, beets and potatoes" itemname="Vegetable Matchstick Fries"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="steamed or sauteed with garlic" itemname="Broccoli"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="steamed, sauteed with garlic, or creamed" itemname="Local Spinach"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="" itemname="Local Pickled Beets"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="" itemname="Side Salad"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="" itemname="White Cabbage Slaw"></menu_item>
+<menu_item type="Lunch" category="Sides" price=" " descript="" itemname="Sauteed Green Beans"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 3.00" descript="" itemname="American Coffee"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 3.00" descript="" itemname="Espresso"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 5.00" descript="" itemname="Double Espresso"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 4.00" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 4.25" descript="" itemname="Latte"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 3.50" descript="" itemname="Macchiato"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 5.50" descript="" itemname="Mochaccino"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 5.50" descript="" itemname="Iced Latte"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 4.50" descript="" itemname="Iced Cappuccino"></menu_item>
+<menu_item type="Lunch" category="Coffee Espresso" price=" 4.00" descript="" itemname="Iced Coffee"></menu_item>
+<menu_item type="Lunch" category="Homemade Sodas $3" price=" " descript="" itemname="Cola"></menu_item>
+<menu_item type="Lunch" category="Homemade Sodas $3" price=" " descript="" itemname="Root Beer"></menu_item>
+<menu_item type="Lunch" category="Homemade Sodas $3" price=" " descript="" itemname="Ginger Beer"></menu_item>
+<menu_item type="Lunch" category="Fresh Presses $5" price=" " descript="" itemname="Lime"></menu_item>
+<menu_item type="Lunch" category="Fresh Presses $5" price=" " descript="" itemname="Lemon"></menu_item>
+<menu_item type="Lunch" category="Fresh Presses $5" price=" " descript="" itemname="Lemon Lime"></menu_item>
+<menu_item type="Lunch" category="Fresh Presses $5" price=" " descript="" itemname="Cranberry"></menu_item>
+<menu_item type="Lunch" category="Fresh Presses $5" price=" " descript="" itemname="Pineapple"></menu_item>
+<menu_item type="Lunch" category="Fresh Juices" price=" " descript="" itemname="Orange"></menu_item>
+<menu_item type="Lunch" category="Fresh Juices" price=" " descript="" itemname="Grapefruit"></menu_item>
+<menu_item type="Lunch" category="Fresh Juices" price=" " descript="" itemname="Cranberry"></menu_item>
+<menu_item type="Lunch" category="Egg Creams $4" price=" " descript="" itemname="Chocolate"></menu_item>
+<menu_item type="Lunch" category="Egg Creams $4" price=" " descript="" itemname="Vanilla"></menu_item>
+<menu_item type="Lunch" category="Teas $4" price=" " descript="black tea with sweet malty notes" itemname="Assam &amp;#40;India&amp;#41;"></menu_item>
+<menu_item type="Lunch" category="Teas $4" price=" " descript="black tea scented with oil of bergamot" itemname="Earl Grey &amp;#40;Sri Lanka&amp;#41;"></menu_item>
+<menu_item type="Lunch" category="Teas $4" price=" " descript="green tea scented with jasmine blossoms" itemname="Jasmine Pearls &amp;#40;China&amp;#41;"></menu_item>
+<menu_item type="Lunch" category="Teas $4" price=" " descript="herbal infusion of mint &amp; lavender" itemname="Lavender Mint &amp;#40;France &amp;amp; Greece&amp;#41;"></menu_item>
+<menu_item type="Lunch" category="Teas $4" price=" " descript="herbal infusion of chamomile flowers" itemname="Chamomile &amp;#40;Egypt&amp;#41;"></menu_item>
+<menu_item type="Lunch" category="Lemonades" price=" 4.00" descript="" itemname="Pink Lemonade"></menu_item>
+<menu_item type="Lunch" category="Lemonades" price=" 6.00" descript="" itemname="Peach Lemonade"></menu_item>
+<menu_item type="Lunch" category="Lemonades" price=" 6.00" descript="" itemname="Strawberry Lemonade"></menu_item>
+<menu_item type="Lunch" category="Lemonades" price=" 4.00" descript="" itemname="Arnold Palmer"></menu_item>
+<menu_item type="Lunch" category="Lemonades" price=" 6.00" descript="with local wildflower honey" itemname="Seasonal Lemonades"></menu_item>
+<menu_item type="Lunch" category="Hot Chocolate" price=" 6.00" descript="made with callebaut chocolate" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Lunch" category="Hot Chocolate" price=" 5.00" descript="half hot chocolate &amp; half foamed milk" itemname="Cococcino"></menu_item>
+<menu_item type="Lunch" category="Hot Chocolate" price=" 6.00" descript="" itemname="Mexican Hot Chocolate"></menu_item>
+<menu_item type="Lunch" category="Milk Shakes &amp;amp; Malteds $7" price=" " descript="" itemname="Chocolate"></menu_item>
+<menu_item type="Lunch" category="Milk Shakes &amp;amp; Malteds $7" price=" " descript="" itemname="Vanilla"></menu_item>
+<menu_item type="Lunch" category="Milk Shakes &amp;amp; Malteds $7" price=" " descript="" itemname="Black &amp;amp; White"></menu_item>
+<menu_item type="Lunch" category="Milk Shakes &amp;amp; Malteds $7" price=" " descript="" itemname="Espresso"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.00" descript="on sourdough" itemname="Hot Artichoke Dip"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="tortilla chips, locally grown organic black beans, sharp white cheddar cheese, salsa rojo, pico de gallo" itemname="Nachos"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="with maytag blue cheese sauce" itemname="Warm Housemade Potato Chips"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="with celery, carrots and blue cheese sauce" itemname="Spicy Buffalo Wings"></menu_item>
+<menu_item type="Dinner" category="Soups" price=" 8.00" descript="shredded chicken fresh herbs and vegetables" itemname="Alphabet Chicken Soup"></menu_item>
+<menu_item type="Dinner" category="Soups" price=" 8.00" descript="zucchini, carrots, onions, garlic, red beans, cheddar served with housemade corn chips and sour cream" itemname="Roasted Vegetable Chili"></menu_item>
+<menu_item type="Dinner" category="Soups" price=" 9.00" descript="" itemname="Matzo Ball"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 7.00" descript="iceberg, local romaine, red leaf, local spinach and arugula choice of housemade american dressings (balsamic, maytag blue cheese, buttermilk ranch, red wine vinaigrette)" itemname="House Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 11.00" descript="iceberg, tomatoes, slab bacon bits, red onion, maytag blue cheese dressing" itemname="Classic Wedge"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 18.00" descript="chopped lettuce, grilled bell and evans chicken, avocado, bacon, boiled egg, tomato, maytag blue, cheese served with cobb vinaigrette" itemname="The Brown Derby&amp;#39;s Cobb Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 9.00" descript="romaine, sourdough croutons, reggiano parmesan, caesar dressing" itemname="Mr. Cardini&amp;#39;s Caesar Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 12.00" descript="with slab bacon bits, red onions, sourdough croutons and buttermilk ranch" itemname="Spinach Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 16.00" descript="" itemname="Chicken Caesar Salad"></menu_item>
+<menu_item type="Dinner" category="Burgers" price=" 14.00" descript="grass fed beef on a grilled parker house bun" itemname="Bubby Burger"></menu_item>
+<menu_item type="Dinner" category="Burgers" price=" 14.00" descript="grass-fed slope farms beef on a garlicky parker house bun" itemname="Garlic Beef Burger"></menu_item>
+<menu_item type="Dinner" category="Burgers" price=" 14.00" descript="turkey, zucchini and carrots on a griddled parker house bun" itemname="Grilled Turkey Burger"></menu_item>
+<menu_item type="Dinner" category="Burgers" price=" 13.00" descript="served on a whole wheat bun" itemname="Housemade Veggie Burger"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 17.00" descript="grass-fed beef and heritage pork meatloaf" itemname="Bacon Wrapped Meatloaf"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 15.00" descript="macaroni with millport dairy farm sharp white cheddar cheese topped with crusty cornflake crumbs" itemname="Macaroni And Cheese"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 19.00" descript="with sea salt, rosemary and garlic" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 15.00" descript="buttery pie crust filled with bell and evans chicken, carrots, celery, onions, potato, creamy sauce" itemname="Chicken And Leek Pot Pie"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 18.00" descript="this chicken is brined for 24 hours (try it with a waffle and warm maple syrup)" itemname="Country Fried Chicken"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 18.00" descript="roasted with rosemary and garlic served with pan gravy" itemname="Roasted 1&amp;#47;2 Chicken"></menu_item>
+<menu_item type="Dinner" category="Excellent Tacos $16" price=" " descript="with green rice and locally grown organic black beans on freshly ground, handmade corn tortilla cochinita pibil 'pork' or pollo a la tinga chicken or mix &amp; match" itemname="3 Tacos"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="" itemname="French Fries"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="" itemname="Onion Straws"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="" itemname="Crusty Mac And Cheese"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="carrots, zucchini, beets and potatoes" itemname="Vegetable Matchstick Fries"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="steamed or sauteed with garlic" itemname="Broccoli"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="steamed, sauteed with garlic or steamed" itemname="Local Spinach"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="" itemname="Local Pickled Beets"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="" itemname="Side Salad"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="" itemname="White Cabbage Slaw"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" " descript="" itemname="Sauteed Green Beans"></menu_item>
+<menu_item type="Brunch" category="Hot And Cold Cereals" price="bowl 6.00" descript="" itemname="Down&amp;#45;Home Southern Grits"></menu_item>
+<menu_item type="Brunch" category="Hot And Cold Cereals" price="bowl 7.25" descript="" itemname="Crusty Cheese Grits"></menu_item>
+<menu_item type="Brunch" category="Hot And Cold Cereals" price=" 8.00" descript="with raisins and brown sugar" itemname="Steel Cut Oatmeal"><extra type="add" price=" 1.00" descript="add seasonal fruit extra"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Hot And Cold Cereals" price=" 8.00" descript="" itemname="Bowl Homemade Granola"><extra type="add" price=" 1.00" descript="add seasonal fruit extra"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Hot And Cold Cereals" price=" 14.00" descript="with fruit salad, yogurt, and toast" itemname="Granola Fresh Fruit Plate"></menu_item>
+<menu_item type="Brunch" category="Eggs Benedict" price=" 18.00" descript="two poached eggs, hollandaise &amp; smoked canadian bacon on an english muffin" itemname="Eggs Benedict"></menu_item>
+<menu_item type="Brunch" category="Eggs Benedict" price=" 18.00" descript="two poached eggs, hollandaise &amp; chopped spinach" itemname="Eggs Florentine"></menu_item>
+<menu_item type="Brunch" category="Eggs Benedict" price=" 19.00" descript="two poached eggs, hollandaise, smoked salmon &amp; chopped spinach" itemname="House Smoked Salmon Florentine"></menu_item>
+<menu_item type="Brunch" category="Pancakes &amp;amp; French Toast" price=" 13.00" descript="" itemname="Stack Of French Toast"></menu_item>
+<menu_item type="Brunch" category="Pancakes &amp;amp; French Toast" price=" 13.00" descript="" itemname="Stack Of Bubby&amp;#39;s Fluffy Sour Cream Pancakes"></menu_item>
+<menu_item type="Brunch" category="Pancakes &amp;amp; French Toast" price=" 13.00" descript="" itemname="Stack Of Sourdough Pancakes"><extra type="add" price=" 1.00" descript="add seasonal fruit or fruit compote extra"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Pancakes &amp;amp; French Toast" price=" 14.00" descript="" itemname="Saut&amp;eacute;ed Banana Walnut Pancakes"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 4.50" descript="" itemname="Single Pancake Or French Toast"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 7.50" descript="or french toast" itemname="Short Stack Of Pancakes"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 6.00" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 3.00" descript="" itemname="Toast Or H &amp;amp; H Bagel"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 6.00" descript="" itemname="2 Eggs Any Style"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 3.00" descript="" itemname="1 Egg Any Style"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 2.50" descript="" itemname="Egg White Only"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 7.00" descript="" itemname="Cup Of Seasonal Fruit Salad"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 6.00" descript="" itemname="Pork Or Chicken Sausage Links"></menu_item>
+<menu_item type="Brunch" category="Brunch Sides" price=" 7.00" descript="" itemname="Oscar&amp;#39;s Smokehouse Dry Cured Bacon"></menu_item>
+<menu_item type="Brunch" category="Brunch Specialties" price=" 16.00" descript="two local eggs, bacon or sausage, toast, fruit, homefries, or grits, coffee or tea" itemname="Bubby&amp;#39;s Breakfast"></menu_item>
+<menu_item type="Brunch" category="Brunch Specialties" price=" 16.00" descript="two pancakes or french toast, two eggs, bacon or sausage, coffee or tea" itemname="Griddle Special"></menu_item>
+<menu_item type="Brunch" category="Brunch Specialties" price=" 19.00" descript="served with homefries or grits, toast" itemname="Flank Steak And Eggs"></menu_item>
+<menu_item type="Brunch" category="Brunch Specialties" price=" 17.00" descript="three local eggs any style over a corn flour tortilla, cotija cheese, salsa, avocado &amp; black beans" itemname="Gina&amp;#39;s Huevos Rancheros"></menu_item>
+<menu_item type="Brunch" category="Brunch Specialties" price=" 17.00" descript="with horseradish cream, served with homefries or grits" itemname="House Smoked Rainbow Trout Scramble"></menu_item>
+<menu_item type="Brunch" category="Brunch Specialties" price=" 17.00" descript="with cream cheese &amp; scallions, served with toast &amp; homefries or grits" itemname="Applewood House Smoked Lox Scramble"></menu_item>
+<menu_item type="Brunch" category="Brunch Specialties" price=" 19.00" descript="traditional accompaniments, cream cheese &amp; choice of h &amp; h bagel" itemname="Applewood House Smoked Salmon Platter"></menu_item>
+<menu_item type="Brunch" category="Burgers" price=" 14.00" descript="with grass fed slope farms beef" itemname="Locally Raised Beef Burgers Made"></menu_item>
+<menu_item type="Brunch" category="Burgers" price=" 14.00" descript="" itemname="Grilled Turkey Burger"></menu_item>
+<menu_item type="Brunch" category="Burgers" price=" 14.00" descript="with grass fed slope farm's beef" itemname="Our Version Of The Cotton Bottom&amp;#39;s Garlic Burger"></menu_item>
+<menu_item type="Brunch" category="Burgers" price=" 12.00" descript="on whole wheat bun" itemname="Homemade Vegetable Burger"></menu_item>
+<menu_item type="Brunch" category="Soup &amp;amp; Salad" price="bowl 8.00" descript="" itemname="Bubby Biskin&amp;#39;s Chicken Noodle Soup *"></menu_item>
+<menu_item type="Brunch" category="Soup &amp;amp; Salad" price=" 8.00" descript="" itemname="Her Matzo Ball"></menu_item>
+<menu_item type="Brunch" category="Soup &amp;amp; Salad" price="bowl 8.00" descript="" itemname="Roasted Vegetarian Chili"></menu_item>
+<menu_item type="Brunch" category="Soup &amp;amp; Salad" price=" 7.00" descript="balsamic house dressing, maytag blue cheese, buttermilk ranch, cobb salad vinaigrette" itemname="House Salad"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 16.00" descript="" itemname="Pulled Berkshire Pork Butt"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 12.00" descript="on hand-cut sullivan street bread" itemname="Bubby&amp;#39;s BLT"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 14.00" descript="on hand-cut sullivan street bread" itemname="House Smoked Turkey BLT"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 14.00" descript="" itemname="Smoked Chicken Salad Sandwich *"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 14.00" descript="" itemname="Grilled Glazed Ham &amp;amp; Cheese"></menu_item>
+</root>

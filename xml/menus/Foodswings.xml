@@ -1,0 +1,55 @@
+<root>
+<menu_item type="Midnight Munchies" category="Hot And Cold Sandwiches" price=" 6.50" descript="battered &amp; fried cutlet drenched in buffalo sauce &amp; bleu cheese on a sandwich roll" itemname="Buffalo Cutlet Sandwich"></menu_item>
+<menu_item type="Midnight Munchies" category="Hot And Cold Sandwiches" price=" 5.25" descript="a tender &quot;rib&quot; rack smothered in bbq sauce served on a hero" itemname="Mock Rib Sandwich"></menu_item>
+<menu_item type="Midnight Munchies" category="Hot And Cold Sandwiches" price=" 5.25" descript="fried tofu &quot;egg style&quot; with sliced soy cheese on toast" itemname="Eggie &amp;amp; Cheese"><extra type="sub" price=" .50" descript="add soy bacon, soy ham or soy breakfast sausage for extra each"></extra>
+</menu_item>
+<menu_item type="Midnight Munchies" category="Hot And Cold Sandwiches" price=" 5.00" descript="griddled mock ham &amp; melted soy cheese on toast" itemname="Ham &amp;amp; Cheese Melt"></menu_item>
+<menu_item type="Midnight Munchies" category="Hot And Cold Sandwiches" price=" 7.25" descript="homemade vegan italian sausage with peppers &amp; onions on italian bread" itemname="Sausage &amp;amp; Peppers Hero"><extra type="sub" price=" 1.00" descript="make it parmigiana extra"></extra>
+</menu_item>
+<menu_item type="Midnight Munchies" category="Burgers &amp;amp; Dogs" price=" 3.00" descript="a spicy veggie slider on a mini-roll with soy cheese, tomato, pickles &amp; chipotle sauce" itemname="Kickin' Veggie Sliders"></menu_item>
+<menu_item type="Midnight Munchies" category="Burgers &amp;amp; Dogs" price=" 5.25" descript="two soy hot dogs served on buns with choice of fixins relish and or sauerkraut" itemname="The A-Diggity Dog"><extra type="sub" price=" 1.00" descript="add cheese extra"></extra>
+</menu_item>
+<menu_item type="Midnight Munchies" category="Burgers &amp;amp; Dogs" price=" 6.75" descript="two soy hot dogs drowning in homemade chili con seitan" itemname="The Chilidog"><extra type="sub" price=" 1.00" descript="add cheese extra"></extra>
+</menu_item>
+<menu_item type="Midnight Munchies" category="Foodswings Drumsticks" price=" 2.00" descript="buffalo, bbq, southern fried, sweet southern fried bbq each" itemname="Four Styles"></menu_item>
+<menu_item type="Midnight Munchies" category="Foodswings Drumsticks" price=" 8.75" descript="3 drumsticks with fries" itemname="Combo"></menu_item>
+<menu_item type="Midnight Munchies" category="Good Random Shite" price=" 3.50" descript="vegetable curry samosa served with sweet chili sauce" itemname="Samosas (4)"></menu_item>
+<menu_item type="Midnight Munchies" category="Good Random Shite" price=" 4.50" descript="big helping of ground seitan with kidney beans, peppers, onions, tomato &amp; spices" itemname="Home Made Chili Con Seitan"><extra type="sub" price=" 1.00" descript="add chipotle cheese extra"></extra>
+</menu_item>
+<menu_item type="Midnight Munchies" category="Good Random Shite" price=" 6.50" descript="five classic &quot;fish&quot; sticks fried to perfection, served with foodswings tartar sauce" itemname="Sea Styx"></menu_item>
+<menu_item type="Midnight Munchies" category="Good Random Shite" price=" 7.95" descript="six english style &quot;fish&quot; sticks &amp; fries, sprinkled with salt, pepper &amp; vinegar, served with foodswings tartar sauce" itemname="&quot;Fish&quot; N Chips"></menu_item>
+<menu_item type="Midnight Munchies" category="Good Random Shite" price=" 5.25" descript="four potato skins with bacon bits, cheddar soy cheese &amp; tofu sour cream oil" itemname="4 Skins"></menu_item>
+<menu_item type="Midnight Munchies" category="Good Random Shite" price="(twelve pieces) 6.75" descript="golden fried mock chicken nuggets served with choice of bbq sauce or sweet mustard sauce" itemname="Chicken Nuggets"></menu_item>
+<menu_item type="Midnight Munchies" category="Fries" price=" 4.25" descript="fries &amp; melted soy cheese with brown gravy on the side" itemname="Disco Fries"></menu_item>
+<menu_item type="Midnight Munchies" category="Fries" price=" 4.25" descript="fries with marinara sauce &amp; melted soy cheese" itemname="Opera Fries"></menu_item>
+<menu_item type="Midnight Munchies" category="Fries" price=" 4.50" descript="fries with melted soy cheddar &amp; chili" itemname="Mariachi Fries"></menu_item>
+<menu_item type="Midnight Munchies" category="Fries" price=" 4.50" descript="fries with melted soy cheddar &amp; bacon" itemname="Punk Fries"></menu_item>
+<menu_item type="Midnight Munchies" category="Fries" price=" 4.50" descript="fries with melted soy cheddar, bleu cheese &amp; buffalo sauce" itemname="Metal Fries"></menu_item>
+<menu_item type="Midnight Munchies" category="Fries" price=" 4.25" descript="fries with melted soy cheddar &amp; ranch dressing" itemname="Surf Fries"></menu_item>
+<menu_item type="Midnight Munchies" category="Fries" price=" 3.50" descript="fries with melted soy cheese" itemname="Cheese Fries"></menu_item>
+<menu_item type="Midnight Munchies" category="Fries" price=" 2.50" descript="plain fries" itemname="Neat"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.00" descript="pistachio, chocolate, vanilla, mint chip or strawberry" itemname="The Basic Shake"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.50" descript="chocolate ice cream, peanut butter &amp; cookies" itemname="The Tank"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.50" descript="vanilla ice cream, peanut butter &amp; cookies" itemname="The Bellavegan"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.25" descript="strawberry ice cream &amp; cookies" itemname="Crunchberries"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.25" descript="vanilla &amp; chocolate ice cream &amp; cookies" itemname="Cookies &amp;amp; Cream"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.00" descript="coffee ice cream &amp; vanilla soymilk" itemname="Latte"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.00" descript="coffee ice cream &amp; chocolate soymilk" itemname="Mocha"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.25" descript="vanilla ice cream &amp; carob powder" itemname="Firestorm"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.25" descript="vanilla ice cream &amp; orange juice" itemname="Creamsicle"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.00" descript="cherry vanilla ice cream" itemname="Jailbait"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.25" descript="mint ice cream &amp; cookies" itemname="Vegan Hurricane"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.25" descript="chocolate ice cream &amp; chik o' stiks" itemname="Butterfinger"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.50" descript="pistachio ice cream, cookies, &amp; peanut butter" itemname="The Seymour"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.25" descript="strawberry ice cream &amp; orange juice" itemname="My Little Pony"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.50" descript="strawberry ice cream, pea-nut butter &amp; cookies" itemname="Trainwreck"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.75" descript="vanilla ice cream &amp; chocolate chip cookie dough" itemname="Cookie Dough"></menu_item>
+<menu_item type="Midnight Munchies" category="Milkshakes" price=" 6.00" descript="vanilla &amp; chocolate ice cream" itemname="Black &amp;amp; White"></menu_item>
+<menu_item type="Midnight Munchies" category="Floats $2.75" price=" " descript="root beer soda &amp; vanilla or chocolate ice cream" itemname="Rootbeer"></menu_item>
+<menu_item type="Midnight Munchies" category="Floats $2.75" price=" " descript="cherry vanilla soda &amp; chocolate ice cream" itemname="Cherry Bomb"></menu_item>
+<menu_item type="Midnight Munchies" category="Floats $2.75" price=" " descript="orange soda &amp; vanilla ice cream" itemname="Little Miss Sunshine"></menu_item>
+<menu_item type="Midnight Munchies" category="Floats $2.75" price=" " descript="ginger ale soda &amp; chocolate ice cream" itemname="Dark &amp;amp; Stormy"></menu_item>
+<menu_item type="Midnight Munchies" category="Floats $2.75" price=" " descript="key lime soda &amp; mint chip ice cream" itemname="Mojito"></menu_item>
+<menu_item type="Midnight Munchies" category="Floats $2.75" price=" " descript="kiwi strawberry soda &amp; strawberry ice cream" itemname="The Snuka"></menu_item>
+<menu_item type="Midnight Munchies" category="Floats $2.75" price=" " descript="vanilla cola soda &amp; coffee ice cream" itemname="Java Jolt"></menu_item>
+</root>

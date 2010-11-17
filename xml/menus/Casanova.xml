@@ -1,0 +1,80 @@
+<root>
+<menu_item type="Take Out" category="Daily Soups $3.50" price="" descript="" itemname="Chicken Soup">
+
+</menu_item>
+<menu_item type="Take Out" category="Daily Soups $3.50" price="" descript="" itemname="Pasta Fagioli">
+
+</menu_item>
+<menu_item type="Take Out" category="Daily Soups $3.50" price="" descript="" itemname="Escarole Fagioli">
+
+</menu_item>
+<menu_item type="Take Out" category="Side Orders" price="7.95" descript="" itemname="Broccoli Rabe">
+
+</menu_item>
+<menu_item type="Take Out" category="Side Orders" price="6.95" descript="" itemname="Broccoli - Regular">
+
+</menu_item>
+<menu_item type="Take Out" category="Side Orders" price="6.95" descript="" itemname="Escarole - Sauteed">
+
+</menu_item>
+<menu_item type="Take Out" category="Side Orders" price="6.95" descript="with potatoes" itemname="String Beans">
+
+</menu_item>
+<menu_item type="Take Out" category="Side Orders" price="2.50" descript="" itemname="French Fries">
+
+</menu_item>
+<menu_item type="Take Out" category="Side Orders" price="2.50" descript="" itemname="Garlic Bread">
+
+</menu_item>
+<menu_item type="Take Out" category="Side Orders" price="4.00" descript="" itemname="Meatball Or Sausage">
+
+</menu_item>
+<menu_item type="Take Out" category="Side Orders" price="4.95" descript="" itemname="Grilled Chicken Or Fried">
+
+</menu_item>
+<menu_item type="Take Out" category="Mini Pizza Brick Oven" price="10.00" descript="arugula and prosciutto di parma" itemname="Rughetta E Prosciutto Di Parma">
+
+</menu_item>
+<menu_item type="Take Out" category="Mini Pizza Brick Oven" price="11.00" descript="a white pizza of sausage, broccoli rabe and mozzarella" itemname="Alla Romano">
+
+</menu_item>
+<menu_item type="Take Out" category="Mini Pizza Brick Oven" price="7.00" descript="tomato, fresh mozzarella and basil." itemname="Margherita">
+
+</menu_item>
+<menu_item type="Take Out" category="Mini Pizza Brick Oven" price="7.00" descript="tomato, anchovies and oregano" itemname="Marinara">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="7.50" descript="prosciutto, fresh mozzarella, olive oil, sun dried tomatoes &amp;amp; roasted peppers." itemname="1. Scarface">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="6.95" descript="fresh mozzarella &amp;amp; roasted peppers, lettuce &amp;amp; tomato." itemname="2. Genoa Salami">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="7.50" descript="ham, prosciutto, cappicola, genoa, salami, sopressata, provolone, lettuce &amp;amp; tomato." itemname="3. Godfather">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="6.50" descript="lettuce &amp;amp; tomato" itemname="4. Chicken Cutlet">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="5.50" descript="lettuce &amp;amp; tomato" itemname="5. Turkey Breast">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="5.95" descript="lettuce &amp;amp; tomato" itemname="6. Tuna Salad">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="6.95" descript="grilled eggplant, fresh mozzarella, portabello mushrooms &amp;amp; roasted peppers." itemname="7. Casanova">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="6.50" descript="cappicola ham, provolone, arugula, sun dried tomatoes &amp;amp; sliced tomatoes." itemname="8. Donnie Brasco">
+
+</menu_item>
+<menu_item type="Take Out" category="Specialty Sandwiches From The Deli" price="5.50" descript="lettuce &amp;amp; tomato" itemname="9. Ham &amp;amp; Cheese">
+
+</menu_item>
+<menu_item type="Catering" category="Heros By The Foot" price="18.00" descript="salami, capicola, sopressata, prosciutto, provolone, mortadella, lettuce, tomato oil &amp;amp; vinegar" itemname="Foot Italian Hero">
+
+</menu_item>
+<menu_item type="Catering" category="Heros By The Foot" price="16.00" descript="ham, turkey, roast beef, bologna, american cheese, swiss cheese, lettuce &amp;amp; tomato" itemname="Foot American Hero">
+
+</menu_item>
+</root>

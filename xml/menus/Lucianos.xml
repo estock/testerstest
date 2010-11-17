@@ -1,0 +1,64 @@
+<root>
+<menu_item type="default" category="Todayճ Soup" price=" " descript="" itemname="Soup Of The Day"></menu_item>
+<menu_item type="default" category="Fresh Salads" price=" 7.75" descript="" itemname="Avocado, Tomato &amp;amp; Fresh Mozzarella Salad"></menu_item>
+<menu_item type="default" category="Fresh Salads" price=" 5.75" descript="" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="Fresh Salads" price="lg 6.50" descript="" itemname="Mixed Greens Salad"></menu_item>
+<menu_item type="default" category="Fresh Salads" price=" 8.95" descript="grilled chicken with fresh vegetables" itemname="Julia Salad"></menu_item>
+<menu_item type="default" category="Fresh Panini" price=" 8.00" descript="one ingredient included in price" itemname="Create Your Own Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 8.00" descript="fresh mozzarella, lettuce, tomato, house italian dressing" itemname="1. Grilled Chicken Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 8.00" descript="" itemname="2. Veal Meatball Parmigiana Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 8.00" descript="brie, romaine, lettuce, tomato, honey mustard" itemname="3. Smoked Turkey Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 8.00" descript="roasted peppers, avocado, romaine, lettuce, tomato, olive oil and balsamic vinegar" itemname="4. Fresh Mozzarella Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 10.00" descript="prosciutto genoa salami, provolone, cheese, roasted peppers, olive oil &amp; balsamic vinegar" itemname="5. Italian Combo Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 9.00" descript="black forest ham, genoa salami, cheddar cheese, lettuce, tomato, honey mustard" itemname="6. American Combo Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 8.00" descript="breaded chicken cutlet, fresh mozzarella, tomato sauce" itemname="7. Chicken Parmigiana Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 8.00" descript="fresh mozzarella, lettuce, tomato, house italian dressing" itemname="8. Grilled Eggplant Panini"></menu_item>
+<menu_item type="default" category="Favorite Panini Combinations" price=" 9.00" descript="sliced sirloin, grilled onions, hot cherry peppers, cheddar" itemname="9. Luciano's Cheesesteak Panini"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 6.25" descript="fresh mozzarella, basil, tomato sauce" itemname="Margherita Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="fresh mozzarella muenster, provolone, cheddar, basil, tomato sauce" itemname="Quattro Formaggio Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="broccoli, zucchini, mushrooms, spinach, fresh mozzarella, basil, tomato sauce" itemname="Primavera Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="bacon, fresh pineapple, grilled onions, fresh mozzarella, tomato sauce." itemname="Hawaiian Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="bbq chicken, mushrooms, grilled onions, fresh mozzarella, tomato sauce" itemname="Western Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="grilled chicken, roasted peppers, fresh mozzarella, tomato sauce" itemname="East Coast Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="veal meatballs, fresh mozzarella, basil, tomato sauce" itemname="Meatball Parmigiana Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="hot &amp; sweet sausage, mushrooms, basil, tomato sauce" itemname="Salsiccie Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="grilled eggplant, fresh mozzarella, basil, tomato sauce" itemname="Eggplant Parmigiana Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="portobello mushrooms, button mushrooms, grilled onions, fresh mozzarella, basil, tomato sauce" itemname="Funghi Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="prosciutto, hot cherry peppers, fresh mozzarella, tomato sauce" itemname="Luciano Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="pepperoni, grilled onions, fresh mozzarella, tomato sauce" itemname="Pepperoni Pizza"></menu_item>
+<menu_item type="default" category="Luciano's 9-Inch Pizzas" price=" 7.25" descript="jalapeno, cilantro, avocado, fresh mozzarella, tomato sauce" itemname="Mexicana Pizza"></menu_item>
+<menu_item type="default" category="Fresh Imported Pasta Bar" price=" 8.00" descript="" itemname="Fresh Imported Pasta Bar"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 8.00" descript="mushrooms, tomato sauce &amp; touch of cream" itemname="Penne Vodka"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.00" descript="breaded chicken tenders, fresh mozzarella, tomato sauce" itemname="Penne Chicken Parmigiana"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 8.00" descript="four cheeses, tomato sauce" itemname="Penne Quattro Formaggio Tomato"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.50" descript="broccoli, zucchini, mushrooms, fresh tomato, olive oil &amp; garlic" itemname="Penne Primavera"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.00" descript="ground beef, pork, veal, tomato sauce" itemname="Linguini Bolognese"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.50" descript="broccoli, zucchini, mushrooms, sun-dried tomato, olive oil &amp; garlic" itemname="Linguini Di Solé"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.75" descript="pink sauce" itemname="Spinach Ravioli"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.00" descript="garlic cream sauce" itemname="Fettuccine Garlic Alfredo"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 8.00" descript="calamata olives, hot peppers, tomato sauce" itemname="Penne Arrabiata"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.00" descript="grilled chicken, fresh spinach, tomato sauce" itemname="Penne Fiorentina"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.00" descript="four cheeses, cream sauce" itemname="Penne Quattro Formaggio Alfredo"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.00" descript="broccoli, mozzarella, tomato sauce" itemname="Rigati Broccoli"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.00" descript="veal meatballs, mushrooms, tomato sauce" itemname="Linguini Polpetti"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.75" descript="tomato sauce" itemname="Cheese Ravioli"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.25" descript="chicken filled pasta pockets" itemname="Chicken Tortellini"></menu_item>
+<menu_item type="default" category="Pasta Combinations" price=" 9.75" descript="grilled chicken, vegetables, pesto sauce" itemname="Fettuccine Pollo Pesto"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="lg 2.15" descript="" itemname="Regular Coffee"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="lg 2.50" descript="" itemname="Hazelnut Coffee"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="lg 3.50" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="lg 3.75" descript="" itemname="Mochaccino"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="lg 2.15" descript="" itemname="Tea"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="lg 2.15" descript="" itemname="Decaffeinated Coffee"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="lg 2.50" descript="" itemname="French Vanilla Coffee"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="lg 3.50" descript="" itemname="Latte"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="med 2.60" descript="%100 milk" itemname="Hot Chocolate"></menu_item>
+<menu_item type="default" category="Coffee Bar" price="double 2.50" descript="" itemname="Espresso"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.60" descript="" itemname="Fountain Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.75" descript="" itemname="Snapple"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.00" descript="" itemname="Orange Juice"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.25" descript="" itemname="Vita Water"></menu_item>
+<menu_item type="default" category="Beverages" price="(20oz) 1.75" descript="" itemname="Bottled Soda"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Spring Water"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.25" descript="" itemname="Gatorade"></menu_item>
+</root>

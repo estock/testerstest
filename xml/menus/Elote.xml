@@ -1,0 +1,88 @@
+<root>
+<menu_item type="Dinner" category="Soups $5" price=" " descript="chicken, carrots, cabbage, dill, celery and spices" itemname="Chicken Tortilla Or Rice Soup"></menu_item>
+<menu_item type="Dinner" category="Soups $5" price=" " descript="poblano chile, corn, zucchini, onion, garlic and spices" itemname="Sopa De Elote"></menu_item>
+<menu_item type="Dinner" category="Soups $5" price=" " descript="ground beef, pinto beans, kidney beans, pepper and onions and our secret spices" itemname="Chile"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 5.00" descript="roasted corn on a stick, lime infused mayo, chile and cotija cheese" itemname="Elote"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 7.00" descript="chopped tomato, onion, cucumber and cilantro in lime juices" itemname="Shrimp Ceviche"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 7.00" descript="ancho spicy flour, batter-fried served with jalapeno and lime mayo" itemname="Artichoke Hearts"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 7.00" descript="fresh avocado, pico de gallo with a little kick" itemname="Guacamole"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 7.00" descript="fried cornbread strips, cotija cheese and chipotle mayo" itemname="Cheesy Corn Fries"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 8.00" descript="chicken, jack cheese, lettuce, refried beans, cotija cheese" itemname="Chicken Taquitos"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 9.00" descript="homemade chips, refried beans, jack cheese, guacamole, pico de gallo and crema" itemname="Nachos"><extra type="sub" price=" 12.00" descript="choice of shredded chicken, roasted pork, marinated steak or chorizo"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 10.00" descript="choice of pork, steak or fish with jack and cheddar cheese served with guacamole, chipotle mayo and crema" itemname="Quesadilla"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 10.00" descript="chicken roll in corn tortilla melted jack cheese, sweet spicy chile sauce and crema" itemname="Chicken Enchiladas"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 10.00" descript="slow-roasted pork, coleslaw, lettuce, fried onions, refried beans on a brioche roll" itemname="BBQ Pulled Pork Sandwich"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 12.00" descript="chicken or marinated steak, rice, pinto beans, guacamole and pico de gallo" itemname="Burrito Grande"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 14.00" descript="chicken or steak, red green peppers, onions, jalapeno, served with rice and beans" itemname="Fajitas"></menu_item>
+<menu_item type="Dinner" category="Tacos $8" price=" " descript="chili rubbed fish, cole slaw, chipotle aioli and sour cream" itemname="Pescado"></menu_item>
+<menu_item type="Dinner" category="Tacos $8" price=" " descript="chicken, greens, sour cream, onion, cilantro" itemname="Pollo"></menu_item>
+<menu_item type="Dinner" category="Tacos $8" price=" " descript="slow-roasted pork, sour cream, onion, cilantro" itemname="Carnitas"></menu_item>
+<menu_item type="Dinner" category="Tacos $8" price=" " descript="marinated steak, lettuce, guacamole, pico de gallo and crema" itemname="Steak"></menu_item>
+<menu_item type="Dinner" category="Salads $9" price=" " descript="lime marinated steak, chips, greens, veggies, cherry cumin vinaigrette" itemname="Steak Salad"></menu_item>
+<menu_item type="Dinner" category="Salads $9" price=" " descript="breaded chicken, chips, greens, veggies, cherry cumin vinaigrette" itemname="Breaded Chicken Salad"></menu_item>
+<menu_item type="Dinner" category="Salads $9" price=" " descript="chili rubbed chicken grilled, chips, greens, veggies, cherry cumin vinaigrette" itemname="Grilled Chicken Salad"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 5.00" descript="portabello, black beans pepper and onions and secret spices served with corn fries" itemname="Black Bean Chili"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 7.00" descript="melted jack cheese, sweet spicy chile sauce and crema" itemname="Cheese Enchiladas"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 7.00" descript="jack and cheddar cheese served with guacamole, chipotle mayo and crema" itemname="Cheese Quesadillas"><extra type="sub" price=" 10.00" descript="with chili rubbed fish or veggies"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 9.00" descript="portabello roll in corn tortilla melted jack cheese, sweet spicy chili sauce, crema" itemname="Portabello Taquitos"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 9.00" descript="breaded fish chips, greens, veggies, cherry cumin vinaigrette" itemname="Breaded Fish Salad"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 10.00" descript="soft masa, roasted green chiles, jack cheese, salsa verde, crema" itemname="Green Chile Tamales"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 10.00" descript="marinated portabello, roasted garlic, avocado, lettuce, jack cheese on brioche roll choice of lime or jalapeno aioli, served with corn fries" itemname="Grilled Portabello Sandwich"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 12.00" descript="chili rubbed fish or sauteed portabello, green and red pepper, carrots, corn, rice, pinto beans and crema" itemname="Fish Or Veggie Burrito"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 12.00" descript="portabello, green and red pepper, onions served with rice and pinto beans and tortilla, served with rice and pinto beans, tortilla" itemname="Veggie Fajitas"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 6.00" descript="two sides of creamy refried beans and guacamole" itemname="Double Dipper"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="steamed with peas, tomato and cumin" itemname="Red Rice"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="stewed in epazote topped with melted jack cheese" itemname="Pinto Beans"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="vegetarian" itemname="Rice And Beans"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="vegetarian" itemname="Pinto Or Refried Beans And Jack Cheese"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 2.00" descript="the first basket of chips are free per table" itemname="Basket Of Chips"></menu_item>
+<menu_item type="Dinner" category="Soups $5" price=" " descript="chicken, carrots, cabbage, dill, celery and spices" itemname="Chicken Tortilla Or Rice Soup"></menu_item>
+<menu_item type="Dinner" category="Soups $5" price=" " descript="poblano chile, corn, zucchini, onion, garlic and spices" itemname="Sopa De Elote"></menu_item>
+<menu_item type="Dinner" category="Soups $5" price=" " descript="ground beef, pinto beans, kidney beans, pepper and onions and our secret spices" itemname="Chile"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 5.00" descript="roasted corn on a stick, lime infused mayo, chile and cotija cheese" itemname="Elote"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 7.00" descript="chopped tomato, onion, cucumber and cilantro in lime juices" itemname="Shrimp Ceviche"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 7.00" descript="ancho spicy flour, batter-fried served with jalapeno and lime mayo" itemname="Artichoke Hearts"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 7.00" descript="fresh avocado, pico de gallo with a little kick" itemname="Guacamole"></menu_item>
+<menu_item type="Dinner" category="Starters" price=" 7.00" descript="fried cornbread strips, cotija cheese and chipotle mayo" itemname="Cheesy Corn Fries"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 8.00" descript="chicken, jack cheese, lettuce, refried beans, cotija cheese" itemname="Chicken Taquitos"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 9.00" descript="homemade chips, refried beans, jack cheese, guacamole, pico de gallo and crema" itemname="Nachos"><extra type="sub" price=" 12.00" descript="choice of shredded chicken, roasted pork, marinated steak or chorizo"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 10.00" descript="choice of pork, steak or fish with jack and cheddar cheese served with guacamole, chipotle mayo and crema" itemname="Quesadilla"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 10.00" descript="chicken roll in corn tortilla melted jack cheese, sweet spicy chile sauce and crema" itemname="Chicken Enchiladas"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 10.00" descript="slow-roasted pork, coleslaw, lettuce, fried onions, refried beans on a brioche roll" itemname="BBQ Pulled Pork Sandwich"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 12.00" descript="chicken or marinated steak, rice, pinto beans, guacamole and pico de gallo" itemname="Burrito Grande"></menu_item>
+<menu_item type="Dinner" category="Main Courses" price=" 14.00" descript="chicken or steak, red green peppers, onions, jalapeno, served with rice and beans" itemname="Fajitas"></menu_item>
+<menu_item type="Dinner" category="Tacos $8" price=" " descript="chili rubbed fish, cole slaw, chipotle aioli and sour cream" itemname="Pescado"></menu_item>
+<menu_item type="Dinner" category="Tacos $8" price=" " descript="chicken, greens, sour cream, onion, cilantro" itemname="Pollo"></menu_item>
+<menu_item type="Dinner" category="Tacos $8" price=" " descript="slow-roasted pork, sour cream, onion, cilantro" itemname="Carnitas"></menu_item>
+<menu_item type="Dinner" category="Tacos $8" price=" " descript="marinated steak, lettuce, guacamole, pico de gallo and crema" itemname="Steak"></menu_item>
+<menu_item type="Dinner" category="Salads $9" price=" " descript="lime marinated steak, chips, greens, veggies, cherry cumin vinaigrette" itemname="Steak Salad"></menu_item>
+<menu_item type="Dinner" category="Salads $9" price=" " descript="breaded chicken, chips, greens, veggies, cherry cumin vinaigrette" itemname="Breaded Chicken Salad"></menu_item>
+<menu_item type="Dinner" category="Salads $9" price=" " descript="chili rubbed chicken grilled, chips, greens, veggies, cherry cumin vinaigrette" itemname="Grilled Chicken Salad"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 5.00" descript="portabello, black beans pepper and onions and secret spices served with corn fries" itemname="Black Bean Chili"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 7.00" descript="melted jack cheese, sweet spicy chile sauce and crema" itemname="Cheese Enchiladas"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 7.00" descript="jack and cheddar cheese served with guacamole, chipotle mayo and crema" itemname="Cheese Quesadillas"><extra type="sub" price=" 10.00" descript="with chili rubbed fish or veggies"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 9.00" descript="portabello roll in corn tortilla melted jack cheese, sweet spicy chili sauce, crema" itemname="Portabello Taquitos"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 9.00" descript="breaded fish chips, greens, veggies, cherry cumin vinaigrette" itemname="Breaded Fish Salad"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 10.00" descript="soft masa, roasted green chiles, jack cheese, salsa verde, crema" itemname="Green Chile Tamales"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 10.00" descript="marinated portabello, roasted garlic, avocado, lettuce, jack cheese on brioche roll choice of lime or jalapeno aioli, served with corn fries" itemname="Grilled Portabello Sandwich"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 12.00" descript="chili rubbed fish or sauteed portabello, green and red pepper, carrots, corn, rice, pinto beans and crema" itemname="Fish Or Veggie Burrito"></menu_item>
+<menu_item type="Dinner" category="Vegetarian" price=" 12.00" descript="portabello, green and red pepper, onions served with rice and pinto beans and tortilla, served with rice and pinto beans, tortilla" itemname="Veggie Fajitas"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 6.00" descript="two sides of creamy refried beans and guacamole" itemname="Double Dipper"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="steamed with peas, tomato and cumin" itemname="Red Rice"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="stewed in epazote topped with melted jack cheese" itemname="Pinto Beans"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="vegetarian" itemname="Rice And Beans"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 5.00" descript="vegetarian" itemname="Pinto Or Refried Beans And Jack Cheese"></menu_item>
+<menu_item type="Dinner" category="Sides" price=" 2.00" descript="the first basket of chips are free per table" itemname="Basket Of Chips"></menu_item>
+<menu_item type="Dinner" category="Sat &amp;amp; Sun Brunch $14" price=" " descript="spicy chorizo, jack cheese, scrambled eggs, and adobo sauce tossed with crispy tortilla chips and doused with crema &amp; cilantro" itemname="Chilaquiles Con Chorizo"></menu_item>
+<menu_item type="Dinner" category="Sat &amp;amp; Sun Brunch $14" price=" " descript="brioche bread, corn flakes, fresh berries &amp; maple syrup" itemname="Mexican Toast"></menu_item>
+<menu_item type="Dinner" category="Sat &amp;amp; Sun Brunch $14" price=" " descript="spicy ranchero sauce, fries eggs, crisp corn tortilla &amp; refries beans with a spinach of crema over homefries" itemname="Huevos Rancheros"></menu_item>
+<menu_item type="Dinner" category="Sat &amp;amp; Sun Brunch $14" price=" " descript="scrambled eggs, jack cheese &amp; spicy chorizo tossed with home fries &amp; rolled in a large flour tortilla served with pico de gallo &amp; salad" itemname="Tacos De Desayuno"></menu_item>
+<menu_item type="Dinner" category="Sat &amp;amp; Sun Brunch $14" price=" " descript="corn griddle cakes with real new york maple syrup &amp; orange slices" itemname="Pecan Banana Corn Cakes"></menu_item>
+<menu_item type="Dinner" category="Sat &amp;amp; Sun Brunch $14" price=" " descript="slow roasted pulled pork slathered in a sweet-spicy sauce on challah" itemname="Sandwich De Barbacoa"></menu_item>
+<menu_item type="Dinner" category="Sat &amp;amp; Sun Brunch $14" price=" " descript="tow blackened fish tacos with slaw and home fries" itemname="Tacos De Pescado"></menu_item>
+<menu_item type="Dinner" category="Sat &amp;amp; Sun Brunch $14" price=" " descript="grilled tampiqueña hanger steak, eggs, &amp; home fries" itemname="Steak &amp;amp; Eggs (15)"></menu_item>
+</root>

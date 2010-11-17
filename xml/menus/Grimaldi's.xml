@@ -1,0 +1,67 @@
+<root>
+<menu_item type="default" category="Antipasto $12" price=" " descript="" itemname="Genoa Salami"></menu_item>
+<menu_item type="default" category="Antipasto $12" price=" " descript="" itemname="Fresh Mozzarella"></menu_item>
+<menu_item type="default" category="Antipasto $12" price=" " descript="" itemname="Oven-Roasted"></menu_item>
+<menu_item type="default" category="Antipasto $12" price=" " descript="" itemname="Sweet Red Peppers"></menu_item>
+<menu_item type="default" category="Antipasto $12" price=" " descript="" itemname="Sicilian Olives"></menu_item>
+<menu_item type="default" category="Antipasto $12" price=" " descript="" itemname="Oven-Toasted Crostini"></menu_item>
+<menu_item type="default" category="Pizza" price="(6 slices) 12.00" descript="" itemname="Small Regular Pizza"></menu_item>
+<menu_item type="default" category="Pizza" price="(8 slices) 14.00" descript="fresh mozzarella, crushed tomato, basil" itemname="Large Regular Pizza"></menu_item>
+<menu_item type="default" category="Pizza" price="(6 slices) 14.00" descript="" itemname="Small White Pizza"></menu_item>
+<menu_item type="default" category="Pizza" price="(8 slices) 16.00" descript="no tomato, extra cheese, fresh garlic" itemname="Large White Pizza"></menu_item>
+<menu_item type="default" category="Calzone" price="(16&quot;) 14.00" descript="" itemname="Small"></menu_item>
+<menu_item type="default" category="Calzone" price="(18&quot;) 16.00" descript="" itemname="Large"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Pepperoni"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Italian Sausage"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Ham"></menu_item>
+<menu_item type="default" category="Toppings" price=" 4.00" descript="" itemname="Oven-roasted Sweet Red Peppers"></menu_item>
+<menu_item type="default" category="Toppings" price=" 4.00" descript="" itemname="Sun Dried Tomatoes"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Onion"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Mushroom"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="may contain pits" itemname="Cured Black Olives"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Capers"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Ricotta Cheese"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Anchovies"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Fresh Garlic"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Extra Tomato"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Extra Cheese"></menu_item>
+<menu_item type="default" category="Toppings" price=" 2.00" descript="" itemname="Extra Basil"></menu_item>
+<menu_item type="default" category="Toppings" price=" 1.00" descript="" itemname="Extra Grated Cheese"></menu_item>
+<menu_item type="default" category="Cold Beverages $2" price=" " descript="" itemname="Coke"></menu_item>
+<menu_item type="default" category="Cold Beverages $2" price=" " descript="" itemname="Diet Coke"></menu_item>
+<menu_item type="default" category="Cold Beverages $2" price=" " descript="" itemname="Sprite"></menu_item>
+<menu_item type="default" category="Cold Beverages $2" price=" " descript="" itemname="Sprite Zero"></menu_item>
+<menu_item type="default" category="Cold Beverages $2" price=" " descript="" itemname="Dr. Pepper"></menu_item>
+<menu_item type="default" category="Cold Beverages $2" price=" " descript="" itemname="Ginger Ale"></menu_item>
+<menu_item type="default" category="Cold Beverages $2" price=" " descript="" itemname="Seltzer"></menu_item>
+<menu_item type="default" category="Olde Brooklyn Soda $2" price=" " descript="" itemname="Root Beer"></menu_item>
+<menu_item type="default" category="Olde Brooklyn Soda $2" price=" " descript="" itemname="Cream"></menu_item>
+<menu_item type="default" category="Olde Brooklyn Soda $2" price=" " descript="" itemname="Orange"></menu_item>
+<menu_item type="default" category="Olde Brooklyn Soda $2" price=" " descript="" itemname="Black Cherry"></menu_item>
+<menu_item type="default" category="Juice $2" price=" " descript="" itemname="Apple"></menu_item>
+<menu_item type="default" category="Juice $2" price=" " descript="" itemname="Orange"></menu_item>
+<menu_item type="default" category="Juice $2" price=" " descript="" itemname="Cranberry"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Iced Tea"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Diet"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Peach"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Diet Peach"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Orangeade"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Fruit Punch"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Lemonade"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Poland Spring Water"></menu_item>
+<menu_item type="default" category="Snapple $2" price=" " descript="" itemname="Pellegrino"></menu_item>
+<menu_item type="default" category="Bottled Beer $4" price=" " descript="" itemname="Brooklyn Larger, Pilsner"></menu_item>
+<menu_item type="default" category="Bottled Beer $4" price=" " descript="" itemname="Peroni"></menu_item>
+<menu_item type="default" category="Bottled Beer $4" price=" " descript="" itemname="Corona"></menu_item>
+<menu_item type="default" category="Bottled Beer $4" price=" " descript="" itemname="Amstel"></menu_item>
+<menu_item type="default" category="Bottled Beer $4" price=" " descript="" itemname="Heineken"></menu_item>
+<menu_item type="default" category="Bottled Beer $4" price=" " descript="non-alcoholic" itemname="Clausthaler"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 2.50" descript="" itemname="Espresso"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 3.50" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 2.00" descript="" itemname="Tea"></menu_item>
+<menu_item type="default" category="Hot Beverages" price=" 3.00" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.50" descript="" itemname="Homemade Cannoli"></menu_item>
+<menu_item type="default" category="Desserts" price=" 4.00" descript="" itemname="Tartufo"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.00" descript="" itemname="Tortoni"></menu_item>
+<menu_item type="default" category="Desserts" price=" 3.00" descript="" itemname="Spumoni"></menu_item>
+</root>

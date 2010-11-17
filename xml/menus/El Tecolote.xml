@@ -1,0 +1,26 @@
+<root>
+<menu_item type="default" category="Entradas" price=" 6.00" descript="hoja santa, avocado leaf" itemname="Guacamole"></menu_item>
+<menu_item type="default" category="Entradas" price=" 5.00" descript="grilled bulb onions" itemname="Cebollitas Asadas"></menu_item>
+<menu_item type="default" category="Entradas" price=" 3.50" descript="hand made" itemname="Quesadilla De Harina"></menu_item>
+<menu_item type="default" category="Quesos De Cazuela $7" price=" " descript="house made" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Quesos De Cazuela $7" price=" " descript="cactus" itemname="Nopal"></menu_item>
+<menu_item type="default" category="Quesos De Cazuela $7" price=" " descript="peppers" itemname="Rajas"></menu_item>
+<menu_item type="default" category="Quesos De Cazuela $7" price=" " descript="mushrooms" itemname="Hongos"></menu_item>
+<menu_item type="default" category="Tacos A La Parrilla" price=" 3.50" descript="hanger steak" itemname="Asada"></menu_item>
+<menu_item type="default" category="Tacos A La Parrilla" price=" 3.50" descript="beef rib" itemname="Costilla"></menu_item>
+<menu_item type="default" category="Tacos A La Parrilla" price=" 3.00" descript="chile rubbed pork loin" itemname="Lomo Adobado"></menu_item>
+<menu_item type="default" category="Tacos A La Parrilla" price=" 3.00" descript="chile rubbed chicken" itemname="Pollo Adobado"></menu_item>
+<menu_item type="default" category="Tacos A La Parrilla" price=" 4.00" descript="garlic shrimp" itemname="Camarón Al Mojo De Ajo"></menu_item>
+<menu_item type="default" category="Tacos A La Parrilla" price=" 3.00" descript="poblano peppers" itemname="Chile Poblano"></menu_item>
+<menu_item type="default" category="Tacos A La Parrilla" price=" 3.00" descript="cactus leaf" itemname="Nopal Asado"></menu_item>
+<menu_item type="default" category="Tacos Especiales" price=" 3.00" descript="beef liver" itemname="Hígado Encebollado"></menu_item>
+<menu_item type="default" category="Tacos Especiales" price=" 3.00" descript="slow cooked pork" itemname="Carnitas"></menu_item>
+<menu_item type="default" category="Tacos Especiales" price=" 3.50" descript="3 day mole, chicken" itemname="Pollo Con Mole"></menu_item>
+<menu_item type="default" category="Tacos Especiales" price=" 3.00" descript="zucchini, corn, peppers, q. fresco" itemname="Colache"></menu_item>
+<menu_item type="default" category="Chorizo $3" price=" " descript="campechano" itemname="Campechano"></menu_item>
+<menu_item type="default" category="Chorizo $3" price=" " descript="cactus &amp; pork" itemname="Nopal Y Chorizo"></menu_item>
+<menu_item type="default" category="Sopas Y Caldos" price=" 5.00" descript="beans, chorizo, bacon" itemname="Frijoles Charros"></menu_item>
+<menu_item type="default" category="Sopas Y Caldos" price=" 5.00" descript="cold avocado" itemname="Fría De Aguacate"></menu_item>
+<menu_item type="default" category="Sopas Y Caldos" price=" 6.00" descript="roasted chile-tomato" itemname="Sopa De Tortilla"></menu_item>
+<menu_item type="default" category="Sopas Y Caldos" price=" 7.00" descript="shrimp broth" itemname="Caldo De Camarón Seco"></menu_item>
+</root>

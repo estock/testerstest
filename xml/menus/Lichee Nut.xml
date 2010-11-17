@@ -1,0 +1,178 @@
+<root>
+<menu_item type="Lunch Menu" category="default" price=" 4.95" descript="" itemname="32. Home Style Cold Noodles"></menu_item>
+<menu_item type="Lunch Menu" category="default" price=" 5.95" descript="" itemname="33. Shanghai Jumbo Wonton"></menu_item>
+<menu_item type="Lunch Menu" category="default" price=" 5.25" descript="vegetable, chicken, pork" itemname="34. Lo Mein&amp;#44; Chow Fun&amp;#44; Mei Fun"><extra type="add" price=" 5.50" descript="beef&amp;#44; shrimp&amp;#44; deluxe"></extra>
+</menu_item>
+<menu_item type="Lunch Menu" category="default" price=" 5.95" descript="vegetable, chicken, pork, beef or shrimp" itemname="35. Spinach Noodle Oriental Style"></menu_item>
+<menu_item type="Lunch Menu" category="default" price=" 6.50" descript="4 pcs" itemname="36. BBQ Spare Ribs"></menu_item>
+<menu_item type="Lunch Menu" category="default" price=" 6.50" descript="in black pepper sauce" itemname="37. Sliced Beef"></menu_item>
+<menu_item type="Lunch Menu" category="default" price=" 6.50" descript="" itemname="38. Ginger Chicken Or Shrimp"></menu_item>
+<menu_item type="Lunch Menu" category="default" price=" 6.50" descript="flounder with black bean or tomato sauce" itemname="39. Fish Filet"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(1) 1.35" descript="" itemname="1. Egg Roll"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(1) 1.35" descript="" itemname="2. Spring Roll"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(1) 1.35" descript="" itemname="3. Vegetable Roll"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price=" 1.50" descript="" itemname="4. Shrimp Roll"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price=" 1.50" descript="" itemname="5. Roast Pork Bun"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(6) 4.50" descript="" itemname="6. Fried - Steamed Pork Dumplings"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(6) 4.50" descript="" itemname="7. Fried - Steamed Veggie Dumplings"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(6) 4.50" descript="" itemname="8. Fried - Steamed Beef Dumplings"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price=" 4.50" descript="" itemname="9. Steamed Shrimp Dumplings"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(6) 4.75" descript="" itemname="10. Fried Shrimp Cakes"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(4) 5.95" descript="" itemname="11. B- B- Q Beef Sticks"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price=" 3.50" descript="" itemname="12. Scallion Pan Cake"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(4) 3.50" descript="" itemname="13. Chicken Wings"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(4) 5.95" descript="" itemname="14. Fantail Shrimp"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(8) 10.50" descript="" itemname="15. Barbecued Spare Ribs"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(6) 4.75" descript="" itemname="16. Steamed Little Juicy Buns"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(6) 4.75" descript="" itemname="17. Steamed Chicken Shiu Mai"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price="(6) 3.50" descript="" itemname="18. Crispy Bean Curd Cakes"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price=" (1/2) 11.50" descript="" itemname="19. Roast Duck"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price=" 12.50" descript="for 2. fantail shrimp, spring roll, fried dumplings, shrimp cakes, beef stick, bbq ribs" itemname="20. Pu Pu Platter"></menu_item>
+<menu_item type="Dinner" category="Appetizers &amp;amp; Dim Sum" price=" 4.75" descript="with hot sesame sauce" itemname="21. Szechuan Veggie Dumplings"></menu_item>
+<menu_item type="Dinner" category="Soups" price=" 2.50" descript="" itemname="21a. Wonton Soup"></menu_item>
+<menu_item type="Dinner" category="Soups" price=" 2.50" descript="" itemname="22. Egg Crop Soup"></menu_item>
+<menu_item type="Dinner" category="Soups" price=" 2.50" descript="" itemname="23. Hot And Sour Soup*"></menu_item>
+<menu_item type="Dinner" category="Soups" price=" 3.95" descript="" itemname="24. Vegetables Bean Curd Soup"></menu_item>
+<menu_item type="Dinner" category="Soups" price=" 3.95" descript="" itemname="25. Minced Chicken Corn Soup"></menu_item>
+<menu_item type="Dinner" category="Soups" price="qt 4.95" descript="for 2" itemname="26. Special Wonton Soup"></menu_item>
+<menu_item type="Dinner" category="Soups" price="qt 4.95" descript="" itemname="27. Subgum Rice Noodle Soup"></menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 3.95" descript="with sesame sauce" itemname="28. Cold Noodles"></menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 4.95" descript="with sesame sauce" itemname="29. Home Style Cold Noodle"></menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 4.50" descript="with sesame sauce" itemname="30. Spinach Noodles"></menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price="(6) 5.25" descript="" itemname="31. Shanghai Jumbo Wonton"></menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" lg 5.75" descript="chicken, roast, pork, vegetable" itemname="32. Fried Rice"><extra type="add" price=" lg 6.50" descript="shrimp&amp;#44; beef&amp;#44; deluxe"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 5.75" descript="chicken, roast pork, vegetable" itemname="33. Lo Mein"><extra type="add" price=" 6.50" descript="shrimp&amp;#44; beef&amp;#44; deluxe"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 5.75" descript="wide soft rice noodles. chicken, roast pork, vegetable" itemname="34. Chow Fun"><extra type="add" price=" 6.50" descript="shrimp. beef&amp;#44; deluxe"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 5.75" descript="chicken, roast pork, vegetable" itemname="35. Mei Fun - Rice Vermicelli"><extra type="add" price=" 6.50" descript="shrimp&amp;#44; beef&amp;#44; deluxe"></extra>
+<extra type="add" price=" 6.95" descript="singapore mei fun"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 7.50" descript="with rice &amp; fried noodles. chicken, roast pork, vegetable" itemname="36. Chow Mein"><extra type="add" price=" 8.50" descript="shrimp&amp;#44; beef&amp;#44; deluxe"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 7.95" descript="with vegetables" itemname="37. Spinach Noodles"><extra type="add" price=" 8.95" descript="chicken pork"></extra>
+<extra type="add" price=" 9.95" descript="shrimp&amp;#44; beef&amp;#44; seafood"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 5.50" descript="vegetable, pork, chicken" itemname="38. Noodle Soup"><extra type="add" price=" 6.50" descript="shrimp&amp;#44; beef"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 8.50" descript="chicken, pork, vegetable" itemname="39. Pan Fried Noodles"><extra type="add" price=" 9.50" descript="shrimp&amp;#44; beef&amp;#44; deluxe"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Rice &amp;amp; Noodles" price=" 7.95" descript="vegetable, pork, chicken" itemname="40. Egg Foo Young"><extra type="add" price=" 8.50" descript="shrimp&amp;#44; beef"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with 4 pancakes and rice" itemname="41. Moo Shu Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="" itemname="42. Sa Sha Chicken*"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="" itemname="43. Sweet And Sour Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with garlic sauce" itemname="44. Shredded Chicken*"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with mushrooms" itemname="45. Sliced Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with broccoli" itemname="46. Sliced Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with snow peas" itemname="47. Sliced Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with curry sauce" itemname="48. Sliced Chicken*"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with hot pepper sauce" itemname="49. Diced Chicken*"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with black bean sauce" itemname="50. Diced Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with cashew nuts" itemname="51. Diced Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with walnuts" itemname="52. Diced Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 8.95" descript="with bean sprouts" itemname="53. Chicken"></menu_item>
+<menu_item type="Dinner" category="Poultry" price=" 9.95" descript="" itemname="54. Lemon Chicken"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 8.50" descript="with 4 pancakes and rice" itemname="55. Moo Shu Pork"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 8.50" descript="" itemname="56. Sweet And Sour Pork"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 8.50" descript="with garlic sauce" itemname="57. Shredded Pork*"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 8.50" descript="with peking sauce" itemname="58. Shredded Pork"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 8.50" descript="with scallions" itemname="59. Pork"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 8.50" descript="" itemname="60. Double Sauteed Sliced Pork"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 8.50" descript="with broccoli" itemname="61. Roast Pork"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="with 4 pancakes and rice" itemname="62. Moo Shu Beef"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="" itemname="63. Sa Cha Beef*"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="with hot pepper sauce" itemname="64. Shredded Beef*"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="with garlic sauce" itemname="65. Shredded Beef*"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="dry sauteed, szechuan style" itemname="66. Shredded Beef *"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="with peking sauce" itemname="67. Shredded Beef"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="with broccoli" itemname="68. Beef"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="with scallions" itemname="69. Beef"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="" itemname="70. Pepper Steak"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="with oyster sauce" itemname="71. Beef"></menu_item>
+<menu_item type="Dinner" category="Pork &amp;amp; Beef" price=" 9.50" descript="with cashew nuts" itemname="72. Beef"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 11.50" descript="with black bean sauce" itemname="72a. Fish Filet"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 11.95" descript="with ginger and scallions" itemname="72b. Fish Filet"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 9.50" descript="with 4 pancakes and rice" itemname="73. Moo Shu Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 10.50" descript="" itemname="74. Sa Cha Shrimp*"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 10.50" descript="" itemname="75. Sweet And Sour Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 9.50" descript="with hot pepper sauce" itemname="76. Shrimp*"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 9.50" descript="with curry sauce" itemname="77. Shrimp*"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 9.50" descript="with green peas" itemname="78. Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 9.50" descript="with cashew nuts" itemname="79. Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 10.50" descript="with garlic sauce" itemname="80. Sliced Shrimp*"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 10.50" descript="with broccoli" itemname="81. Sliced Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 10.50" descript="with garlic sauce" itemname="82. Scallops*"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 10.50" descript="" itemname="83. Lemon Fish"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 12.50" descript="with lobster sauce" itemname="84. Jumbo Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 10.50" descript="with snow peas" itemname="85. Sliced Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 12.50" descript="with red chili sauce" itemname="86. Prawn*"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 12.50" descript="" itemname="87. Sliced Shrimp And Scallop In Garlic Sauce*"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" " descript="with hot bean sauce. market price" itemname="88. Crispy And Spicy Fish*"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" " descript="market price" itemname="89. Lobster Any Style"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 8.50" descript="with 4 pancakes &amp; rice" itemname="90. Moo Shu Vegetable"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 7.95" descript="mixed vegetables" itemname="91. Buddhist Delight"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 8.50" descript="with chinese mushrooms" itemname="92. Bean Curd*"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 7.95" descript="with garlic sauce" itemname="93. Sauteed Broccoli*"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 8.50" descript="with garlic sauce" itemname="94. Chinese Eggplant*"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 8.50" descript="" itemname="95. Dries Sauteed String Beans"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 7.95" descript="" itemname="96. Sauteed Zucchini"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 7.95" descript="" itemname="97. Sauteed Fresh Spinach"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 7.95" descript="" itemname="98. Bean Curd Szechuan Style*"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 8.50" descript="" itemname="99. Bean Curd Family Style*"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 8.50" descript="" itemname="100. Sauteed Fresh Chinese Broccoli"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 8.50" descript="" itemname="101. Sauteed Watercress"></menu_item>
+<menu_item type="Dinner" category="Vegetables" price=" 8.50" descript="green or choy sun" itemname="102. Sauteed Chinese Mustard"></menu_item>
+<menu_item type="Dinner" category="Bamboo Steamed Special" price=" 8.75" descript="with mixed vegetables" itemname="1. Bamboo Steamed"></menu_item>
+<menu_item type="Dinner" category="Bamboo Steamed Special" price=" 9.75" descript="with mixed vegetables" itemname="2. Bamboo Steamed Chicken"></menu_item>
+<menu_item type="Dinner" category="Bamboo Steamed Special" price=" 12.95" descript="with mixed vegetables" itemname="3. Bamboo Steamed Prawn"></menu_item>
+<menu_item type="Dinner" category="Bamboo Steamed Special" price=" 12.95" descript="with mixed vegetables" itemname="4. Bamboo Steamed Seafood"></menu_item>
+<menu_item type="Dinner" category="Desserts" price=" 1.95" descript="" itemname="1. Lychee Nut"></menu_item>
+<menu_item type="Dinner" category="Desserts" price=" 1.95" descript="" itemname="2. Pineapple"></menu_item>
+<menu_item type="Dinner" category="Desserts" price=" 2.50" descript="vanilla, ginger, red bean, green tea" itemname="3. Ice Cream"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with black mushroom" itemname="V1. Bok Choy"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with garlic mushroom" itemname="V2. Double Mushroom"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 9.50" descript="with oyster sauce" itemname="V3. Black Mushroom"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 9.50" descript="with snow peas" itemname="V4. Black Mushroom"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with cashew nuts" itemname="V5. Green Peas"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with fried tofu in black bean sauce" itemname="V6. Mushroom"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with tofu" itemname="V7. Double Mushroom"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 9.50" descript="with wheat gratin" itemname="V8. Mixed Vegetable"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 9.50" descript="with garlic sauce" itemname="V9. Wheat Gluten"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 7.95" descript="" itemname="V10. Sauteed Fresh Mushrooms"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with fried bean curd" itemname="V11. Bok Choy"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with fried bean curd" itemname="V12. Fresh Spinach"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with dry bean curd in hot black bean sauce" itemname="V13. String Beans"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with garlic sauce" itemname="V14. Fried Bean Curd*"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with fresh soy beans" itemname="V15. Bok Choy"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="with black mushroom" itemname="V16. Chinese Cabbage"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="" itemname="V17. Tangerine Bean Curd*"></menu_item>
+<menu_item type="Dinner" category="Chef&amp;#39;s Specialties" price=" 8.75" descript="" itemname="V18. Sesame Bean Curd"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 10.50" descript="marinated fried chicken white meat with chinese mushrooms &amp; string bean in our special brown sauce" itemname="Lichee Garden Special Chicken"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="chunks of mignon sauteed with jumbo shrimp &amp; vegetable in chef's special sauce" itemname="Steak And Shrimp"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="jumbo shrimp done with the original szechuan sauce along with chunk of chicken in spicy tangy sauce savored by chinese royalty" itemname="Dragon &amp;amp; Phoenix *"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 12.95" descript="crispy sliced jumbo shrimp &amp; scallop flavored lightly in a delicate spicy garlic sauce &amp; chili sauce" itemname="Scallop &amp;amp; Shrimp *"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 9.95" descript="deep fried chicken sauteed with snow peas, baby corn, straw mushrooms in a spicy tangy sauce" itemname="Hot Lover&amp;#39;s Chicken *"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 12.50" descript="fresh marinated jumbo shrimp or chicken dried sauteed with fresh onion &amp; pepper" itemname="Pepper Salt Jumbo Shrimp Or Chicken"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 10.95" descript="sliced beef sauteed with fresh red onion and green peas in special black pepper sauce (very tasty)" itemname="Sliced Beef In Black Pepper Sauce *"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="sliced tangy ginger with pepper onion snow  peas in ginger sauce" itemname="Ginger Chicken Or Shrimp"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 10.95" descript="shredded beef stir-fried with chinese celery, carrot, chili pepper &amp; fresh garlic" itemname="Home Style Shredded Beef Or Chicken*"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 10.95" descript="shredded beef or chicken, pepper, onion, dried tofu sauteed with small hot chili pepper (for real hot &amp; spicy food lover only)" itemname="Fire Finger Shredded Beef Or Chicken*"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.95" descript="scallop &amp; sauteed beef with vegetables in chef's special brown sauce" itemname="Sauteed Beef With Scallops"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="sliced chicken, roast pork, shrimp &amp; chinese vegetables happily together with special brown sauce" itemname="Happy Family"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 12.50" descript="chunks boneless chicken &amp; broccoli sauteed with fresh garlic sauce" itemname="General Tso&amp;#39;s Chicken Or Shrimp"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.95" descript="lightly fried and sauteed fresh scallops with fresh vegetables in slightly sour and spicy thick sauce" itemname="Fry Scallops With Spicy Thick Sauce*"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 9.95" descript="fresh mushroom, broccoli, pepper and sliced chicken sauteed with special brown sauce" itemname="Yo - Yo Chicken"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="tangy, crispy shredded or chunk chicken, topped in roasted sesame seeds embedded with lettuce" itemname="Sesame Shredded Chunks - Chicken Or Beef"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="sliced chicken or sliced beef with broccoli, baby corn, mushroom in chef's special brown sauce" itemname="Hunan Chicken Or Beef*"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="marinated filet of beef or chunks of chicken sauteed with delightful orange peel flavor" itemname="Orange Crispy Chicken Or Beef*"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="shredded crispy beef sauteed &amp; deliciously flavored with sweet and spicy sauce" itemname="Crispy Shredded Chicken Or Beef*"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="sliced jumbo shrimps sauteed with chinese mushroom and broccoli in a mouth-watering egg white sauce" itemname="Lake Tung - Ting Shrimp"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 12.50" descript="jumbo shrimps sautŽed with delicious lichee fruit and mixed chinese vegetables in a exotic white wine sauce" itemname="Lichee Prawns"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="tastefully mixed with sliced shrimp, scallops, crab meat and seasonal chinese vegetables" itemname="Seafood Delight"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 9.95" descript="typical exotic szechuan dish. sliced pork sauteed with black mushrooms, zucchini and green pepper" itemname="Sliced Pork&amp;#44; Szechuan Style*"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="shredded chicken and spiced shredded beef, centered with steamed broccoli" itemname="Shredded Beef And Chicken&amp;#44; Hunan Style*"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="crispy sliced jumbo shrimps flavored lightly with red chili sauce over lettuce" itemname="Crispy Shrimp"></menu_item>
+<menu_item type="Dinner" category="House Specials" price=" 11.50" descript="filet flounder stir-fried with onion, fresh tomato and green peas in our special tomato sauce" itemname="Sliced Fish With Tomato Sauce"></menu_item>
+</root>

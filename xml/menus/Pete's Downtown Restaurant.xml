@@ -1,0 +1,73 @@
+<root>
+<menu_item type="Lunch" category="Appetizers" price=" 9.00" descript="stuffed with ricotta &amp; pecorino, topped with tomato sauce &amp; mozzarella" itemname="Eggplant Rollatini"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.00" descript="seasoned bread crumbs" itemname="Baked Little Neck Clams Oreganata"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.00" descript="" itemname="Homemade Fresh Mozzarella &amp;amp; Roasted Peppers"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 10.00" descript="steamed in white wine, garlic, marinara sauce" itemname="Zuppa Di Mussels"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 9.00" descript="with spicy marinara dipping sauce" itemname="Fried Calamari"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.00" descript="topped with sun-dried tomatoes, basil &amp; fresh mozzarella" itemname="Pete's Garlic Bread"></menu_item>
+<menu_item type="Lunch" category="Appetizers" price=" 8.00" descript="mozzarella, bread, battered &amp; golden fried over tomato sauce" itemname="Tower Of Corozza"></menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Soups" price=" 15.00" descript="" itemname="Grilled Marinated Vegetables &amp;amp; Arugula"></menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Soups" price=" 14.00" descript="grilled chicken breast with caesar salad" itemname="Louie Salad"></menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Soups" price=" 9.00" descript="with balsamic vinaigrette" itemname="Mixed Greens"></menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Soups" price=" 9.00" descript="traditional bean soup &amp; pasta" itemname="Pasta A Fagioli"></menu_item>
+<menu_item type="Lunch" category="default" price=" 10.00" descript="lettuce, tomato on a bun &amp; french fries" itemname="Grilled Burger"><extra type="add" price="ea 1.00" descript="additional topping: caramelized onions, american cheese, sautéed mushrooms, fresh mozzarella."></extra>
+</menu_item>
+<menu_item type="Lunch" category="default" price=" 13.00" descript="grilled chicken, sliced tomato &amp; fresh mozzarella,&amp; french fries" itemname="Ciabatta Sandwich"></menu_item>
+<menu_item type="Lunch" category="default" price=" 11.00" descript="with french fries" itemname="Chicken Fingers"></menu_item>
+<menu_item type="Lunch" category="Pastas $12" price=" " descript="sautéed portabella mushrooms, prosciutto, smoked mozzarella, &amp; spinach in brown sauce" itemname="Rigatoni Portabella"></menu_item>
+<menu_item type="Lunch" category="Pastas $12" price=" " descript="cheese filled, tomato sauce &amp; topped with mozzarella" itemname="Baked Ravioli"></menu_item>
+<menu_item type="Lunch" category="Pastas $12" price=" " descript="white or red clam sauce" itemname="Linguine"></menu_item>
+<menu_item type="Lunch" category="Pastas $12" price=" " descript="parmesan, marinara cream sauce" itemname="Penne Vodka"></menu_item>
+<menu_item type="Lunch" category="Pastas $12" price=" " descript="tomato sauce" itemname="Spaghetti &quot;Mom &amp;amp; Pop&quot;"></menu_item>
+<menu_item type="Lunch" category="Pastas $12" price=" " descript="sautéed chicken, artichoke hearts, arugula, sun-dried tomatoes, garlic &amp; olive oil" itemname="Rotini Calabrese"></menu_item>
+<menu_item type="Lunch" category="Pastas $12" price=" " descript="hot cherry peppers, sweet sausage, red onion &amp; plum tomatoes" itemname="Penne Arrabiata"></menu_item>
+<menu_item type="Lunch" category="Entrées $16" price=" " descript="with potato croquette &amp; vegetable" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="Lunch" category="Entrées $16" price=" " descript="boneless, battered, sautéed in white wine, lemon, butter, with potato croquette &amp; vegetable" itemname="Chicken Francaise"></menu_item>
+<menu_item type="Lunch" category="Entrées $16" price=" " descript="topped with tomato sauce, parmesan &amp; mozzarella with spaghetti" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Lunch" category="Entrées $16" price=" " descript="slices of veal, sautéed mushrooms, marsala wine sauce with potato croquette &amp; vegetable" itemname="Veal Marsala"></menu_item>
+<menu_item type="Lunch" category="Entrées $16" price=" " descript="topped with tomato sauce, parmesan &amp; mozzarella with spaghetti" itemname="Veal Parmigiana"></menu_item>
+<menu_item type="Lunch" category="Entrées $16" price=" " descript="white wine, garlic &amp; butter sauce, with potato croquette &amp; vegetable" itemname="Shrimp Scampi"></menu_item>
+<menu_item type="Lunch" category="Entrées $16" price=" " descript="with spaghetti" itemname="Shrimp Marinara"></menu_item>
+<menu_item type="Lunch" category="Entrées $16" price=" " descript="stuffed with ricotta &amp; pecorino, topped with tomato sauce &amp; mozzarella with spaghetti" itemname="Pete's Eggplant"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="" itemname="Homemade Fresh Mozzarella &amp;amp; Roasted Peppers"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="seasoned bread crumbs" itemname="Baked Little Neck Clams Oreganata"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.00" descript="mozzarella, bread, battered &amp; golden fried, served with tomato sauce" itemname="Tower Of Carrozza"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.00" descript="topped with sun-dried tomatoes, basil, and fresh mozzarella" itemname="Pete's Garlic Bread"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.00" descript="wild mushrooms baked with herbs and parmigiano, served with salsa verde" itemname="Mushroom Timbale"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.00" descript="steamed in white wine, garlic, marinara sauce" itemname="Zuppa Di Mussels"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="spicy marinara sauce" itemname="Fried Calamari"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.00" descript="stuffed with ricotta &amp; pecorino topped with tomato sauce and mozzarella" itemname="Eggplant Rollatini"></menu_item>
+<menu_item type="Dinner" category="Soups &amp;amp; Salads" price=" 16.00" descript="" itemname="Grilled Marinated Vegetables &amp;amp; Arugula"></menu_item>
+<menu_item type="Dinner" category="Soups &amp;amp; Salads" price=" 9.00" descript="traditional bean soup &amp; pasta" itemname="Pasta A Fagioli"></menu_item>
+<menu_item type="Dinner" category="Soups &amp;amp; Salads" price=" 9.00" descript="balsamic vinaigrette" itemname="Mixed Greens"></menu_item>
+<menu_item type="Dinner" category="Soups &amp;amp; Salads" price=" 9.00" descript="arugula, endive, radicchio, lemon vinaigrette" itemname="Tri Colore"></menu_item>
+<menu_item type="Dinner" category="Soups &amp;amp; Salads" price=" 9.00" descript="romaine, lettuce, garlic croutons &amp; traditional anchovy dressing" itemname="Caesar"></menu_item>
+<menu_item type="Dinner" category="Soups &amp;amp; Salads" price=" 15.00" descript="grilled chicken breast with caesar salad" itemname="Warm Goat Cheese Salad"></menu_item>
+<menu_item type="Dinner" category="Soups &amp;amp; Salads" price=" 15.00" descript="grilled chicken breast with caesar salad" itemname="Louie Salad"></menu_item>
+<menu_item type="Dinner" category="Sandwiches $13" price=" " descript="grilled chicken, sliced tomato &amp; fresh mozzarella with french fries" itemname="Chicken Ciabatta"></menu_item>
+<menu_item type="Dinner" category="Sandwiches $13" price=" " descript="with lettuce on a bun with french fries" itemname="Grilled Burger"></menu_item>
+<menu_item type="Dinner" category="Sandwiches $13" price=" " descript="with french fries" itemname="Chicken Fingers"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 19.00" descript="sautéed with portabella mushrooms prosciutto smoked mozzarella and spinach &amp; brown sauce" itemname="Rigatoni Portabella"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 17.00" descript="parmesan, marinara cream sauce" itemname="Penne Vodka"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 19.00" descript="white or red clam sauce" itemname="Linguine"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 19.00" descript="sautéed chicken, artichoke hearts, arugula, sun-dried tomatoes, garlic &amp; oil" itemname="Rottelle Calabrese"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 17.00" descript="cheese filled, tomato sauce, and topped with mozzarella" itemname="Baked Ravioli"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 18.00" descript="potato dumplings, tossed with fresh mozzarella and marinara sauce" itemname="Gnocchi Sorrentina"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 19.00" descript="hot cherry peppers, sweet sausage, red onions, and plum tomatoes" itemname="Penne Arrabbiata"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 19.00" descript="meat sauce &amp; ricotta topped with fresh mozzarella" itemname="Lasagna Bolognese"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 16.00" descript="" itemname="Spaghetti Mom &amp;amp; Pop Tomato sauce"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 20.00" descript="spicy marinara sauce &amp; linguine" itemname="Shrimp &amp;amp; Mussels Fra Diavola"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 21.00" descript="slices of veal, sautéed mushrooms, onions, prosciutto, sun-dried tomatoes, marsala wine sauce" itemname="Veal Pasqualina*"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 19.00" descript="traditional favorite topped with tomato sauce parmesan &amp; mozzarella with spaghetti" itemname="Veal Parmigiana"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 19.00" descript="topped with tomato sauce, parmesan &amp; mozzarella with spaghetti" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 20.00" descript="boneless chicken, sweet sausage, garlic, rosemary &amp; roasted potatoes &amp; vegetable" itemname="Chicken Scarpariello"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 19.00" descript="" itemname="Grilled Chicken Breast*"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 20.00" descript="boneless chicken stuffed with broccoli, carrots &amp; mozzarella over &amp; with brown sauce" itemname="Chicken Rollatini Pete's*"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 22.00" descript="mussels, clams, capers, onions &amp; black olives in marinara sauce with linguine" itemname="Tilapia Livornese"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 22.00" descript="broccoli, mushrooms, sun-dried tomatoes, garlic and olive oil with linguine" itemname="Shrimp Pete's"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 20.00" descript="white wine, garlic, and butter sauce" itemname="Shrimp Scampi*"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 22.00" descript="served over grilled vegetables &amp; potato rosette" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 24.00" descript="" itemname="Zuppa Di Pesce"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 22.00" descript="stuffed with prosciutto, mozzarella, and basil with marsala wine sauce" itemname="Pete's Pork Chops*"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 24.00" descript="" itemname="Grilled Boneless N.Y Sirloin*"></menu_item>
+</root>

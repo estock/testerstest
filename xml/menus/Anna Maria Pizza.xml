@@ -1,0 +1,8 @@
+<root>
+<menu_item type="default" category="Pizza" price=" 13.00" descript="" itemname="Large Pie"></menu_item>
+<menu_item type="default" category="Pizza" price=" 10.00" descript="" itemname="Small Pie"></menu_item>
+<menu_item type="default" category="Pizza" price=" 24.00" descript="" itemname="Special Pie"></menu_item>
+<menu_item type="default" category="Pizza" price=" 15.00" descript="" itemname="Sicilian"></menu_item>
+<menu_item type="default" category="Pizza" price=" 2.00" descript="" itemname="Slice"></menu_item>
+<menu_item type="default" category="Pizza" price=" 3.50" descript="" itemname="Special Slice"></menu_item>
+</root>

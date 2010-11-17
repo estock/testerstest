@@ -1,0 +1,591 @@
+<root>
+<menu_item type="Breakfast" category="Fresh Eggs" price=" 3.95" descript="any style" itemname="Two Eggs"><extra type="sub" price=" 5.55" descript="with bacon, ham or sausage"></extra>
+<extra type="sub" price=" 6.05" descript="with canadian bacon"></extra>
+<extra type="sub" price=" 6.05" descript="with turkey bacon"></extra>
+<extra type="sub" price=" 6.05" descript="with corned beef hash"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Fresh Eggs" price=" 14.75" descript="" itemname="Steak And Two Eggs"></menu_item>
+<menu_item type="Breakfast" category="Fresh Eggs" price=" 12.95" descript="" itemname="Virginia Ham Steak And Two Eggs"></menu_item>
+<menu_item type="Breakfast" category="Fresh Eggs" price=" 8.95" descript="" itemname="Chili, Eggs And Cheddar Cheese"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="your choice of american, swiss, cheddar provolone or mozzarella cheese" itemname="Cheese"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.35" descript="" itemname="Fresh Mozzarella"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.35" descript="" itemname="Feta Cheese"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.35" descript="" itemname="Cottage Cheese"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="" itemname="Ham"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="" itemname="Potato"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="" itemname="Onion"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="" itemname="Spinach"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="" itemname="Mushroom"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 6.60" descript="" itemname="Corned Beef"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 6.60" descript="" itemname="Pastrami"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="" itemname="Tomato"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="" itemname="Broccoli"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 6.60" descript="" itemname="Turkey"></menu_item>
+<menu_item type="Breakfast" category="Omelettes" price=" 5.05" descript="" itemname="Jalapeno"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 6.05" descript="" itemname="Western Omelette"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 6.05" descript="" itemname="Spanish Omelette"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 6.35" descript="" itemname="Feta Cheese &amp;amp; Tomato Omelette"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 6.35" descript="" itemname="Feta Cheese &amp;amp; Spinach Omelette"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 7.05" descript="" itemname="Tomato, Pepper And Onion"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 9.05" descript="" itemname="Lox, Eggs And Onion"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 8.60" descript="" itemname="Mushroom, Turkey &amp;amp; Swiss"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 8.75" descript="" itemname="Turkey, Avocado &amp;amp; Swiss"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 7.75" descript="" itemname="Avocado, Mushroom &amp;amp; Swiss"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 7.75" descript="sausage, roasted peppers and fresh mozzarella cheese" itemname="Italian Omelette"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 8.95" descript="avocado, cheddar cheese, salsa, jalapeno, and sour cream" itemname="Mexican Omelette"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 8.25" descript="tomato, peppers, mushrooms and onions" itemname="Vegetarian Omelette"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 8.25" descript="" itemname="Fresh Mozzarella, Basil, Tomato Omelette"></menu_item>
+<menu_item type="Breakfast" category="Gourmet Omelettes" price=" 7.55" descript="" itemname="Jalapeno, Avocado, Cheddar Omelette"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 1.60" descript="any style" itemname="One Egg"><extra type="sub" price=" 2.60" descript="with bacon, ham or sausage"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 2.60" descript="any style" itemname="Two Eggs"><extra type="sub" price=" 3.60" descript="with bacon, ham or sausage"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 5.00" descript="2 eggs" itemname="Western Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 5.00" descript="" itemname="Pastrami And Egg"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 2.75" descript="" itemname="Potato And Egg"></menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 4.50" descript="" itemname="Pancakes"><extra type="sub" price=" 6.25" descript="with bacon, ham or sausage"></extra>
+<extra type="sub" price=" 6.25" descript="with two eggs"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 5.50" descript="" itemname="Golden Brown Silver Dollars"></menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 6.50" descript="" itemname="Chocolate Chip Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 6.50" descript="" itemname="Banana Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 7.50" descript="" itemname="Strawberry Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 7.50" descript="" itemname="Blueberry Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Pancakes" price=" 8.25" descript="two pancakes and two eggs with bacon or ham or sausage" itemname="Pancake Special"></menu_item>
+<menu_item type="Breakfast" category="French Toast" price=" 4.50" descript="" itemname="French Toast"><extra type="sub" price=" 6.25" descript="with bacon, ham or sausage"></extra>
+<extra type="sub" price=" 6.25" descript="with two eggs"></extra>
+<extra type="sub" price=" 7.50" descript="with fresh strawberries"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Belgian Waffles" price=" 4.95" descript="" itemname="Belgian Waffle"><extra type="sub" price="(2 scoops) 6.50" descript="with ice cream"></extra>
+<extra type="sub" price=" 7.25" descript="with fruit salad and whipped cream"></extra>
+<extra type="sub" price=" 6.75" descript="with bacon or ham or sausage"></extra>
+<extra type="sub" price=" 7.95" descript="with fresh strawberries"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Crepes" price=" 5.75" descript="" itemname="Two Eggs, Tomato &amp;amp; Scallion"></menu_item>
+<menu_item type="Breakfast" category="Crepes" price=" 5.95" descript="with bacon, ham or sausage and cheese" itemname="Two Eggs"></menu_item>
+<menu_item type="Breakfast" category="Crepes" price=" 6.75" descript="" itemname="Two Eggs, Turkey, Avocado &amp;amp; Swiss"></menu_item>
+<menu_item type="Breakfast" category="Crepes" price=" 6.75" descript="" itemname="Two Eggs, Tomato,. Basil &amp;amp; Spinach"></menu_item>
+<menu_item type="Breakfast" category="Crepes" price=" 6.75" descript="" itemname="Two Eggs, Cheddar &amp;amp; Jalapeno"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.25" descript="" itemname="Bacon Or Ham Or Sausage"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Corned Beef Hash"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Canadian Bacon"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Turkey Bacon"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.25" descript="" itemname="Two Eggs"></menu_item>
+<menu_item type="Breakfast" category="Cereals" price=" 2.45" descript="with milk" itemname="Hot Cereal"></menu_item>
+<menu_item type="Breakfast" category="Cereals" price=" 2.45" descript="with milk" itemname="Cold Cereal"><extra type="sub" price=" 3.45" descript="with banana"></extra>
+<extra type="sub" price=" 3.45" descript="with raisins"></extra>
+<extra type="sub" price=" 4.45" descript="with strawberries"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="The Bakery" price=" 1.00" descript="" itemname="Buttered Toast"></menu_item>
+<menu_item type="Breakfast" category="The Bakery" price="(3) 1.75" descript="" itemname="Cinnamon Toast"></menu_item>
+<menu_item type="Breakfast" category="The Bakery" price=" 1.00" descript="" itemname="Toasted English Muffin"></menu_item>
+<menu_item type="Breakfast" category="The Bakery" price=" 1.00" descript="" itemname="Toasted Hard Roll"></menu_item>
+<menu_item type="Breakfast" category="The Bakery" price=" 1.75" descript="" itemname="Assorted Muffins"></menu_item>
+<menu_item type="Breakfast" category="The Bakery" price=" 1.00" descript="" itemname="Toasted Bagel"><extra type="sub" price=" 2.10" descript="with cream cheese"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="The Bakery" price=" 1.00" descript="" itemname="Toasted Bialy"></menu_item>
+<menu_item type="Breakfast" category="The Bakery" price=" 1.50" descript="" itemname="Croissant"></menu_item>
+<menu_item type="Breakfast" category="Lox Box" price=" 7.95" descript="" itemname="Bagel And Lox"><extra type="sub" price=" 8.95" descript="with cream cheese"></extra>
+<extra type="sub" price=" 10.25" descript="with cream cheese, lettuce, tomato, sliced onion, olives, green peppers and scallions"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Juices" price=" " descript="" itemname="Orange"></menu_item>
+<menu_item type="Breakfast" category="Juices" price=" " descript="" itemname="Grapefruit"></menu_item>
+<menu_item type="Breakfast" category="Juices" price=" " descript="" itemname="Pineapple"></menu_item>
+<menu_item type="Breakfast" category="Juices" price=" " descript="" itemname="Apple"></menu_item>
+<menu_item type="Breakfast" category="Juices" price=" " descript="" itemname="Tomato"></menu_item>
+<menu_item type="Breakfast" category="Juices" price=" " descript="" itemname="Cranberry"></menu_item>
+<menu_item type="Breakfast" category="Juices" price=" " descript="" itemname="V-8 Juice"></menu_item>
+<menu_item type="Breakfast" category="Fruits" price=" 3.50" descript="" itemname="Fruit Cup"></menu_item>
+<menu_item type="Breakfast" category="Fruits" price=" 2.50" descript="" itemname="Half Grapefruit"></menu_item>
+<menu_item type="Breakfast" category="Fruits" price=" 3.50" descript="in season" itemname="Melon"></menu_item>
+<menu_item type="Breakfast" category="Fruits" price=" 4.25" descript="" itemname="Fresh Strawberries"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 3.25" descript="" itemname="American Cheese"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 3.25" descript="" itemname="Grilled American Cheese"><extra type="sub" price=" 4.25" descript="with bacon or ham"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 3.50" descript="" itemname="Swiss Cheese"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 3.50" descript="" itemname="Grilled Swiss Cheese"><extra type="sub" price=" 4.50" descript="with bacon or ham"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 3.50" descript="" itemname="Lettuce And Tomato"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 4.50" descript="" itemname="Bacon, Lettuce And Tomato"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 4.50" descript="" itemname="Bacon"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 4.95" descript="ind." itemname="Tuna Or Salmon"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 4.95" descript="ind. boneless" itemname="Sardines"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 4.50" descript="" itemname="Boiled Ham"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 6.50" descript="" itemname="Fried Filet"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 6.50" descript="" itemname="Shrimp Salad"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 4.50" descript="" itemname="Tuna Salad"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 4.50" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 4.50" descript="" itemname="Egg Salad Sandwich"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 3.25" descript="" itemname="Peanut Butter And Jelly"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 5.25" descript="" itemname="Pure Beefburger"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 5.75" descript="" itemname="With American Cheese"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 5.95" descript="" itemname="With Swiss, Cheddar, Mozzarella Or Provolone Cheese"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 6.25" descript="" itemname="With Bacon"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 6.75" descript="" itemname="With Cheese And Bacon"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 6.85" descript="" itemname="With Swiss Cheese &amp;amp; Bacon"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 5.95" descript="" itemname="Pizza Burger"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 6.75" descript="" itemname="Chili Burger"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 6.75" descript="with feta cheese" itemname="Greek Burger"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price="(6oz) 7.50" descript="on a bun" itemname="Twin Burger"><extra type="sub" price="(6oz) 8.00" descript="with cheese"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price="(6oz) 4.25" descript="" itemname="Turkey Burger"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price="(6oz) 4.45" descript="" itemname="Veggie Burger"></menu_item>
+<menu_item type="Lunch" category="Broiled Burgers" price=" 5.95" descript="" itemname="Pattie Melt"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Brisket"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Virginia Ham"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 6.75" descript="white meat" itemname="Turkey"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Corned Beef"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Hot Pastrami"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Veal Cutlet"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Meat Loaf"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 8.75" descript="with cranberry sauce, stuffing &amp; gravy on a roll with french fries" itemname="Thanksgiving Turkey Sandwich"></menu_item>
+<menu_item type="Lunch" category="Meat Sandwiches" price=" 8.45" descript="with french fries" itemname="Franks &amp;amp; Beans"></menu_item>
+<menu_item type="Lunch" category="default" price=" 5.85" descript="meat chili with cheese" itemname="Bowl Of Chili"></menu_item>
+<menu_item type="Lunch" category="default" price=" 8.25" descript="meat chili with cheese" itemname="Chili Over Rice"></menu_item>
+<menu_item type="Lunch" category="default" price=" 7.95" descript="lean corned beef, swiss cheese and sauerkraut, grilled on rye bread, served with potato salad and pickle" itemname="The Reuben"></menu_item>
+<menu_item type="Lunch" category="default" price=" 7.95" descript="white meat turkey with swiss cheese and cranberry sauce, grilled on rye bread with potato salad and pickle" itemname="Monte Cristo"></menu_item>
+<menu_item type="Lunch" category="default" price=" 7.95" descript="sliced turkey on an english muffin, topped with slices of yellow cheese and crisp bacon, served with potato salad and pickle" itemname="The Turkey Melt"></menu_item>
+<menu_item type="Lunch" category="default" price=" 7.50" descript="white meat tuna salad on an open english muffin, grilled with yellow cheese and bacon strips, served with potato salad and pickle" itemname="The Tuna Melt"></menu_item>
+<menu_item type="Lunch" category="default" price=" 4.25" descript="grilled mozzarella cheese on an open bagel with marinara sauce" itemname="Pizza Bagel"></menu_item>
+<menu_item type="Lunch" category="default" price=" 4.75" descript="grilled pita bread with marinara sauce and feta cheese" itemname="Pita Pizza"></menu_item>
+<menu_item type="Lunch" category="default" price=" 7.95" descript="with tossed salad" itemname="Spinach Pie"><extra type="sub" price=" 8.95" descript="with greek salad"></extra>
+</menu_item>
+<menu_item type="Lunch" category="default" price=" 11.25" descript="broiled sirloin steak served open-faced on a toasted roll, served with french fries" itemname="Open Faced Steak Deluxe"></menu_item>
+<menu_item type="Lunch" category="default" price=" 8.95" descript="your choice of broccoli and cheddar or quiche lorraine served with salad" itemname="Choice Of Quiche Special"></menu_item>
+<menu_item type="Lunch" category="default" price=" 9.75" descript="broiled roast beef served open-faced on a toasted roll, with mushrooms, onions and swiss cheese, served with french fries" itemname="Garden Grill Open Faced Roast Beef Deluxe"></menu_item>
+<menu_item type="Lunch" category="default" price=" 8.25" descript="broiled roast beef, melted cheese &amp; onion on a roll, served with french fries" itemname="Philly Cheese Steak"></menu_item>
+<menu_item type="Lunch" category="default" price=" 8.25" descript="chicken burrito with peppers &amp; onions or beef burrito with rice and beans" itemname="Burrito Deluxe"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 7.95" descript="grilled chicken, romaine lettuce, caesar dressing and romano cheese" itemname="Grilled Chicken Caesar Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 7.95" descript="bacon, lettuce and tomato" itemname="B.L.T. Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 7.95" descript="fresh roasted turkey served with bacon, lettuce and tomato" itemname="Turkey Club Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 7.95" descript="grilled roast beef served with sauteed onions and american cheese" itemname="Philly Cheese Steak Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 8.95" descript="shrimp salad served with lettuce and tomato" itemname="Shrimp Salad Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 7.95" descript="grilled chicken, feta cheese, olives, cucumbers and romaine lettuce" itemname="Greek Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 8.45" descript="breaded chicken cutlet with melted mozzarella cheese and marinara sauce" itemname="Chicken Parmigiana Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 7.95" descript="your choice of tuna salad or chicken salad with lettuce and tomato" itemname="Tuna Or Chicken Salad Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 8.95" descript="with lettuce, tomato and fresh mozzarella cheese" itemname="Chicken Teriyaki Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 8.95" descript="with grilled chicken, avocado, salsa, lettuce and tomato and scallions" itemname="Tex-Mex Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 8.95" descript="with avocado, jalapeno, lettuce and tomato" itemname="Cajun Chicken Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 8.45" descript="eggplant, roasted red peppers and fresh mozzarella cheese with lettuce and tomato" itemname="Veggie Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 8.95" descript="chicken teriyaki with lettuce, tomato and pineapple" itemname="Hawaiian Wrap"></menu_item>
+<menu_item type="Lunch" category="Wraps" price=" 8.95" descript="with avocado, cheddar cheese and sour cream" itemname="Chili Wrap"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 8.25" descript="with swiss cheese" itemname="Roast Beef"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 7.75" descript="with bacon" itemname="Turkey"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 8.25" descript="" itemname="Turkey, Bacon And Swiss Cheese"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 7.75" descript="" itemname="Ham And Swiss Cheese"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 7.75" descript="" itemname="Tuna Fish Salad And Sliced Egg"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 7.75" descript="" itemname="Egg Salad And Bacon"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 7.25" descript="" itemname="Bacon Or Ham And Egg"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 8.75" descript="" itemname="Turkey, Avocado &amp;amp; Swiss Cheese"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 8.75" descript="" itemname="Grilled Chicken, Avocado &amp;amp; Swiss Cheese"></menu_item>
+<menu_item type="Lunch" category="Triple Decker Club Sandwich" price=" 8.75" descript="" itemname="Grilled Chicken, Bacon &amp;amp; Swiss Cheese"></menu_item>
+<menu_item type="Lunch" category="Hot Open's $9.95" price=" " descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Lunch" category="Hot Open's $9.95" price=" " descript="" itemname="Brisket"></menu_item>
+<menu_item type="Lunch" category="Hot Open's $9.95" price=" " descript="" itemname="Virginia Ham"></menu_item>
+<menu_item type="Lunch" category="Hot Open's $9.95" price=" " descript="white meat" itemname="Turkey"></menu_item>
+<menu_item type="Lunch" category="Delicious Paninis $8.25" price=" " descript="corned beef with sauerkraut and swiss cheese" itemname="Reuben Panini"></menu_item>
+<menu_item type="Lunch" category="Delicious Paninis $8.25" price=" " descript="fresh turkey with bacon, lettuce and tomato with honey-mustard" itemname="Turkey Club Panini"></menu_item>
+<menu_item type="Lunch" category="Delicious Paninis $8.25" price=" " descript="with tomato, roasted peppers and mozzarella cheese" itemname="Chicken Cutlet Panini"></menu_item>
+<menu_item type="Lunch" category="Delicious Paninis $8.25" price=" " descript="roast beef with american cheese and fried onions" itemname="Philly-Cheese Panini"></menu_item>
+<menu_item type="Lunch" category="Delicious Paninis $8.25" price=" " descript="eggplant, mozzarella cheese, roasted peppers and balsamic vinegar" itemname="Vegetarian Panini"></menu_item>
+<menu_item type="Lunch" category="Delicious Paninis $8.25" price=" " descript="chicken cutlet with swiss cheese, ham and honey-mustard dressing" itemname="Chicken Cordon Bleu"></menu_item>
+<menu_item type="Lunch" category="Heros" price=" 8.45" descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Lunch" category="Heros" price=" 7.95" descript="" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="Lunch" category="Heros" price=" 8.95" descript="" itemname="Veal Cutlet Parmigiana"></menu_item>
+<menu_item type="Lunch" category="Heros" price=" 7.95" descript="" itemname="Meatball Parmigiana"></menu_item>
+<menu_item type="Lunch" category="Heros" price=" 8.95" descript="chicken cutlet with roasted peppers and fresh mozzarella cheese" itemname="Italian Hero"></menu_item>
+<menu_item type="Lunch" category="Chicken Box" price=" 6.25" descript="" itemname="Grilled Chicken On A Bun"></menu_item>
+<menu_item type="Lunch" category="Chicken Box" price=" 7.75" descript="with avocado, lettuce and tomato" itemname="Grilled Chicken On Pita Bread"></menu_item>
+<menu_item type="Lunch" category="Chicken Box" price=" 7.75" descript="with mozzarella and roasted red peppers" itemname="Pesto Chicken On Pita Bread"></menu_item>
+<menu_item type="Lunch" category="Chicken Box" price=" 7.75" descript="with cheddar cheese, lettuce and tomato" itemname="BBQ Chicken On A Roll"></menu_item>
+<menu_item type="Lunch" category="Chicken Box" price=" 7.75" descript="with lettuce, tomato and feta cheese" itemname="Chicken Ala Greek On Pita Bread"></menu_item>
+<menu_item type="Lunch" category="Chicken Box" price=" 7.75" descript="with lettuce and tomato" itemname="Chicken Teriyaki On Pita Bread"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 8.25" descript="" itemname="Penne Ala Vodka"><extra type="sub" price=" 11.95" descript="with chicken"></extra>
+<extra type="sub" price=" 16.95" descript="with shrimp"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 10.45" descript="" itemname="Spaghetti Bolognese"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.45" descript="" itemname="Spaghetti Carbonara"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.25" descript="" itemname="Ravioli Ala Vodka"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.45" descript="with clam sauce (red or white)" itemname="Linguine"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.95" descript="" itemname="Cheese Tortellini Alfredo"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 8.25" descript="" itemname="Linguine Alfredo"><extra type="sub" price=" 11.95" descript="with chicken"></extra>
+<extra type="sub" price=" 16.95" descript="with shrimp"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.95" descript="with sundried tomato in garlic &amp; olive oil" itemname="Penne And Chicken"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.95" descript="with sundried tomato in a pesto sauce" itemname="Penne Pesto And Chicken"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.95" descript="with sundried tomato in a light cream sauce" itemname="Penne And Cajun Chicken"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 10.25" descript="in red sauce or white wine sauce" itemname="Penne Primavera"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 11.95" descript="" itemname="Chicken Alfredo Over Linguine"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 13.45" descript="sauteed chicken breast in light lemon sauce with mushrooms, topped with mozzarella cheese and served over linguine" itemname="Chicken Ala Garden Grill"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 9.25" descript="with fresh tomato &amp; basil" itemname="Penne"></menu_item>
+<menu_item type="Dinner" category="Pasta" price=" 15.95" descript="" itemname="Shrimp Marinara Over Linguine"></menu_item>
+<menu_item type="Dinner" category="default" price=" 10.25" descript="with marinara sauce, served with soup or salad" itemname="Cheese Tortellini"></menu_item>
+<menu_item type="Dinner" category="default" price=" 10.25" descript="with marinara sauce, served with soup or salad" itemname="Ravioli"></menu_item>
+<menu_item type="Dinner" category="default" price=" 10.45" descript="with soup or salad" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="Dinner" category="default" price=" 10.45" descript="with soup or salad" itemname="Spaghetti With Meatballs"></menu_item>
+<menu_item type="Dinner" category="Steaks &amp;amp; Chops" price=" 10.45" descript="with onion rings" itemname="Chopped Sirloin Steak"></menu_item>
+<menu_item type="Dinner" category="Steaks &amp;amp; Chops" price=" 14.25" descript="with mushroom gravy" itemname="Sliced London Broil"></menu_item>
+<menu_item type="Dinner" category="Steaks &amp;amp; Chops" price=" 14.25" descript="" itemname="Roumanian Tenderloin Steak"></menu_item>
+<menu_item type="Dinner" category="Steaks &amp;amp; Chops" price=" 15.25" descript="" itemname="Broiled Juicy Shell Steak"></menu_item>
+<menu_item type="Dinner" category="Steaks &amp;amp; Chops" price="(2) 14.25" descript="with applesauce" itemname="Broiled Jersey Pork Chops"></menu_item>
+<menu_item type="Dinner" category="Steaks &amp;amp; Chops" price=" 13.25" descript="" itemname="Virginia Ham Steak"></menu_item>
+<menu_item type="Dinner" category="Steaks &amp;amp; Chops" price=" 10.75" descript="with bacon or onion rings" itemname="Broiled Liver Steak"></menu_item>
+<menu_item type="Dinner" category="Steaks &amp;amp; Chops" price=" 10.45" descript="" itemname="Chopped Turkey Steak"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 14.75" descript="" itemname="Broiled Scrod"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 14.75" descript="" itemname="Broiled Salmon"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 15.95" descript="" itemname="Broiled Or Fried Jumbo Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 14.75" descript="" itemname="Broiled Or Fried Filet Of Sole"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 15.95" descript="" itemname="Broiled Or Fried Scallops"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 16.95" descript="" itemname="Coconut Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 12.75" descript="" itemname="Fried Fishcakes"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 15.95" descript="" itemname="Fried Calamari"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 14.75" descript="with crabmeat" itemname="Stuffed Mushrooms"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 17.95" descript="" itemname="Stuffed Scrod Or Stuffed Filet"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 18.95" descript="" itemname="Stuffed Shrimp"></menu_item>
+<menu_item type="Dinner" category="Seafood" price=" 21.95" descript="shrimp, scallops, flounder filet and fish cake" itemname="Seafood Platter"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 10.25" descript="fried or roasted" itemname="Half Chicken"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 10.25" descript="with tomato sauce" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 11.25" descript="with mushroom wine sauce" itemname="Chicken Marsala"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 11.25" descript="with lemon butter sauce" itemname="Chicken Francaise"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 11.25" descript="with garlic butter sauce" itemname="Chicken Scampi"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 11.25" descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 12.75" descript="sauteed chicken and vegetables, served over rice" itemname="Chicken Teriyaki"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 11.75" descript="served over sauteed vegetables" itemname="Chicken Delight"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 11.25" descript="served over rice" itemname="Chicken Kebob"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 12.75" descript="served over rice with fresh tomato &amp; feta cheese" itemname="Chicken Santorini"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 12.95" descript="with fresh mozzarella cheese in wine sauce" itemname="Chicken With Spinach"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 12.95" descript="with melted fresh mozzarella cheese in a light wine lemon sauce" itemname="Chicken With Broccoli"></menu_item>
+<menu_item type="Dinner" category="Chicken" price=" 12.95" descript="" itemname="Chicken Picatta"></menu_item>
+<menu_item type="Dinner" category="Veal Entrees" price=" 11.95" descript="with tomato sauce" itemname="Cutlet"></menu_item>
+<menu_item type="Dinner" category="Veal Entrees" price=" 13.25" descript="" itemname="Marsala"></menu_item>
+<menu_item type="Dinner" category="Veal Entrees" price=" 13.25" descript="" itemname="Francaise"></menu_item>
+<menu_item type="Dinner" category="Veal Entrees" price=" 13.25" descript="" itemname="Parmigiana"></menu_item>
+<menu_item type="Dinner" category="Veal Entrees" price=" 13.25" descript="" itemname="Picatta"></menu_item>
+<menu_item type="Dinner" category="Oven Roasts" price=" 10.95" descript="" itemname="Roast Top Sirloin Of Beef"></menu_item>
+<menu_item type="Dinner" category="Oven Roasts" price=" 10.95" descript="" itemname="Roast Brisket"></menu_item>
+<menu_item type="Dinner" category="Oven Roasts" price=" 10.95" descript="" itemname="Baked Sugar Cured Ham"></menu_item>
+<menu_item type="Dinner" category="Oven Roasts" price=" 10.95" descript="with stuffing" itemname="Roast Turkey"></menu_item>
+<menu_item type="Dinner" category="Oven Roasts" price=" 9.95" descript="" itemname="Baked Meat Loaf"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.75" descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 2.95" descript="" itemname="French Fries Or Home Fries"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.75" descript="" itemname="Spicy Curly Fries"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.75" descript="" itemname="Sweet Potato Fries"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.25" descript="" itemname="Baked Potato"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 2.95" descript="" itemname="Potato Salad"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 2.95" descript="" itemname="Cole Slaw"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 2.95" descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 2.95" descript="" itemname="Avocado"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 4.45" descript="" itemname="Tossed Salad"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 5.95" descript="" itemname="Spaghetti Or Penne"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.25" descript="" itemname="Cottage Cheese"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.25" descript="" itemname="Vegetable"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.25" descript="" itemname="Rice"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.25" descript="" itemname="Bacon, Ham Or Sausage"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.75" descript="" itemname="Canadian Bacon"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.75" descript="" itemname="Turkey Bacon"></menu_item>
+<menu_item type="Dinner" category="Side Orders" price=" 3.75" descript="" itemname="Corned Beef Hash"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.25" descript="with bleu cheese dressing" itemname="Buffalo Wings"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.25" descript="with honey mustard" itemname="Chicken Fingers"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.45" descript="mini burgers with cheese" itemname="Sliders"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.25" descript="with marinara sauce" itemname="Mozzarella Sticks"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.25" descript="with marinara sauce" itemname="Zucchini Sticks"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 4.95" descript="" itemname="Stuffed Grape Leaves"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 6.95" descript="" itemname="Fresh Mozzarella, Tomato &amp;amp; Basil"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 6.75" descript="" itemname="Spinach Pie"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 6.75" descript="" itemname="Stuffed Mushrooms"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 7.95" descript="" itemname="Fried Calamari"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 7.95" descript="" itemname="Coconut Shrimp"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.25" descript="" itemname="Jalapeno Poppers"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 4.25" descript="french fries, american cheese and gravy" itemname="Potato Delight"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 4.75" descript="with mozzarella cheese" itemname="Disco Style"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 3.80" descript="with american cheese" itemname="Stuffed Potato"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.25" descript="with bacon &amp; cheese" itemname="Potato Skins"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.75" descript="with chili &amp; cheese" itemname="French Fries"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 5.25" descript="baked potato with steamed broccoli or bacon and melted american cheese" itemname="Deluxe Stuffed Potato"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 6.25" descript="5 large cheese ravioli with marinara sauce" itemname="Ravioli"></menu_item>
+<menu_item type="Breakfast" category="Appetizers" price=" 9.45" descript="two each of chicken fingers, buffalo wings, zucchini sticks, mozzarella sticks, french fries and onion rings, served with dressing" itemname="Appetizer Sampler"></menu_item>
+<menu_item type="Breakfast" category="Soups" price="bowl 2.75" descript="" itemname="Soup Du Jour"></menu_item>
+<menu_item type="Breakfast" category="Soups" price=" 3.25" descript="" itemname="French Onion Soup"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 5.50" descript="" itemname="Souvlaki Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 7.95" descript="" itemname="Souvlaki Platter"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 6.50" descript="" itemname="Chicken Souvlaki Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 8.95" descript="" itemname="Chicken Souvlaki Platter"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 5.50" descript="" itemname="Gyro Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 7.95" descript="" itemname="Gyro Platter"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 9.95" descript="with soup or salad" itemname="Moussaka"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 9.95" descript="with soup or salad" itemname="Pastichio"></menu_item>
+<menu_item type="Breakfast" category="Greek Specialties" price=" 8.95" descript="with greek salad" itemname="Spinach Pie"></menu_item>
+<menu_item type="Breakfast" category="Garden" price="reg 8.45" descript="lettuce, tomato, cucumbers, onions, peppers, radishes, feta cheese, anchovies, olives with oil and vinegar" itemname="Greek Salad"><extra type="sub" price=" 4.00" descript="with grilled chicken, extra"></extra>
+<extra type="sub" price=" 6.00" descript="with grilled salmon, extra"></extra>
+<extra type="sub" price=" 7.00" descript="with grilled shrimp, extra"></extra>
+<extra type="sub" price=" 4.00" descript="with grilled gyro, extra"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Garden" price="reg 7.45" descript="" itemname="Garden Salad"></menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 7.25" descript="beefburger or turkey burger (no bun) on a bed of lettuce with cottage cheese, tomato and pickle" itemname="Diet Watcher Delight"></menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 11.75" descript="over mixed greens, chicken, with salsa, jalapenos, beans &amp; avocado" itemname="Mexican Salad"></menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 10.95" descript="fresh mozzarella &amp; pineapple over mixed greens" itemname="Hawaiian Grilled Chicken Teriyaki"></menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 10.95" descript="with fresh mozzarella &amp; roasted peppers" itemname="Cajun Chicken Over Mixed Greens"></menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 11.75" descript="chicken, avocado, swiss, mushrooms &amp; sliced egg" itemname="California Cobb Salad Over Mixed Greens"></menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 14.95" descript="with avocado and pineapple" itemname="Coconut Shrimp Salad Over Mixed Greens"></menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 11.75" descript="with avocado &amp; swiss cheese" itemname="Chopped Turkey Salad Over Mixed Greens"></menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 8.50" descript="with tuna salad" itemname="Stuffed Avocado"><extra type="sub" price=" 8.50" descript="with chicken salad"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Garden" price=" 9.45" descript="over mixed greens with cheddar cheese" itemname="BBQ Chicken Fingers Salad"></menu_item>
+<menu_item type="Breakfast" category="Classic Salad Platters" price=" 9.45" descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Breakfast" category="Classic Salad Platters" price=" 9.45" descript="" itemname="Turkey"></menu_item>
+<menu_item type="Breakfast" category="Classic Salad Platters" price=" 8.25" descript="" itemname="Individual Salmon Or Tuna"></menu_item>
+<menu_item type="Breakfast" category="Classic Salad Platters" price=" 8.25" descript="" itemname="Individual Sardine"></menu_item>
+<menu_item type="Breakfast" category="Classic Salad Platters" price=" 7.45" descript="" itemname="Tuna Salad"></menu_item>
+<menu_item type="Breakfast" category="Classic Salad Platters" price=" 7.45" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="Breakfast" category="Classic Salad Platters" price=" 7.45" descript="" itemname="Egg Salad"></menu_item>
+<menu_item type="Breakfast" category="Classic Salad Platters" price=" 8.95" descript="" itemname="Chopped Shrimp Salad"></menu_item>
+<menu_item type="Breakfast" category="Delights" price=" 9.25" descript="in a bowl with lettuce, tomato, cucumbers, onions, peppers, radishes, american cheese, swiss cheese, ham, turkey, roast beef, hard boiled egg &amp; choice of dressing" itemname="Chef's Salad"></menu_item>
+<menu_item type="Breakfast" category="Delights" price=" " descript="romaine lettuce with croutons tomato and cucumbers" itemname="Caesar Salad"><extra type="sub" price=" 9.25" descript="topped with grilled chicken"></extra>
+<extra type="sub" price=" 11.95" descript="topped with grilled salmon"></extra>
+<extra type="sub" price=" 13.95" descript="topped with grilled shrimp"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Delights" price=" 7.45" descript="with tuna, chicken or egg salad" itemname="Tossed Salad"><extra type="sub" price=" 8.95" descript="with shrimp salad"></extra>
+<extra type="sub" price=" 8.25" descript="with individual tuna, salmon or sardines"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Delights" price=" 9.95" descript="romaine lettuce, tomatoes, string beans, mushrooms, sliced egg and individual tuna" itemname="Nicoise Salad"></menu_item>
+<menu_item type="Breakfast" category="Delights" price=" 9.25" descript="your choice of 4 vegetables" itemname="Vegetable Platter"><extra type="sub" price=" 4.00" descript="with grilled chicken, extra"></extra>
+<extra type="sub" price=" 4.00" descript="with turkey burger, extra"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Tropical Delights" price=" 3.45" descript="" itemname="Frozen Yogurt"><extra type="sub" price=" 4.45" descript="with granola"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Tropical Delights" price=" 6.25" descript="" itemname="Mixed Fruit"></menu_item>
+<menu_item type="Breakfast" category="Tropical Delights" price=" 6.75" descript="in season" itemname="Fresh Strawberries"></menu_item>
+<menu_item type="Breakfast" category="Tropical Delights" price=" 5.25" descript="in season" itemname="Half Melon"></menu_item>
+<menu_item type="Breakfast" category="Tropical Delights" price=" 7.25" descript="cottage cheese or yogurt on a bed of lettuce with jello and fruit salad" itemname="Health Salad"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 3.25" descript="" itemname="American Cheese"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 3.25" descript="" itemname="Grilled American Cheese"><extra type="sub" price=" 4.25" descript="with bacon or ham"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 3.50" descript="" itemname="Swiss Cheese"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 3.50" descript="" itemname="Grilled Swiss Cheese"><extra type="sub" price=" 4.50" descript="with bacon or ham"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 3.50" descript="" itemname="Lettuce And Tomato"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 4.50" descript="" itemname="Bacon, Lettuce And Tomato"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 4.50" descript="" itemname="Bacon"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 4.95" descript="ind." itemname="Tuna Or Salmon"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 4.95" descript="ind. boneless" itemname="Sardines"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 4.50" descript="" itemname="Boiled Ham"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 6.50" descript="" itemname="Fried Filet"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 6.50" descript="" itemname="Shrimp Salad"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 4.50" descript="" itemname="Tuna Salad"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 4.50" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 4.50" descript="" itemname="Egg Salad Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Sandwiches" price=" 3.25" descript="" itemname="Peanut Butter And Jelly"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 5.25" descript="" itemname="Pure Beefburger"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 5.75" descript="" itemname="With American Cheese"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 5.95" descript="" itemname="With Swiss, Cheddar, Mozzarella Or Provolone Cheese"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 6.25" descript="" itemname="With Bacon"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 6.75" descript="" itemname="With Cheese And Bacon"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 6.85" descript="" itemname="With Swiss Cheese &amp;amp; Bacon"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 5.95" descript="" itemname="Pizza Burger"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 6.75" descript="" itemname="Chili Burger"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 6.75" descript="with feta cheese" itemname="Greek Burger"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price="(6oz) 7.50" descript="on a bun" itemname="Twin Burger"><extra type="sub" price="(6oz) 8.00" descript="with cheese"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price="(6oz) 4.25" descript="" itemname="Turkey Burger"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price="(6oz) 4.45" descript="" itemname="Veggie Burger"></menu_item>
+<menu_item type="Breakfast" category="Broiled Burgers" price=" 5.95" descript="" itemname="Pattie Melt"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Brisket"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Virginia Ham"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 6.75" descript="white meat" itemname="Turkey"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Corned Beef"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Hot Pastrami"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Veal Cutlet"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 6.75" descript="" itemname="Meat Loaf"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 8.75" descript="with cranberry sauce, stuffing &amp; gravy on a roll with french fries" itemname="Thanksgiving Turkey Sandwich"></menu_item>
+<menu_item type="Breakfast" category="Meat Sandwiches" price=" 8.45" descript="with french fries" itemname="Franks &amp;amp; Beans"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 5.85" descript="meat chili with cheese" itemname="Bowl Of Chili"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 8.25" descript="meat chili with cheese" itemname="Chili Over Rice"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 7.95" descript="lean corned beef, swiss cheese and sauerkraut, grilled on rye bread, served with potato salad and pickle" itemname="The Reuben"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 7.95" descript="white meat turkey with swiss cheese and cranberry sauce, grilled on rye bread with potato salad and pickle" itemname="Monte Cristo"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 7.95" descript="sliced turkey on an english muffin, topped with slices of yellow cheese and crisp bacon, served with potato salad and pickle" itemname="The Turkey Melt"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 7.50" descript="white meat tuna salad on an open english muffin, grilled with yellow cheese and bacon strips, served with potato salad and pickle" itemname="The Tuna Melt"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 4.25" descript="grilled mozzarella cheese on an open bagel with marinara sauce" itemname="Pizza Bagel"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 4.75" descript="grilled pita bread with marinara sauce and feta cheese" itemname="Pita Pizza"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 7.95" descript="with tossed salad" itemname="Spinach Pie"><extra type="sub" price=" 8.95" descript="with greek salad"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="default" price=" 11.25" descript="broiled sirloin steak served open-faced on a toasted roll, served with french fries" itemname="Open Faced Steak Deluxe"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 8.95" descript="your choice of broccoli and cheddar or quiche lorraine served with salad" itemname="Choice Of Quiche Special"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 9.75" descript="broiled roast beef served open-faced on a toasted roll, with mushrooms, onions and swiss cheese, served with french fries" itemname="Garden Grill Open Faced Roast Beef Deluxe"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 8.25" descript="broiled roast beef, melted cheese &amp; onion on a roll, served with french fries" itemname="Philly Cheese Steak"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 8.25" descript="chicken burrito with peppers &amp; onions or beef burrito with rice and beans" itemname="Burrito Deluxe"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 7.95" descript="grilled chicken, romaine lettuce, caesar dressing and romano cheese" itemname="Grilled Chicken Caesar Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 7.95" descript="bacon, lettuce and tomato" itemname="B.L.T. Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 7.95" descript="fresh roasted turkey served with bacon, lettuce and tomato" itemname="Turkey Club Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 7.95" descript="grilled roast beef served with sauteed onions and american cheese" itemname="Philly Cheese Steak Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 8.95" descript="shrimp salad served with lettuce and tomato" itemname="Shrimp Salad Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 7.95" descript="grilled chicken, feta cheese, olives, cucumbers and romaine lettuce" itemname="Greek Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 8.45" descript="breaded chicken cutlet with melted mozzarella cheese and marinara sauce" itemname="Chicken Parmigiana Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 7.95" descript="your choice of tuna salad or chicken salad with lettuce and tomato" itemname="Tuna Or Chicken Salad Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 8.95" descript="with lettuce, tomato and fresh mozzarella cheese" itemname="Chicken Teriyaki Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 8.95" descript="with grilled chicken, avocado, salsa, lettuce and tomato and scallions" itemname="Tex-Mex Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 8.95" descript="with avocado, jalapeno, lettuce and tomato" itemname="Cajun Chicken Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 8.45" descript="eggplant, roasted red peppers and fresh mozzarella cheese with lettuce and tomato" itemname="Veggie Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 8.95" descript="chicken teriyaki with lettuce, tomato and pineapple" itemname="Hawaiian Wrap"></menu_item>
+<menu_item type="Breakfast" category="Wraps" price=" 8.95" descript="with avocado, cheddar cheese and sour cream" itemname="Chili Wrap"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 8.25" descript="with swiss cheese" itemname="Roast Beef"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 7.75" descript="with bacon" itemname="Turkey"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 8.25" descript="" itemname="Turkey, Bacon And Swiss Cheese"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 7.75" descript="" itemname="Ham And Swiss Cheese"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 7.75" descript="" itemname="Tuna Fish Salad And Sliced Egg"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 7.75" descript="" itemname="Egg Salad And Bacon"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 7.25" descript="" itemname="Bacon Or Ham And Egg"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 8.75" descript="" itemname="Turkey, Avocado &amp;amp; Swiss Cheese"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 8.75" descript="" itemname="Grilled Chicken, Avocado &amp;amp; Swiss Cheese"></menu_item>
+<menu_item type="Breakfast" category="Triple Decker Club Sandwich" price=" 8.75" descript="" itemname="Grilled Chicken, Bacon &amp;amp; Swiss Cheese"></menu_item>
+<menu_item type="Breakfast" category="Hot Open's $9.95" price=" " descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Breakfast" category="Hot Open's $9.95" price=" " descript="" itemname="Brisket"></menu_item>
+<menu_item type="Breakfast" category="Hot Open's $9.95" price=" " descript="" itemname="Virginia Ham"></menu_item>
+<menu_item type="Breakfast" category="Hot Open's $9.95" price=" " descript="white meat" itemname="Turkey"></menu_item>
+<menu_item type="Breakfast" category="Delicious Paninis $8.25" price=" " descript="corned beef with sauerkraut and swiss cheese" itemname="Reuben Panini"></menu_item>
+<menu_item type="Breakfast" category="Delicious Paninis $8.25" price=" " descript="fresh turkey with bacon, lettuce and tomato with honey-mustard" itemname="Turkey Club Panini"></menu_item>
+<menu_item type="Breakfast" category="Delicious Paninis $8.25" price=" " descript="with tomato, roasted peppers and mozzarella cheese" itemname="Chicken Cutlet Panini"></menu_item>
+<menu_item type="Breakfast" category="Delicious Paninis $8.25" price=" " descript="roast beef with american cheese and fried onions" itemname="Philly-Cheese Panini"></menu_item>
+<menu_item type="Breakfast" category="Delicious Paninis $8.25" price=" " descript="eggplant, mozzarella cheese, roasted peppers and balsamic vinegar" itemname="Vegetarian Panini"></menu_item>
+<menu_item type="Breakfast" category="Delicious Paninis $8.25" price=" " descript="chicken cutlet with swiss cheese, ham and honey-mustard dressing" itemname="Chicken Cordon Bleu"></menu_item>
+<menu_item type="Breakfast" category="Heros" price=" 8.45" descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Breakfast" category="Heros" price=" 7.95" descript="" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="Breakfast" category="Heros" price=" 8.95" descript="" itemname="Veal Cutlet Parmigiana"></menu_item>
+<menu_item type="Breakfast" category="Heros" price=" 7.95" descript="" itemname="Meatball Parmigiana"></menu_item>
+<menu_item type="Breakfast" category="Heros" price=" 8.95" descript="chicken cutlet with roasted peppers and fresh mozzarella cheese" itemname="Italian Hero"></menu_item>
+<menu_item type="Breakfast" category="Chicken Box" price=" 6.25" descript="" itemname="Grilled Chicken On A Bun"></menu_item>
+<menu_item type="Breakfast" category="Chicken Box" price=" 7.75" descript="with avocado, lettuce and tomato" itemname="Grilled Chicken On Pita Bread"></menu_item>
+<menu_item type="Breakfast" category="Chicken Box" price=" 7.75" descript="with mozzarella and roasted red peppers" itemname="Pesto Chicken On Pita Bread"></menu_item>
+<menu_item type="Breakfast" category="Chicken Box" price=" 7.75" descript="with cheddar cheese, lettuce and tomato" itemname="BBQ Chicken On A Roll"></menu_item>
+<menu_item type="Breakfast" category="Chicken Box" price=" 7.75" descript="with lettuce, tomato and feta cheese" itemname="Chicken Ala Greek On Pita Bread"></menu_item>
+<menu_item type="Breakfast" category="Chicken Box" price=" 7.75" descript="with lettuce and tomato" itemname="Chicken Teriyaki On Pita Bread"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 8.25" descript="" itemname="Penne Ala Vodka"><extra type="sub" price=" 11.95" descript="with chicken"></extra>
+<extra type="sub" price=" 16.95" descript="with shrimp"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 10.45" descript="" itemname="Spaghetti Bolognese"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 11.45" descript="" itemname="Spaghetti Carbonara"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 11.25" descript="" itemname="Ravioli Ala Vodka"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 11.45" descript="with clam sauce (red or white)" itemname="Linguine"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 11.95" descript="" itemname="Cheese Tortellini Alfredo"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 8.25" descript="" itemname="Linguine Alfredo"><extra type="sub" price=" 11.95" descript="with chicken"></extra>
+<extra type="sub" price=" 16.95" descript="with shrimp"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 11.95" descript="with sundried tomato in garlic &amp; olive oil" itemname="Penne And Chicken"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 11.95" descript="with sundried tomato in a pesto sauce" itemname="Penne Pesto And Chicken"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 11.95" descript="with sundried tomato in a light cream sauce" itemname="Penne And Cajun Chicken"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 10.25" descript="in red sauce or white wine sauce" itemname="Penne Primavera"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 11.95" descript="" itemname="Chicken Alfredo Over Linguine"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 13.45" descript="sauteed chicken breast in light lemon sauce with mushrooms, topped with mozzarella cheese and served over linguine" itemname="Chicken Ala Garden Grill"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 9.25" descript="with fresh tomato &amp; basil" itemname="Penne"></menu_item>
+<menu_item type="Breakfast" category="Pasta" price=" 15.95" descript="" itemname="Shrimp Marinara Over Linguine"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 10.25" descript="with marinara sauce, served with soup or salad" itemname="Cheese Tortellini"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 10.25" descript="with marinara sauce, served with soup or salad" itemname="Ravioli"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 10.45" descript="with soup or salad" itemname="Eggplant Parmigiana"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 10.45" descript="with soup or salad" itemname="Spaghetti With Meatballs"></menu_item>
+<menu_item type="Breakfast" category="Steaks &amp;amp; Chops" price=" 10.45" descript="with onion rings" itemname="Chopped Sirloin Steak"></menu_item>
+<menu_item type="Breakfast" category="Steaks &amp;amp; Chops" price=" 14.25" descript="with mushroom gravy" itemname="Sliced London Broil"></menu_item>
+<menu_item type="Breakfast" category="Steaks &amp;amp; Chops" price=" 14.25" descript="" itemname="Roumanian Tenderloin Steak"></menu_item>
+<menu_item type="Breakfast" category="Steaks &amp;amp; Chops" price=" 15.25" descript="" itemname="Broiled Juicy Shell Steak"></menu_item>
+<menu_item type="Breakfast" category="Steaks &amp;amp; Chops" price="(2) 14.25" descript="with applesauce" itemname="Broiled Jersey Pork Chops"></menu_item>
+<menu_item type="Breakfast" category="Steaks &amp;amp; Chops" price=" 13.25" descript="" itemname="Virginia Ham Steak"></menu_item>
+<menu_item type="Breakfast" category="Steaks &amp;amp; Chops" price=" 10.75" descript="with bacon or onion rings" itemname="Broiled Liver Steak"></menu_item>
+<menu_item type="Breakfast" category="Steaks &amp;amp; Chops" price=" 10.45" descript="" itemname="Chopped Turkey Steak"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 14.75" descript="" itemname="Broiled Scrod"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 14.75" descript="" itemname="Broiled Salmon"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 15.95" descript="" itemname="Broiled Or Fried Jumbo Shrimp"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 14.75" descript="" itemname="Broiled Or Fried Filet Of Sole"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 15.95" descript="" itemname="Broiled Or Fried Scallops"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 16.95" descript="" itemname="Coconut Shrimp"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 12.75" descript="" itemname="Fried Fishcakes"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 15.95" descript="" itemname="Fried Calamari"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 14.75" descript="with crabmeat" itemname="Stuffed Mushrooms"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 17.95" descript="" itemname="Stuffed Scrod Or Stuffed Filet"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 18.95" descript="" itemname="Stuffed Shrimp"></menu_item>
+<menu_item type="Breakfast" category="Seafood" price=" 21.95" descript="shrimp, scallops, flounder filet and fish cake" itemname="Seafood Platter"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 10.25" descript="fried or roasted" itemname="Half Chicken"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 10.25" descript="with tomato sauce" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 11.25" descript="with mushroom wine sauce" itemname="Chicken Marsala"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 11.25" descript="with lemon butter sauce" itemname="Chicken Francaise"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 11.25" descript="with garlic butter sauce" itemname="Chicken Scampi"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 11.25" descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 12.75" descript="sauteed chicken and vegetables, served over rice" itemname="Chicken Teriyaki"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 11.75" descript="served over sauteed vegetables" itemname="Chicken Delight"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 11.25" descript="served over rice" itemname="Chicken Kebob"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 12.75" descript="served over rice with fresh tomato &amp; feta cheese" itemname="Chicken Santorini"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 12.95" descript="with fresh mozzarella cheese in wine sauce" itemname="Chicken With Spinach"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 12.95" descript="with melted fresh mozzarella cheese in a light wine lemon sauce" itemname="Chicken With Broccoli"></menu_item>
+<menu_item type="Breakfast" category="Chicken" price=" 12.95" descript="" itemname="Chicken Picatta"></menu_item>
+<menu_item type="Breakfast" category="Veal Entrees" price=" 11.95" descript="with tomato sauce" itemname="Cutlet"></menu_item>
+<menu_item type="Breakfast" category="Veal Entrees" price=" 13.25" descript="" itemname="Marsala"></menu_item>
+<menu_item type="Breakfast" category="Veal Entrees" price=" 13.25" descript="" itemname="Francaise"></menu_item>
+<menu_item type="Breakfast" category="Veal Entrees" price=" 13.25" descript="" itemname="Parmigiana"></menu_item>
+<menu_item type="Breakfast" category="Veal Entrees" price=" 13.25" descript="" itemname="Picatta"></menu_item>
+<menu_item type="Breakfast" category="Oven Roasts" price=" 10.95" descript="" itemname="Roast Top Sirloin Of Beef"></menu_item>
+<menu_item type="Breakfast" category="Oven Roasts" price=" 10.95" descript="" itemname="Roast Brisket"></menu_item>
+<menu_item type="Breakfast" category="Oven Roasts" price=" 10.95" descript="" itemname="Baked Sugar Cured Ham"></menu_item>
+<menu_item type="Breakfast" category="Oven Roasts" price=" 10.95" descript="with stuffing" itemname="Roast Turkey"></menu_item>
+<menu_item type="Breakfast" category="Oven Roasts" price=" 9.95" descript="" itemname="Baked Meat Loaf"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 2.95" descript="" itemname="French Fries Or Home Fries"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Spicy Curly Fries"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Sweet Potato Fries"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.25" descript="" itemname="Baked Potato"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 2.95" descript="" itemname="Potato Salad"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 2.95" descript="" itemname="Cole Slaw"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 2.95" descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 2.95" descript="" itemname="Avocado"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 4.45" descript="" itemname="Tossed Salad"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 5.95" descript="" itemname="Spaghetti Or Penne"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.25" descript="" itemname="Cottage Cheese"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.25" descript="" itemname="Vegetable"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.25" descript="" itemname="Rice"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.25" descript="" itemname="Bacon, Ham Or Sausage"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Canadian Bacon"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Turkey Bacon"></menu_item>
+<menu_item type="Breakfast" category="Side Orders" price=" 3.75" descript="" itemname="Corned Beef Hash"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 2.75" descript="" itemname="Assorted Fruit Pies"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 2.50" descript="" itemname="Pound Cake"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 2.95" descript="" itemname="Rice Pudding"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 2.95" descript="" itemname="Chocolate Pudding"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 2.50" descript="" itemname="Jello"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 1.95" descript="" itemname="Assorted Danish"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 3.75" descript="" itemname="Cheese Cake"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 4.00" descript="" itemname="Fruit Cheese Cake"></menu_item>
+<menu_item type="Breakfast" category="Desserts" price=" 4.00" descript="" itemname="Chocolate Layer Cake"></menu_item>
+<menu_item type="Breakfast" category="Dessert Crepes $6.50" price=" " descript="" itemname="Nutella Chocolate &amp;amp; Banana"></menu_item>
+<menu_item type="Breakfast" category="Dessert Crepes $6.50" price=" " descript="" itemname="Nutella Chocolate &amp;amp; Strawberries"></menu_item>
+<menu_item type="Breakfast" category="Dessert Crepes $6.50" price=" " descript="with strawberries &amp; banana" itemname="Nutella Chocolate"></menu_item>
+<menu_item type="Breakfast" category="Dessert Crepes $6.50" price=" " descript="with peanut butter &amp; chocolate chips" itemname="Crepes"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 2.00" descript="" itemname="Soda"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 2.00" descript="" itemname="Snapple"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price="lg 2.45" descript="" itemname="Plain Milk"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 2.00" descript="" itemname="Iced Tea Or Iced Coffee"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 1.00" descript="with milk" itemname="Coffee Or Tea"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 1.10" descript="" itemname="Decaf Coffee"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 1.40" descript="" itemname="Herbal Tea"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 1.40" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price="lg 2.70" descript="" itemname="Chocolate Milk"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 3.75" descript="" itemname="Frappe"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 2.00" descript="" itemname="Espresso"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 3.00" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 3.75" descript="" itemname="Iced Cappuccino"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 3.75" descript="" itemname="Mocha Cappuccino"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 2.75" descript="espresso topped with milk foam" itemname="Espresso Macchiatio"></menu_item>
+<menu_item type="Breakfast" category="From The Fountain" price=" 2.35" descript="one scoop" itemname="Ice Cream"></menu_item>
+<menu_item type="Breakfast" category="From The Fountain" price=" 3.75" descript="with whipped cream &amp; syrup" itemname="Plain Sundaes"><extra type="sub" price=" 4.75" descript="with honey &amp;amp; nuts"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="From The Fountain" price=" 3.75" descript="" itemname="Milk Shake"></menu_item>
+<menu_item type="Breakfast" category="From The Fountain" price=" 2.50" descript="" itemname="Egg Creams"></menu_item>
+<menu_item type="Breakfast" category="From The Fountain" price=" 3.75" descript="" itemname="Ice Cream Sodas"></menu_item>
+<menu_item type="Breakfast" category="From The Fountain" price=" 2.55" descript="" itemname="Fresh Lemonade"></menu_item>
+<menu_item type="Breakfast" category="From The Fountain" price=" 7.25" descript="with nutella chocolate, ice cream and whipped cream" itemname="Waffle Sundae"></menu_item>
+<menu_item type="Breakfast" category="Smoothies $4.50" price=" " descript="" itemname="Strawberries"></menu_item>
+<menu_item type="Breakfast" category="Smoothies $4.50" price=" " descript="" itemname="Blueberries"></menu_item>
+<menu_item type="Breakfast" category="Smoothies $4.50" price=" " descript="" itemname="Mango"></menu_item>
+<menu_item type="Breakfast" category="Smoothies $4.50" price=" " descript="" itemname="Pineapple"></menu_item>
+<menu_item type="Breakfast" category="Smoothies $4.50" price=" " descript="" itemname="Banana"></menu_item>
+<menu_item type="Breakfast" category="Smoothies $4.50" price=" " descript="" itemname="Cranberries"></menu_item>
+<menu_item type="Breakfast" category="Smoothies $4.50" price=" " descript="" itemname="Mixed Berries"></menu_item>
+<menu_item type="Breakfast" category="Smoothies $4.50" price=" " descript="" itemname="Peaches"></menu_item>
+</root>

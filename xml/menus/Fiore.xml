@@ -1,0 +1,99 @@
+<root>
+<menu_item type="Dinner" category="Antipasti" price=" 7.00" descript="braised baby octopus  and garlic crouton" itemname="Polipetti Brasati"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 7.00" descript="fried calamaretti with crispy zucchini" itemname="Calamaretti Fritti Con Zucchine Croccanti"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 6.00" descript="sauteed mussels with parsley-garlic broth" itemname="Cozze Prezzemolate In Padella"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 7.00" descript="beef carpaccio with shaved parmesan" itemname="Carpaccio Di Carne Col Parmigiano"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 7.00" descript="assorted cured prosciutto, salamis and capocollo" itemname="Tagliere Di Affettati Misti"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 6.00" descript="with tomato and basil" itemname="Bruschetta"></menu_item>
+<menu_item type="Dinner" category="Insalata" price=" 5.00" descript="assorted fresh greens with cucumbers, and tomato" itemname="Insalata Mista"></menu_item>
+<menu_item type="Dinner" category="Insalata" price=" 6.00" descript="arugula salad with bocconcini of mozzarella" itemname="Insalata Di Rucola E Bocconcini"></menu_item>
+<menu_item type="Dinner" category="Insalata" price=" 6.00" descript="thinly sliced artichoke salad, parmesan, lemon dressing" itemname="Carciofi E Parmigiano"></menu_item>
+<menu_item type="Dinner" category="Insalata" price=" 6.00" descript="red beet salad with oven dried ricotta" itemname="Insalata Di Barbabietole E Ricotta Salata"></menu_item>
+<menu_item type="Dinner" category="Insalata" price=" 6.00" descript="endive and frisee salad, crispy smoked pancetta, shallots-mustard dressing" itemname="Endivia&amp;#44; Riccia E Pancetta Croccante"></menu_item>
+<menu_item type="Dinner" category="Insalata" price=" 6.00" descript="tomato salad with red onion" itemname="Pomodori&amp;#44; Basilico E Cipolla"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 9.00" descript="hand made spaghetti with fresh tomato and basil sauce" itemname="Spaghetti Con Filetto Di Pomodoro"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 10.00" descript="spinach, ricotta ravioli in a brown butter-sage sauce" itemname="Ravioli Di Spinaci E Ricotta Al Burro E Salvia"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 10.00" descript="with pancetta and egg-parmesan sauce" itemname="Penne Carbonara"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 9.00" descript="with eggplant, tomato sauce and shave pecorino" itemname="Rigatoni con Le Melanzane E Pecorino"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 9.00" descript="with guanciale, tomato and onion sauce" itemname="Bucatini Amatriciana"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 9.00" descript="with meat ragout" itemname="Fettucine Con Ragu Di Carne"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 10.00" descript="with broccoli rabe and sausage" itemname="Cavatelli Broccoli E Salsiccia"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 10.00" descript="traditional meat ragout lasagna" itemname="Lasagna Bolognese"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 13.00" descript="with assorted seafood" itemname="Fedelini Ai Frutti Di Mare"></menu_item>
+<menu_item type="Dinner" category="Paste" price=" 13.00" descript="with clams in a parsley white wine sauce" itemname="Linguine Alle Vongole"></menu_item>
+<menu_item type="Dinner" category="Secondi" price=" 14.00" descript="sea bream with baby artichokes and prosciutto" itemname="Orata In Carciofi"></menu_item>
+<menu_item type="Dinner" category="Secondi" price=" 14.00" descript="monkfish with tomato, olives, onion sauce and potato" itemname="Coda Di Rospo Olive E Patate"></menu_item>
+<menu_item type="Dinner" category="Secondi" price=" 13.00" descript="chicken cutlet with parmesan crust and fresh greens" itemname="Pollo In Crosta Di Parmigiano"></menu_item>
+<menu_item type="Dinner" category="Secondi" price=" 13.00" descript="sauteed sausage with cannellini beans and rosemary" itemname="Salsiccia Con Cannellini E Rosmarino"></menu_item>
+<menu_item type="Dinner" category="Secondi" price=" 14.00" descript="spare ribs with eggplant and pepper caponata" itemname="Puntine Di Maiale E Caponata In Agrodolce"></menu_item>
+<menu_item type="Dinner" category="Secondi" price=" 15.00" descript="slow cooked lamb shank with gremolata and mashed potato" itemname="Stinco D&amp;rsquo;Agnello Con La Gremolata"></menu_item>
+<menu_item type="Dinner" category="Ai Ferri" price=" 11.00" descript="with zucchini and truffled robiola cheese" itemname="Pizza Fiore"></menu_item>
+<menu_item type="Dinner" category="Ai Ferri" price=" 10.00" descript="with cheese and prosciutto" itemname="Pizza Bianca"></menu_item>
+<menu_item type="Dinner" category="Ai Ferri" price=" 9.00" descript="with two cheeses, pomodoro and black pepper" itemname="Pizza Al Formaggio E Pepe Nero"></menu_item>
+<menu_item type="Dinner" category="Ai Ferri" price=" 14.00" descript="with olive pesto" itemname="Salmon Steak"></menu_item>
+<menu_item type="Dinner" category="Ai Ferri" price=" 16.00" descript="with salmoriglio sauce" itemname="Whole Orata"></menu_item>
+<menu_item type="Dinner" category="Ai Ferri" price=" 13.00" descript="with fresh herbs" itemname="Half Chicken"></menu_item>
+<menu_item type="Dinner" category="Ai Ferri" price=" 16.00" descript="with salsa verde" itemname="Skirt Steak"></menu_item>
+<menu_item type="Dinner" category="Ai Ferri" price=" 13.00" descript="with broccoli rabe" itemname="Sausage"></menu_item>
+<menu_item type="Dinner" category="Contorni $4" price=" " descript="sauteed spinach with garlic and oil" itemname="Spinach Aglio E Olio"></menu_item>
+<menu_item type="Dinner" category="Contorni $4" price=" " descript="sauteed broccoli rabe with garlic and oil" itemname="Broccoli Rabe Aglio E Olio"></menu_item>
+<menu_item type="Dinner" category="Contorni $4" price=" " descript="eggplant sauteed with basil" itemname="Melanzane Al Funghetto"></menu_item>
+<menu_item type="Dinner" category="Contorni $4" price=" " descript="cannellini beans with sage and tomato sauce" itemname="Cannellini All&amp;#39;uccelletto"></menu_item>
+<menu_item type="Dinner" category="Contorni $4" price=" " descript="roasted potato with rosemary" itemname="Patate Arrosto Al Rosmarino"></menu_item>
+<menu_item type="Dinner" category="Contorni $4" price=" " descript="french fries" itemname="Patatine Fritte"></menu_item>
+<menu_item type="Dinner" category="Dolci" price=" 6.00" descript="chocolate and almond cake" itemname="Torta Di Cioccolato E Mandorle"></menu_item>
+<menu_item type="Dinner" category="Dolci" price=" 5.00" descript="lemon tart with fresh berries" itemname="Crostata Di Limone"></menu_item>
+<menu_item type="Dinner" category="Dolci" price=" 5.00" descript="espresso soaked ladyfinger, mascarpone cream" itemname="Tiramisu"></menu_item>
+<menu_item type="Dinner" category="Dolci" price=" 5.00" descript="apple pie with tahitian vanilla ice cream" itemname="Torta Di Mele"></menu_item>
+<menu_item type="Dinner" category="Dolci" price=" 5.00" descript="polenta caked with whipped cream" itemname="Torta Di Polenta"></menu_item>
+<menu_item type="Dinner" category="Dolci" price=" 4.00" descript="ice cream and sorbets" itemname="Gelati E Sorbetti"></menu_item>
+<menu_item type="Dinner" category="Dolci" price=" 5.00" descript="assorted cheeses with toasted nuts" itemname="Piatto Di Formaggi Con Le Noci"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 5.00" descript="assorted fresh green with balsamic" itemname="Insalata Mista"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 6.00" descript="arucola salad with bocconcini of mozzarella" itemname="Insalata Di Rucola E Bocconcini"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 6.00" descript="tomato and red onion  salad" itemname="Insalata Di Pomodori E Cipolla"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 7.00" descript="fried calamaretti with crispy zucchini" itemname="Calamaretti Fritti Con Zucchini Croccanti"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 6.00" descript="endive and frisee salad crispy pancetta" itemname="Endivia Riccia E Pancetta Croccante"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 6.00" descript="beef carpaccio with shaved parmesan" itemname="Carpaccio Di Carne Con Parmigiano"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 7.00" descript="assorted prosciutto, salami and capocollo" itemname="Tagliere Di Affettati Misti"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 9.00" descript="hand made spaghetti with fresh tomato and basil sauce" itemname="Spaghetti Con Filetto Di Pomodoro"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 10.00" descript="spinach, ricotta ravioli in a brown butter-sage sauce" itemname="Ravioli Di Spinaci E Ricotta Al Burro E Salvia"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 10.00" descript="with pancetta and egg-parmesan sauce" itemname="Penne Carbonara"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 9.00" descript="with eggplant, tomato sauce and shave pecorino" itemname="Rigatoni con Le Melanzane E Pecorino"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 9.00" descript="with guanciale, tomato and onions sauce" itemname="Bucatini Amatriciana"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 9.00" descript="with meat ragout" itemname="Fettucine Con Ragu Di Carne"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 10.00" descript="with broccoli rabe and sausage" itemname="Cavatelli  Broccoli E Salsiccia"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 10.00" descript="traditional meat ragout lasagna" itemname="Lasagna Bolognese"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 12.00" descript="with assorted seafood" itemname="Fedelini Ai Frutti Di Mare"></menu_item>
+<menu_item type="Brunch" category="Paste" price=" 13.00" descript="with clams in a parsley white wine sauce" itemname="Linguine Alle Vongole"></menu_item>
+<menu_item type="Brunch" category="Eggs And Savory" price=" 8.00" descript="with prosciutto cotto" itemname="Poached Eggs Benedict"></menu_item>
+<menu_item type="Brunch" category="Eggs And Savory" price=" 6.00" descript="" itemname="Two Eggs Any Style"></menu_item>
+<menu_item type="Brunch" category="Eggs And Savory" price=" 7.00" descript="with zucchine and onions" itemname="Three Egg Frittata"></menu_item>
+<menu_item type="Brunch" category="Eggs And Savory" price=" 8.00" descript="with spinach and parmesan" itemname="Mozzarella Omelette"></menu_item>
+<menu_item type="Brunch" category="Eggs And Savory" price=" 7.00" descript="with fried egg" itemname="Beef Hash"></menu_item>
+<menu_item type="Brunch" category="Eggs And Savory" price=" 7.00" descript="with blueberry" itemname="Buttermilk Pancake"></menu_item>
+<menu_item type="Brunch" category="Eggs And Savory" price=" 7.00" descript="with vanilla ice cream" itemname="Panettone French Toast"></menu_item>
+<menu_item type="Brunch" category="Eggs And Savory" price=" 6.00" descript="fried cheese sandwich" itemname="Mozzarella In Carrozza"></menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 11.00" descript="with &quot;lardo di colonnata&quot; and shaved parmesan" itemname="Pizza Fiore"></menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 10.00" descript="with cheese and prosciutto" itemname="Pizza Bianca"></menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 9.00" descript="with two cheeses, pomodoro and black pepper" itemname="Pizza Al Formaggio E Pepe Nero"></menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 14.00" descript="with olive pesto" itemname="Salmon Steak"></menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 13.00" descript="with fresh herbs" itemname="Half Chicken"></menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 16.00" descript="with salsa verde" itemname="Skirt Steak"></menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 13.00" descript="with broccoli rabe" itemname="Sausage"></menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 8.00" descript="" itemname="Fiore Beef Burger"><extra type="sub" price=" 9.00" descript="with cheese"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Ai Ferri" price=" 7.00" descript="with artichokes" itemname="Panino Salame E Pecorino"></menu_item>
+<menu_item type="Brunch" category="Dolci" price=" 5.00" descript="chocolate and almond cake" itemname="Torta Di Cioccolato E Mandorle"></menu_item>
+<menu_item type="Brunch" category="Dolci" price=" 5.00" descript="lemon tart with fresh berries" itemname="Crostata Di Limone"></menu_item>
+<menu_item type="Brunch" category="Dolci" price=" 5.00" descript="espresso soaked ladyfinger, with mascarpone cream" itemname="Tiramisu"></menu_item>
+<menu_item type="Brunch" category="Dolci" price=" 5.00" descript="apple pie with tahitian vanilla ice cream" itemname="Torta Di Mele"></menu_item>
+<menu_item type="Brunch" category="Dolci" price=" 5.00" descript="polenta caked with whipped cream" itemname="Torta Di Polenta"></menu_item>
+<menu_item type="Brunch" category="Dolci" price=" 4.00" descript="ice cream and sorbets" itemname="Gelati E Sorbetti"></menu_item>
+<menu_item type="Brunch" category="Caffe E Succhi" price=" 2.00" descript="" itemname="Coffee And Tea"></menu_item>
+<menu_item type="Brunch" category="Caffe E Succhi" price=" 3.00" descript="" itemname="Espresso"></menu_item>
+<menu_item type="Brunch" category="Caffe E Succhi" price=" 4.00" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Brunch" category="Caffe E Succhi" price=" 3.00" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Brunch" category="Caffe E Succhi" price=" 3.00" descript="" itemname="Orange Juice"></menu_item>
+<menu_item type="Brunch" category="Caffe E Succhi" price=" 3.00" descript="" itemname="Grapefruit Juice"></menu_item>
+<menu_item type="Brunch" category="Caffe E Succhi" price=" 7.00" descript="" itemname="Blood Mary&amp;#44; Bellini And Mimosa"></menu_item>
+</root>

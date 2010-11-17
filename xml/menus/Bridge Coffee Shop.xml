@@ -1,0 +1,184 @@
+<root>
+<menu_item type="Daily Specialties" category="Monday" price=" 6.00" descript="" itemname="King Fish In Sauce"></menu_item>
+<menu_item type="Daily Specialties" category="Monday" price=" 4.00" descript="" itemname="Baked Chicken Legs"></menu_item>
+<menu_item type="Daily Specialties" category="Monday" price=" 4.50" descript="" itemname="Roasted Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Monday" price=" 4.00" descript="wtih chicken" itemname="Spaghetti"></menu_item>
+<menu_item type="Daily Specialties" category="Monday" price=" 5.00" descript="" itemname="Beef Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Monday" price=" 5.50" descript="" itemname="Ox Tail Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Monday" price=" 5.50" descript="" itemname="Goat Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Monday" price=" 4.00" descript="" itemname="Pig Feet Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Monday" price=" 5.00" descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="Daily Specialties" category="Tuesday" price=" 7.00" descript="" itemname="Breaded Fillet Fish"></menu_item>
+<menu_item type="Daily Specialties" category="Tuesday" price=" 6.00" descript="" itemname="King Fish In Sauce"></menu_item>
+<menu_item type="Daily Specialties" category="Tuesday" price=" 4.00" descript="" itemname="Hen Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Tuesday" price=" 6.00" descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Daily Specialties" category="Tuesday" price=" 4.50" descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Tuesday" price=" 5.00" descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="Daily Specialties" category="Tuesday" price=" 5.00" descript="" itemname="Pork Chop Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Tuesday" price=" 4.00" descript="" itemname="Sauteed Beef Liver"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 6.00" descript="" itemname="Grilled King Fish"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 4.50" descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 4.00" descript="" itemname="Bbq Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 4.00" descript="" itemname="Chicken Gizzard Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 5.00" descript="" itemname="Beef Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 4.50" descript="with meat balls" itemname="Spaghetti"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 4.00" descript="" itemname="Pig Ears Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 5.00" descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="Daily Specialties" category="Wednesday" price=" 5.00" descript="" itemname="Fried Pork Chop"></menu_item>
+<menu_item type="Daily Specialties" category="Thursday" price=" 6.00" descript="" itemname="Pepper Steak"></menu_item>
+<menu_item type="Daily Specialties" category="Thursday" price=" 5.00" descript="" itemname="Beef Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Thursday" price=" 6.00" descript="" itemname="Ox Tail Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Thursday" price=" 7.00" descript="" itemname="Fried Filet Fish"></menu_item>
+<menu_item type="Daily Specialties" category="Thursday" price=" 4.50" descript="" itemname="Chicken Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Thursday" price=" 4.50" descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Thursday" price=" 6.00" descript="" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="Daily Specialties" category="Thursday" price=" 5.00" descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 6.00" descript="" itemname="Codfish Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 6.00" descript="" itemname="Pickled King Fish"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 5.00" descript="" itemname="Beef Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 4.00" descript="" itemname="Hen Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 4.00" descript="" itemname="Baked Chicken Legs"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 4.50" descript="" itemname="Roast Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 5.00" descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 5.00" descript="" itemname="B. B. Q Spare Ribs"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 4.00" descript="" itemname="Spanish Sausage Stew"></menu_item>
+<menu_item type="Daily Specialties" category="Friday" price=" 6.00" descript="wtih vegetables" itemname="Shrimp"></menu_item>
+<menu_item type="Daily Specialties" category="Posters Desserts" price=" 1.50" descript="" itemname="Flan"></menu_item>
+<menu_item type="Daily Specialties" category="Posters Desserts" price=" 1.00" descript="gelatina" itemname="Jello"></menu_item>
+<menu_item type="Daily Specialties" category="Posters Desserts" price=" 1.00" descript="" itemname="Danish"></menu_item>
+<menu_item type="Daily Specialties" category="Posters Desserts" price=" 1.00" descript="" itemname="Pineapple Cake"></menu_item>
+<menu_item type="Daily Specialties" category="Posters Desserts" price=" 1.00" descript="" itemname="Strawberry Cake"></menu_item>
+<menu_item type="Daily Specialties" category="Posters Desserts" price=" 1.00" descript="" itemname="Corn Muffin"></menu_item>
+<menu_item type="Daily Specialties" category="Posters Desserts" price=" 1.00" descript="" itemname="Blueberry Muffin"></menu_item>
+<menu_item type="Daily Specialties" category="Posters Desserts" price=" 1.00" descript="" itemname="Croissant"></menu_item>
+<menu_item type="Daily Specialties" category="Natural Juices" price=" 2.75" descript="mixed orange juice w/ milk" itemname="Morir Sonando"></menu_item>
+<menu_item type="Daily Specialties" category="Natural Juices" price=" 3.00" descript="" itemname="Mixed Fruits"></menu_item>
+<menu_item type="Daily Specialties" category="Natural Juices" price=" 3.00" descript="" itemname="Papaya"></menu_item>
+<menu_item type="Daily Specialties" category="Natural Juices" price=" 1.25" descript="" itemname="Lemonade"></menu_item>
+<menu_item type="Daily Specialties" category="Natural Juices" price=" 2.50" descript="" itemname="Banana"></menu_item>
+<menu_item type="Daily Specialties" category="Natural Juices" price=" 2.00" descript="avena" itemname="Oatmeal"></menu_item>
+<menu_item type="Daily Specialties" category="Natural Juices" price=" 1.25" descript="" itemname="Ice Tea"></menu_item>
+<menu_item type="Daily Specialties" category="Natural Juices" price=" 1.25" descript="" itemname="Ice Coffee"></menu_item>
+<menu_item type="Daily Specialties" category="Side Orders" price="large 4.00" descript="plantains with meat" itemname="Mofongo Mashed Green"></menu_item>
+<menu_item type="Daily Specialties" category="Side Orders" price="large 2.50" descript="" itemname="Sweet Plantains"></menu_item>
+<menu_item type="Daily Specialties" category="Side Orders" price="large 2.50" descript="" itemname="Green Plantains"></menu_item>
+<menu_item type="Daily Specialties" category="Side Orders" price="large 2.00" descript="" itemname="French Fries"></menu_item>
+<menu_item type="Daily Specialties" category="Side Orders" price="large 3.50" descript="" itemname="Rice &amp;amp; Beans"></menu_item>
+<menu_item type="Daily Specialties" category="Side Orders" price="large 4.00" descript="" itemname="Vegetables of The Day"></menu_item>
+<menu_item type="Daily Specialties" category="Side Orders" price="large 2.50" descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 2.00" descript="w/ beef sausage or bacon or ham or" itemname="Two Eggs Any Style"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.50" descript="" itemname="Salami or Pork Sausage"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.50" descript="" itemname="Turkey Sausage and Egg"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.50" descript="" itemname="Corned Beef Hash and Egg"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.00" descript="" itemname="Western Omelette"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 2.50" descript="" itemname="Mozzarella Omelette"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 2.50" descript="" itemname="Cheese Omelette"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 2.75" descript="" itemname="Swiss Cheese Omelette"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.00" descript="" itemname="Broccoli Omelette"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.00" descript="" itemname="Salami Omelette"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.50" descript="" itemname="Ham &amp;amp; Cheese Omelette"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 2.50" descript="" itemname="French Toast"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.50" descript="" itemname="W/ Meat"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 2.50" descript="" itemname="Pancakes"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast - Desayuno" price=" 3.50" descript="" itemname="W/ Meat"></menu_item>
+<menu_item type="Daily Specialties" category="Desayuno Hispano" price=" 3.00" descript="" itemname="Mangu Mashed Green Plantain"></menu_item>
+<menu_item type="Daily Specialties" category="Desayuno Hispano" price=" 3.25" descript="w, egg" itemname="Mangu"></menu_item>
+<menu_item type="Daily Specialties" category="Desayuno Hispano" price=" 5.50" descript="" itemname="Los Tres Golpes"></menu_item>
+<menu_item type="Daily Specialties" category="Desayuno Hispano" price=" 4.00" descript="with egg" itemname="Cassava"><extra type="add" price=" 5.00" descript="wtih salami or ham or sausage or fried cheese"></extra>
+</menu_item>
+<menu_item type="Daily Specialties" category="Desayuno Hispano" price=" 4.00" descript="" itemname="Fried Green Plantain and Egg"></menu_item>
+<menu_item type="Daily Specialties" category="Desayuno Hispano" price=" 4.00" descript="" itemname="Sweet Plantain and Egg"></menu_item>
+<menu_item type="Daily Specialties" category="Desayuno Hispano" price=" 3.00" descript="w/ egg &amp; bacon or ham or sausage" itemname="Grit"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast Sandwiches" price=" 1.75" descript="" itemname="2 Eggs"><extra type="add" price=" 2.25" descript="with cheese"></extra>
+<extra type="add" price=" 2.75" descript="w/ ham or bacon"></extra>
+<extra type="add" price=" 3.00" descript="s/ salami"></extra>
+<extra type="add" price=" 2.75" descript="w/ sausage"></extra>
+<extra type="add" price=" 3.00" descript="w/ pastrami"></extra>
+<extra type="add" price=" 3.50" descript="w/ corned beef hash"></extra>
+<extra type="add" price=" 3.00" descript="w/ turkey sauage"></extra>
+<extra type="add" price=" 3.25" descript="w/ bacon and cheese"></extra>
+<extra type="add" price=" 3.00" descript="w/ roast beef or turkey"></extra>
+</menu_item>
+<menu_item type="Daily Specialties" category="Breakfast Sandwiches" price=" 3.50" descript="" itemname="2 Eggs, Lettuce, Tomato, and Avocado"></menu_item>
+<menu_item type="Daily Specialties" category="Breakfast Sandwiches" price=" 3.75" descript="" itemname="2 Eggs, Fresh Jalapeno &amp;amp; Tropical Cheese"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 4.50" descript="" itemname="Tuna"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 5.00" descript="" itemname="Grilled Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 5.50" descript="" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 5.00" descript="" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 4.00" descript="" itemname="Rotisserie Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 3.00" descript="" itemname="Ham and Cheese"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 5.50" descript="" itemname="Steak"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 4.50" descript="" itemname="Turkey"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 4.25" descript="" itemname="Roast Pork"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 5.00" descript="" itemname="Cuban"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 4.00" descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 3.00" descript="" itemname="B. L. T"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 4.50" descript="" itemname="Pastrami"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 5.25" descript="" itemname="Fish Fillet"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 3.75" descript="" itemname="Virginia Ham"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 3.00" descript="" itemname="Ham"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 3.00" descript="" itemname="Salami"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 3.50" descript="" itemname="Salami &amp;amp; Cheese"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 4.50" descript="" itemname="Tuna Melt"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 2.25" descript="" itemname="Grilled American Cheese (hot or Cold)"></menu_item>
+<menu_item type="Daily Specialties" category="Sandwiches" price=" 2.65" descript="" itemname="Grilled Swiss Cheese"></menu_item>
+<menu_item type="Daily Specialties" category="Burgers" price=" 2.50" descript="" itemname="Cheeseburger"></menu_item>
+<menu_item type="Daily Specialties" category="Burgers" price=" 4.50" descript="" itemname="Deluxe"></menu_item>
+<menu_item type="Daily Specialties" category="Burgers" price=" 2.00" descript="" itemname="Hamburger"></menu_item>
+<menu_item type="Daily Specialties" category="Burgers" price=" 4.50" descript="" itemname="Deluxe"></menu_item>
+<menu_item type="Daily Specialties" category="Burgers" price=" 3.00" descript="" itemname="Bacon Cheeseburger"></menu_item>
+<menu_item type="Daily Specialties" category="Burgers" price=" 5.00" descript="" itemname="Deluxe"></menu_item>
+<menu_item type="Daily Specialties" category="Soups - Sopas" price=" 5.00" descript="everyday" itemname="Chicken Soup Delpollo"></menu_item>
+<menu_item type="Daily Specialties" category="Soups - Sopas" price=" 6.00" descript="friday" itemname="Fish Soup De Pescado"></menu_item>
+<menu_item type="Daily Specialties" category="Soups - Sopas" price=" 6.00" descript="" itemname="Beef Tripe Soup Mondongo"></menu_item>
+<menu_item type="Daily Specialties" category="Soups - Sopas" price=" 5.00" descript="" itemname="Lentil Soup Sopa De Lentelas"></menu_item>
+<menu_item type="Daily Specialties" category="Soups - Sopas" price=" 6.00" descript="" itemname="Spanish Sour Sanchocho"></menu_item>
+<menu_item type="Daily Specialties" category="Soups - Sopas" price=" 6.00" descript="cocido de pata" itemname="Beef Feet Soup"></menu_item>
+<menu_item type="Daily Specialties" category="Soups - Sopas" price=" 6.00" descript="w./ noodles (sopa de res con fideos)" itemname="Beef Soup"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 5.95" descript="w/ red sauce" itemname="Linguini Marinara"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 5.95" descript="" itemname="Linguini In Garlic &amp;amp; Olive Oil"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 10.00" descript="clams, calamari, mussels &amp; shrimp in a white or red sauce" itemname="Linguini Seafood"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 6.95" descript="eggplant in a pink or sauce" itemname="Penne De La Casa (zucchini)"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 6.95" descript="penne pasta w. ham &amp; shrimp" itemname="Penne Alla Vodka"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 8.95" descript="chicken breast sauteed in white wine with italian sausage &amp; a side of salad of pasta" itemname="Chicken Paesano"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 4.00" descript="" itemname="Sauteed Vegeatables"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 10.95" descript="" itemname="Shrimp Francesca"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 7.95" descript="served with a side of salad or pasta" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 7.95" descript="breast of chicken in garlic, wine, butter, lemon sauce or in a red sauce, served with pasta" itemname="Chicken Franchesca"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 10.95" descript="in a white wine with butter, lemon sauce, served with a side of pasta" itemname="Shrimp Scampi"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 10.95" descript="in a spicy fresh tomato, sauce served w/ a side of linguini" itemname="Shrimp Fradiavolo"></menu_item>
+<menu_item type="Daily Specialties" category="Italian Food" price=" 6.95" descript="with fresh mozzarella and basil" itemname="Baked Ziti"></menu_item>
+<menu_item type="Daily Specialties" category="Seafood" price=" 11.00" descript="" itemname="Shrimp In Garlc Sauce"></menu_item>
+<menu_item type="Daily Specialties" category="Seafood" price=" 11.00" descript="" itemname="Shrimp In Hot Sauce"></menu_item>
+<menu_item type="Daily Specialties" category="Seafood" price=" 11.00" descript="" itemname="Breaded Shrimp"></menu_item>
+<menu_item type="Daily Specialties" category="Seafood" price=" 12.00" descript="" itemname="Fried Calamari"></menu_item>
+<menu_item type="Daily Specialties" category="Seafood" price=" 7.00" descript="" itemname="Fried Fillet Fish"></menu_item>
+<menu_item type="Daily Specialties" category="Seafood" price=" 7.00" descript="" itemname="Fillet Fish In Galric Sauce"></menu_item>
+<menu_item type="Daily Specialties" category="Seafood" price=" 8.00" descript="" itemname="Fillet Fish In Vinegar Sauce"></menu_item>
+<menu_item type="Daily Specialties" category="Seafood" price=" 6.00" descript="" itemname="Fried King Fish (slice)"></menu_item>
+<menu_item type="Daily Specialties" category="Hot Drinks" price=" .75" descript="" itemname="Herbal Tea"></menu_item>
+<menu_item type="Daily Specialties" category="Hot Drinks" price=" .60" descript="" itemname="Tea"></menu_item>
+<menu_item type="Daily Specialties" category="Hot Drinks" price=" 1.25" descript="" itemname="Hot Milk"></menu_item>
+<menu_item type="Daily Specialties" category="Hot Drinks" price=" 2.00" descript="" itemname="Oatmeal"></menu_item>
+<menu_item type="Daily Specialties" category="Hot Drinks" price=" .60" descript="" itemname="Regular Coffee"></menu_item>
+<menu_item type="Daily Specialties" category="Hot Drinks" price=" .75" descript="" itemname="Sanka"></menu_item>
+<menu_item type="Daily Specialties" category="Hot Drinks" price=" .75" descript="" itemname="Chocolate"></menu_item>
+<menu_item type="Daily Specialties" category="Appetizers" price=" 7.00" descript="with hot sauce" itemname="Shrimp Cocktail"></menu_item>
+<menu_item type="Daily Specialties" category="Appetizers" price=" 3.00" descript="" itemname="Mozzarealla Sticks"></menu_item>
+<menu_item type="Daily Specialties" category="Appetizers" price=" 4.00" descript="" itemname="Chicken Fingers"></menu_item>
+<menu_item type="Daily Specialties" category="Appetizers" price=" 4.00" descript="with hot sauce" itemname="Buffalo Wings"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 7.00" descript="" itemname="Breaded Steak"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 7.00" descript="" itemname="Pepper Steak"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 7.00" descript="wtih onions" itemname="Steak"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 7.50" descript="w, fried eggs" itemname="Beef Steak"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 8.00" descript="" itemname="Fried Beef"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 8.00" descript="" itemname="Fried Pork"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price="(2) 6.00" descript="" itemname="Fried Pork Chop"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price="(2) 6.50" descript="" itemname="B. B. Q. Pork Chop"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price="(2) 7.00" descript="" itemname="Breaded Pork Chop"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 7.00" descript="" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 6.00" descript="" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 6.00" descript="" itemname="Fried Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 6.00" descript="" itemname="Rotisserie Chicken"></menu_item>
+<menu_item type="Daily Specialties" category="Meat Selections" price=" 7.00" descript="" itemname="Fried Chicken Rings"></menu_item>
+</root>

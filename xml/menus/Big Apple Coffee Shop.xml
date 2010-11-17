@@ -1,0 +1,126 @@
+<root>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 4.95" descript="with lettuce" itemname="Boiled Ham"><extra type="sub" price=" 5.50" descript="with american cheese"></extra>
+<extra type="sub" price=" 5.75" descript="with swiss cheese"></extra>
+<extra type="sub" price=" 5.75" descript="with cheddar cheese"></extra>
+</menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 4.50" descript="beef" itemname="Salami"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 4.25" descript="" itemname="Bacon, Lettuce &amp;amp; Tomato"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 6.25" descript="breaded" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 7.25" descript="" itemname="Chicken Cutlet Parmigiana"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 5.25" descript="" itemname="Baked Meatloaf"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 8.50" descript="with corned beef or pastrami, served with french fries" itemname="Reuben Deluxe"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 4.95" descript="(ind) garnish" itemname="Tuna"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 4.95" descript="(ind) garnish" itemname="Salmon"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 4.95" descript="(imported boneless &amp; skinless) garnish" itemname="Sardines"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 6.25" descript="on a bun" itemname="Fried Fillet"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 8.25" descript="" itemname="Deluxe"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Salad" price=" 4.50" descript="" itemname="Tuna Fish Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Salad" price=" 4.50" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Salad" price=" 3.95" descript="" itemname="Egg Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Salad" price=" 7.25" descript="served with french fries" itemname="Tuna Melt Deluxe"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 3.95" descript="" itemname="American Cheese"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 3.50" descript="" itemname="Grilled American Cheese"><extra type="sub" price=" 4.95" descript="with bacon or ham"></extra>
+<extra type="sub" price=" 4.25" descript="with tomato"></extra>
+</menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 4.25" descript="" itemname="Swiss Cheese"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 4.25" descript="" itemname="Cheddar Cheese"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 4.25" descript="" itemname="Grilled Swiss Or Cheddar Cheese"><extra type="sub" price=" 5.50" descript="with bacon or ham"></extra>
+<extra type="sub" price=" 4.75" descript="with tomato"></extra>
+</menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 4.95" descript="with lettuce" itemname="Boiled Ham"><extra type="sub" price=" 5.50" descript="with american cheese"></extra>
+<extra type="sub" price=" 5.75" descript="with swiss cheese"></extra>
+<extra type="sub" price=" 5.75" descript="with cheddar cheese"></extra>
+</menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 4.50" descript="beef" itemname="Salami"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 4.25" descript="" itemname="Bacon, Lettuce &amp;amp; Tomato"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 6.25" descript="breaded" itemname="Chicken Cutlet"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 7.25" descript="" itemname="Chicken Cutlet Parmigiana"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 5.25" descript="" itemname="Baked Meatloaf"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Meat" price=" 8.50" descript="with corned beef or pastrami, served with french fries" itemname="Reuben Deluxe"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 4.95" descript="(ind) garnish" itemname="Tuna"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 4.95" descript="(ind) garnish" itemname="Salmon"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 4.95" descript="(imported boneless &amp; skinless) garnish" itemname="Sardines"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 6.25" descript="on a bun" itemname="Fried Fillet"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fish" price=" 8.25" descript="" itemname="Deluxe"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Salad" price=" 4.50" descript="" itemname="Tuna Fish Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Salad" price=" 4.50" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Salad" price=" 3.95" descript="" itemname="Egg Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Salad" price=" 7.25" descript="served with french fries" itemname="Tuna Melt Deluxe"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 3.95" descript="" itemname="American Cheese"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 3.50" descript="" itemname="Grilled American Cheese"><extra type="sub" price=" 4.95" descript="with bacon or ham"></extra>
+<extra type="sub" price=" 4.25" descript="with tomato"></extra>
+</menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 4.25" descript="" itemname="Swiss Cheese"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 4.25" descript="" itemname="Cheddar Cheese"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Cheese" price=" 4.25" descript="" itemname="Grilled Swiss Or Cheddar Cheese"><extra type="sub" price=" 5.50" descript="with bacon or ham"></extra>
+<extra type="sub" price=" 4.75" descript="with tomato"></extra>
+</menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 5.95" descript="the best you ever tasted" itemname="Beefburger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.25" descript="lean and delicious" itemname="Turkey Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.25" descript="covered with melted cheese" itemname="Cheese Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.25" descript="covered with melted swiss cheese" itemname="Swiss Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.50" descript="strips of crisp bacon" itemname="Bacon Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.95" descript="melted american cheese and bacon" itemname="Bacon Cheese Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.50" descript="mozzarella and pizza sauce" itemname="Pizza Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.50" descript="topped with loads of mushrooms" itemname="Mushroom Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 8.25" descript="with bacon, lettuce, tomato, american &amp; mozzarella cheese, fried onions and mushrooms" itemname="Big Apple's Special Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.25" descript="" itemname="Veggie Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 7.50" descript="" itemname="Chili Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 7.50" descript="with onion &amp; salsa" itemname="Southwestern"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 7.95" descript="with american cheese ham &amp; fried onions" itemname="Kaluba Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Big Apple's Famous Jumbo Burgers" price=" 6.25" descript="on an english muffin" itemname="English Burger"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Grilled Chicken" price=" " descript="" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Grilled Chicken" price=" " descript="" itemname="Philly Cheese Steak"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Grilled Chicken" price=" " descript="" itemname="Philly Chicken Cheese Steak"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Carving Board $6.75" price=" " descript="" itemname="Corned Beef"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Carving Board $6.75" price=" " descript="" itemname="Roumanian Pastrami"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Carving Board $6.75" price=" " descript="" itemname="Roast Sirloin Of Beef"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Carving Board $6.75" price=" " descript="" itemname="Roast Vermont Turkey"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Carving Board $6.75" price=" " descript="" itemname="Roast Virginia Ham"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Carving Board $6.75" price=" " descript="" itemname="Brisket Of Beef"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Triple Deckers" price=" 7.25" descript="with bacon" itemname="Sliced Breast Of Turkey"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Triple Deckers" price=" 7.25" descript="with bacon" itemname="Chicken Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Triple Deckers" price=" 7.25" descript="with hard boiled egg" itemname="Tuna Fish Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Triple Deckers" price=" 7.25" descript="with swiss cheese" itemname="Roast Beef"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Triple Deckers" price=" 7.25" descript="" itemname="Corned Beef, Pastrami &amp;amp; Swiss"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Triple Deckers" price=" 6.50" descript="with bacon" itemname="Egg Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="On The Side" price=" 2.50" descript="on a bed of lettuce" itemname="Cottage Cheese"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="On The Side" price=" 2.50" descript="" itemname="French Fried Potatoes"><extra type="sub" price=" 3.25" descript="with gravy"></extra>
+<extra type="sub" price=" 3.75" descript="with cheese &amp;amp; gravy"></extra>
+</menu_item>
+<menu_item type="Tasty - Sandwiches" category="On The Side" price=" 2.25" descript="" itemname="Potato Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="On The Side" price=" 3.25" descript="" itemname="Onion Rings"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="On The Side" price=" 2.25" descript="" itemname="Cole Slaw"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="On The Side" price=" 2.75" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="On The Side" price=" 2.50" descript="" itemname="Rice Pilaf"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="On The Side" price=" 2.50" descript="" itemname="Vegetable Du Jour"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fountain Favorites" price=" 2.95" descript="2 scoops" itemname="Ice Cream"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fountain Favorites" price=" 1.95" descript="" itemname="One 1 Scoop"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fountain Favorites" price=" 3.75" descript="all flavors with whipped cream" itemname="Ice Cream Soda"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fountain Favorites" price=" 2.25" descript="" itemname="N. Y. Egg Cream"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fountain Favorites" price=" 3.75" descript="" itemname="Milk Shake"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fountain Favorites" price=" 1.50" descript="" itemname="Assorted Sodas"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Italian Specialties" price=" 6.25" descript="with marinara sauce" itemname="Spaghetti"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Italian Specialties" price=" 8.25" descript="with tomato sauce" itemname="Spaghetti &amp;amp; Meatballs"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Italian Specialties" price=" 8.95" descript="" itemname="Chicken Cutlet Parmigiana"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Italian Specialties" price=" 8.95" descript="with tomato sauce" itemname="Baked Ziti Parmigiana"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Greek Specialties" price=" 5.50" descript="slices of spiced meat served on pita bread with tzatziki sauce" itemname="Gyro Sandwich"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Greek Specialties" price=" 7.50" descript="slices of spiced meat, served with french fries, lettuce, tomato, small greek salad &amp; our famous tzatziki sauce" itemname="Gyro Platter"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Greek Specialties" price=" 5.95" descript="served on pita bread with tzatziki sauce" itemname="Chicken Souvlaki Sandwich"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Greek Specialties" price=" 7.95" descript="pieces of chicken breast with pita bread, tzatziki sauce &amp; small greek salad" itemname="Chicken Souvlaki Platter"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Greek Specialties" price=" 7.95" descript="served with small greek salad" itemname="Spinach Pie"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="International Coffee" price="lg 2.50" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fruits &amp;amp; Juices" price=" 1.95" descript="" itemname="Orange Juice"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fruits &amp;amp; Juices" price=" 1.95" descript="" itemname="Tomato Juice"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fruits &amp;amp; Juices" price=" 1.95" descript="" itemname="Grapefruit Juice"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fruits &amp;amp; Juices" price=" 1.95" descript="" itemname="Apple Juice"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fruits &amp;amp; Juices" price=" 1.95" descript="" itemname="Pineapple Juice"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fruits &amp;amp; Juices" price=" 1.95" descript="" itemname="Half Grapefruit"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fruits &amp;amp; Juices" price=" 3.25" descript="" itemname="Fresh Melon, In Season"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Fruits &amp;amp; Juices" price=" 3.25" descript="" itemname="Fresh Fruit Salad"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Desserts" price=" 2.95" descript="" itemname="Cheese Cake"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Desserts" price=" 3.50" descript="" itemname="Fruit Cheese Cake"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Desserts" price=" 2.75" descript="" itemname="Assorted Layer Cakes"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Desserts" price=" 2.25" descript="" itemname="Creamy Rice Pudding"></menu_item>
+<menu_item type="Tasty - Sandwiches" category="Desserts" price=" 2.25" descript="" itemname="Jello"></menu_item>
+</root>

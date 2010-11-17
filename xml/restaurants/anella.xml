@@ -1,0 +1,53 @@
+<root>
+<restaurant>
+
+<name>
+Anella
+</name>
+<menuxml>
+Anella1.xml
+</menuxml>
+<streataddress>
+52 Havemeyer St
+</streataddress>
+<crosstreat>
+(At N 6th St)
+</crosstreat>
+<local>
+Brooklyn
+</local>
+<region>
+NY
+</region>
+<phone>
+(646) 409-4019
+</phone>
+<latitude>
+40.714896
+</latitude>
+<longitude>
+-73.954751
+</longitude>
+<cuisines>
+French, Bistro
+</cuisines>
+<price>
+$$
+</price>
+<features>
+</features>
+<deliveryamount>
+</deliveryamount>
+<deliveryarea>
+</deliveryarea>
+<hours>
+ Mon-Fri: 12pm-10:30pm,  Sat-Sun: 10:30am-10:30pm,
+</hours>
+<website>
+</website>
+<meals>
+Lunch, Dinner, Brunch
+</meals>
+<onlineorders>1</onlineorders>  
+</restaurant>
+</root>

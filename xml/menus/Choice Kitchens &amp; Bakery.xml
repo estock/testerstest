@@ -1,0 +1,47 @@
+<root>
+<menu_item type="Breakfast" category="Pastries" price=" " descript="" itemname="Croissants"></menu_item>
+<menu_item type="Breakfast" category="Pastries" price=" " descript="" itemname="Muffins"></menu_item>
+<menu_item type="Breakfast" category="Pastries" price=" " descript="" itemname="Pastries"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price="lg 2.00" descript="" itemname="Stumptown Coffee"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price="dbl 3.50" descript="" itemname="Stumptown Hair Bender Espresso"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 4.00" descript="" itemname="Cappuccino, Latte &amp;amp; Café Au Lait"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 3.50" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 3.00" descript="" itemname="Iced Tea &amp;amp; Iced Coffee"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 4.50" descript="" itemname="Iced Cappuccino &amp;amp; Iced Latte"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 4.50" descript="" itemname="Iced Mocha"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 2.00" descript="" itemname="Serendipi Teas"></menu_item>
+<menu_item type="Breakfast" category="Beverages" price=" 2.25" descript="" itemname="Organic Chai Tea"></menu_item>
+<menu_item type="Breakfast" category="Soups" price=" " descript="" itemname="Soup Du Jour"></menu_item>
+<menu_item type="Breakfast" category="Salad Bar $6.95" price=" " descript="with well stocked fresh ingredients daily." itemname="Make Your Own Salad Bar"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 11.95" descript="broccoli rabe, chickpeas, rosemary" itemname="Hanger Steak Salad"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 11.95" descript="collard greens, tarragon sauce" itemname="Chilled Rotisserie Salmon"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 11.95" descript="couscous, orange and scallion salad" itemname="Grilled Shrimp Skewers"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 11.95" descript="roasted red pepper, olives, warm pita" itemname="Hummus *"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 5.95" descript="garlic, extra virgin olive oil" itemname="Collard Greens *"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 5.95" descript="balsamic vinegar, extra virgin olive oil" itemname="Roasted Beets &amp;amp; Grilled Red Onions *"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 5.95" descript="dried cranberries, sherry vinegar" itemname="Wild Grains Salad *"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price="(2 pcs) 5.95" descript="red pepper-tarragon relish, balsamic-garlic syrup" itemname="Herb Marinated Non - GMO Tofu *"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 5.95" descript="" itemname="Wild Rice &amp;amp; Artichokes *"></menu_item>
+<menu_item type="Breakfast" category="Prepared Food (Cold)" price=" 5.00" descript="" itemname="Quiche"></menu_item>
+<menu_item type="Breakfast" category="Hot Food" price=" 11.95" descript="with mashed potatoes" itemname="Hanger Steak"></menu_item>
+<menu_item type="Breakfast" category="Hot Food" price=" 11.95" descript="" itemname="Farfalle Pesto And Shrimp"></menu_item>
+<menu_item type="Breakfast" category="Hot Food" price="whole 13.95" descript="with roasted potatoes" itemname="Rotisserie Chicken"></menu_item>
+<menu_item type="Breakfast" category="Hot Food" price=" 7.95" descript="onions and peppers on a ciabatta roll with fries" itemname="Santé Fe Sausage"></menu_item>
+<menu_item type="Breakfast" category="Burgers" price=" 8.50" descript="lettuce, tomato, pickles, choice sauce" itemname="Hamburger"></menu_item>
+<menu_item type="Breakfast" category="Burgers" price=" 8.50" descript="lettuce, tomato, chipotle mayonnaise" itemname="Turkey Burger"></menu_item>
+<menu_item type="Breakfast" category="Burgers" price=" 9.75" descript="radish sprouts, pickled ginger, carrots, miso sauce" itemname="Salmon Burger"></menu_item>
+<menu_item type="Breakfast" category="Burgers" price=" 8.50" descript="lettuce, tomato, sprouted beans, curry mayonnaise" itemname="Veggie Burger"></menu_item>
+<menu_item type="Breakfast" category="Hot Sandwiches $8.95" price=" " descript="avocado, swiss, bacon, arugula, mustard vinaigrette" itemname="Rotisserie Chicken Panini"></menu_item>
+<menu_item type="Breakfast" category="Hot Sandwiches $8.95" price=" " descript="fontina, sherry vinaigrette" itemname="Asparagus And Portobello Panini"></menu_item>
+<menu_item type="Breakfast" category="Hot Sandwiches $8.95" price=" " descript="pulled slow roasted pork, bacon, pickles, swiss, dijon" itemname="Cuban Panini"></menu_item>
+<menu_item type="Breakfast" category="Hot Sandwiches $8.95" price=" " descript="sliced hanger, queso fresco, tomato, avocado, arugula, cilantro, chipotle mayo" itemname="Steak Panini"></menu_item>
+<menu_item type="Breakfast" category="Cold Sandwiches" price=" 8.95" descript="lettuce, tomato on 7-grain bread" itemname="Chicken Salad"></menu_item>
+<menu_item type="Breakfast" category="Cold Sandwiches" price=" 6.95" descript="prosciutto, roasted tomatoes, arugula on focaccia" itemname="Fresh Mozzarella"></menu_item>
+<menu_item type="Breakfast" category="Cold Sandwiches" price=" 7.95" descript="tuna, olives, red peppers, extra virgin olive oil and red wine vinegar on ciabatini" itemname="Tuna Bagnat"></menu_item>
+<menu_item type="Breakfast" category="Cold Sandwiches" price=" 8.95" descript="oven roasted tomatoes, avocado, rosemary mayonnaise on 7 grain bread" itemname="BLT"></menu_item>
+<menu_item type="Breakfast" category="Cold Sandwiches" price=" 7.95" descript="arugula, pesto, and roasted red peppers on focaccia" itemname="Grilled Chicken Paillard"></menu_item>
+<menu_item type="Breakfast" category="Hot Sides" price=" 4.50" descript="" itemname="4 Cheese Mac And Cheese"></menu_item>
+<menu_item type="Breakfast" category="Hot Sides" price=" 2.50" descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="Breakfast" category="Hot Sides" price=" 4.50" descript="" itemname="Potato Au Gratin"></menu_item>
+<menu_item type="Breakfast" category="Hot Sides" price=" 2.50" descript="" itemname="French Fries"></menu_item>
+</root>

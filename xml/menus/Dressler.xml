@@ -1,0 +1,116 @@
+<root>
+<menu_item type="Dinner" category="Entrees" price="26.00" descript="morels&amp;#44; asparagus &amp;amp; swiss chard" itemname="Scottish Salmon">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="28.00" descript="sunchoke puree&amp;#44; confit marble potato&amp;#44; baby artichokes&amp;#44; kalamata olive tapenade &amp;amp; roasted garlic" itemname="Day Boat Cod">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="28.00" descript="tuscan kale&amp;#44; english pea&amp;#45;fava bean risotto &amp;amp; herb pistou" itemname="Bacon Wrapped Monkfish">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="27.00" descript="romesco&amp;#44; beluga lentils&amp;#44; chorizo&amp;#44; broccoli rabe &amp;amp; roasted tomato vinaigrette" itemname="Wild Striped Bass">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="24.00" descript="creamy white polenta&amp;#44; parmesan&amp;#44; escarole &amp;amp; gremolata" itemname="Pan Roasted Hudson Valley Chicken">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="30.00" descript="horseradish whipped potato&amp;#44; creamed spinach &amp;amp; bordelaise" itemname="Grilled Hanger Steak &amp;amp; Braised Short Rib">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="26.00" descript="anjou pear&amp;#44; creamy spatzle&amp;#44; braised red cabbage &amp;amp; pomegranate molasses" itemname="Long Island Duck Breast">
+
+</menu_item>
+<menu_item type="Dinner" category="Entrees" price="26.00" descript="white bean&amp;#44; roasted fennel&amp;#44; orange marmalade &amp;amp; rosemary" itemname="Heritage Country Pork Chop">
+
+</menu_item>
+<menu_item type="Priced Fix Dinner $55" category="Appetizers" price="" descript="crepe&amp;#44; apple&amp;#44; frisee&amp;#44; arugula &amp;amp; horseradish" itemname="Smoked Trout">
+
+</menu_item>
+<menu_item type="Priced Fix Dinner $55" category="Appetizers" price="" descript="fresh cranberry beans&amp;#44; arugula &amp;amp; parmesan" itemname="Warm Artichoke Heart">
+
+</menu_item>
+<menu_item type="Priced Fix Dinner $55" category="Appetizers" price="" descript="wild mushrooms&amp;#44; tomato &amp;amp; parmesan broth" itemname="Fresh Herbed Ricotta Raviolini">
+
+</menu_item>
+<menu_item type="Priced Fix Dinner $55" category="Desserts" price="" descript="coffee bean ice cream&amp;#44; cocoa wafer &amp;amp; cocoa nibs" itemname="Chocolate Souffle Cake">
+
+</menu_item>
+<menu_item type="Priced Fix Dinner $55" category="Desserts" price="" descript="wine stewed berries&amp;#44; vanilla frozen yogurt &amp;amp; creme fraiche" itemname="Black Pepper Shortcake">
+
+</menu_item>
+<menu_item type="Priced Fix Dinner $55" category="Desserts" price="" descript="black currant&amp;#44; mint &amp;amp; brown sugar crisp" itemname="Lemon Verbena Creme Caramel">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs &amp;amp; Such" price="10.00" descript="spinach &amp;amp; goat cheese" itemname="Three Egg Omelets">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs &amp;amp; Such" price="14.00" descript="2 poached eggs&amp;#44; potato galette&amp;#44; smoked salmon&amp;#44; creme fraiche&amp;#44; hollandaise&amp;#44; fines herbes&amp;#44; homefries &amp;amp; greens" itemname="bacon&amp;#44; swiss &amp;amp; caramelized onion homefries &amp;amp; greens&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;11.00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;The Dressler">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs &amp;amp; Such" price="10.00" descript="" itemname="Eggs Florentine">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs &amp;amp; Such" price="12.00" descript="house&amp;#45;made biscuit&amp;#44; hollandaise&amp;#44; homefries &amp;amp; greens" itemname="Eggs Benedict">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs &amp;amp; Such" price="14.00" descript="2 eggs any style&amp;#44; greens &amp;amp; parsley salsa verde" itemname="Spicy Italian Sausage &amp;amp; Grits">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs &amp;amp; Such" price="12.00" descript="flour tortilla&amp;#44; black beans&amp;#44; cheddar&amp;#44; avocado&amp;#44; salsa verde &amp;amp; greens" itemname="Huevos Rancheros">
+
+</menu_item>
+<menu_item type="Brunch" category="Eggs &amp;amp; Such" price="12.00" descript="vanilla mascarpone &amp;amp; fresh berries" itemname="Brioche French Toast">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides $5" price="" descript="" itemname="Bacon">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides $5" price="" descript="" itemname="Fries">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides $5" price="" descript="" itemname="Homefries">
+
+</menu_item>
+<menu_item type="Brunch" category="Sides $5" price="" descript="" itemname="Mixed Greens">
+
+</menu_item>
+<menu_item type="Brunch" category="Brunch Cocktails" price="10.00" descript="poire williams&amp;#44; pear&amp;#44; ginger&amp;#44; cava" itemname="The Bartlett">
+
+</menu_item>
+<menu_item type="Brunch" category="Brunch Cocktails" price="10.00" descript="cognac&amp;#44; velvet falernum&amp;#44; cava&amp;#44; lemon &amp;amp; orange" itemname="Dressler 75">
+
+</menu_item>
+<menu_item type="Brunch" category="Brunch Cocktails" price="10.00" descript="black pepper &amp;amp; dill infused vodka&amp;#44; creole shrub&amp;#44; cucumber &amp;amp; lemon" itemname="Kirby">
+
+</menu_item>
+<menu_item type="Brunch" category="Brunch Cocktails" price="12.00" descript="house infused orange vodka&amp;#44; aperol&amp;#44; lemon &amp;amp; lime juice" itemname="Harvest Moon">
+
+</menu_item>
+<menu_item type="Brunch" category="Brunch Cocktails" price="10.00" descript="sauza&amp;#44; bud&amp;#44; lime&amp;#44; cayenne pepper" itemname="The Mut">
+
+</menu_item>
+<menu_item type="Brunch" category="Brunch Cocktails" price="12.00" descript="sailor jerry&amp;#44; lime&amp;#44; sarsaparilla" itemname="Sarsaparilla Fizz">
+
+</menu_item>
+<menu_item type="Brunch" category="Brunch Cocktails" price="12.00" descript="sauza&amp;#44; orgeat&amp;#44; lime&amp;#44; agave nectar &amp;amp; mole bitters" itemname="Puebla">
+
+</menu_item>
+<menu_item type="Brunch" category="Brunch Cocktails" price="12.00" descript="averna&amp;#44; lime &amp;amp; egg white" itemname="Averna Sour">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $7" price="" descript="germany" itemname="Jever Pilsner">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $7" price="" descript="brooklyn" itemname="Coney Island Lager">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $7" price="" descript="england" itemname="Old Speckled Hen">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $7" price="" descript="new hampshire" itemname="Smutty Nose Brown Dog Ale">
+
+</menu_item>
+<menu_item type="Brunch" category="Beer $7" price="" descript="germany" itemname="Franziskaner Weissbier">
+
+</menu_item>
+</root>

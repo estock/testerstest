@@ -1,0 +1,157 @@
+<root>
+<menu_item type="default" category="Appetizers" price=" 4.95" descript="cucumber, thai peanut sauce" itemname="Cold Sesame Noodle"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.95" descript="cucumber salad, minced chicken, hot oil" itemname="Szechuan Udon"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.95" descript="jicama, mango, mint leaf" itemname="Shrimp Summer Roll"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.95" descript="crispy mei fun, cucumber" itemname="Bang Bang Chicken"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.95" descript="wasabi cream, cranberry, mango salsa" itemname="Pepper Tuna"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.95" descript="jalapenos, garlic, yuzu sauce" itemname="Yellowtail Serano"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 8.95" descript="seared with spicy cream, caviar" itemname="Salmon Bellini"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 2.95" descript="green tea sea salt" itemname="Edamame"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 2.95" descript="crispy indian pancake, potato curry" itemname="Roti Canai"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.95" descript="thai chili peanut sauce" itemname="Tofu Tob"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.95" descript="honey miso dressing vinaigrette" itemname="Steamed Asparagus"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.95" descript="ginger soy dipping sauce" itemname="Sesame Scallion Pancakes"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.95" descript="cucumber salad, malay peanut dressing" itemname="Satay Chicken Or Beef"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.95" descript="grilled blue ginger, asam curry" itemname="Shrimp Kebab"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.95" descript="tempura shrimp, jalapenos grand marnier" itemname="Wasabi Shrimp"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.95" descript="steamed, soy ginger dipping" itemname="Tom Yum Mussels"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.95" descript="citrus lemon cream" itemname="Tempura Shrimp"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.95" descript="spicy, ipoh style" itemname="Butter Crispy Ipoh Squid"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.95" descript="rolled, scallion and asparagus" itemname="Thinly Sliced Ribeye Steak"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.95" descript="spicy tuna or spicy salmon" itemname="Angry Pizza"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 7.95" descript="cucumber, sweet pepper" itemname="King Crab Fajitas"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.95" descript="steamed, soy, ginger dipping" itemname="Chicken And Shrimp Wonton"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.95" descript="plum hoisin sauce" itemname="Crispy Taro Duck Roll"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.95" descript="steamed, citrus ponzu sauce" itemname="Emerald Vegetable Dumpling"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.95" descript="sweet and spicy dipping sauce" itemname="Mini Vegetable Spring Roll"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.95" descript="scallion, cucumber salad, mustard" itemname="Cha Su Bao"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.95" descript="pork and shrimp, sesame peanut dressing" itemname="Spicy Ravioli"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.95" descript="pork and shrimp pan-fried" itemname="Pot Sticker"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 5.95" descript="shrimp and pork" itemname="Snow Crab Shumai"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 3.95" descript="lemongrass, shrimp and mushroom" itemname="Hot &amp;amp; Sour Salad"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 2.95" descript="seaweed and tofu" itemname="Miso Soup"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 6.95" descript="tom yum rice noodles, shrimp, squid and vegetables" itemname="Seafood Noodle Soup"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 6.95" descript="egg noodles, potato and bean sprout" itemname="Curry Laksa Noodle Soup"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 6.95" descript="chicken, egg, fish cake and vegetables" itemname="Nabeyaki Udon"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 4.95" descript="mesclun salad, shaved bonito" itemname="Seaweed Salad"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 5.95" descript="mesclun, yuzu vinegrette, jalapenos" itemname="Crispy Salmon Skin Salad"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 5.95" descript="jicama, mango, peanut, jalapeno" itemname="Vietnamese Salad"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 6.95" descript="romaine, citrus miso lime dressing" itemname="Crispy Calamari Salad"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 6.95" descript="sesame peanut miso vinaigrette" itemname="Asian Grilled Chicken Salad"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 6.95" descript="chili lime vinaigrette" itemname="Papaya Boat Shrimp Salad"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 6.95" descript="romaine, tomatoes, cucumber, mint leaf" itemname="Mango Shrimp Salad"></menu_item>
+<menu_item type="default" category="Soup And Salad" price=" 7.95" descript="louts tamarind key lime dressing" itemname="King Crab Squid Salad"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="spicy, potato, tomato, egg with chicken or beef" itemname="Wok Lo Mein"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="scallion, bean sprouts, egg with chicken or beef" itemname="Ginger Soy Lo Mein"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="flat noodles with chicken or shrimp, vegetables and egg" itemname="Pad Kee Mao"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="malaysian famous flat noodle, chicken or shrimp" itemname="The &amp;#39;Kueh Teow&amp;#39;"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="flat noodles with chicken or shrimp, broccoli and egg" itemname="Pad See Yue"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="chicken or shrimp with mixed vegetables" itemname="Stir Fried Udon"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="chicken or shrimp, bean curd, egg, bean sprouts and peanut" itemname="Pad Thai"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="chicken or shrimp, scallion, bell pepper and egg" itemname="Singapore Rice Noodle"></menu_item>
+<menu_item type="default" category="Noodles $6.95" price=" " descript="chicken or beef, scallion, beef sprout, bell pepper, egg" itemname="Malaysian Fried Mei Fun"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="chicken, sweet soy chili paste, sweet pepper and egg" itemname="Indonesian Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="roasted cashew, green peas, carrots and egg" itemname="Chicken Pineapple Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="sweet pepper, red onion, green curry and egg" itemname="Seafood Basil Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="chicken, kokita chili paste, bean sprouts and egg" itemname="Nonya Nasi Goreng"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="shrimp, sweet pepper, green peas, carrots and egg" itemname="Coconut Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="beef, green peas, carrots, eggs and bean sprouts" itemname="Thai Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="chicken scallion green peas, carrots and egg" itemname="Ginger Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="green peas, egg, carrots" itemname="Chinese Sausage Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice $6.95" price=" " descript="beef, green peas, carrots, onion and egg" itemname="Red Curry Fried Rice"></menu_item>
+<menu_item type="default" category="Curry $7.95" price=" " descript="chicken or shrimp, eggplant, bamboo shoots, peppers and asparagus" itemname="Green Curry"></menu_item>
+<menu_item type="default" category="Curry $7.95" price=" " descript="chicken or shrimp, string bean, pepper, curry leaves, potato, eggplant" itemname="Malaysian Curry"></menu_item>
+<menu_item type="default" category="Curry $7.95" price=" " descript="chicken or shrimp, basil, bell pepper, bamboo shoots" itemname="Red Curry"></menu_item>
+<menu_item type="default" category="Curry $7.95" price=" " descript="chicken or beef, potato, peanut, onions" itemname="Masaman Curry"></menu_item>
+<menu_item type="default" category="Curry $7.95" price=" " descript="chicken or beef, dry curry, potato, eggplant, sweet pepper" itemname="Rendang Curry"></menu_item>
+<menu_item type="default" category="Curry $7.95" price=" " descript="chicken or beef, basil bamboo shoots, eggplant" itemname="Panang Curry"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="mild spicy, sweet pepper, basil, mango" itemname="Chicken Basil Mango"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="tangerine, szechuan pepper, broccoli" itemname="Classic Orange Chicken"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="baby bok cboy, dijon mustard" itemname="Teriyaki Chicken"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="bell pepper, mushrooms, peanuts, celery, zucchini" itemname="Kung Pao Chicken"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="mild spicy basil sauce, bell pepper, mushrooms" itemname="Pad Kra Pao Chicken"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="szechuan pepper, broccoli" itemname="Tangerine Beef"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="mild spicy, sweet pepper, basil, mango" itemname="Beef Basil Mango"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="mild spicy, basil sauce, bell pepper, mushrooms" itemname="Pad Kra Pao Beef"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="wok seared, jalapenos, sweet pepper, ginger and scallion" itemname="Melacca Shrimp"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="string bean, carrots, celery, ginger sauce" itemname="Prik Khing Shrimp"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="mild spicy, sweet pepper, basil, mango" itemname="Shrimp Basil Mango"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="mild spicy, basil sauce bell pepper, mushrooms" itemname="Pad Kra Pao Shrimp"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="spicy signature dish" itemname="Spicy Tamarind Sole"></menu_item>
+<menu_item type="default" category="Entree $7.95" price=" " descript="bell pepper, pineapple, red onions, mango" itemname="Sweet And Sour Sole"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="salmon, crab, avocado, masago, tempura, sweet and spicy" itemname="Ahi Crunchy Salmon"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="shrimp tempura topped with eel avocado and wasabi kabayaki" itemname="Bamboo"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="avocado, cucumber and crunch topped with tuna and salmon" itemname="Deep Sea"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="shrimp tempura roll topped with avocado, spicy garlic chili" itemname="Bullet"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="seared pepper tuna topped with spicy tuna and dijon miso" itemname="Crazy Tuna"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="eel, avocado and cream cheese topped with garlic pepper tuna" itemname="Dragon Fly"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="crab, mango, avocado and cucumber topped with eel and avocado" itemname="Dragoooon"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="spicy tuna, crunch, topped with white tuna, jalapenos and cilantro" itemname="Dynamite"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="crab meat, yellowtail, cucumber and basil topped with seared salmon" itemname="Fire Vong"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="yellowtail, cucumber and avocado topped with spinach and red tobiko" itemname="Big Bang"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="tuna, salmon and avocado topped with spicy lobster" itemname="Illusion"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="asparagus, cucumber, avocado and spicy crunch topped with tuna" itemname="Mexican"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="tempura spicy tuna roll topped with citrus lobster salad" itemname="Mount Fuji"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="atlantic salmon, crab stick, avocado topped with spicy tuna" itemname="Daytona"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="crab stick tempura, avocado topped with spicy tuna basil pineapple" itemname="Rainbow"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="soft shell crab, avocado, cucumber, lettuce and masago" itemname="Spider"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="shrimp tempura and asparagus topped with spicy white tuna" itemname="Tornado"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="white tuna, tuna and avocado with spicy tamarind" itemname="Tuna Sashimi Wrap"></menu_item>
+<menu_item type="default" category="Hachi Specialty Rolls $6.95" price=" " descript="shrimp tempura and mango topped with spicy salmon and tobiko" itemname="Volcano"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.50" descript="maguro" itemname="Tuna"></menu_item>
+<menu_item type="default" category="A La Carte" price=" " descript="fatty tuna" itemname="Toro"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.50" descript="" itemname="White Tuna"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.50" descript="" itemname="Spicy Tuna"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.50" descript="hamachi" itemname="Yellowtail"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="hirame" itemname="Fluke"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="salmon roe" itemname="Ikura"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="suzuki" itemname="Striped Bass"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="" itemname="Sawara"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.50" descript="sake" itemname="Salmon"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.50" descript="" itemname="Smoked Salmon"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="red snapper" itemname="Tai"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="shrimp" itemname="Ebi"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.50" descript="unagi" itemname="Eel"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="hokkigai" itemname="Red Clam"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 3.00" descript="sea urchin" itemname="Uni"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="octopus" itemname="Tako"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="mackerel" itemname="Saba"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="" itemname="Spicy Tuna"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 3.00" descript="" itemname="King Crab"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="egg" itemname="Tamago"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="fish roe" itemname="Tobiko"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="crab stick" itemname="Kani"></menu_item>
+<menu_item type="default" category="A La Carte" price=" 2.00" descript="bean curd skin" itemname="Inari"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Portabella Mushroom"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="White Asparagus"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Roasted Beef"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Shiitake Cucumber"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Kimchee Avocado"></menu_item>
+<menu_item type="default" category="Maki" price=" 5.00" descript="" itemname="Spicy Yellowtail"></menu_item>
+<menu_item type="default" category="Maki" price=" 5.00" descript="" itemname="Spicy California"></menu_item>
+<menu_item type="default" category="Maki" price=" 5.00" descript="" itemname="Spicy Tuna Or Salmon"></menu_item>
+<menu_item type="default" category="Maki" price=" 5.00" descript="" itemname="Yellowtail Jalapeno"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Shrimp Tempura"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Eel Avocado Or Cucumber"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Yellowtail Scallion"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="California"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Tuna Or Salmon"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Philly"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Manhattan"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Toro Scallions"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Boston"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Alaska"></menu_item>
+<menu_item type="default" category="Maki" price=" 4.00" descript="" itemname="Salmon Skin"></menu_item>
+<menu_item type="default" category="Sushi And Sashimi Platters" price=" " descript="and 3 spicy roll with complimentary mango salad" itemname="Spicy Maki Platter"></menu_item>
+<menu_item type="default" category="Sushi And Sashimi Platters" price=" " descript="pick any 7 pcs and get a complimentary roll" itemname="Sushi Special"></menu_item>
+<menu_item type="default" category="Sushi And Sashimi Platters" price=" " descript="pick any 5 kinds and get a complimentary roll" itemname="Sashimi Platter"></menu_item>
+<menu_item type="default" category="Sushi And Sashimi Platters" price=" " descript="any 5 sushi and 5 sashimi and get a complimentary specialty roll" itemname="Sushi And Sashimi"></menu_item>
+<menu_item type="default" category="Vegetables $6.95" price=" " descript="fresh garlic, shallot" itemname="Spinach Shiitake"></menu_item>
+<menu_item type="default" category="Vegetables $6.95" price=" " descript="spicy basil sauce, sweet pepper" itemname="Chinese Eggplant"></menu_item>
+<menu_item type="default" category="Vegetables $6.95" price=" " descript="ginger brown sauce" itemname="Broccoli Cauliflower"></menu_item>
+<menu_item type="default" category="Vegetables $6.95" price=" " descript="fresh garlic sweet soy" itemname="String Beans"></menu_item>
+<menu_item type="default" category="Vegetables $6.95" price=" " descript="ginger chili sauce" itemname="Mixed Greens"></menu_item>
+<menu_item type="default" category="Vegetables $6.95" price=" " descript="shallot, white wine garlic sauce" itemname="Tofu Choy Sum"></menu_item>
+<menu_item type="default" category="Vegetables $6.95" price=" " descript="fresh garlic, shallot brown sauce" itemname="Bok Choy"></menu_item>
+<menu_item type="default" category="Vegetables $6.95" price=" " descript="tofu, string beans, broccoli, eggplant, malay curry" itemname="Fantastic Four"></menu_item>
+</root>

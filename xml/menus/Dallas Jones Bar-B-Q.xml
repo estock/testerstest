@@ -1,0 +1,75 @@
+<root>
+<menu_item type="default" category="Lunch Specials $6.95" price=" " descript="" itemname="1. Buffalo Wings"></menu_item>
+<menu_item type="default" category="Lunch Specials $6.95" price=" " descript="" itemname="2. Chicken Fingers"></menu_item>
+<menu_item type="default" category="Lunch Specials $6.95" price=" " descript="" itemname="3. Pulled Chicken Sandwich"></menu_item>
+<menu_item type="default" category="Lunch Specials $6.95" price=" " descript="" itemname="4. Pulled Pork Sandwich"></menu_item>
+<menu_item type="default" category="Appetizers $6.95" price=" " descript="please first choose either fried or grilled, then please choose one style from the following: plain, bbq or buffalo style" itemname="Chicken Fingers"></menu_item>
+<menu_item type="default" category="Appetizers $6.95" price=" " descript="choose one style: smoked, bbq or buffalo style" itemname="Jumbo Wings"></menu_item>
+<menu_item type="default" category="Appetizers $6.95" price=" " descript="" itemname="Mozzarella Sticks"></menu_item>
+<menu_item type="default" category="Appetizers $6.95" price=" " descript="with cheddar &amp; bacon" itemname="Potato Skins"></menu_item>
+<menu_item type="default" category="Appetizers $6.95" price=" 3.00" descript="2 pieces, honey-butter or jalapeño" itemname="Cornbread"></menu_item>
+<menu_item type="default" category="Soups $5" price=" " descript="" itemname="Soup Of The Day"></menu_item>
+<menu_item type="default" category="Soups $5" price=" " descript="" itemname="Corn Chowder"></menu_item>
+<menu_item type="default" category="Soups $5" price=" " descript="" itemname="Chicken Vegetable"></menu_item>
+<menu_item type="default" category="Soups $5" price=" " descript="" itemname="Sweet Potato Soup"></menu_item>
+<menu_item type="default" category="Soups $5" price=" 6.95" descript="" itemname="Slow-Cooked Texas Beef Chili"></menu_item>
+<menu_item type="default" category="Salads $7.95" price=" " descript="plain, no toppings" itemname="Caesar Salad"></menu_item>
+<menu_item type="default" category="Salads $7.95" price=" " descript="lettuce, tomatoes, cucumbers, green peppers, carrots" itemname="Tossed Garden Salad"></menu_item>
+<menu_item type="default" category="Salads $7.95" price=" " descript="mesclun, tomatoes, red onions, feta cheese, cucumbers, kalamata olives" itemname="Mediterranean Salad"></menu_item>
+<menu_item type="default" category="Salads $7.95" price=" " descript="romaine lettuce, tomatoes, eggs, bacon, avocado, crumbled blue cheese" itemname="Cobb Salad"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers $8.95" price=" " descript="" itemname="Chopped Beef Brisket"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers $8.95" price=" " descript="" itemname="Pulled Pork Or Pulled Chicken"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers $8.95" price=" " descript="" itemname="Golden Fried Flounder Or Louisiana Catfish"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers $8.95" price=" " descript="with sauteed peppers and onions" itemname="BBQ Hanger Steak"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers $8.95" price=" " descript="with melted cheese &amp; sauteed onions" itemname="DJ Philly Cheese Steak"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers $8.95" price=" " descript="with lettuce, tomatoes, mayo)" itemname="Grilled Chicken Breast"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers $8.95" price=" " descript="8oz ground sirloin, served with fries" itemname="Regular Or BBQ Burger"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; Burgers $8.95" price=" " descript="" itemname="Turkey Burger"></menu_item>
+<menu_item type="default" category="Platters $13.95" price="half 12.95" descript="marinated overnight in olive oil &amp; herbs then slow-roasted" itemname="Rotisserie Chicken"></menu_item>
+<menu_item type="default" category="Platters $13.95" price=" " descript="smoked for 10 hours with our own mixture of fruitwoods" itemname="Pulled Pork"></menu_item>
+<menu_item type="default" category="Platters $13.95" price=" " descript="our own rotisserie chicken, deboned, cold-smoked and succulent" itemname="Pulled Chicken"></menu_item>
+<menu_item type="default" category="Platters $13.95" price=" " descript="slow-smoked on a low flame for maximum flavor" itemname="Sliced Beef Brisket"></menu_item>
+<menu_item type="default" category="Platters $13.95" price=" " descript="served with our award winning bbq sauce" itemname="Boneless Chicken Breast"></menu_item>
+<menu_item type="default" category="Platters $13.95" price=" " descript="" itemname="Louisiana Catfish Or Golden Flounder"></menu_item>
+<menu_item type="default" category="Combination Platters" price=" 16.95" descript="" itemname="DJ1. Pulled Pork And Sliced Beef Brisket"></menu_item>
+<menu_item type="default" category="Combination Platters" price=" 16.95" descript="" itemname="DJ2. Pulled Pork And Quarter Chicken*"></menu_item>
+<menu_item type="default" category="Combination Platters" price=" 18.95" descript="" itemname="DJ3. Half Rack Ribs And Quarter Chicken*"></menu_item>
+<menu_item type="default" category="Combination Platters" price=" 19.95" descript="" itemname="DJ4. Pulled Pork And Quarter Rack Ribs"></menu_item>
+<menu_item type="default" category="Combination Platters" price=" 19.95" descript="" itemname="DJ5. Beef Brisket And Quarter Rack Ribs"></menu_item>
+<menu_item type="default" category="Combination Platters" price=" 20.95" descript="" itemname="DJ6. Half Rack Ribs And Half Chicken*"></menu_item>
+<menu_item type="default" category="Dallas Jones Famous Ribs" price="(full rack) 21.95" descript="" itemname="St. Louis Spare Ribs"></menu_item>
+<menu_item type="default" category="Dallas Jones Famous Ribs" price="(full rack) 21.95" descript="" itemname="Baby Back Ribs"></menu_item>
+<menu_item type="default" category="Dallas Jones Famous Ribs" price=" 20.95" descript="" itemname="Beef Ribs"></menu_item>
+<menu_item type="default" category="DJ'S Family Feasts" price=" 19.95" descript="" itemname="FF1. One Whole Chicken, 2 Sides &amp;amp; 2 Cornbread *"></menu_item>
+<menu_item type="default" category="DJ'S Family Feasts" price=" 39.95" descript="" itemname="FF2. One Whole Chicken, 1 Full Rack Of Ribs, 2 Sides And 3 Cornbread *"></menu_item>
+<menu_item type="default" category="DJ'S Family Feasts" price=" 49.95" descript="" itemname="FF3. 2 Whole Chickens, 4 Sides And 6 Cornbread"></menu_item>
+<menu_item type="default" category="Add-Ons" price=" 1.00" descript="add" itemname="Mashed Potatoes Or Baked Potato"></menu_item>
+<menu_item type="default" category="Add-Ons" price="(8oz) 3.95" descript="add with lettuce, tomatoes, cucumbers, green peppers and carrots" itemname="Small Salad"></menu_item>
+<menu_item type="default" category="Add-Ons" price=" 1.00" descript="add choose from mozzarella, vermont cheddar, american, danish blue, swiss" itemname="Cheese"></menu_item>
+<menu_item type="default" category="Add-Ons" price=" 1.00" descript="" itemname="add for cole slaw, sundried tomatoes, sliced red onions, roasted red peppers, fresh green peppers, thick sliced tomatoes, sauteed white onions, sauteed mushrooms"></menu_item>
+<menu_item type="default" category="Add-Ons" price=" 1.50" descript="" itemname="add for thick sliced bacon, avocados, chili"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Bklyn Beer-Battered Onion Rings"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Maple-Glazed Sweet Potatoes"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Hand-Cut Fresh French Fries"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Steamed Or Sauteed String Beans"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Steamed Or Sauteed Broccoli"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Corn On The Cob"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Mac And Cheese"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Cole Slaw"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Mashed Potatoes"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Baked Potato"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Collard Greens"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Creamed Spinach"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Garden Rice"></menu_item>
+<menu_item type="default" category="Sides $3.95" price=" " descript="" itemname="Southern Baked Beans"></menu_item>
+<menu_item type="default" category="Desserts $4" price=" " descript="" itemname="Apple Crisp"></menu_item>
+<menu_item type="default" category="Desserts $4" price=" " descript="" itemname="New York Cheesecake"></menu_item>
+<menu_item type="default" category="Desserts $4" price=" " descript="" itemname="Mississippi Mud Pie"></menu_item>
+<menu_item type="default" category="Desserts $4" price=" " descript="" itemname="Carrot Cake"></menu_item>
+<menu_item type="default" category="Desserts $4" price=" " descript="" itemname="Pecan Pie"></menu_item>
+<menu_item type="default" category="Desserts $4" price=" " descript="" itemname="Red Velvet Cupcake"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="coke, diet coke, sprite" itemname="Sodas"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.75" descript="" itemname="Root Beer, Diet Root Beer"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="home-made sweet tea, snapple ice tea" itemname="Teas"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Diet Snapple, Pink Lemonade &amp;amp; Poland Spring Water"></menu_item>
+</root>

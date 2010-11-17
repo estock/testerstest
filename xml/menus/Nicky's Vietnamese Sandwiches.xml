@@ -1,0 +1,22 @@
+<root>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 5.00" descript="pate, vietnamese ham and roasted ground pork." itemname="Classic Vietnamese Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 5.00" descript="" itemname="Sardine Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 5.00" descript="" itemname="Chicken Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 5.50" descript="" itemname="Portobello Mushroom Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 5.50" descript="" itemname="Pork Chop Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 5.50" descript="" itemname="Tofu Sandwich"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 8.00" descript="chicken, pork chop or beef." itemname="Pho-Noodle Soup"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 7.00" descript="" itemname="Grilled Chicken Or Pork Chop On Rice"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 7.00" descript="" itemname="Rice Vermicelli Chicken Or Pork Chop"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 3.75" descript="" itemname="Mesclun Garden Salad"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 7.00" descript="" itemname="Chicken Salad"></menu_item>
+<menu_item type="default" category="Sandwiches &amp;amp; More" price=" 3.75" descript="" itemname="Summer Rolls"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.50" descript="taro, mango, red bean, almond, papaya, coconut, honey dew, watermelon, coffee, tea." itemname="Tapioca Pearl (Bubble Tea)"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.50" descript="passion fruit, kumquat, pineapple, strawberry, apple, mango, peach." itemname="Rainbow Jelly (Refreshment)"></menu_item>
+<menu_item type="default" category="Beverages" price=" 4.00" descript="lychee, banana." itemname="Fresh Fruit Smoothie"></menu_item>
+<menu_item type="default" category="Beverages" price="iced 3.00" descript="" itemname="Vietnamese Coffee"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.00" descript="" itemname="Jelly Iced Lychee Drink"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.00" descript="" itemname="Fresh Sparkling Lemonade With Lime"></menu_item>
+<menu_item type="default" category="Beverages" price=" 2.50" descript="" itemname="Fresh Lemonade With Lime"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Soda, Box Drinks Or Water"></menu_item>
+</root>

@@ -1,0 +1,37 @@
+<root>
+<menu_item type="Lunch $7.95" category="Salads" price=" " descript="hearts of romaine lettuce, toasted croutons, shredded parmesan cheese and our incredible caesar dressing" itemname="The Classic Caesar Salad"></menu_item>
+<menu_item type="Lunch $7.95" category="Salads" price=" " descript="organic mesclun mix, red onions and cherry tomatoes served with balsamic vinaigrette" itemname="Garden Salad"></menu_item>
+<menu_item type="Lunch $7.95" category="Subs, Sliders And Sandwiches" price=" " descript="fresh mozzarella, classic tomato sauce, white baguette" itemname="Meatball Sub"></menu_item>
+<menu_item type="Lunch $7.95" category="Subs, Sliders And Sandwiches" price=" " descript="two 4 oz. angus hamburgers topped with apple wood smoked bacon, lettuce and tomatoes" itemname="BLT Sliders"></menu_item>
+<menu_item type="Lunch $7.95" category="Subs, Sliders And Sandwiches" price=" " descript="marinated chicken breast grilled to perfection, on toasted baguette with guacamole with choice of sweet potatoes fries or mesclun salad" itemname="Grilled Marinated Chicken Sandwich"></menu_item>
+<menu_item type="Lunch $7.95" category="Subs, Sliders And Sandwiches" price=" " descript="organic mesclun mix, red onions and cherry tomatoes served with balsamic vinaigrette" itemname="Portobello Sandwich"></menu_item>
+<menu_item type="Lunch $7.95" category="Entrees" price=" " descript="penne pasta in a light pink sauce topped with fresh ricotta and basil" itemname="Penne Alla Rosa"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.95" descript="lightly toasted french baguette, fresh mozzarella cheese, plum tomatoes, sun dried tomatoes and fresh basil" itemname="Double Tomato Bruschetta"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 8.95" descript="tender chicken wings with buffalo or bbq sauce. served with blue cheese dressing, carrots and celery" itemname="Front Street Wings"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.95" descript="tender calamari fried to a golden brown. served with marinara sauce" itemname="Fried Calamari"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" " descript="flour tortilla with monterey jack and cheddar cheese served with fresh salsa, guacamole and sour cream" itemname="Quesadilla"><extra type="add" price=" 7.95" descript="chicken"></extra>
+<extra type="add" price=" 9.95" descript="shrimp"></extra>
+<extra type="add" price=" 10.95" descript="steak"></extra>
+</menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.95" descript="sautéed shrimp in chefճ zesty garlic sauce" itemname="Clay Pot Sizzling Shrimp"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 9.95" descript="fresh mozzarella, sliced tomatoes, balsamic vinaigrette, basil" itemname="Tomatoes &amp;amp; Fresh Mozzarella"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 7.95" descript="fresh tortilla chips prepared in house. served with chefճ special guacamole and salsa" itemname="Chips &amp;amp; Guacamole"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 8.95" descript="hearts of romaine lettuce, toasted croutons, shredded parmesan cheese and our incredible caesar dressing" itemname="The Classic Caesar Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 9.95" descript="organic mesclun mix, red onions and cherry tomatoes. served with balsamic vinaigrette" itemname="Garden Salad"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 11.95" descript="baby arugula tossed with feta cheese, red onions, crushed walnuts, fresh oranges and carrots. served with raspberry vinaigrette" itemname="Baby Arugula With Oranges And Walnuts"></menu_item>
+<menu_item type="Dinner" category="Burgers And Sandwiches" price=" 10.95" descript="12 oz. angus hamburger. served with lettuce, tomatoes onions and pickles" itemname="Brooklyn Classic Burger"></menu_item>
+<menu_item type="Dinner" category="Burgers And Sandwiches" price=" 9.95" descript="two 4 oz. angus hamburgers topped with apple wood smoked bacon, lettuce and tomatoes" itemname="BLT Sliders"></menu_item>
+<menu_item type="Dinner" category="Burgers And Sandwiches" price=" 10.95" descript="marinated chicken breast grilled to perfection and topped with fresh mozzarella cheese on toasted wheat bread with guacamole, lettuce and tomatoes." itemname="Grilled Marinated Chicken Sandwich"></menu_item>
+<menu_item type="Dinner" category="Burgers And Sandwiches" price=" 9.95" descript="grilled marinated portobello mushrooms topped with melted fresh mozzarella cheese, tomatoes, arugula and guacamole. served on toasted white bread" itemname="Portobello Sandwich"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 17.95" descript="14 oz steak. served with steak fries and vegetables." itemname="Brooklyn Style Strip Steak"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 17.95" descript="12 oz. skirt steak grilled to perfection and topped with chimichurri sauce. served with rice and vegetables." itemname="Churrasco"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 13.95" descript="tender juicy fried chicken served with mashed sweet potatoes and vegetables." itemname="Southern Fried Chicken"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 14.95" descript="grilled chicken breast topped with brie cheese and white wine avocado cream sauce. served with rice and vegetables." itemname="Grilled Chicken"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 15.95" descript="grilled atlantic salmon topped with lemon butter sauce. served with mashed potatoes and vegetables." itemname="Grilled Salmon"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 17.95" descript="shrimp filled with colossal lump crabmeat stuffing and baked in garlic butter. served with rice and vegetables" itemname="Crab Stuffed Shrimp"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 16.95" descript="tender pieces of lobster filled ravioli served with a light cream tomato sauce and mushrooms." itemname="Lobster Ravioli"></menu_item>
+<menu_item type="Dinner" category="Dessert" price=" " descript="" itemname="Mix Berry Tart"></menu_item>
+<menu_item type="Dinner" category="Dessert" price=" " descript="" itemname="NY Style Cheese Cake"></menu_item>
+<menu_item type="Dinner" category="Dessert" price=" " descript="" itemname="Apple Pie Ala Mode"></menu_item>
+<menu_item type="Dinner" category="Dessert" price=" " descript="" itemname="Chocolate Mousse"></menu_item>
+</root>

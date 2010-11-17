@@ -1,0 +1,53 @@
+<root>
+<menu_item type="Lunch" category="Antipasti" price=" 7.00" descript="" itemname="La Zuppa Del Giorno"></menu_item>
+<menu_item type="Lunch" category="Antipasti" price=" 8.00" descript="wild arugula with lemon and parmesan" itemname="Rucola"></menu_item>
+<menu_item type="Lunch" category="Antipasti" price=" 10.00" descript="watermelon salad with oil-cured olives, basil, red onion and feta cheese" itemname="Insalata d&amp;#39;Anguria"></menu_item>
+<menu_item type="Lunch" category="Antipasti" price=" 14.00" descript="imported bufala mozzarella with heirloom tomatoes" itemname="La Caprese"></menu_item>
+<menu_item type="Lunch" category="Antipasti" price=" 4.00" descript="aroborio rice croquette with a molten mozzarella center" itemname="Suppli Al Telefono"></menu_item>
+<menu_item type="Lunch" category="Antipasti" price=" 13.00" descript="grilled mediterranean octopus on fingerling potato salad" itemname="Il Polipo"></menu_item>
+<menu_item type="Lunch" category="Antipasti" price=" 12.00" descript="grilled house-made pork sausage with braised escarole" itemname="La Salsiccia"></menu_item>
+<menu_item type="Lunch" category="E Secondi" price=" 9.00" descript="served with mixed greens" itemname="La Frittata Del Giorno"></menu_item>
+<menu_item type="Lunch" category="E Secondi" price=" 14.00" descript="fresh pasta filled with spinach and ricotta, served in brown butter and sage" itemname="Francobolli Spinaci e Ricotta"></menu_item>
+<menu_item type="Lunch" category="E Secondi" price=" 14.00" descript="artisan pasta with cockle clams, parsley and white wine" itemname="Spaghetti Con Le Vongole"></menu_item>
+<menu_item type="Lunch" category="E Secondi" price=" 14.00" descript="pasta with slow-cooked meat ragu" itemname="La Pasta Al Ragu"></menu_item>
+<menu_item type="Lunch" category="E Secondi" price=" " descript="market fish fillet braised with cherry tomatoes, olives, capers and white wine" itemname="Pesce all&amp;#39;Isolana"></menu_item>
+<menu_item type="Lunch" category="E Secondi" price=" 18.00" descript="grilled skirt steak with arugula salad" itemname="La Bistecca"></menu_item>
+<menu_item type="Lunch" category="E Secondi" price=" 12.00" descript="served on brioche roll with lettuce, tomato, onion marmalade, and french fries" itemname="Cheeseburger"><extra type="sub" price=" 2.00" descript="bacon"></extra>
+</menu_item>
+<menu_item type="Lunch" category="E Secondi" price=" 7.00" descript="served on a grilled ciabatta with green salad choose one: mozzarella, tomato and basil. smoked salmon, avocado and goat cheese. prosciutto and mozzarella" itemname="In Panini"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 6.00" descript="marinated mixed olives with cumin and bay leaf" itemname="Le Olive"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 6.00" descript="with balsamic vinegar" itemname="Parmigiano&amp;#45;Reggiano"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 4.00" descript="assorted house made focaccia" itemname="Focaccia"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 14.00" descript="a selection of italian cured meats" itemname="I Salumi"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 6.00" descript="the day's selection of vegetable antipasto" itemname="Antipasto Di Verdure"></menu_item>
+<menu_item type="Dinner" category="Antipasti" price=" 4.00" descript="arborio rice croquette with a molten mozzarella center" itemname="Suppli Al Telefono"></menu_item>
+<menu_item type="Dinner" category="I Primi" price=" 14.00" descript="fresh durum wheat pasta with sicilian pesto of almonds, basil and tomato" itemname="Cavatelli Con Pesto Ericino"></menu_item>
+<menu_item type="Dinner" category="I Primi" price=" 15.00" descript="artisan pasta with pork sausage, tuscan kale and fennel pollen" itemname="Orecchiette Salsiccia E Cavolonero"></menu_item>
+<menu_item type="Dinner" category="I Primi" price=" 13.00" descript="hand-cut pasta with lemon, basil and pine nuts" itemname="Fettuccine Al Limone"></menu_item>
+<menu_item type="Dinner" category="I Primi" price=" 14.00" descript="artisan pasta with pancetta, fresh farm egg, black pepper and pecorino romano" itemname="Spaghettini Alla Carbonara"></menu_item>
+<menu_item type="Dinner" category="I Primi" price=" 15.00" descript="pasta with slow-cooked meat ragu" itemname="La Pasta Al Ragu"></menu_item>
+<menu_item type="Dinner" category="I Primi" price=" 15.00" descript="fresh pasta filled with spinach and ricotta served in brown butter and sage" itemname="Francobolli Spinaci E Ricotta"></menu_item>
+<menu_item type="Dinner" category="Piatti Piccoli" price=" 10.00" descript="watermelon salad with oil-cured olives, basil, red onion and feta cheese" itemname="Insalata D&amp;#39;Anguria"></menu_item>
+<menu_item type="Dinner" category="Piatti Piccoli" price=" 14.00" descript="imported bufala mozzarella with heirloom tomatoes" itemname="La Caprese"></menu_item>
+<menu_item type="Dinner" category="Piatti Piccoli" price=" 14.00" descript="pounded natural bison tenderloin with summer truffle vinaigrette, pecorino, radicchio salad" itemname="Carpaccio Di Bisonte Al Tartufo"></menu_item>
+<menu_item type="Dinner" category="Piatti Piccoli" price=" 14.00" descript="grilled mediterranean octopus on fingerling potato salad" itemname="Il Polipo"></menu_item>
+<menu_item type="Dinner" category="Piatti Piccoli" price=" 11.00" descript="grilled flat bread with bufala mozzarella, caramelized, onions, summer squash and it's flowers, white anchovies" itemname="La Pizzetta"></menu_item>
+<menu_item type="Dinner" category="Piatti Piccoli" price=" 10.00" descript="house-made pork sausage with grilled broccoli rabe" itemname="La Salsiccia"></menu_item>
+<menu_item type="Dinner" category="I Secondi" price=" 22.00" descript="spicy half crystal valley parm chicken with marinated peppers and fresh cranberry beans" itemname="Pollo Alla Diavola"></menu_item>
+<menu_item type="Dinner" category="I Secondi" price=" " descript="market fish fillet braised with cherry tomatoes, olives, capers and white wine" itemname="Pesce All&amp;#39;Isolana"></menu_item>
+<menu_item type="Dinner" category="I Secondi" price=" 25.00" descript="typical roman lamb stew thickened with egg yolk, lemon and pecorino, served with roasted potatoes and artichokes" itemname="L&amp;#39;Angello Brodettato"></menu_item>
+<menu_item type="Dinner" category="I Secondi" price=" 29.00" descript="painted hills farm ribeye steak, arugula salad with parmigiano and lemon" itemname="La Bistecca"></menu_item>
+<menu_item type="Brunch" category="Antipasti" price=" 7.00" descript="arugula salad with lemon vinaigrette" itemname="La Mista"></menu_item>
+<menu_item type="Brunch" category="Antipasti" price=" 10.00" descript="watermelon salad with oil-cured olives, red onion, basil and feta cheese" itemname="Insalata D&amp;#39;Anguria"></menu_item>
+<menu_item type="Brunch" category="Antipasti" price=" 14.00" descript="imported bufala mozzarella wit heirloom tomatoes" itemname="La Caprese"></menu_item>
+<menu_item type="Brunch" category="Antipasti" price=" 15.00" descript="assortment of imported cured meats, parmesan and olives" itemname="Piatto Misto"></menu_item>
+<menu_item type="Brunch" category="Pranzo" price=" 14.00" descript="fresh ribbon pasta with traditional meat ragu" itemname="Tagliatelle Al Ragu"></menu_item>
+<menu_item type="Brunch" category="Pranzo" price=" 14.00" descript="fresh pasta filled with spinach, ricotta served in brown butter and sage" itemname="Ravioli Di Spinaci"></menu_item>
+<menu_item type="Brunch" category="Pranzo" price=" 12.00" descript="served on brioche roll with lettuce, tomato, onion marmalade, and fresh fries" itemname="Cheese Burger"></menu_item>
+<menu_item type="Brunch" category="Pranzo" price=" 2.00" descript="bacon" itemname="Cheese Burger *"></menu_item>
+<menu_item type="Brunch" category="Pranzo" price=" " descript="market fish fillet braised with cherry tomatoes, olives, capers and white wine" itemname="Pesce All&amp;#39;Isolana"></menu_item>
+<menu_item type="Brunch" category="Pranzo" price=" 18.00" descript="grilled skirt steak, arugula, lemon and parmesan" itemname="La Bistecca"></menu_item>
+<menu_item type="Brunch" category="Cocktails $8" price=" " descript="prosecco, peach puree" itemname="Bellini"></menu_item>
+<menu_item type="Brunch" category="Cocktails $8" price=" " descript="vodka, tomato juice, spice" itemname="Bloody Mary"></menu_item>
+<menu_item type="Brunch" category="Cocktails $8" price=" " descript="prosecco, orange juice" itemname="Mimosa"></menu_item>
+</root>

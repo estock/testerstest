@@ -1,0 +1,25 @@
+<root>
+<menu_item type="Lunch" category="Sandwiches $7" price=" " descript="with pickled red onions, arugula and horseradish aioli." itemname="Roast Beef"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $7" price=" " descript="slab bacon, tomato, horseradish, mesclun" itemname="B.L.T"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $7" price=" " descript="with hard boiled egg, capers, lemon and herbs" itemname="Tuna"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $7" price=" " descript="with apples, mustard and cornichons" itemname="Ham, Brie"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $7" price=" " descript="with chopped red pepper, cheddar, black olives and herbs" itemname="Chickpea"></menu_item>
+<menu_item type="Lunch" category="Sandwiches $7" price=" " descript="w/ parmigiana cheese" itemname="Roasted Eggplant"></menu_item>
+<menu_item type="Brunch $10" category="Smaller Things" price=" 2.50" descript="with mint and lemon" itemname="Seasonal Fruit Bowl"></menu_item>
+<menu_item type="Brunch $10" category="Smaller Things" price=" 2.50" descript="" itemname="Assorted Pastries"></menu_item>
+<menu_item type="Brunch $10" category="Smaller Things" price=" 2.00" descript="with cream cheese or butter" itemname="Toasted Bagel"></menu_item>
+<menu_item type="Brunch $10" category="Smaller Things" price=" 3.00" descript="" itemname="Roasted Potatoes"></menu_item>
+<menu_item type="Brunch $10" category="Smaller Things" price=" 3.00" descript="" itemname="Sauteed Greens"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 2.00" descript="" itemname="Hot Coffee"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 2.00" descript="" itemname="Iced Coffee"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 2.00" descript="" itemname="Espresso"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 2.00" descript="" itemname="Americano"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 3.00" descript="" itemname="Red Eye"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 3.25" descript="" itemname="Latte"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 3.25" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 3.50" descript="" itemname="Mocha"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 3.50" descript="" itemname="Miel"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 3.50" descript="" itemname="Brevé"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 3.00" descript="" itemname="Tea Latte"></menu_item>
+<menu_item type="Brunch $10" category="BFPE Coffee &amp;amp; Teas" price=" 2.00" descript="" itemname="Loose Tea"></menu_item>
+</root>

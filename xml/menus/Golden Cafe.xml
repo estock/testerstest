@@ -1,0 +1,26 @@
+<root>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Kielbasa"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Onions"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Smoked Salmon"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Muenster Cheese"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Mushrooms"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Ham"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Olives"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Bacon"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Chives"></menu_item>
+<menu_item type="Brunch Menu" category="Scrambled Eggs $6" price=" " descript="" itemname="Goat Cheese"></menu_item>
+<menu_item type="Brunch Menu" category="Salads" price=" 5.00" descript="greens, tomato, cucumbers, red onion, olives" itemname="Garden Salad"></menu_item>
+<menu_item type="Brunch Menu" category="Salads" price=" 6.00" descript="green salad with grilled chicken" itemname="Chicken Salad"></menu_item>
+<menu_item type="Brunch Menu" category="Salads" price=" 6.00" descript="green salad with tuna fish salad" itemname="Tuna Salad"></menu_item>
+<menu_item type="Brunch Menu" category="Sandwiches" price=" 7.00" descript="sandwich, spicy mayonnaise, tomato on ciabatta" itemname="Grilled Chicken"></menu_item>
+<menu_item type="Brunch Menu" category="Sandwiches" price=" 7.00" descript="sandwich, mustard, pickle on ciabatta" itemname="Grilled Kielbasa"></menu_item>
+<menu_item type="Brunch Menu" category="Sandwiches" price=" 7.00" descript="cream cheese, dill on ciabatta" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Brunch Menu" category="Sandwiches" price=" 6.00" descript="goat cheese, eggplant, zucchini, yellow squash, roasted red peppers on ciabatta" itemname="Grilled Vegetables"></menu_item>
+<menu_item type="Brunch Menu" category="Sandwiches" price=" 8.00" descript="french fries, mixed greens" itemname="Cheeseburger Half Pound"></menu_item>
+<menu_item type="Brunch Menu" category="Sandwiches" price=" 2.75" descript="" itemname="Fresh Carrot &amp;amp; Vegetable Juice"></menu_item>
+<menu_item type="Brunch Menu" category="Specialties" price=" 6.00" descript="served with yogurt, fresh fruit &amp; honey" itemname="Organic Granola"></menu_item>
+<menu_item type="Brunch Menu" category="Specialties" price=" 5.00" descript="served with seasonal fruit &amp; maple syrup" itemname="French Toast"></menu_item>
+<menu_item type="Brunch Menu" category="Specialties" price=" 6.00" descript="with cheese, chocolate syrup, whipped cream &amp; fresh fruit" itemname="Blintzes"></menu_item>
+<menu_item type="Brunch Menu" category="Specialties" price=" 7.00" descript="potato pancakes, smoked salmon, cream cheese, capers, red onion &amp; mixed greens" itemname="Smoked Salmon Platter"></menu_item>
+<menu_item type="Brunch Menu" category="Specialties" price=" 7.00" descript="kielbasa, buckwheat, scrambled eggs, mixed greens" itemname="Polish Brunch"></menu_item>
+</root>

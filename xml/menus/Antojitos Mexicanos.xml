@@ -1,0 +1,145 @@
+<root>
+<menu_item type="default" category="Breakfast $5" price=" " descript="egg with ham" itemname="Huevos Con Jamon"></menu_item>
+<menu_item type="default" category="Breakfast $5" price=" " descript="eggs with sausage" itemname="Huevos Con Chorizo"></menu_item>
+<menu_item type="default" category="Breakfast $5" price=" " descript="eggs mexican style" itemname="Huevos A La Mexicana"></menu_item>
+<menu_item type="default" category="Breakfast $5" price=" " descript="egg ranch style" itemname="Huevos Rancheros"></menu_item>
+<menu_item type="default" category="Tacos" price=" " descript="salted beef" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Tacos" price=" " descript="spicy pork" itemname="Enchilada"></menu_item>
+<menu_item type="default" category="Tacos" price=" " descript="sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Tacos" price=" " descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Tacos" price=" " descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Tacos" price=" " descript="chicken" itemname="Tinga"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 3.00" descript="mushrooms" itemname="Hongos"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 2.75" descript="salted beef" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 2.75" descript="sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 2.75" descript="spicy pork" itemname="Enchilada"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 2.75" descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 2.75" descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 2.75" descript="chicken" itemname="Tinga"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 2.75" descript="cheese" itemname="Quesillo"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 3.75" descript="" itemname="Carne &amp;amp; Quesillo"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 4.00" descript="" itemname="Hongos Y Quesillo"></menu_item>
+<menu_item type="default" category="Huaraches, Sopes &amp;amp; Quesadillas" price=" 2.50" descript="plain" itemname="Sin Carne"></menu_item>
+<menu_item type="default" category="Burritos" price=" 5.50" descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Burritos" price=" 5.50" descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Burritos" price=" 5.50" descript="spicy pork" itemname="Enchilada"></menu_item>
+<menu_item type="default" category="Burritos" price=" 5.50" descript="sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Burritos" price=" 5.50" descript="salted beef" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Burritos" price=" 5.00" descript="cheese" itemname="Queso"></menu_item>
+<menu_item type="default" category="Enchiladas" price=" 6.00" descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Enchiladas" price=" 6.00" descript="cheese" itemname="Queso"></menu_item>
+<menu_item type="default" category="Enchiladas" price=" 6.50" descript="beef" itemname="Res"></menu_item>
+<menu_item type="default" category="Enchiladas" price=" 6.50" descript="sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Enchiladas" price=" 6.50" descript="spicy pork" itemname="Enchilada"></menu_item>
+<menu_item type="default" category="Enchiladas" price=" 6.50" descript="salted beef" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Enchiladas" price=" 7.00" descript="mixed" itemname="Mixtas"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 6.50" descript="" itemname="Milanesa Res O Pollo"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 6.50" descript="" itemname="Queso"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 6.50" descript="" itemname="Jamon"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 6.50" descript="" itemname="Bistec"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 6.50" descript="" itemname="Enchilada"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 6.50" descript="" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 6.50" descript="" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 6.50" descript="" itemname="Quesillo"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 7.00" descript="" itemname="Chorizo Con Huevo"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price=" 7.00" descript="" itemname="Jamon Con Huevo"></menu_item>
+<menu_item type="default" category="Tortas &amp;amp; Cemitas" price="torta 7.00" descript="" itemname="Carne Con Quesillo"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 5.00" descript="plain" itemname="Sin Carne"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 6.00" descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 6.00" descript="sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 6.00" descript="spicy pork" itemname="Enchilada"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 6.00" descript="salted beef" itemname="Cecina"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 6.00" descript="steak" itemname="Bistec"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 6.00" descript="egg" itemname="Huevo"></menu_item>
+<menu_item type="default" category="Chilaquiles" price=" 8.00" descript="beef &amp; egg" itemname="Carne &amp;amp; Huevo"></menu_item>
+<menu_item type="default" category="Tacos Dorados" price=" 5.50" descript="chicken" itemname="Pollo"></menu_item>
+<menu_item type="default" category="Tacos Dorados" price=" 5.50" descript="cheese" itemname="Queso"></menu_item>
+<menu_item type="default" category="Tacos Dorados" price=" 6.00" descript="mixed" itemname="Combinadas"></menu_item>
+<menu_item type="default" category="Nachos" price=" 3.50" descript="" itemname="Nachos Con Guacamole"></menu_item>
+<menu_item type="default" category="Nachos" price=" 2.00" descript="" itemname="Guacamole"></menu_item>
+<menu_item type="default" category="Nachos" price=" 7.00" descript="" itemname="Nachos Texanos"></menu_item>
+<menu_item type="default" category="Tostadas" price=" 2.00" descript="plain" itemname="Sencillas"></menu_item>
+<menu_item type="default" category="Tostadas" price=" 2.25" descript="chicken or beef" itemname="Pollo O Res"></menu_item>
+<menu_item type="default" category="Tostadas" price=" 2.50" descript="sausage" itemname="Chorizo"></menu_item>
+<menu_item type="default" category="Tostadas" price=" 2.50" descript="spicy pork" itemname="Enchilada"></menu_item>
+<menu_item type="default" category="Tostadas" price=" 2.50" descript="salted beef" itemname="Cecina O Tinga"></menu_item>
+<menu_item type="default" category="Tostadas" price=" 3.00" descript="beef &amp; cheese" itemname="Carne Y Quesillo"></menu_item>
+<menu_item type="default" category="Tostadas" price=" 2.75" descript="cheese" itemname="Quesillo"></menu_item>
+<menu_item type="default" category="Chalupas" price=" 5.50" descript="" itemname="Sencillas (4)"></menu_item>
+<menu_item type="default" category="Chalupas" price=" 7.50" descript="" itemname="Con Carne"></menu_item>
+<menu_item type="default" category="Sopas" price=" 6.00" descript="corn soup with pork" itemname="Pozole Von 2 Tostadas Reg"></menu_item>
+<menu_item type="default" category="Sopas" price=" 8.00" descript="with 2 tostadas with meat" itemname="Con 2 Tostadas Con Carne"></menu_item>
+<menu_item type="default" category="Sopas" price=" 8.50" descript="shrimp soup" itemname="Caldo De Camaron"></menu_item>
+<menu_item type="default" category="Sopas" price=" 6.00" descript="chicken soup" itemname="Sopa De Pollo"></menu_item>
+<menu_item type="default" category="Sopas" price=" 6.50" descript="spicy chicken soup" itemname="Chilate De Pollo"></menu_item>
+<menu_item type="default" category="Sopas" price=" 6.50" descript="tripe soup" itemname="Pancita"></menu_item>
+<menu_item type="default" category="Sopas" price=" 8.50" descript="" itemname="Ceviche De Camarones"></menu_item>
+<menu_item type="default" category="Hamburguesas" price=" 4.50" descript="hamburger" itemname="Sencilla"></menu_item>
+<menu_item type="default" category="Hamburguesas" price=" 5.00" descript="cheeseburger" itemname="Con Queso"></menu_item>
+<menu_item type="default" category="Salads" price=" 3.00" descript="regular salad" itemname="Ensalada Regular"></menu_item>
+<menu_item type="default" category="Salads" price=" 3.50" descript="avocado salad" itemname="Ensalada De Aguacate"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.00" descript="chicken over salad" itemname="Ensalada Con Pollo Asado O Empanizado"></menu_item>
+<menu_item type="default" category="Salads" price=" 3.00" descript="avocado" itemname="Aguacate"></menu_item>
+<menu_item type="default" category="Platters" price=" 10.00" descript="spicy shrimp" itemname="Camarones Enchilados"></menu_item>
+<menu_item type="default" category="Platters" price=" 10.00" descript="shrimp mexican style" itemname="Camarones A La Mexicana"></menu_item>
+<menu_item type="default" category="Platters" price=" 10.00" descript="breaded shrimp" itemname="Camarones Empanizados"></menu_item>
+<menu_item type="default" category="Platters" price=" 8.50" descript="shrimp cocktail" itemname="Coctel De Camarones"></menu_item>
+<menu_item type="default" category="Platters" price=" 10.00" descript="shrimp fajitas" itemname="Fajitas De Camarones"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="beef or chicken fajitas" itemname="Fajitas De Res O De Pollo"></menu_item>
+<menu_item type="default" category="Platters" price=" 10.00" descript="mixed fajitas" itemname="Fajitas Mixtas"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="salted beef with onions" itemname="Cecina Encebollado"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="salted beef mexican style" itemname="Cecina A La Mexicana"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="grilled salted beef" itemname="Cecina Asada"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="beef with onions" itemname="Bistec Encebollado"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="beef ranch style" itemname="Bistec Ranchero"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="beef in hot sauce" itemname="Bistec En Chile Pacilla"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="beef mexican style" itemname="Bistec A La Mexicana"></menu_item>
+<menu_item type="default" category="Platters" price=" 8.50" descript="breaded beef or chicken" itemname="Milanesa De Res O Pollo"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="grilled chicken" itemname="Pollo Asado"></menu_item>
+<menu_item type="default" category="Platters" price=" 9.00" descript="chicken mexican style" itemname="Pollo A La Mexicana"></menu_item>
+<menu_item type="default" category="Platters" price=" 8.50" descript="pork with red sauce" itemname="Adobo Rojo De Cerdo"></menu_item>
+<menu_item type="default" category="Platters" price=" 8.50" descript="chicken with green sauce" itemname="Pipian Verde De Pollo"></menu_item>
+<menu_item type="default" category="Platters" price=" 8.50" descript="chicken on soupy" itemname="Mole Poblano De Pollo"></menu_item>
+<menu_item type="default" category="Platters" price=" 8.50" descript="stuffed peppers with cheese" itemname="Chiles Rellenos De Queso"></menu_item>
+<menu_item type="default" category="Platters" price=" 10.00" descript="fried porgie" itemname="Mojarra Frita"></menu_item>
+<menu_item type="default" category="Platters" price=" 3.00" descript="rice &amp; beans" itemname="Orden De Arroz Y Frijoles"></menu_item>
+<menu_item type="default" category="Platters" price=" 2.00" descript="" itemname="Papas Fritas"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Boing - Manzanita"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Pepsi - Coca Cola"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Fanta - Squirt"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Sidral - Sangria"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Jarritos"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Sodas En Lata"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.00" descript="" itemname="Agua Botella"></menu_item>
+<menu_item type="default" category="Beverages" price=" 1.50" descript="" itemname="Snapple"></menu_item>
+<menu_item type="default" category="Beverages" price=" 3.00" descript="" itemname="Pollas"></menu_item>
+<menu_item type="default" category="Bebidas Calientes" price=" .75" descript="" itemname="Te"></menu_item>
+<menu_item type="default" category="Bebidas Calientes" price=" .75" descript="" itemname="Cafe"></menu_item>
+<menu_item type="default" category="Bebidas Calientes" price=" 1.00" descript="" itemname="Chocolate"></menu_item>
+<menu_item type="default" category="Bebidas Calientes" price=" 1.50" descript="" itemname="Arroz Con Leche"></menu_item>
+<menu_item type="default" category="Aguas Frescas" price=" 1.50" descript="" itemname="Jamaica"></menu_item>
+<menu_item type="default" category="Aguas Frescas" price=" 1.50" descript="" itemname="Horchata"></menu_item>
+<menu_item type="default" category="Aguas Frescas" price=" 1.50" descript="" itemname="Tamarindo"></menu_item>
+<menu_item type="default" category="Aguas Frescas" price=" 2.00" descript="" itemname="Fresa"></menu_item>
+<menu_item type="default" category="Aguas Frescas" price=" 2.00" descript="" itemname="Melon"></menu_item>
+<menu_item type="default" category="Aguas Frescas" price=" 2.00" descript="" itemname="Sandia"></menu_item>
+<menu_item type="default" category="Licuados" price=" 3.00" descript="" itemname="Platano"></menu_item>
+<menu_item type="default" category="Licuados" price=" 3.00" descript="" itemname="Fresa"></menu_item>
+<menu_item type="default" category="Licuados" price=" 3.00" descript="" itemname="Avena"></menu_item>
+<menu_item type="default" category="Licuados" price=" 3.00" descript="" itemname="Mamey"></menu_item>
+<menu_item type="default" category="Licuados" price=" 3.00" descript="" itemname="Papaya"></menu_item>
+<menu_item type="default" category="Licuados" price=" 3.50" descript="" itemname="Combinado"></menu_item>
+<menu_item type="default" category="Jugos Naturales" price=" 3.50" descript="" itemname="Naranja"></menu_item>
+<menu_item type="default" category="Jugos Naturales" price=" 3.50" descript="" itemname="Zanahoria"></menu_item>
+<menu_item type="default" category="Jugos Naturales" price=" 4.00" descript="" itemname="Combinado"></menu_item>
+<menu_item type="default" category="Jugos Naturales" price=" 2.00" descript="" itemname="Limonada"></menu_item>
+<menu_item type="default" category="Jugos Naturales" price=" 1.50" descript="" itemname="Agua De Limon"></menu_item>
+<menu_item type="default" category="Postres" price=" 2.25" descript="" itemname="Flan"></menu_item>
+<menu_item type="default" category="Postres" price=" 1.50" descript="" itemname="Gelatina De Leche"></menu_item>
+<menu_item type="default" category="Postres" price=" 1.00" descript="" itemname="Gelatina De Agua"></menu_item>
+<menu_item type="default" category="Fines De Semana $1.50" price=" " descript="Pollo Con Salsa Verde" itemname="Tamales"></menu_item>
+<menu_item type="default" category="Fines De Semana $1.50" price=" " descript="" itemname="Mole De Cerdo (rajas con queso)"></menu_item>
+<menu_item type="default" category="Fines De Semana $1.50" price=" " descript="En Salsa Verde" itemname="Costillas De Cerdo"></menu_item>
+<menu_item type="default" category="Fines De Semana $1.50" price=" " descript="En Salsa Verde" itemname="Chicharron"></menu_item>
+<menu_item type="default" category="Fines De Semana $1.50" price=" " descript="" itemname="Tacos De Barbacoa"></menu_item>
+</root>

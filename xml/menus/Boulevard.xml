@@ -1,0 +1,15 @@
+<root>
+<menu_item type="default" category="Soup Of The Day" price=" 4.00" descript="" itemname="Served With Baguette"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.00" descript="with chicken (romaine lettuce, cherry tomatoes, homemade croutons, shaved parmesan cheese, with a light creamy dressing)" itemname="1. Caesar Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 6.00" descript="" itemname="without chicken"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.00" descript="avocado, mesclun, cranberries, apple, gorgonzola or goat cheese with raspberry vinaigrette" itemname="2. Avocado Salad"></menu_item>
+<menu_item type="default" category="Salads" price=" 7.00" descript="with goat cheese, walnuts, pears and sherry vinaigrette" itemname="3. Beet Salad"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="gruyere cheese, arugula, horseradish tapenade on french baguette" itemname="1. Turkey"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="and warm goat cheese with extra virgin olive oil on ciabatta" itemname="2. Roasted Vegetables"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="melted gruyere or american cheese and mixed greens on rye bread" itemname="3. Tuna Salad"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.00" descript="salami, manchego cheese, mixed greens, black olive tapenade, extra virgin olive oil &amp; balsamic vinegar on french baguette" itemname="4. Soppressata"></menu_item>
+<menu_item type="default" category="Sandwiches" price=" 7.50" descript="chipotle mayonnaise, gruyere cheese, tomatoes, mixed greens and sauteed onions on toasted french baguette" itemname="5. Grilled Chicken"></menu_item>
+<menu_item type="default" category="Panini $7" price=" " descript="gruyere or manchego cheese, tomatoes, mixed greens and truffle oil on ciabatta" itemname="1. Ham"></menu_item>
+<menu_item type="default" category="Panini $7" price=" " descript="pesto, tomato and basil on ciabatta, prosciutto optional" itemname="2. Fresh Mozzarella"></menu_item>
+<menu_item type="default" category="Panini $7" price=" " descript="with swiss, american and parmesan on 7 grain bread or ciabatta tomatoes optional" itemname="3. Grilled Cheese"></menu_item>
+</root>

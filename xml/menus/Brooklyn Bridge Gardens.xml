@@ -1,0 +1,16 @@
+<root>
+<menu_item type="Dinner" category="Appetizers" price=" 16.00" descript="with guacamole" itemname="Jumbo Lump Crab Cake"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 12.00" descript="pistachio nuts, goat cheese grape fruit &amp; arugula" itemname="Roasted Beet Salad"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.00" descript="cherry tomatoes, pecans, gorgonzola, haricot vert, bacon &amp; baby greens" itemname="Garden Salad"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 11.00" descript="pine nuts, raisins &amp; tomato pomodoro" itemname="Sicilian Style Meatball"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 11.00" descript="radicchio, thai chilis, cilantro, and lemon juice" itemname="Grilled Calamari"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 10.00" descript="heirloom tomatoes" itemname="Mini Fontina Grilled Cheese Sandwiches"></menu_item>
+<menu_item type="Dinner" category="Appetizers" price=" 11.00" descript="light curry broth" itemname="Prince Edward Island Mussels"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 19.00" descript="wilted dandelion greens, crispy potato &amp; pomegranate Рcitrus reduction" itemname="Caramelized Maine Sea Scallops"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 16.00" descript="shitake mushrooms, corn &amp; cherry tomatoes" itemname="Homemade Gnocchi"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 20.00" descript="port shallot glaze, field greens &amp; mashed potatoes" itemname="Grilled Hanger Steak"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 16.00" descript="served over creamy polenta and broccoli rabe" itemname="Roasted Half Chicken"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 18.00" descript="served w ratatouille" itemname="Grilled Salmon"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 18.00" descript="with hard boiled eggs, green beans, calamata olives, grilled asparagus &amp; baby bib lettuce" itemname="Grilled Sushi Grade Tuna Salad"></menu_item>
+<menu_item type="Dinner" category="Entrees" price=" 12.00" descript="topped with frizzled onions and served with our homemade fries or salad" itemname="The BBQ Burger"></menu_item>
+</root>

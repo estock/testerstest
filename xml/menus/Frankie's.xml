@@ -1,0 +1,82 @@
+<root>
+<menu_item type="Breakfast" category="Breakfast Sandwiches" price=" 1.75" descript="any style" itemname="One Egg"><extra type="sub" price=" 2.75" descript="any style with meat"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Breakfast Sandwiches" price=" 2.20" descript="any style" itemname="Two Eggs"><extra type="sub" price=" 3.20" descript="any style with meat"></extra>
+<extra type="sub" price=" 4.25" descript="with steak or pastrami"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 3.99" descript="" itemname="Plain"></menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 4.50" descript="" itemname="Cheese"></menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 5.00" descript="" itemname="Bacon, Ham Or Sausage"></menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 5.25" descript="" itemname="Western"></menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 5.75" descript="" itemname="Greek"></menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 4.75" descript="" itemname="Spanish"></menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 6.25" descript="" itemname="Vegetarian"></menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 5.00" descript="" itemname="Mushroom"></menu_item>
+<menu_item type="Breakfast" category="Three Eggs Omelet's" price=" 4.50" descript="" itemname="Italian"></menu_item>
+<menu_item type="Breakfast" category="Homemade Jumbo Muffins" price=" 1.50" descript="" itemname="Corn, Bran, Cappuccino Or Blueberry"></menu_item>
+<menu_item type="Breakfast" category="Homemade Jumbo Muffins" price=" 1.75" descript="with butter" itemname="Toasted"></menu_item>
+<menu_item type="Breakfast" category="Homemade Jumbo Muffins" price=" 2.00" descript="with butter and cinnamon" itemname="Hot Oatmeal"></menu_item>
+<menu_item type="Breakfast" category="Breakfast Platters" price=" 3.50" descript="any style includes potatoes and toast" itemname="Two Eggs"><extra type="sub" price=" 4.75" descript="with meat includes potatoes and toast"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Griddle Specials" price=" 3.75" descript="" itemname="Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Griddle Specials" price=" 3.75" descript="" itemname="French Toast Or Waffles"></menu_item>
+<menu_item type="Breakfast" category="Griddle Specials" price=" 4.75" descript="with meat" itemname="Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Griddle Specials" price=" 4.75" descript="with meat" itemname="French Toast Or Waffles"></menu_item>
+<menu_item type="Breakfast" category="Griddle Specials" price=" 6.25" descript="large pancake, two eggs, ham, bacon, sausage and home fries" itemname="&quot;Hungry Man Special&quot; *"></menu_item>
+<menu_item type="Breakfast" category="Griddle Specials" price=" 4.75" descript="" itemname="Fresh Fruit Pancakes"></menu_item>
+<menu_item type="Breakfast" category="Griddle Specials" price=" 5.00" descript="" itemname="Breakfast Hot Waffle Sandwiches"></menu_item>
+<menu_item type="Breakfast" category="Extras" price=" 1.00" descript="" itemname="Buttered Toast Or Roll"><extra type="sub" price=" 1.50" descript="with cream cheese"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Extras" price=" 1.50" descript="" itemname="Butter Bagel Or English"><extra type="sub" price=" 1.75" descript="with cream cheese"></extra>
+</menu_item>
+<menu_item type="Breakfast" category="Extras" price=" 2.00" descript="" itemname="Sausage, Bacon Or Ham"></menu_item>
+<menu_item type="Breakfast" category="Extras" price=" 2.00" descript="" itemname="Home Fries"></menu_item>
+<menu_item type="Breakfast" category="Extras" price=" .75" descript="per egg" itemname="Egg Whites"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 1.50" descript="" itemname="Coffee"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 1.50" descript="" itemname="Tea"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 1.50" descript="" itemname="Herbal Tea"></menu_item>
+<menu_item type="Breakfast" category="default" price=" 1.50" descript="" itemname="Hot Chocolate"></menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Wraps" price=" 6.25" descript="" itemname="Chef Salad"></menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Wraps" price=" 5.25" descript="" itemname="Greek Salad"><extra type="sub" price=" 7.25" descript="with chicken"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Wraps" price=" 4.25" descript="" itemname="Garden Salad"><extra type="sub" price=" 6.25" descript="with chicken"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Wraps" price=" 4.25" descript="" itemname="Caesar Salad"><extra type="sub" price=" 6.25" descript="with chicken"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Wraps" price=" 5.95" descript="" itemname="Grilled, Breaded Chicken Wrap"></menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Wraps" price=" 5.50" descript="" itemname="Tuna, Chicken, Egg Salad Wrap"></menu_item>
+<menu_item type="Lunch" category="Salads &amp;amp; Wraps" price=" 5.95" descript="" itemname="Chicken Caesar Wrap"></menu_item>
+<menu_item type="Lunch" category="Specialty Plates" price=" 4.75" descript="" itemname="Chicken Souvlaki"><extra type="sub" price=" 6.75" descript="platter"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Specialty Plates" price=" 5.75" descript="" itemname="Pastrami Rueben"></menu_item>
+<menu_item type="Lunch" category="Specialty Plates" price=" 2.50" descript="" itemname="Pork Shish-Ka-Bob"></menu_item>
+<menu_item type="Lunch" category="Stackers" price=" 7.75" descript="bacon, lettuce, tomato" itemname="Turkey"></menu_item>
+<menu_item type="Lunch" category="Stackers" price=" 7.75" descript="swiss, bacon, lettuce, tomato" itemname="Roast Beef"></menu_item>
+<menu_item type="Lunch" category="Stackers" price=" 7.75" descript="swiss, russian dressing, lettuce and tomato" itemname="Pastrami"></menu_item>
+<menu_item type="Lunch" category="Stackers" price=" 6.95" descript="lettuce and tomato" itemname="Tuna Salad"></menu_item>
+<menu_item type="Lunch" category="Stackers" price=" 7.75" descript="monterey cheese, avocado, lettuce and tomato" itemname="Grilled Chicken"></menu_item>
+<menu_item type="Lunch" category="Tasty Bites" price=" 3.20" descript="" itemname="Grilled Cheese"><extra type="sub" price=" 4.20" descript="with meat"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Tasty Bites" price=" 4.25" descript="" itemname="Bacon, Lettuce And Tomato"></menu_item>
+<menu_item type="Lunch" category="Tasty Bites" price=" 4.75" descript="" itemname="Tuna Melt"></menu_item>
+<menu_item type="Lunch" category="Tasty Bites" price=" 4.20" descript="on a roll" itemname="Tuna Or Chicken Salad"><extra type="sub" price=" 5.20" descript="on a hero"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Tasty Bites" price=" 3.00" descript="on a roll" itemname="Egg Salad"><extra type="sub" price=" 4.00" descript="on a hero"></extra>
+</menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 6.00" descript="" itemname="Chicken Parm"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 6.00" descript="" itemname="Eggplant Parm"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 7.00" descript="" itemname="Shrimp Parm"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 5.00" descript="" itemname="Potato, Pepper, Egg"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 5.95" descript="" itemname="Pastrami"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 5.95" descript="" itemname="Roast Beef"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 5.95" descript="" itemname="Roasted Turkey"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 5.90" descript="" itemname="Grilled Chicken"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 6.25" descript="" itemname="Philly Cheesesteak"></menu_item>
+<menu_item type="Lunch" category="Hot Heros" price=" 6.25" descript="" itemname="Pizza Steak"></menu_item>
+<menu_item type="Lunch" category="Burgers" price="dlx 6.20" descript="" itemname="Beef Burger"></menu_item>
+<menu_item type="Lunch" category="Burgers" price="dlx 6.70" descript="" itemname="Cheese Burger"></menu_item>
+<menu_item type="Lunch" category="Burgers" price="dlx 7.20" descript="" itemname="Bacon Cheese"></menu_item>
+<menu_item type="Lunch" category="Burgers" price="dlx 7.20" descript="" itemname="Pizza Burger"></menu_item>
+<menu_item type="Lunch" category="Burgers" price="dlx 6.70" descript="" itemname="Turkey Burger"></menu_item>
+<menu_item type="Lunch" category="Burgers" price="dlx 6.70" descript="" itemname="Veggie Burger"></menu_item>
+</root>

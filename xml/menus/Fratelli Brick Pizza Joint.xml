@@ -1,0 +1,16 @@
+<root>
+<menu_item type="Entrees" category="Veal $16" price=" " descript="breaded veal in tomato sauce and mozzarella" itemname="Veal Parmigiana"></menu_item>
+<menu_item type="Entrees" category="Veal $16" price=" " descript="sauteed veal scaloppini with mushrooms in marsala sauce" itemname="Veal Marsala"></menu_item>
+<menu_item type="Entrees" category="Veal $16" price=" " descript="sauteed veal in lemon sauce" itemname="Veal Francese"></menu_item>
+<menu_item type="Entrees" category="Veal $16" price=" " descript="sauteed veal with grilled portobello mushrooms shallots in cabernet demi glaze" itemname="Veal Portobello"></menu_item>
+<menu_item type="Entrees" category="Pollo" price=" 13.00" descript="breaded breast of chicken in tomato sauce &amp; mozzarella" itemname="Chicken Parmigiana"></menu_item>
+<menu_item type="Entrees" category="Pollo" price=" 14.00" descript="sauteed chicken breast with mushrooms in marsala sauce" itemname="Chicken Marsala"></menu_item>
+<menu_item type="Entrees" category="Pollo" price=" 14.00" descript="sauteed chicken in lemon sauce" itemname="Chicken Francese"></menu_item>
+<menu_item type="Entrees" category="Pollo" price=" 13.00" descript="sauteed chicken breast with lemon capers &amp; shallots served with linguini" itemname="Chicken Picata"></menu_item>
+<menu_item type="Entrees" category="Pollo" price=" 11.00" descript="grilled chicken with lemon sauce served with prosciutto spinach and fresh mozzarella." itemname="Chicken Paillard"></menu_item>
+<menu_item type="Entrees" category="Pollo" price=" 14.00" descript="chicken breast topped with proscuitto spinach &amp; fresh mozzarella" itemname="Chicken Saltimbocca"></menu_item>
+<menu_item type="Entrees" category="Pesce" price=" 16.00" descript="breaded shrimp with tomato sauce &amp; mozzarella served with pasta" itemname="Shrimp Parmigiana"></menu_item>
+<menu_item type="Entrees" category="Pesce" price=" 14.00" descript="sauteed shrimp with garlic &amp; white wine sauce" itemname="Shrimp Scampi"></menu_item>
+<menu_item type="Entrees" category="Pesce" price=" 16.00" descript="" itemname="Shrimp Francese"></menu_item>
+<menu_item type="Entrees" category="Pesce" price=" 16.00" descript="" itemname="Calamari Marinara"></menu_item>
+</root>

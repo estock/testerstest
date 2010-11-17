@@ -1,0 +1,213 @@
+<root>
+<menu_item type="Brunch" category="Starters" price=" 7.00" descript="almond, cucumber, garlic" itemname="Chilled White Grape Cava Soup"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 9.00" descript="farmer markets honey roasted caramels, granny smith apples, sherry vinegar, e.v.o.o" itemname="Frisee With Asturian Blue Cheese"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 10.00" descript="cream cheese, herb pesto, arugula" itemname="Bagel With Home Cured Salmon"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 14.00" descript="tuna loin, dry salted tuna steaks, bottarga, fresh arugula salad, lemon vinaigrette" itemname="Cured Tuna Sampler"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 14.00" descript="garlic alioli, roasted red pepper, caramelized onions" itemname="NY Sirloin Steak With Fried Egg And Roasted Red Pepper"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 12.00" descript="roasted red peppers, grilled eggplant, zucchini, fresh organic herb pesto, alioli" itemname="Grilled Chicken Breast With Market Vegetables"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 10.00" descript="grilled brioche, roasted cherry tomato, gus pickles" itemname="Barberry Angus Burger With Cucumber Alioli"><extra type="sub" price=" 1.50" descript="additional cheese: danish blue, american, british cheddar, swiss"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 10.00" descript="roasted tomatoes, green peppers, spanish onions" itemname="Oven Baked Country Farm Eggs"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 9.00" descript="organic tomato salad" itemname="Potato Omelette With Spinach"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 10.00" descript="pork belly crisps, crispy potato wedges, bread croutons" itemname="Fried Broken Eggs With Fresh Asparagus"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 10.00" descript="sauteed mixed berries, cava sabayon" itemname="Brioche French Toast"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 14.00" descript="orange segments, jalapeno peppers, cilantro" itemname="Vodka Cured Salmon With Arugula Salad"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 14.00" descript="olives, cheese, hard boiled egg, pork belly crisps, butter, fruit compote" itemname="Continental Breakfast"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 15.00" descript="charcoal grilled chorizo, white criollo sausage, blood sausage" itemname="Selection Of Grilled Sausages With Sauteed Peppers &amp;amp; Onions"></menu_item>
+<menu_item type="Brunch" category="Home Baked Goods $3" price=" " descript="" itemname="Muffin"></menu_item>
+<menu_item type="Brunch" category="Home Baked Goods $3" price=" " descript="" itemname="Croissant"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.00" descript="" itemname="Bagel"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.00" descript="" itemname="Grilled Chorizo"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.50" descript="" itemname="Potato Wedges."></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 1.50" descript="" itemname="Butter Or Jam"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.50" descript="" itemname="Crispy Pork Belly"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.50" descript="" itemname="Fried Eggs"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 1.50" descript="" itemname="Butter Or Ham"></menu_item>
+<menu_item type="Brunch" category="Beverages" price="(1 lt) 6.00" descript="" itemname="Lurisia Sparkling"></menu_item>
+<menu_item type="Brunch" category="Beverages" price="(1 lt) 6.00" descript="" itemname="Lurisia Still"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Root Beer"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Orange Cream Soda"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylans Birch Beer"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Diet Cream Soda"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Seltzer Lemon"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.00" descript="" itemname="Barberry Fresh Lemonade"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.25" descript="" itemname="Barberry Ginger Lemonade"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.25" descript="" itemname="Mixed Berry Lemonade"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.75" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 2.50" descript="" itemname="Solo"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.00" descript="" itemname="Espresso Double"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.50" descript="" itemname="Cafe Americano"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 2.50" descript="" itemname="American Coffee"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.75" descript="" itemname="Cafe Latte"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.50" descript="" itemname="Cafe Mocha"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.50" descript="" itemname="Iced Coffee"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 4.00" descript="" itemname="Iced Mocha"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.25" descript="" itemname="Iced Tea"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Hot Cinnamon Spice"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Japanese Sencha"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="with citrus &amp; ginkgo" itemname="Organic Green Tea"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Jasmine"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Earl Grey"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Black Currant"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Organic Peppermint"></menu_item>
+<menu_item type="Brunch" category="Juices" price="lg 5.00" descript="" itemname="Fresh Oj Or Grapefruit"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Brunch Classics $9" price=" " descript="bombay sapphire, egg white, orange flower water, orange marmalade" itemname="Wake Up Call"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Brunch Classics $9" price=" " descript="espresso shot, stolichnaya, belgium cocoa, baileyճ, kahlua" itemname="Mocha Martini"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Brunch Classics $9" price=" " descript="stolichnaya, tomato juice, red devil, celery salt, horseradish" itemname="Bloody Mary"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Brunch Classics $9" price=" " descript="home made barberry lemonade, bacardi rum, lemon myers simple syrup" itemname="Brooklyn Lemonade"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Brunch Classics $9" price=" " descript="tanqueray, fresh lemon juice, cava" itemname="French 75"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Brunch Classics $9" price=" " descript="veev acai berry liquor, lemon juice, muddled berries" itemname="Acai Berry"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Brunch Classics $9" price=" " descript="myers dark rum, tia maria, fresh blueberries" itemname="Barberry Cobbler"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Morning Prosecco Fizz $8" price=" " descript="fresh oj" itemname="Mimosa"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Morning Prosecco Fizz $8" price=" " descript="mango puree" itemname="Mango Fizz"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Morning Prosecco Fizz $8" price=" " descript="blood orange puree" itemname="Blood Orange Fizz"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Morning Prosecco Fizz $8" price=" " descript="blackberry concentrate" itemname="Blackberry Fizz"></menu_item>
+<menu_item type="Brunch Cocktails" category="Barberry Morning Prosecco Fizz $8" price=" " descript="white peach puree" itemname="Peachy Fizz"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Draft" price=" 6.00" descript="" itemname="Hoegaarden"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Draft" price=" 6.00" descript="" itemname="Stella"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Draft" price=" 6.00" descript="" itemname="Anchor Liberty Ale"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Draft" price=" 5.00" descript="" itemname="Brooklyn Lager"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Draft" price=" 6.00" descript="" itemname="Brooklyn Summer Ale"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Draft" price=" 6.00" descript="" itemname="Paulaner Hefe-Weizen"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Draft" price=" 10.00" descript="four beers on tap" itemname="Beer Flights"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Bottle" price=" 7.00" descript="" itemname="Toasted Lager, Blue Point, NY"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Bottle" price=" 6.00" descript="" itemname="Alhambra, Spain"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Bottle" price=" 7.00" descript="" itemname="Magic Hat #9, Vermont"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Bottle" price=" 6.00" descript="" itemname="Abita Amber, LA"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Bottle" price=" 9.00" descript="" itemname="Chimay Red, Belgium"></menu_item>
+<menu_item type="Brunch Cocktails" category="Beer Bottle" price=" 9.00" descript="" itemname="Schneider Weisse, Germany"></menu_item>
+<menu_item type="Cocktails" category="Barberry Classics $10" price=" " descript="whiskey, bitter, sugar, soda water" itemname="Old Fashioned 1880, Unknown Bartender Pennedis"></menu_item>
+<menu_item type="Cocktails" category="Barberry Classics $10" price=" " descript="gin, fresh lemon juice, powder sugar, soda water" itemname="Tom Collins 1876, New York"></menu_item>
+<menu_item type="Cocktails" category="Barberry Classics $10" price=" " descript="bourbon, simple syrup, fresh mint" itemname="Mint Julep 1803, Virginia"></menu_item>
+<menu_item type="Cocktails" category="Barberry Classics $10" price=" " descript="sazerac rye whiskey, peychauds bitter, simple syrup, absinthe" itemname="Sazerac 1830, Antoine Amedee Peychaud, New Orleans, Louisiana"></menu_item>
+<menu_item type="Cocktails" category="Barberry Classics $10" price=" " descript="gin, sweet vermouth, campari" itemname="Negroni 1919, Fosco Scarselli Cafe Casoni, Florence, Italy"></menu_item>
+<menu_item type="Cocktails" category="Barberry Classics $10" price=" " descript="pimms cup no:1, barberry lemonade, 7-up" itemname="Pimms Cup 1823, James Pimm, Oyster Bar London"></menu_item>
+<menu_item type="Cocktails" category="Barberry Classics $10" price=" " descript="brandy, cointreau, fresh lemon juice" itemname="Side Car1922, Origin Unknown"></menu_item>
+<menu_item type="Cocktails" category="Barberry Signature $10" price=" " descript="citrus infused vodka, fresh ginger water, lemon juice, tonic, fresh berries" itemname="Ginger Kiss"></menu_item>
+<menu_item type="Cocktails" category="Barberry Signature $10" price=" " descript="lillet white, pernot, anise water, orange juice, champagne" itemname="Je Taime"></menu_item>
+<menu_item type="Cocktails" category="Barberry Signature $10" price=" " descript="cuervo silver, orange bitters, blood orange concentrate, cointreau" itemname="Que Mas"></menu_item>
+<menu_item type="Cocktails" category="Barberry Signature $10" price=" " descript="vodka, fresh lemon juice, organic honey, lavender water" itemname="Country Side"></menu_item>
+<menu_item type="Cocktails" category="Barberry Signature $10" price=" " descript="mint infused gin, cucumber water, green chartreuse, tonic" itemname="April Mist"></menu_item>
+<menu_item type="Cocktails" category="Barberry Signature $10" price=" " descript="vodka, fresh muddled berries, rose water, cranberry juice" itemname="Delicate Rose"></menu_item>
+<menu_item type="Cocktails" category="Barberry Seasonal - Spring &amp;amp; Summer $10" price=" " descript="cachaca, mint infused simple syrup, strawberry, blueberry, raspberry" itemname="Mixed Barberry Batida"></menu_item>
+<menu_item type="Cocktails" category="Barberry Seasonal - Spring &amp;amp; Summer $10" price=" " descript="smirnoff white grape, frozen white grapes, lemon juice, myers lime syrup" itemname="Frosty"></menu_item>
+<menu_item type="Cocktails" category="Barberry Seasonal - Spring &amp;amp; Summer $10" price=" " descript="veev acai berry liquor, strawberry vodka, champagne, lemon" itemname="Acai Berry"></menu_item>
+<menu_item type="Cocktails" category="Barberry Seasonal - Spring &amp;amp; Summer $10" price=" " descript="white peach puree, sake, tanqueray, lemon juice, lemongrass syrup" itemname="Peachy"></menu_item>
+<menu_item type="Cocktails" category="Barberry Seasonal - Fall &amp;amp; Winter $10" price=" " descript="green market apple cider, spiced rum, indian orange water, all spice" itemname="Green Market"></menu_item>
+<menu_item type="Cocktails" category="Barberry Seasonal - Fall &amp;amp; Winter $10" price=" " descript="bourbon, lavender, lemon juice, fig compote, japanese sencha tea" itemname="Warm Me Up"></menu_item>
+<menu_item type="Cocktails" category="Barberry Seasonal - Fall &amp;amp; Winter $10" price=" " descript="irish whiskey, cinnamon spiced tea, organic honey, cayenne pepper" itemname="Barberrys Hot Toddie"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 7.00" descript="almond, cucumber, garlic" itemname="Chilled White Grape Cava Soup"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 9.00" descript="farmer markets honey roasted caramels, granny smith apples, sherry vinegar, e.v.o.o" itemname="Frisee With Asturian Blue Cheese"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 10.00" descript="cream cheese, herb pesto, arugula" itemname="Bagel With Home Cured Salmon"></menu_item>
+<menu_item type="Brunch" category="Starters" price=" 14.00" descript="tuna loin, dry salted tuna steaks, bottarga, fresh arugula salad, lemon vinaigrette" itemname="Cured Tuna Sampler"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 14.00" descript="garlic alioli, roasted red pepper, caramelized onions" itemname="NY Sirloin Steak With Fried Egg And Roasted Red Pepper"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 12.00" descript="roasted red peppers, grilled eggplant, zucchini, fresh organic herb pesto, alioli" itemname="Grilled Chicken Breast With Market Vegetables"></menu_item>
+<menu_item type="Brunch" category="Sandwiches" price=" 10.00" descript="grilled brioche, roasted cherry tomato, gus pickles" itemname="Barberry Angus Burger With Cucumber Alioli"><extra type="sub" price=" 1.50" descript="additional cheese: danish blue, american, british cheddar, swiss"></extra>
+</menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 10.00" descript="roasted tomatoes, green peppers, spanish onions" itemname="Oven Baked Country Farm Eggs"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 9.00" descript="organic tomato salad" itemname="Potato Omelette With Spinach"></menu_item>
+<menu_item type="Brunch" category="Eggs" price=" 10.00" descript="pork belly crisps, crispy potato wedges, bread croutons" itemname="Fried Broken Eggs With Fresh Asparagus"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 10.00" descript="sauteed mixed berries, cava sabayon" itemname="Brioche French Toast"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 14.00" descript="orange segments, jalapeno peppers, cilantro" itemname="Vodka Cured Salmon With Arugula Salad"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 14.00" descript="olives, cheese, hard boiled egg, pork belly crisps, butter, fruit compote" itemname="Continental Breakfast"></menu_item>
+<menu_item type="Brunch" category="Entrees" price=" 15.00" descript="charcoal grilled chorizo, white criollo sausage, blood sausage" itemname="Selection Of Grilled Sausages With Sauteed Peppers &amp;amp; Onions"></menu_item>
+<menu_item type="Brunch" category="Home Baked Goods $3" price=" " descript="" itemname="Muffin"></menu_item>
+<menu_item type="Brunch" category="Home Baked Goods $3" price=" " descript="" itemname="Croissant"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.00" descript="" itemname="Bagel"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.00" descript="" itemname="Grilled Chorizo"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.50" descript="" itemname="Potato Wedges."></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 1.50" descript="" itemname="Butter Or Jam"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.50" descript="" itemname="Crispy Pork Belly"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 4.50" descript="" itemname="Fried Eggs"></menu_item>
+<menu_item type="Brunch" category="Sides" price=" 1.50" descript="" itemname="Butter Or Ham"></menu_item>
+<menu_item type="Brunch" category="Beverages" price="(1 lt) 6.00" descript="" itemname="Lurisia Sparkling"></menu_item>
+<menu_item type="Brunch" category="Beverages" price="(1 lt) 6.00" descript="" itemname="Lurisia Still"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Root Beer"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Orange Cream Soda"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylans Birch Beer"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Diet Cream Soda"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Seltzer Lemon"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.00" descript="" itemname="Barberry Fresh Lemonade"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.25" descript="" itemname="Barberry Ginger Lemonade"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.25" descript="" itemname="Mixed Berry Lemonade"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.75" descript="" itemname="Cappuccino"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 2.50" descript="" itemname="Solo"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.00" descript="" itemname="Espresso Double"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.50" descript="" itemname="Cafe Americano"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 2.50" descript="" itemname="American Coffee"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.75" descript="" itemname="Cafe Latte"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.50" descript="" itemname="Cafe Mocha"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.50" descript="" itemname="Iced Coffee"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 4.00" descript="" itemname="Iced Mocha"></menu_item>
+<menu_item type="Brunch" category="Coffee" price=" 3.25" descript="" itemname="Iced Tea"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Hot Cinnamon Spice"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Japanese Sencha"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="with citrus &amp; ginkgo" itemname="Organic Green Tea"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Jasmine"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Earl Grey"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Black Currant"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $3.25" price=" " descript="" itemname="Organic Peppermint"></menu_item>
+<menu_item type="Brunch" category="Juices" price="lg 5.00" descript="" itemname="Fresh Oj Or Grapefruit"></menu_item>
+<menu_item type="Brunch" category="Barberry Brunch Classics $9" price=" " descript="bombay sapphire, egg white, orange flower water, orange marmalade" itemname="Wake Up Call"></menu_item>
+<menu_item type="Brunch" category="Barberry Brunch Classics $9" price=" " descript="espresso shot, stolichnaya, belgium cocoa, baileyճ, kahlua" itemname="Mocha Martini"></menu_item>
+<menu_item type="Brunch" category="Barberry Brunch Classics $9" price=" " descript="stolichnaya, tomato juice, red devil, celery salt, horseradish" itemname="Bloody Mary"></menu_item>
+<menu_item type="Brunch" category="Barberry Brunch Classics $9" price=" " descript="home made barberry lemonade, bacardi rum, lemon myers simple syrup" itemname="Brooklyn Lemonade"></menu_item>
+<menu_item type="Brunch" category="Barberry Brunch Classics $9" price=" " descript="tanqueray, fresh lemon juice, cava" itemname="French 75"></menu_item>
+<menu_item type="Brunch" category="Barberry Brunch Classics $9" price=" " descript="veev acai berry liquor, lemon juice, muddled berries" itemname="Acai Berry"></menu_item>
+<menu_item type="Brunch" category="Barberry Brunch Classics $9" price=" " descript="myers dark rum, tia maria, fresh blueberries" itemname="Barberry Cobbler"></menu_item>
+<menu_item type="Brunch" category="Barberry Morning Prosecco Fizz $8" price=" " descript="fresh oj" itemname="Mimosa"></menu_item>
+<menu_item type="Brunch" category="Barberry Morning Prosecco Fizz $8" price=" " descript="mango puree" itemname="Mango Fizz"></menu_item>
+<menu_item type="Brunch" category="Barberry Morning Prosecco Fizz $8" price=" " descript="blood orange puree" itemname="Blood Orange Fizz"></menu_item>
+<menu_item type="Brunch" category="Barberry Morning Prosecco Fizz $8" price=" " descript="blackberry concentrate" itemname="Blackberry Fizz"></menu_item>
+<menu_item type="Brunch" category="Barberry Morning Prosecco Fizz $8" price=" " descript="white peach puree" itemname="Peachy Fizz"></menu_item>
+<menu_item type="Brunch" category="Beer Draft" price=" 6.00" descript="" itemname="Hoegaarden"></menu_item>
+<menu_item type="Brunch" category="Beer Draft" price=" 6.00" descript="" itemname="Stella"></menu_item>
+<menu_item type="Brunch" category="Beer Draft" price=" 6.00" descript="" itemname="Anchor Liberty Ale"></menu_item>
+<menu_item type="Brunch" category="Beer Draft" price=" 5.00" descript="" itemname="Brooklyn Lager"></menu_item>
+<menu_item type="Brunch" category="Beer Draft" price=" 6.00" descript="" itemname="Brooklyn Summer Ale"></menu_item>
+<menu_item type="Brunch" category="Beer Draft" price=" 6.00" descript="" itemname="Paulaner Hefe-Weizen"></menu_item>
+<menu_item type="Brunch" category="Beer Draft" price=" 10.00" descript="four beers on tap" itemname="Beer Flights"></menu_item>
+<menu_item type="Brunch" category="Beer Bottle" price=" 7.00" descript="" itemname="Toasted Lager, Blue Point, NY"></menu_item>
+<menu_item type="Brunch" category="Beer Bottle" price=" 6.00" descript="" itemname="Alhambra, Spain"></menu_item>
+<menu_item type="Brunch" category="Beer Bottle" price=" 7.00" descript="" itemname="Magic Hat #9, Vermont"></menu_item>
+<menu_item type="Brunch" category="Beer Bottle" price=" 6.00" descript="" itemname="Abita Amber, LA"></menu_item>
+<menu_item type="Brunch" category="Beer Bottle" price=" 9.00" descript="" itemname="Chimay Red, Belgium"></menu_item>
+<menu_item type="Brunch" category="Beer Bottle" price=" 9.00" descript="" itemname="Schneider Weisse, Germany"></menu_item>
+<menu_item type="Brunch" category="Barberry Classics $10" price=" " descript="whiskey, bitter, sugar, soda water" itemname="Old Fashioned 1880, Unknown Bartender Pennedis"></menu_item>
+<menu_item type="Brunch" category="Barberry Classics $10" price=" " descript="gin, fresh lemon juice, powder sugar, soda water" itemname="Tom Collins 1876, New York"></menu_item>
+<menu_item type="Brunch" category="Barberry Classics $10" price=" " descript="bourbon, simple syrup, fresh mint" itemname="Mint Julep 1803, Virginia"></menu_item>
+<menu_item type="Brunch" category="Barberry Classics $10" price=" " descript="sazerac rye whiskey, peychauds bitter, simple syrup, absinthe" itemname="Sazerac 1830, Antoine Amedee Peychaud, New Orleans, Louisiana"></menu_item>
+<menu_item type="Brunch" category="Barberry Classics $10" price=" " descript="gin, sweet vermouth, campari" itemname="Negroni 1919, Fosco Scarselli Cafe Casoni, Florence, Italy"></menu_item>
+<menu_item type="Brunch" category="Barberry Classics $10" price=" " descript="pimms cup no:1, barberry lemonade, 7-up" itemname="Pimms Cup 1823, James Pimm, Oyster Bar London"></menu_item>
+<menu_item type="Brunch" category="Barberry Classics $10" price=" " descript="brandy, cointreau, fresh lemon juice" itemname="Side Car1922, Origin Unknown"></menu_item>
+<menu_item type="Brunch" category="Barberry Signature $10" price=" " descript="citrus infused vodka, fresh ginger water, lemon juice, tonic, fresh berries" itemname="Ginger Kiss"></menu_item>
+<menu_item type="Brunch" category="Barberry Signature $10" price=" " descript="lillet white, pernot, anise water, orange juice, champagne" itemname="Je Taime"></menu_item>
+<menu_item type="Brunch" category="Barberry Signature $10" price=" " descript="cuervo silver, orange bitters, blood orange concentrate, cointreau" itemname="Que Mas"></menu_item>
+<menu_item type="Brunch" category="Barberry Signature $10" price=" " descript="vodka, fresh lemon juice, organic honey, lavender water" itemname="Country Side"></menu_item>
+<menu_item type="Brunch" category="Barberry Signature $10" price=" " descript="mint infused gin, cucumber water, green chartreuse, tonic" itemname="April Mist"></menu_item>
+<menu_item type="Brunch" category="Barberry Signature $10" price=" " descript="vodka, fresh muddled berries, rose water, cranberry juice" itemname="Delicate Rose"></menu_item>
+<menu_item type="Brunch" category="Barberry Seasonal - Spring &amp;amp; Summer $10" price=" " descript="cachaca, mint infused simple syrup, strawberry, blueberry, raspberry" itemname="Mixed Barberry Batida"></menu_item>
+<menu_item type="Brunch" category="Barberry Seasonal - Spring &amp;amp; Summer $10" price=" " descript="smirnoff white grape, frozen white grapes, lemon juice, myers lime syrup" itemname="Frosty"></menu_item>
+<menu_item type="Brunch" category="Barberry Seasonal - Spring &amp;amp; Summer $10" price=" " descript="veev acai berry liquor, strawberry vodka, champagne, lemon" itemname="Acai Berry"></menu_item>
+<menu_item type="Brunch" category="Barberry Seasonal - Spring &amp;amp; Summer $10" price=" " descript="white peach puree, sake, tanqueray, lemon juice, lemongrass syrup" itemname="Peachy"></menu_item>
+<menu_item type="Brunch" category="Barberry Seasonal - Fall &amp;amp; Winter $10" price=" " descript="green market apple cider, spiced rum, indian orange water, all spice" itemname="Green Market"></menu_item>
+<menu_item type="Brunch" category="Barberry Seasonal - Fall &amp;amp; Winter $10" price=" " descript="bourbon, lavender, lemon juice, fig compote, japanese sencha tea" itemname="Warm Me Up"></menu_item>
+<menu_item type="Brunch" category="Barberry Seasonal - Fall &amp;amp; Winter $10" price=" " descript="irish whiskey, cinnamon spiced tea, organic honey, cayenne pepper" itemname="Barberrys Hot Toddie"></menu_item>
+<menu_item type="Brunch" category="Beverages" price="(1 lt) 6.00" descript="" itemname="Lurisia Sparkling"></menu_item>
+<menu_item type="Brunch" category="Beverages" price="(1 lt) 6.00" descript="" itemname="Lurisia Still"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Root Beer"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Orange Cream Soda"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylans Birch Beer"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Diet Cream Soda"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 3.25" descript="" itemname="Boylan Seltzer Lemon"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.00" descript="" itemname="Barberry Fresh Lemonade"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.25" descript="" itemname="Barberry Ginger Lemonade"></menu_item>
+<menu_item type="Brunch" category="Beverages" price=" 4.25" descript="" itemname="Mixed Berry Lemonade"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $2.25" price=" " descript="" itemname="Japanese Sencha"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $2.25" price=" " descript="" itemname="Hot Cinnamon Spice"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $2.25" price=" " descript="with citrus &amp; ginkgo" itemname="Organic Green Tea"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $2.25" price=" " descript="" itemname="Jasmine"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $2.25" price=" " descript="" itemname="Earl Grey"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $2.25" price=" " descript="" itemname="Black Currant"></menu_item>
+<menu_item type="Brunch" category="Tea Selections From Harney &amp;amp; Sons $2.25" price=" " descript="" itemname="Organic Peppermint"></menu_item>
+</root>

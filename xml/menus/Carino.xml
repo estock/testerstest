@@ -1,0 +1,95 @@
+<root>
+<menu_item type="Lunch" category="Botanas" price="7.00" descript="avocado, white onion, cilantro, jalapeno, lime juice" itemname="Guacamole">
+
+</menu_item>
+<menu_item type="Lunch" category="Botanas" price="7.00" descript="pinto beans, sharp cheddar, pickled jalapeno" itemname="Nachos">
+
+</menu_item>
+<menu_item type="Lunch" category="Botanas" price="4.00" descript="grilled corn, mayo, chile powder" itemname="add chicken or pork&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2.00&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;sub&quot;&gt;&lt;th&gt;&lt;cite&gt;add chorizo or steak&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;3.00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;Elote">
+
+</menu_item>
+<menu_item type="Lunch" category="Botanas" price="7.00" descript="tortilla filled with chorizo, potato, crema, salsa verde" itemname="Gorditas">
+
+</menu_item>
+<menu_item type="Lunch" category="Botanas" price="5.00" descript="tortillas topped with salsa verde, lettuce, onion, cilantro, cotija cheese" itemname="Picaditas">
+
+</menu_item>
+<menu_item type="Lunch" category="Botanas" price="5.00" descript="chicken broth, lime juice, jalapeno" itemname="Sopa De Lima">
+
+</menu_item>
+<menu_item type="Lunch" category="Botanas" price="7.00" descript="carrots, celery, jicama, beets, baby spinach, jalapeno dressing, pumpkin seeds" itemname="Carino Salad">
+
+</menu_item>
+<menu_item type="Lunch" category="Botanas" price="5.00" descript="crispy potato and chicken flautas topped with crema and salsas" itemname="Taquitos Dorados">
+
+</menu_item>
+<menu_item type="Lunch" category="Tortas $8" price="" descript="pulled pork or chicken, black beans, lettuce, tomato, pickled jalapeno, mayo" itemname="Pork Or Chicken">
+
+</menu_item>
+<menu_item type="Lunch" category="Tortas $8" price="" descript="pounded thin steak, breaded, fried black beans, lettuce, pickled jalapenos, mayo" itemname="Milanesa">
+
+</menu_item>
+<menu_item type="Dinner" category="Botanas" price="7.00" descript="avocado, white onion, jalapeno, lime juice" itemname="Guacamole">
+
+</menu_item>
+<menu_item type="Dinner" category="Botanas" price="7.00" descript="pinto beans, sharp cheddar, pickled jalapeno" itemname="Nachos">
+
+</menu_item>
+<menu_item type="Dinner" category="Botanas" price="4.00" descript="grilled corn, mayo, chile powder" itemname="add chicken or pork&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2.00&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;sub&quot;&gt;&lt;th&gt;&lt;cite&gt;add chorizo or steak&lt;/cite&gt;&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;3.00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;Elote">
+
+</menu_item>
+<menu_item type="Dinner" category="Botanas" price="7.00" descript="tortilla filled with chorizo, potato, crema, salsa verde" itemname="Gorditas">
+
+</menu_item>
+<menu_item type="Dinner" category="Botanas" price="5.00" descript="tortillas topped with salsa verde, lettuce, onion, cilantro, cotija cheese" itemname="Picaditas">
+
+</menu_item>
+<menu_item type="Dinner" category="Botanas" price="5.00" descript="chicken broth, lime juice, jalapeno" itemname="Sopa De Lima">
+
+</menu_item>
+<menu_item type="Dinner" category="Botanas" price="7.00" descript="carrots, celery, jicama, beets, baby spinach, jalapeno dressing, pumpkin seeds" itemname="Carino Salad">
+
+</menu_item>
+<menu_item type="Dinner" category="Botanas" price="5.00" descript="crispy potato and chicken flautas topped with crema and salsas" itemname="Taquitos Dorados">
+
+</menu_item>
+<menu_item type="Dinner" category="Tacos &amp;amp; Burritos" price="8.00" descript="" itemname="Fish">
+
+</menu_item>
+<menu_item type="Dinner" category="Tacos &amp;amp; Burritos" price="9.00" descript="" itemname="Hanger Steak">
+
+</menu_item>
+<menu_item type="Dinner" category="Tacos &amp;amp; Burritos" price="8.00" descript="" itemname="Pork">
+
+</menu_item>
+<menu_item type="Dinner" category="Tacos &amp;amp; Burritos" price="9.00" descript="" itemname="Shrimp">
+
+</menu_item>
+<menu_item type="Dinner" category="Tacos &amp;amp; Burritos" price="8.00" descript="" itemname="Chicken">
+
+</menu_item>
+<menu_item type="Dinner" category="Tacos &amp;amp; Burritos" price="7.00" descript="" itemname="Rajas">
+
+</menu_item>
+<menu_item type="Drinks" category="Refrescos" price="2.00" descript="" itemname="Jarrito">
+
+</menu_item>
+<menu_item type="Drinks" category="Refrescos" price="2.00" descript="" itemname="Squirt">
+
+</menu_item>
+<menu_item type="Drinks" category="Refrescos" price="3.00" descript="" itemname="Coca Cola">
+
+</menu_item>
+<menu_item type="Drinks" category="Bebidas Calientes" price="3.00" descript="" itemname="Cafe Con Leche">
+
+</menu_item>
+<menu_item type="Drinks" category="Bebidas Calientes" price="2.00" descript="" itemname="Cafe Americano">
+
+</menu_item>
+<menu_item type="Drinks" category="Bebidas Calientes" price="3.00" descript="" itemname="Espresso">
+
+</menu_item>
+<menu_item type="Drinks" category="Bebidas Calientes" price="3.00" descript="" itemname="Cappuccino">
+
+</menu_item>
+</root>

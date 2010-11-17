@@ -1,0 +1,143 @@
+<root>
+<menu_item type="Dinner" category="Nachos" price="5.25" descript="" itemname="Plain">
+
+</menu_item>
+<menu_item type="Dinner" category="Nachos" price="7.00" descript="" itemname="Grilled Chicken">
+
+</menu_item>
+<menu_item type="Dinner" category="Nachos" price="8.50" descript="" itemname="Grilled Shrimp">
+
+</menu_item>
+<menu_item type="Dinner" category="Nachos" price="6.50" descript="" itemname="Grilled Chorizo">
+
+</menu_item>
+<menu_item type="Dinner" category="Nachos" price="8.00" descript="" itemname="Grilled Steak">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="12.00" descript="fresh vegetables grilled and topped with chili butter. served with rice and salad." itemname="Grilled Vegetable Platter">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="12.00" descript="three soft corn tortillas filled with chorizo and topped with bean sauce and sour cream. served with pico de gallo, guacamole, rice, and salad." itemname="Enfrijoladas">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="13.50" descript="boned chicken leg marinated and grilled. garnished with grilled plum tomato and calabazita. served with rice and beans." itemname="Pollo A La Parrilla">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="14.00" descript="baked layers of tortilla, chicken and cheese covered with creamy poblano pepper sauce topped with sour cream. served with rice and beans and a side of salad." itemname="Budin Azteca">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="14.50" descript="the traditional and well-known dish from the city of puebla, the sauce is made following the old fashion way: four dry peppers and spices. served with rice, beans and a side of corn tortillas." itemname="Pollo Con Mole">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="22.50" descript="grilled sirloin steak topped with melted cheese green tomatillo sauce and red guajillo sauce. served with a cheese enchilada, rice and beans." itemname="Bistec Bandera">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="23.00" descript="grilled sirloin steak with sautéed wild mushrooms in a creamy chipotle sauce. served with rice, beans and a side of corn tortillas." itemname="Carne Asada En Chipotle">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="23.50" descript="grilled shell steak topped with grilled rajas of poblano peppers and onions. served with rice, beans and a side of corn tortillas." itemname="Carne Asada A La Tampiquena">
+
+</menu_item>
+<menu_item type="Dinner" category="Platillos De La Casa" price="" descript="seasonal seafood in a spicy tomato and red onions sauce with olives and capers. served with rice and salad. priced accordingly." itemname="Seafood Veracruz">
+
+</menu_item>
+<menu_item type="Dinner" category="Grilled Fajitas" price="14.50" descript="" itemname="Grilled Chicken Breast">
+
+</menu_item>
+<menu_item type="Dinner" category="Grilled Fajitas" price="15.50" descript="" itemname="Grilled Steak">
+
+</menu_item>
+<menu_item type="Dinner" category="Grilled Fajitas" price="17.50" descript="" itemname="Grilled Shrimp">
+
+</menu_item>
+<menu_item type="Dinner" category="Grilled Fajitas" price="18.00" descript="" itemname="Combination">
+
+</menu_item>
+<menu_item type="Dinner" category="Grilled Fajitas" price="16.50" descript="" itemname="Grilled Portabello (Vegetarian Fajita)">
+
+</menu_item>
+<menu_item type="Dinner" category="Enchiladas" price="10.00" descript="sautéed vegetables of the day with green tomatillo sauce. served with rice and black beans." itemname="Enchiladas Vegetarianas">
+
+</menu_item>
+<menu_item type="Dinner" category="Enchiladas" price="11.00" descript="soft corn tortillas filled with chicken and topped with green tomatillo sauce, melted cheese and sour cream. served with rice and beans." itemname="Enchiladas Suizas">
+
+</menu_item>
+<menu_item type="Dinner" category="Enchiladas" price="12.00" descript="grilled steak enchiladas topped with red guajillo sauce, melted cheese and sour cream. served with rice and beans." itemname="Enchiladas Maya">
+
+</menu_item>
+<menu_item type="Dinner" category="Enchiladas" price="12.00" descript="soft corn tortillas filled with shredded chicken in mole sauce over lettuce, and topped with sesame seeds, queso fresco, onions and radishes. served with rice and beans." itemname="Enchiladas De Mole">
+
+</menu_item>
+<menu_item type="Dinner" category="Enchiladas" price="13.50" descript="sautéed shrimps with poblano peppers, pineapple, and onions, rolled in a soft corn tortilla topped with chile ancho sauce and queso fresco. served with rice and beans." itemname="Enchiladas Cozumel">
+
+</menu_item>
+<menu_item type="Dinner" category="Tortas $8.50" price="" descript="" itemname="Steak And Poblano Peppers">
+
+</menu_item>
+<menu_item type="Dinner" category="Tortas $8.50" price="" descript="" itemname="Grilled Chicken Breast">
+
+</menu_item>
+<menu_item type="Dinner" category="Tortas $8.50" price="" descript="" itemname="Milanesa De Res">
+
+</menu_item>
+<menu_item type="Dinner" category="Tortas $8.50" price="" descript="" itemname="Carne Enchilada">
+
+</menu_item>
+<menu_item type="Dinner" category="Tortas $8.50" price="" descript="with portabello mushrooms" itemname="Vegetarian">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="1.75" descript="" itemname="Beans">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="1.75" descript="" itemname="Rice">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="1.00" descript="&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;(3)&amp;nbsp;1.50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;Salsa Verde&lt;/cite&gt;&amp;nbsp;" itemname="Corn Tortillas">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="2.50" descript="&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;(8 oz)&amp;nbsp;6.50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;Salad&lt;/cite&gt;&amp;nbsp;with jalapeño dressing" itemname="Salsa &amp;amp; Chips">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="1.00" descript="" itemname="Sour Cream">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="1.50" descript="" itemname="Pico De Gallo">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="4.00" descript="&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;(3)&amp;nbsp;1.50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;cite&gt;Side Of Guacamole&lt;/cite&gt;&amp;nbsp;" itemname="Flour Tortillas">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="1.75" descript="" itemname="Shredded Cheese">
+
+</menu_item>
+<menu_item type="Dinner" category="Sides" price="2.00" descript="" itemname="Fresh Cheese">
+
+</menu_item>
+<menu_item type="Monday Special - All You Can Eat $10" category="Combinations" price="" descript="ground beef taco, chicken enchilada and ground beef and bean burrito" itemname="2. Taco, Enchilada, Burrito">
+
+</menu_item>
+<menu_item type="Monday Special - All You Can Eat $10" category="Combinations" price="" descript="tinga chimichanga, ground beef taco and chicken enchilada" itemname="3. Chimichanga, Taco, Enchilada">
+
+</menu_item>
+<menu_item type="Monday Special - All You Can Eat $10" category="Combinations" price="" descript="chicken enchilada, cheese quesadilla and chicken flauta" itemname="4. Enchilada, Quesadilla, Flauta">
+
+</menu_item>
+<menu_item type="Monday Special - All You Can Eat $10" category="Combinations" price="" descript="ground beef and bean burrito, tinga chimichanga and cheese quesadilla" itemname="5. Burrito, Chimichanga, Quesadilla">
+
+</menu_item>
+<menu_item type="Monday Special - All You Can Eat $10" category="Combinations" price="" descript="ground beef and bean burrito, chicken flauta and ground beef taco" itemname="6. Burrito, Flauta, Taco">
+
+</menu_item>
+<menu_item type="Early Bird Special $7.50" category="Tacos" price="" descript="the tacos are served with rice and beans, guacamole and red or green salsa. 2 per order." itemname="Steak, Or Chicken">
+
+</menu_item>
+<menu_item type="Early Bird Special $7.50" category="Burritos" price="" descript="vegetables of the day. topped with green tomatillo sauce." itemname="Green Burrito">
+
+</menu_item>
+<menu_item type="Early Bird Special $7.50" category="Burritos" price="" descript="grilled chicken. topped with green tomatillo sauce, sour cream and melted cheese." itemname="Chicken Burrito">
+
+</menu_item>
+<menu_item type="Early Bird Special $7.50" category="Burritos" price="" descript="grilled steak. topped with red chile guajillo sauce, sour cream and melted cheese." itemname="Steak Burrito">
+
+</menu_item>
+</root>

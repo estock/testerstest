@@ -1,0 +1,32 @@
+<root>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="10 Net Carb"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Garlic"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Honey N Grain"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="4 inch diameter" itemname="Mini Plain"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="4 inch diameter" itemname="Mini Whole Wheat"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Oat Bran"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Onion Pita"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Organic Plain"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Plain"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Roasted Garlic, Rosemary"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Salat Free"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Sesame"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Sourdough, Onion, Dill"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Sundried Tomato W Pesto"></menu_item>
+<menu_item type="default" category="Pitas" price=" " descript="6 inch diameter" itemname="Whole Wheat"></menu_item>
+<menu_item type="default" category="Lahvash" price=" " descript="" itemname="Honey Wheat"></menu_item>
+<menu_item type="default" category="Lahvash" price=" " descript="" itemname="Plain"></menu_item>
+<menu_item type="default" category="Lahvash" price=" " descript="" itemname="Spinach"></menu_item>
+<menu_item type="default" category="Lahvash" price=" " descript="" itemname="Sun Dried Tomato"></menu_item>
+<menu_item type="default" category="Panini" price=" " descript="" itemname="Garlic &amp;amp; Herbs"></menu_item>
+<menu_item type="default" category="Panini" price=" " descript="" itemname="Honey N Grain"></menu_item>
+<menu_item type="default" category="Panini" price=" " descript="" itemname="Maple Cinnamon"></menu_item>
+<menu_item type="default" category="Panini" price=" " descript="" itemname="Plain"></menu_item>
+<menu_item type="default" category="Panini" price=" " descript="" itemname="Red Peppers &amp;amp; Onion"></menu_item>
+<menu_item type="default" category="Panini" price=" " descript="" itemname="Sun Dried Tomato"></menu_item>
+<menu_item type="default" category="Roll Ups" price=" " descript="" itemname="Flax"></menu_item>
+<menu_item type="default" category="Roll Ups" price=" " descript="" itemname="Plain"></menu_item>
+<menu_item type="default" category="Roll Ups" price=" " descript="" itemname="Red Peppers &amp;amp; Onion"></menu_item>
+<menu_item type="default" category="Roll Ups" price=" " descript="" itemname="Rye"></menu_item>
+<menu_item type="default" category="Roll Ups" price=" " descript="" itemname="Whole Wheat"></menu_item>
+</root>

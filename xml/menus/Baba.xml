@@ -1,0 +1,34 @@
+<root>
+<menu_item type="Lunch" category="default" price=" 8.00" descript="with fruit" itemname="Muesli, Yoghurt And Honey"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 6.00" descript="" itemname="Bacon, Egg, And Cheese"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.00" descript="" itemname="Tuna And Anchovy"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.00" descript="" itemname="Cured Salmon, Cucumber, Creme Fraiche Dressing"></menu_item>
+<menu_item type="Lunch" category="Sandwiches" price=" 9.00" descript="with charmoulla on baguette" itemname="Roast Pork Loin"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 8.00" descript="" itemname="Cauliflower, Apples, Pine Nuts"></menu_item>
+<menu_item type="Lunch" category="Salads" price=" 7.00" descript="" itemname="Fennel, Kalamata And Grapefruit"></menu_item>
+<menu_item type="Dinner" category="Plates $18" price=" " descript="" itemname="Cheese Plate"></menu_item>
+<menu_item type="Dinner" category="Plates $18" price=" " descript="" itemname="Salumi Plate"></menu_item>
+<menu_item type="Dinner" category="Soup" price=" 7.00" descript="" itemname="Chick Pea, Pig Trotter, Poached Egg"></menu_item>
+<menu_item type="Dinner" category="Crostini $5" price=" " descript="" itemname="Pistachio Olive Salsa Verde, White Anchovy"></menu_item>
+<menu_item type="Dinner" category="Crostini $5" price=" " descript="" itemname="Tonnato, Capers"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 8.00" descript="" itemname="Cauliflower, Radicchio, Fried Capers, Toasted Pine-Nuts, Parmigiano"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 9.00" descript="" itemname="Rosette De Lyon Salami, Arugula And Mozzarella Di Bufala"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 9.00" descript="" itemname="Wedge Iceberg, Lardon, Hard Boiled Egg, Creme Fraiche"></menu_item>
+<menu_item type="Dinner" category="Salads" price=" 12.00" descript="with herbs and radish" itemname="House Cured Beet Salmon"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 18.00" descript="" itemname="Chicken Breast, Burst Grapes, Peanut Potatoes, Radish"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 16.00" descript="" itemname="Trout, Charmoula, Lemon"></menu_item>
+<menu_item type="Dinner" category="Mains" price=" 17.00" descript="" itemname="Pork Loin, Fennel, Ruby Grapefruit, Kalamata Olives, Red Onions"></menu_item>
+<menu_item type="Dinner" category="Sides $5" price=" " descript="" itemname="Roasted Red And Golden Beets, French Goat Feat, Oregano"></menu_item>
+<menu_item type="Dinner" category="Sides $5" price=" " descript="kalamata, picholine, black cerignola, queen" itemname="Mixed Olives"></menu_item>
+<menu_item type="Dinner" category="Sides $5" price=" " descript="" itemname="Brussel Sprouts, Bacon, Maple Syrup"></menu_item>
+<menu_item type="Brunch" category="default" price=" 8.00" descript="" itemname="Yoghurt And House Made Muesli, Blueberries, Raspberries, Mango"></menu_item>
+<menu_item type="Brunch" category="default" price=" 10.00" descript="" itemname="Poached Egg, Frisee Salad, Bacon Lardon, Apple"></menu_item>
+<menu_item type="Brunch" category="default" price=" 9.00" descript="" itemname="Wild Rice &amp;amp; Sweet Potato Pancake, Roasted Egg, Mix Greens"></menu_item>
+<menu_item type="Brunch" category="default" price=" 9.00" descript="with a fig crostini" itemname="Zebra Ham And Over Easy Eggs"></menu_item>
+<menu_item type="Brunch" category="default" price=" 7.50" descript="" itemname="Crostini Scramble Eggs, Ricotta, Crispy Finocchiona"></menu_item>
+<menu_item type="Brunch" category="Sandwiches $9" price=" " descript="" itemname="Tuna And Anchovy"></menu_item>
+<menu_item type="Brunch" category="Sandwiches $9" price=" " descript="" itemname="Cured Salmon, Cucumber, Creme Fraiche Dressing"></menu_item>
+<menu_item type="Brunch" category="Sandwiches $9" price=" " descript="with charmoulla on baguette" itemname="Roast Pork Loin"></menu_item>
+<menu_item type="Brunch" category="Salads" price=" 8.00" descript="" itemname="Baby Leaf Lettuce, Cauliflower, Apples, Pine Nuts"></menu_item>
+<menu_item type="Brunch" category="Salads" price=" 7.00" descript="" itemname="Fennel, Kalamata And Grapefruit"></menu_item>
+</root>

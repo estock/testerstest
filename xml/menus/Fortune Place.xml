@@ -1,0 +1,244 @@
+<root>
+<menu_item type="default" category="Appetizers" price=" 1.00" descript="" itemname="A1. Egg Roll"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.10" descript="" itemname="A2. Shrimp Roll"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.95" descript="" itemname="A3. Spring Roll (2)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.25" descript="" itemname="A4. Apple Stick (10)"></menu_item>
+<menu_item type="default" category="Appetizers" price="large 2.00" descript="" itemname="A5. French Fries"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.50" descript="" itemname="A6. Fried Plantain"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 1.50" descript="" itemname="A7. Onion Ring (10)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 2.25" descript="" itemname="A8. Sugar Donut (10)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.00" descript="" itemname="A9. Crab Rangoon (8)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 2.50" descript="" itemname="A10. Fried Wonton (12)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 2.95" descript="" itemname="A11. Cheese Stick (8)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.25" descript="with sesame sauce" itemname="A12. Cold Noodles"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 3.95" descript="" itemname="A13. Chicken Teriyaki (8)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.25" descript="" itemname="A14. Beef Teriyaki (5)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.00" descript="" itemname="A15. Fried or Steamed Dumpling (8)"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 4.00" descript="" itemname="A16. Fried or Steamed Vegetable Dumpling (8)"></menu_item>
+<menu_item type="default" category="Appetizers" price="large 8.50" descript="" itemname="A17. Boneless Spare Ribs"></menu_item>
+<menu_item type="default" category="Appetizers" price="(large 10) 8.75" descript="" itemname="A18. Spare Ribs"></menu_item>
+<menu_item type="default" category="Appetizers" price=" 9.25" descript="" itemname="A19. Pu Pu Platter (for 2)"></menu_item>
+<menu_item type="default" category="Appetizers" price="large 8.25" descript="" itemname="A20. Roast Pork Slices"></menu_item>
+<menu_item type="default" category="Soup" price="qt 2.00" descript="" itemname="S1. Egg Drop Soup"></menu_item>
+<menu_item type="default" category="Soup" price="qt 2.00" descript="" itemname="S2. Chicken Rice or Noodle Soup"></menu_item>
+<menu_item type="default" category="Soup" price="qt 2.25" descript="" itemname="S3. Wonton Soup"></menu_item>
+<menu_item type="default" category="Soup" price="qt 2.55" descript="" itemname="S4. Vegetable Soup"></menu_item>
+<menu_item type="default" category="Soup" price="qt 2.60" descript="" itemname="S5. Wonton Egg Drop Soup"></menu_item>
+<menu_item type="default" category="Soup" price="qt 2.95" descript="with bean curd soup" itemname="S6. Vegetable"></menu_item>
+<menu_item type="default" category="Soup" price="qt 3.00" descript="" itemname="S7. Hot &amp;amp; Sour Soup*"></menu_item>
+<menu_item type="default" category="Soup" price="qt 2.95" descript="" itemname="S8. Fish Soup"></menu_item>
+<menu_item type="default" category="Soup" price="qt 3.60" descript="" itemname="S9. Roast Pork or Chicken Yat Gaw Mein"></menu_item>
+<menu_item type="default" category="Soup" price="qt 4.20" descript="" itemname="S10. Shrimp or Beef Yat Gaw Mein"></menu_item>
+<menu_item type="default" category="Soup" price="qt 5.25" descript="" itemname="S11. Seafood Soup"></menu_item>
+<menu_item type="default" category="Soup" price="qt 4.00" descript="" itemname="S12. Shrimp Soup"></menu_item>
+<menu_item type="default" category="Soup" price="qt 4.25" descript="" itemname="S13. House Special Soup"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 3.50" descript="" itemname="R1. Plain Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 4.60" descript="" itemname="R2. Broccoli Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 4.60" descript="" itemname="R3. Vegetable Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 5.25" descript="" itemname="R4. Chicken Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 5.25" descript="" itemname="R5. Roast Pork Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 6.25" descript="" itemname="R6. Beef Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 6.25" descript="" itemname="R7. Shrimp Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 7.25" descript="" itemname="R8. House Special Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 8.25" descript="" itemname="R9. Lobster Fried Rice"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 5.55" descript="" itemname="R10. Crabmeat"></menu_item>
+<menu_item type="default" category="Fried Rice" price=" 6.25" descript="" itemname="R11. Ham Fried Rice"></menu_item>
+<menu_item type="default" category="Chow Mein or Chop Suey" price=" 5.25" descript="" itemname="M1. Vegetable Chow Mein or Chop Suey"></menu_item>
+<menu_item type="default" category="Chow Mein or Chop Suey" price=" 5.95" descript="" itemname="M2. Chicken Chow Mein or Chop Suey"></menu_item>
+<menu_item type="default" category="Chow Mein or Chop Suey" price=" 5.95" descript="" itemname="M3. Roast Pork Chow Mein or Chop Suey"></menu_item>
+<menu_item type="default" category="Chow Mein or Chop Suey" price=" 6.50" descript="" itemname="M4. Beef Chow Mein or Chop Suey"></menu_item>
+<menu_item type="default" category="Chow Mein or Chop Suey" price=" 6.50" descript="" itemname="M5. Shrimp Chow Mein or Chop Suey"></menu_item>
+<menu_item type="default" category="Chow Mein or Chop Suey" price=" 7.50" descript="" itemname="M6. House Special Chow Mein or Chop Suey"></menu_item>
+<menu_item type="default" category="Chow Fun or Mei Fun" price=" 5.75" descript="" itemname="F1. Vegetable Chow Fun or Mei Fun"></menu_item>
+<menu_item type="default" category="Chow Fun or Mei Fun" price=" 6.55" descript="" itemname="F2. Chicken Chow Fun or Mei Fun"></menu_item>
+<menu_item type="default" category="Chow Fun or Mei Fun" price=" 6.55" descript="" itemname="F3. Roast Pork Chow Fun or Mei Fun"></menu_item>
+<menu_item type="default" category="Chow Fun or Mei Fun" price=" 6.95" descript="" itemname="F4. Beef Chow Fun or Mei Fun"></menu_item>
+<menu_item type="default" category="Chow Fun or Mei Fun" price=" 6.95" descript="" itemname="F5. Shrimp Chow Fun or Mei Fun"></menu_item>
+<menu_item type="default" category="Chow Fun or Mei Fun" price=" 7.25" descript="" itemname="F6. House Special Chow Fun or Mei Fun"></menu_item>
+<menu_item type="default" category="Chow Fun or Mei Fun" price=" 7.25" descript="" itemname="F7. Singapore Mei Fun*"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 5.50" descript="" itemname="L1. Vegetable Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 6.25" descript="" itemname="L2. Chicken Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 6.25" descript="" itemname="L3. Roast Pork Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 6.95" descript="" itemname="L4. Beef Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 6.95" descript="" itemname="L5. Shrimp Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 7.25" descript="" itemname="L6. House Special Lo Mein"></menu_item>
+<menu_item type="default" category="Lo Mein" price=" 8.35" descript="" itemname="L7. Lobster Lo Mein"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 4.05" descript="" itemname="E1. Vegetable Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 4.40" descript="" itemname="E2. Chicken Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 4.40" descript="" itemname="E3. Roast Pork Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 5.25" descript="" itemname="E4. Beef Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 5.25" descript="" itemname="E5. Shrimp Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 6.00" descript="" itemname="E6. House Special Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 6.85" descript="" itemname="E7. Lobster Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 4.25" descript="" itemname="E8. Mushroom Egg Foo Young"></menu_item>
+<menu_item type="default" category="Egg Foo Young" price=" 4.75" descript="" itemname="E9. Crabmeat Egg Foo Young"></menu_item>
+<menu_item type="default" category="Moo Shu" price=" 6.50" descript="" itemname="M S1. Moo Shu Chicken"></menu_item>
+<menu_item type="default" category="Moo Shu" price=" 6.75" descript="" itemname="M S2. Moo Shu Beef"></menu_item>
+<menu_item type="default" category="Moo Shu" price=" 6.75" descript="" itemname="M S3. Moo Shu Shrimp"></menu_item>
+<menu_item type="default" category="Moo Shu" price=" 7.75" descript="" itemname="M S4. Moo Shu House Special"></menu_item>
+<menu_item type="default" category="Pork" price=" " descript="with broccoli" itemname="P30. Roast Pork"></menu_item>
+<menu_item type="default" category="Pork" price=" " descript="with chinese vegetable" itemname="32. Roast Pork"></menu_item>
+<menu_item type="default" category="Pork" price=" " descript="with mushroom" itemname="P33. Roast Pork"></menu_item>
+<menu_item type="default" category="Pork" price=" " descript="with bean curd" itemname="P34. Roast Pork"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with broccoli" itemname="C30. Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with chinese vegetable" itemname="C32. Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="" itemname="C33. Moo Goo Gai Pan"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with bean curd" itemname="C34. Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with black bean sc" itemname="C35. Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with pepper &amp; tomato" itemname="C36. Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with string beans" itemname="C37. Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with broccoli in garlic sauce" itemname="C38. Chicken*"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with oyster sauce" itemname="C39. Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="" itemname="C40. Curry Chicken*"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="" itemname="C41. Kung Po Chicken*"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="" itemname="C42. Hunan Chicken*"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="" itemname="C43. Szechuan Chicken*"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="" itemname="C44. Sweet &amp;amp; Sour Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with cashew nuts" itemname="C45. Chicken"></menu_item>
+<menu_item type="default" category="Chicken" price=" " descript="with mixed vegetables" itemname="C46. Chicken"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with broccoli" itemname="B30. Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with chinese vegetable" itemname="B32. Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with mushroom" itemname="B33. Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with bean curd" itemname="B34. Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with black bean sauce" itemname="B35. Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with pepper &amp; tomato" itemname="B36. Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with string beans" itemname="B37. Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with broccoli in garlic sauce" itemname="B38. Beef*"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with oyster sauce" itemname="B39. Beef"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="" itemname="B40. Curry Beef*"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="" itemname="B41. Kung Po Beef*"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="" itemname="B42. Hunan Beef*"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="" itemname="B43. Szechuan Beef*"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="" itemname="B44. Hot &amp;amp; Spicy Beer*"></menu_item>
+<menu_item type="default" category="Beef" price=" " descript="with onion" itemname="B45. Pepper Steak"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with broccoli" itemname="S30. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with chinese vegetable" itemname="S32. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with mushroom" itemname="S33. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with bean curd" itemname="S34. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with black bean sauce" itemname="S35. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with pepper &amp; tomato" itemname="S36. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with string bean" itemname="S37. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with broccoli in garlic sauce" itemname="S38. Shrimp*"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with oyster sauce" itemname="S39. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="" itemname="S40. Curry Shrimp*"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="" itemname="S41. Kung Po Shrimp*"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="" itemname="S42. Hunan Shrimp*"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="" itemname="S43. Szechuan Shrimp*"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="" itemname="S44. Sweet &amp;amp; Sour Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with cashew nuts" itemname="S45. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 4.25" descript="" itemname="S46. Plain Lobster Sauce"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with lobster sauce" itemname="S47. Shrimp"></menu_item>
+<menu_item type="default" category="Seafood" price=" 8.50" descript="with mixed vegetables" itemname="S48. Shrimp"></menu_item>
+<menu_item type="default" category="Special Diet &amp;amp; Health" price=" 5.25" descript="" itemname="D1. Steamed mixed Vegetables"></menu_item>
+<menu_item type="default" category="Special Diet &amp;amp; Health" price=" 7.25" descript="with broccoli or string beans" itemname="D2. Chicken"></menu_item>
+<menu_item type="default" category="Special Diet &amp;amp; Health" price=" 7.25" descript="with mixed vegetables" itemname="D3. Chicken"></menu_item>
+<menu_item type="default" category="Special Diet &amp;amp; Health" price=" 7.25" descript="with broccoli" itemname="D4. Lemon Chicken"></menu_item>
+<menu_item type="default" category="Special Diet &amp;amp; Health" price=" 8.50" descript="with broccoli" itemname="D5. Shrimp"></menu_item>
+<menu_item type="default" category="Special Diet &amp;amp; Health" price=" 8.50" descript="with mixed vegetables" itemname="D6. Shrimp"></menu_item>
+<menu_item type="default" category="Special Diet &amp;amp; Health" price=" 8.95" descript="with mixed vegs" itemname="D7. Shrimp, Scallop, Chicken"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 9.95" descript="fresh shrimp, crabmeat, scallops, chicken, roast pork &amp; beef with mixed veg in brown sauce" itemname="S100. Happy Family"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.95" descript="two in one chunks of spicy chicken on the and jumbo shrimp with mixed veg in white sauce on the other side" itemname="S101. Dragon &amp;amp; Phoenix"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 10.95" descript="fresh jumbo shrimp, scallops, squit crabmeat sauteed with vegetable in white sauce" itemname="S102. Seafood Delight"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.50" descript="shrimp, beef, chicken with vegs in brown sauce" itemname="S103. Triple Crown"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 9.95" descript="chicken, roast pork, beef, shrimp, crabmeat &amp; scallop" itemname="S104. Seven Stars Around Thre Moon"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.95" descript="shrimp, chicken, roast pork &amp; beef with mushrooms, waterchestnuts, bamboo shoots of chinese veg in season" itemname="S105. Four Seasons"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 9.95" descript="the crispy noodle are showered with white sauce &amp; shrimp, roast pork, chicken &amp; vegetable" itemname="S106. Seafood Pan- Fried Noodle"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.50" descript="tender shrimp white meat chicken and beef stir fried with assorted vegetable in hunan sauce" itemname="S107. Triple Delight with Hunan Style*"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.95" descript="pan fried soft noodles with chicken, shrimp &amp; vegetable in white sauce" itemname="S108. Chicken &amp;amp; Shrimp Noodle Platter"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.25" descript="tender roast of marinated beef or chicken, delicalaiy sauteed &amp; seasoned with imported orange peels" itemname="S109. Orange Chicken or Beef*"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.95" descript="slice chicken &amp; shrimp with veg in brown sauce" itemname="S110. Chicken &amp;amp; Shrimp Combo"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.55" descript="sauteed jumbo shrimp with broccoli, mushroom, baby corn cooked in white egg white" itemname="S111. Tung Ting Shrimp"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.25" descript="" itemname="S112. Boneless Chicken"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.55" descript="fried shrimp wrapped in bean chinese style topped with cracked rice spicy tomato sauce" itemname="S113. Butterfly Shrimp"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 7.55" descript="fresh shrimp and chicken sauteed with baby corn, broccoli &amp; carrots &amp; mixed vegetales with spicy sauce" itemname="S114. Slice Chicken &amp;amp; Shrimp with King Po Sc*"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.95" descript="sliced beef &amp; scallops, baby corn, broccoli in brown sauce" itemname="S115. Beef &amp;amp; Scallops"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.95" descript="shrimp marinated with garlic, wine, brown beans hot pepperasurounded by broccoli flowers and showened with sesame seds" itemname="S116. Sesame Shrimp"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.95" descript="tender chunks shrimp, marinated and quickly fried until crispy blended in aunique spicy sauce. a well known dish created by the great general tso in ching dynasty" itemname="S117. General Tso's Shrimp*"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.25" descript="tender chunk or beef deep fried till crispy with sesame seeds in special hot &amp; sweet sauce, served on top of broccoli" itemname="S118. Sesame Beef"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.25" descript="" itemname="S119. General Tso's Beef"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" " descript="" itemname="S120. Lobster Cantonese Style One Shell"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 8.25" descript="deep fried tender white meat chicken bedded on top lalad with fresh sliced lemon on top, with lemon sauce on the side" itemname="S121. Lemon Chicken"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 7.95" descript="" itemname="S122. Sesame Chicken"></menu_item>
+<menu_item type="default" category="Cantonese Special" price=" 7.95" descript="" itemname="S123. General Tso's Chicken*"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price=" 5.25" descript="with oyster sauce" itemname="V1. Broccoli"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price=" 5.25" descript="" itemname="V2. mixed Chinese Vegetable"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price=" 5.50" descript="" itemname="V3. Vegetable's Delight"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price=" 5.50" descript="" itemname="V4. Szechuan Bean Curd*"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price=" 5.50" descript="" itemname="V5. Home Style Bean Curd"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price=" 5.25" descript="with garlic sauce" itemname="V6. Broccoli*"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price=" 5.50" descript="with oyster sauce" itemname="V7. Bean Curd"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price="qt 5.25" descript="with brown sauce" itemname="V8. Broccoli"></menu_item>
+<menu_item type="default" category="Vegetarian Dishes" price=" 5.95" descript="" itemname="V9. Sesame Bean Curd"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.50 5.00 5.50" descript="" itemname="A. Fried Half Chicken"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.00 4.50 5.00" descript="" itemname="B. Fried Chicken Wings (4)"></menu_item>
+<menu_item type="default" category="Specialties" price=" 3.95 4.45 4.95" descript="" itemname="C. Fried Crab Stick (5)"></menu_item>
+<menu_item type="default" category="Specialties" price=" 3.95 4.45 4.95" descript="" itemname="D. Fried Whiting Fish"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.35 4.85 5.35" descript="" itemname="E. Chop Barbecued Rib Tips"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.95 5.45 5.95" descript="" itemname="F. Fried Baby Shrimp (21)"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.00 4.45 4.95" descript="" itemname="G. Fried Scallops (10)"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.75 5.25 5.75" descript="" itemname="H. Fried Jumbo Shrimp (5)"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.45 4.95 5.45" descript="" itemname="I. Buffalo Chicken Wings (4)*"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.45 4.95 5.45" descript="with garic sauce" itemname="J. Chicken Wings*"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.75 5.25 5.75" descript="fried scallop, baby shrimp, fried fish" itemname="K. Fried Seafood"></menu_item>
+<menu_item type="default" category="Specialties" price=" 4.25 4.75 5.25" descript="" itemname="L. Fried Chicken Nuggets"></menu_item>
+<menu_item type="default" category="Specialties" price=" 3.75 4.25 4.75" descript="" itemname="M. Fried Chicken Gizzard"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="1. Chicken or Roast Pork Chow Mein"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="2. Shrimp Chow Mein"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="3. Pepper Steak"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="with lobster sauce" itemname="4. Shrimp"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="with broccoli" itemname="5. Chicken or Beef"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="with broccoli" itemname="6. Shrimp"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="7. Chicken or Roast Pork Lo Mein"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="with garlic sauce" itemname="8. Chicken or Roast Poek*"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="with garlic sauce" itemname="9. Shrimp*"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="10. General Tso's Chicken*"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="11. Sesame Chicken"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="12. Sweet &amp;amp; Sour Chicken"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="13. Boneless Spare Ribs"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="14. Shrimp or Beef Egg Foo Young"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="15. Chicken or Roast Pork Egg Foo Young"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="with cashew nuts" itemname="16. Chicken"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="17. Curry Chicken*"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="with black bean sauce" itemname="18. Chicken"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="with mixed vegetable" itemname="19. Chicken"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="20. Hot &amp;amp; Spicy Beef*"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="21. Szechuan Chicken, Shrimp or Beef*"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" " descript="" itemname="22. Hunan Chicken, Shrimp or Beef*"></menu_item>
+<menu_item type="default" category="Lunch Special $4.35" price=" 4.75" descript="" itemname="23. Barbecue Spare Ribs"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.00" descript="" itemname="C1. Chicken or Roast Pork Chow Mein"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.25" descript="" itemname="C2. Shrimp or Beef Chow Mein"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="with broccoli" itemname="C3. Roast Pork"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="with broccoli" itemname="C4. Chicken"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="with mixed vegetables" itemname="C5. Roast Pork"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="with mixed vegetables" itemname="C6. Chicken"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="" itemname="C7. Moo Goo Gai Pan"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="" itemname="C8. Curry Chicken*"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="with cashew nuts" itemname="C9. Chicken"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="with cashew nuts" itemname="C10. Chicken"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="with garlic sauce" itemname="C11. Chicken or Roast Pork*"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 4.95" descript="" itemname="C12. Chicken or Roast Pork Egg Foo Young"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.25" descript="" itemname="C13. Shrimp or Beef Egg Foo Young"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="" itemname="C14. Sweet &amp;amp; Sour Chicken"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.00" descript="" itemname="C15. Chicken or Roast Pork Lo Mein"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.25" descript="" itemname="C16. Shrimp or Beef Lo Mein"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.75" descript="with broccoli" itemname="C17. Beef"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.75" descript="" itemname="C18. Pepper Steak"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.95" descript="with broccoli" itemname="C19. Shrimp"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.95" descript="with garlic sauce" itemname="C20. Shrimp*"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.95" descript="with lobster sauce" itemname="C21. Shrimp"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 6.25" descript="" itemname="C22. Boneless Spare Rib"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 6.95" descript="" itemname="C23. BBQ Spare Ribs"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.95" descript="" itemname="C24. Curry Shrimp*"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 6.95" descript="" itemname="C25. Spanish Steak"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 6.95" descript="" itemname="C26. Fried Pork Chop In Garlic Sauce (2)*"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 6.25" descript="" itemname="C27. Sesame Chicken"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 6.25" descript="" itemname="C28. General Tso's Chicken*"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="" itemname="C29. Szechuan Chicken*"></menu_item>
+<menu_item type="default" category="Combination Platter" price=" 5.50" descript="" itemname="C30. Hunan Chicken*"></menu_item>
+<menu_item type="default" category="Try Them all $3.50" price=" " descript="w chicken wings 4 scllops 6 baby shrimps" itemname="P1"></menu_item>
+<menu_item type="default" category="Try Them all $3.50" price=" " descript="2 chicken wings 2 crab meat 4 chicken nuggets" itemname="P2"></menu_item>
+<menu_item type="default" category="Try Them all $3.50" price=" " descript="6 sparerib 4 baby shrimps, 4 chicken nuggets" itemname="P3"></menu_item>
+<menu_item type="default" category="Try Them all $3.50" price=" " descript="6 sparerib tips, 4 scallops, 2 crab meat" itemname="P4"></menu_item>
+<menu_item type="default" category="Try Them all $3.50" price=" " descript="2 chicke wings, 6 sparerib tips, 4 chicken nuggets" itemname="P5"></menu_item>
+<menu_item type="default" category="Try Them all $3.50" price=" " descript="6 baby shrimp, 4 scallops, 2 crab meat" itemname="P6"></menu_item>
+</root>

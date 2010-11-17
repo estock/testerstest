@@ -1,0 +1,11 @@
+<root>
+<menu_item type="default" category="Salads" price="3.99" descript="fine organic vegetable mix with salad dressing" itemname="9. Organic Green Salad">
+
+</menu_item>
+<menu_item type="default" category="Salads" price="5.99" descript="sliced grilled chicken with roquette arugula" itemname="10. Grilled Chicken Salad">
+
+</menu_item>
+<menu_item type="default" category="Salads" price="3.99" descript="chick peas, kidney beans with red onion and green chili" itemname="11. Mixed Peas Salad">
+
+</menu_item>
+</root>
