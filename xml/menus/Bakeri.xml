@@ -1,8 +1,0 @@
-<root>
-<menu_item type="Sandwiches" category="On Foccacia" price=" 7.00" descript="avocado, lettuce &amp; tomato with chick pea salad" itemname="ALT"></menu_item>
-<menu_item type="Sandwiches" category="On Foccacia" price=" 6.00" descript="gruyere with tomato rosemary jam" itemname="Grilled Cheese"></menu_item>
-<menu_item type="Sandwiches" category="On Brioche $9" price=" " descript="with dill &amp; caper yogurt and avocado" itemname="Smoked Salmon"></menu_item>
-<menu_item type="Sandwiches" category="On Brioche $9" price=" " descript="horseradish chive aioli &amp; pickled vegetables" itemname="Roast Beef"></menu_item>
-<menu_item type="Sandwiches" category="On Rye Baguette $8" price=" " descript="fresh mozzarella &amp; shallots served with greens" itemname="Sopresatta"></menu_item>
-<menu_item type="Sandwiches" category="On Rye Baguette $8" price=" " descript="with sauerkraut &amp; russian dressing" itemname="Pastrami"></menu_item>
-</root>
